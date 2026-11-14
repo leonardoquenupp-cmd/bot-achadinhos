@@ -28,7 +28,16 @@ export class Shopee {
       if(r.status===429||r.status>=500) { const delay=Math.max(this.c.requestIntervalMs*2**i,Number(r.headers.get('retry-after')||0)*1000);if(i===2||delay>60000) throw new SafeError('shopee_rate_or_server'); await this.wait(delay);continue; }
       if(!r.ok) throw new SafeError('shopee_http');
       let data;try {data=await r.json();}catch{throw new SafeError('shopee_json');}
-      if(data.errors?.length||!Array.isArray(data.data?.productOfferV2?.nodes)) throw new SafeError('shopee_schema_or_auth');
+      if(data.errors?.length) {
+        const messages=data.errors.map(e=>String(e.message||'')).join(' ');
+        // Only predefined labels and schema identifiers are logged, never response text.
+        const field=messages.match(/Unknown argument ["']([A-Za-z][A-Za-z0-9_]*)["']/i);
+        if(field && ['shopId','itemId','keyword','page','limit'].includes(field[1])) throw new SafeError('shopee_unknown_argument_'+field[1]);
+        const type=['Int64','Int','String','Float'].find(t=>messages.includes(t));
+        if(type) throw new SafeError('shopee_schema_type_'+type);
+        throw new SafeError('shopee_schema_or_auth');
+      }
+      if(!Array.isArray(data.data?.productOfferV2?.nodes)) throw new SafeError('shopee_schema_or_auth');
       return data.data.productOfferV2.nodes;
     }
   }

@@ -12,6 +12,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   for(let j=0;j<c.keywords.length;j++) {
     const keyword=c.keywords[(data.cursor+j)%c.keywords.length];
     for(let page=1;page<=c.pagesPerSearch;page++) {
+      onLog('search_started',{category:j,page});
       const nodes=await shopee.search(keyword,page);
       for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)) candidates.set(p.key,{...p,category:j});}
       if(nodes.length<50)break;
@@ -19,6 +20,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   }
   const sorted=[...candidates.values()].sort((a,b)=>a.category-b.category||b.score-a.score);
   for(const candidate of sorted) {
+    onLog('revalidation_started');
     const fresh=await shopee.refresh(candidate);
     const p=fresh&&normalize(fresh,c);
     if(!p||p.key!==candidate.key)continue;

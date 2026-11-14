@@ -1,0 +1,26 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "times": [
+    "09:00",
+    "12:00",
+    "15:00",
+    "18:00"
+  ],
+  "dailyLimit": 4,
+  "windowMinutes": 90,
+  "paused": false,
+  "minRating": 4.5,
+  "minSales": 50,
+  "minDiscount": 20,
+  "requestIntervalMs": 2000,
+  "pagesPerSearch": 1,
+  "keywords": [
+    "fone bluetooth",
+    "utensilio cozinha",
+    "organizadores casa",
+    "beleza",
+    "brinquedo",
+    "ferramentas"
+  ],
+  "strictStock": false
+}

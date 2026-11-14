@@ -1,5 +1,5 @@
 import { signature, sleep } from './core.js';
-export class SafeError extends Error { constructor(code){super(code);} }
+export class SafeError extends Error { constructor(code,detail){super(code);this.detail=detail;} }
 export async function readRequest(url, options={}, {fetcher=fetch, wait=sleep, attempts=3}={}) {
   for(let i=0;i<attempts;i++) {
     let r;
@@ -17,10 +17,10 @@ export async function readRequest(url, options={}, {fetcher=fetch, wait=sleep, a
 const FIELDS='itemId shopId productName imageUrl offerLink priceMin priceMax ratingStar sales priceDiscountRate';
 export class Shopee {
   constructor(env,c,{fetcher=fetch,wait=sleep}={}) { this.id=env.SHOPEE_APP_ID; this.secret=env.SHOPEE_SECRET; this.c=c;this.fetcher=fetcher;this.wait=wait; }
-  async query(args) {
+  async query(variables) {
     await this.wait(this.c.requestIntervalMs);
     for(let i=0;i<3;i++) {
-      const body=JSON.stringify({query:`query { productOfferV2(${args}) { nodes { ${FIELDS} } } }`});
+      const body=JSON.stringify({query:`query GetProducts($keyword:String,$page:Int,$limit:Int) { productOfferV2(keyword:$keyword,page:$page,limit:$limit) { nodes { ${FIELDS} } } }`,operationName:"GetProducts",variables});
       const t=Math.floor(Date.now()/1000);
       let r;
       try { r=await this.fetcher('https://open-api.affiliate.shopee.com.br/graphql',{method:'POST',headers:{'Content-Type':'application/json',Authorization:`SHA256 Credential=${this.id},Timestamp=${t},Signature=${signature(this.id,this.secret,t,body)}`},body,signal:AbortSignal.timeout(20000)}); }
@@ -30,19 +30,37 @@ export class Shopee {
       let data;try {data=await r.json();}catch{throw new SafeError('shopee_json');}
       if(data.errors?.length) {
         const messages=data.errors.map(e=>String(e.message||'')).join(' ');
+        if(messages.includes('error [10000]')&&messages.includes('System Error')) {
+          if(i<1) {await this.wait(4000);continue;}
+          throw new SafeError('shopee_temporary_system');
+        }
+        let detail=messages;
+        for (const value of [this.id,this.secret,...Object.entries(process.env).filter(([key])=>/TOKEN|SECRET|KEY|PASSWORD/.test(key)).map(([,value])=>value)]) {
+          if(value) detail=detail.split(value).join('[REDACTED]');
+        }
+        detail=detail.replace(/\b(?:\d{1,3}\.){3}\d{1,3}\b/g,'[IP]').slice(0,400);
         // Only predefined labels and schema identifiers are logged, never response text.
         const field=messages.match(/Unknown argument ["']([A-Za-z][A-Za-z0-9_]*)["']/i);
         if(field && ['shopId','itemId','keyword','page','limit'].includes(field[1])) throw new SafeError('shopee_unknown_argument_'+field[1]);
         const type=['Int64','Int','String','Float'].find(t=>messages.includes(t));
         if(type) throw new SafeError('shopee_schema_type_'+type);
-        throw new SafeError('shopee_schema_or_auth');
+        throw new SafeError('shopee_schema_or_auth',detail);
       }
       if(!Array.isArray(data.data?.productOfferV2?.nodes)) throw new SafeError('shopee_schema_or_auth');
       return data.data.productOfferV2.nodes;
     }
   }
-  search(keyword,page=1) { return this.query(`keyword:${JSON.stringify(keyword)},page:${page},limit:50`); }
-  async refresh(p) { return (await this.query(`shopId:${p.shopId},itemId:${p.itemId},page:1,limit:1`)).find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId); }
+  async search(keyword,page=1) {
+    if(this.keywordUnavailable)return this.query({page,limit:50});
+    try {return await this.query({keyword,page,limit:50});}
+    catch(error) {
+      if(error.message!=='shopee_temporary_system')throw error;
+      this.keywordUnavailable=true;
+      console.log(JSON.stringify({event:'shopee_keyword_unavailable_using_general'}));
+      return this.query({page,limit:50});
+    }
+  }
+  async refresh(p) { return (await this.search(p.sourceKeyword||p.name,1)).find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId); }
 }
 export class Telegram {
   constructor(env,{fetcher=fetch,wait=sleep}={}) {this.token=env.TELEGRAM_BOT_TOKEN;this.chat=env.TELEGRAM_CHAT_ID;this.fetcher=fetcher;this.wait=wait;}

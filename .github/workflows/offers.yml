@@ -1,0 +1,48 @@
+name: Ofertas Shopee
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'check valida conexoes; preview busca sem publicar; publish publica em horario elegivel'
+        type: choice
+        default: check
+        options: [check, preview, publish]
+permissions:
+  contents: write
+concurrency:
+  group: shopee-telegram-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    if: inputs.mode == 'check' || inputs.mode == 'preview' || (vars.BOT_ENABLED == 'true' && vars.BOT_PAUSED != 'true')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm test
+      - name: Executar ciclo
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ github.token }}
+          STATE_BRANCH: ${{ github.event.repository.default_branch }}
+          BOT_PAUSED: ${{ vars.BOT_PAUSED }}
+          MODE: ${{ inputs.mode || 'publish' }}
+        shell: bash
+        run: |
+          case "$MODE" in
+            check) node index.js --check ;;
+            preview) node index.js --preview ;;
+            publish) node index.js ;;
+            *) exit 1 ;;
+          esac

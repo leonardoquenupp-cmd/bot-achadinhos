@@ -9,15 +9,22 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   const slot=dueSlot(c,data,now);
   if(!slot&&!preview){onLog('outside_window_or_quota');return;}
   const candidates=new Map();
+  let successfulSearches=0;
   for(let j=0;j<c.keywords.length;j++) {
     const keyword=c.keywords[(data.cursor+j)%c.keywords.length];
     for(let page=1;page<=c.pagesPerSearch;page++) {
       onLog('search_started',{category:j,page});
-      const nodes=await shopee.search(keyword,page);
-      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)) candidates.set(p.key,{...p,category:j});}
+      let nodes;
+      try { nodes=await shopee.search(keyword,page);successfulSearches++; }
+      catch(error) {
+        if(error.message!=='shopee_temporary_system') throw error;
+        onLog('category_temporarily_unavailable',{category:j,page});break;
+      }
+      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword});}
       if(nodes.length<50)break;
     }
   }
+  if(!successfulSearches)throw Error('shopee_all_searches_failed');
   const sorted=[...candidates.values()].sort((a,b)=>a.category-b.category||b.score-a.score);
   for(const candidate of sorted) {
     onLog('revalidation_started');

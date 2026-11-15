@@ -12,10 +12,10 @@ const empty=()=>({version:1,products:{},slots:{},cursor:0});
 const response=(d,status=200)=>new Response(JSON.stringify(d),{status});
 test('short title, unique price, compact stats and discrete affiliate disclosure',()=>{
  const text=caption(p);
- assert.ok(text.startsWith('🔥 <b>'+p.name+'</b>\n\n'));
+ assert.ok(text.startsWith('🔥 <b>'+p.name+'</b>\n<i>Publicidade</i>\n\n'));
  assert.match(text,/✅ Por: <b>R\$ 18,61<\/b>/);
  assert.match(text,/⭐ 4,8 • 1\.349 vendidos/);
- assert.match(text,/🧡 Shopee\n<i>Publicidade • Link de afiliado<\/i>$/);
+ assert.ok(text.endsWith('🧡 Shopee'));assert.ok(!text.includes('Publicidade • Link de afiliado'));
  assert.doesNotMatch(text,/https?:|A partir|Desconto informado|De:|Frete grátis|87%/);
 });
 test('independent confirmed previous price is struck and discount calculated conservatively',()=>{
@@ -42,7 +42,7 @@ test('long repeated titles stay bounded and retain observed brand/model/specific
 });
 test('pathological and Unicode captions fit the existing raw 1024-char guard',()=>{
  for(const title of ['& < > " '.repeat(1000),'🧡🔥 Kit '.repeat(1000),'x'.repeat(5000),'Café & Chá <Premium> '+ 'çã '.repeat(1000)]) {
-  const text=caption({...p,name:title});assert.ok(text.length<=1024);assert.ok(text.endsWith('</i>'));
+  const text=caption({...p,name:title});assert.ok(text.length<=1024);assert.ok(text.endsWith('🧡 Shopee'));
  }
  assert.doesNotMatch(caption({...p,name:'Mouse https://example.org/link gamer'}),/https?:/);
 });

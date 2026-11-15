@@ -101,7 +101,7 @@
       "messageId": 184
     },
     "728389176:58217601055": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:13:42",
       "at": "2026-11-15T16:47:19.231Z",
       "fingerprint": [
@@ -115,7 +115,8 @@
         "profissional",
         "completo",
         "maleta"
-      ]
+      ],
+      "messageId": 185
     }
   },
   "slots": {

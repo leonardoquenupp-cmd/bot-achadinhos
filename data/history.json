@@ -137,7 +137,7 @@
       "messageId": 186
     },
     "1161608606:45468100867": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:14:54",
       "at": "2026-11-15T18:01:53.483Z",
       "fingerprint": [
@@ -151,7 +151,8 @@
         "prateleira",
         "nicho",
         "carro"
-      ]
+      ],
+      "messageId": 187
     }
   },
   "slots": {

@@ -53,7 +53,7 @@
       "messageId": 181
     },
     "832036467:22892833180": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:10:42",
       "at": "2026-11-15T13:53:57.794Z",
       "fingerprint": [
@@ -67,7 +67,8 @@
         "carros",
         "conjuntos",
         "chaves"
-      ]
+      ],
+      "messageId": 182
     }
   },
   "slots": {

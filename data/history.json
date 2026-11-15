@@ -193,7 +193,7 @@
       "messageId": 189
     },
     "936306811:50668882398": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:17:54",
       "at": "2026-11-15T20:56:35.105Z",
       "fingerprint": [
@@ -211,7 +211,8 @@
         "colorido",
         "fio",
         "naturenzzo"
-      ]
+      ],
+      "messageId": 190
     }
   },
   "slots": {

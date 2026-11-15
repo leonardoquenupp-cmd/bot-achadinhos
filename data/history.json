@@ -215,7 +215,7 @@
       "messageId": 190
     },
     "998773037:58216601427": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:18:30",
       "at": "2026-11-15T21:35:33.088Z",
       "fingerprint": [
@@ -230,7 +230,8 @@
         "cozinha",
         "tampa",
         "dosadora"
-      ]
+      ],
+      "messageId": 191
     }
   },
   "slots": {

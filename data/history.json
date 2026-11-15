@@ -234,7 +234,7 @@
       "messageId": 191
     },
     "1003085235:18996959926": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:19:06",
       "at": "2026-11-15T22:16:03.394Z",
       "fingerprint": [
@@ -250,7 +250,8 @@
         "alho",
         "gengibre",
         "espremedor"
-      ]
+      ],
+      "messageId": 192
     }
   },
   "slots": {

@@ -88,7 +88,7 @@
       "messageId": 183
     },
     "415175805:22693482091": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:12:12",
       "at": "2026-11-15T15:21:17.133Z",
       "fingerprint": [
@@ -97,7 +97,8 @@
         "cozinha",
         "silicone",
         "bambu"
-      ]
+      ],
+      "messageId": 184
     }
   },
   "slots": {

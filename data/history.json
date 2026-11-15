@@ -155,7 +155,7 @@
       "messageId": 187
     },
     "1382685526:58255159172": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:16:24",
       "at": "2026-11-15T19:30:05.455Z",
       "fingerprint": [
@@ -170,7 +170,8 @@
         "airdots",
         "estojo",
         "recarregavel"
-      ]
+      ],
+      "messageId": 188
     }
   },
   "slots": {

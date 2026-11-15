@@ -254,7 +254,7 @@
       "messageId": 192
     },
     "515433918:19899320839": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:20:36",
       "at": "2026-11-15T23:43:33.755Z",
       "fingerprint": [
@@ -270,7 +270,8 @@
         "completo",
         "envio",
         "24h"
-      ]
+      ],
+      "messageId": 193
     }
   },
   "slots": {

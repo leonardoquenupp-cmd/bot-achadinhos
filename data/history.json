@@ -119,7 +119,7 @@
       "messageId": 185
     },
     "371687721:58203357350": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:14:18",
       "at": "2026-11-15T17:23:37.863Z",
       "fingerprint": [
@@ -133,7 +133,8 @@
         "sem",
         "fio",
         "usb"
-      ]
+      ],
+      "messageId": 186
     }
   },
   "slots": {

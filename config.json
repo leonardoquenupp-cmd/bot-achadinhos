@@ -1,13 +1,7 @@
 {
   "timezone": "America/Sao_Paulo",
-  "times": [
-    "09:00",
-    "12:00",
-    "17:04",
-    "18:00"
-  ],
-  "dailyLimit": 4,
-  "windowMinutes": 90,
+  "dailyLimit": 50,
+  "windowMinutes": 15,
   "paused": false,
   "minRating": 4.5,
   "minSales": 50,
@@ -16,11 +10,18 @@
   "pagesPerSearch": 1,
   "keywords": [
     "fone bluetooth",
-    "utensilio cozinha",
+    "utensilios cozinha",
+    "acessorios informatica",
     "organizadores casa",
+    "moda acessorios",
     "beleza",
-    "brinquedo",
-    "ferramentas"
+    "ferramentas",
+    "brinquedos"
   ],
-  "strictStock": false
+  "strictStock": false,
+  "postingWindow": {
+    "start": "08:00",
+    "end": "23:00"
+  },
+  "minimumIntervalMinutes": 15
 }

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import {signature,normalize,caption,dueSlot,validateConfig} from '../src/core.js';
+import {signature,normalize,caption,dueSlot,validateConfig,scheduledTimes} from '../src/core.js';
 import {Shopee,Telegram,readRequest} from '../src/api.js';
 import {State,localLock} from '../src/state.js';
 import {execute} from '../src/main.js';
@@ -16,7 +16,7 @@ test('config validates bounds and time zone',()=>{assert.equal(validateConfig(c)
 test('signature fixed SHA256 vector',()=>assert.equal(signature('a','d', 'b','c'),'88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589'));
 test('valid offer preserves string identifiers and variant meaning',()=>{const p=normalize(node,c);assert.equal(p.key,'55:123456789012345678');assert.match(caption(p),/A partir de/);assert.doesNotMatch(caption(p),/150|De:|anterior/);});
 test('invalid, missing images, strict unknown stock and unsafe links excluded',()=>{for(const patch of [{priceMin:0},{priceMax:1},{ratingStar:0},{sales:0},{imageUrl:null},{offerLink:'https://evil.example/a'},{priceDiscountRate:100},{itemId:null},{priceMin:'NaN'}])assert.equal(normalize({...node,...patch},c),null);assert.equal(normalize(node,{...c,strictStock:true}),null);});
-test('schedule timezone, window, quota and pending halt',()=>{const s=empty();assert.equal(dueSlot(c,s,now),'2026-11-14:09:00');assert.equal(dueSlot(c,s,new Date('2026-11-14T05:00:00Z')),null);s.products.x={status:'pending'};assert.throws(()=>dueSlot(c,s,now));delete s.products.x;for(const t of c.times)s.slots['2026-11-14:'+t]='x';assert.equal(dueSlot(c,s,now),null);});
+test('schedule timezone, window, quota and pending halt',()=>{const s=empty();assert.equal(dueSlot(c,s,now),'2026-11-14:09:12');assert.equal(dueSlot(c,s,new Date('2026-11-14T05:00:00Z')),null);s.products.x={status:'pending'};assert.throws(()=>dueSlot(c,s,now));delete s.products.x;for(const t of scheduledTimes(c))s.slots['2026-11-14:'+t]='x';assert.equal(dueSlot(c,s,now),null);});
 test('Shopee request signed and schema errors fail closed',async()=>{const api=new Shopee({SHOPEE_APP_ID:'id',SHOPEE_SECRET:'secret'},c,{wait:async()=>{},fetcher:async(url,o)=>{const t=o.headers.Authorization.match(/Timestamp=(\d+)/)[1];assert.ok(o.headers.Authorization.endsWith(signature('id','secret',t,o.body)));assert.ok(JSON.parse(o.body).query.includes('imageUrl'));return response({data:{productOfferV2:{nodes:[node]}}});}});assert.equal((await api.search('fone'))[0].itemId,node.itemId);api.fetcher=async()=>response({errors:[{message:'secret must not log'}]});await assert.rejects(api.search('fone'),/schema_or_auth/);});
 test('read retries transient HTTP errors',async()=>{let count=0;const d=await readRequest('https://example.com',{}, {wait:async()=>{},fetcher:async()=>++count===1?response({},500):response({ok:true})});assert.equal(count,2);assert.ok(d.ok);});
 test('Telegram ambiguous timeout is never retried',async()=>{let count=0;const t=new Telegram({}, {fetcher:async()=>{count++;throw Error('token');}});await assert.rejects(t.send(normalize(node,c),'test'),/ambiguous/);assert.equal(count,1);});

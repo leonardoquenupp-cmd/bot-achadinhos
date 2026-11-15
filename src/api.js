@@ -1,4 +1,5 @@
 import { signature, sleep } from './core.js';
+import { inlineKeyboard } from './messages.js';
 export class SafeError extends Error { constructor(code,detail){super(code);this.detail=detail;} }
 export async function readRequest(url, options={}, {fetcher=fetch, wait=sleep, attempts=3}={}) {
   for(let i=0;i<attempts;i++) {
@@ -74,11 +75,12 @@ export class Telegram {
     for(let i=0;i<3;i++) {
       let r,data;
       try {
-        r=await this.fetcher(`https://api.telegram.org/bot${this.token}/sendPhoto`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat,photo:p.image,caption}),signal:AbortSignal.timeout(25000)});
+        r=await this.fetcher(`https://api.telegram.org/bot${this.token}/sendPhoto`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat,photo:p.image,caption,parse_mode:"HTML",show_caption_above_media:false,reply_markup:inlineKeyboard(p)}),signal:AbortSignal.timeout(25000)});
         data=await r.json();
       } catch { throw new SafeError('telegram_ambiguous'); }
       if(r.ok&&data.ok&&Number.isInteger(data.result?.message_id)) return data.result.message_id;
       if(data.error_code===429&&i<2&&Number.isInteger(data.parameters?.retry_after)&&data.parameters.retry_after<=60) { await this.wait(Math.max(1,data.parameters.retry_after)*1000);continue; }
+      if(data.ok===false&&data.error_code===400&&/photo|image|HTTP URL content|webpage_curl_failed|wrong file identifier/i.test(String(data.description||'')))throw new SafeError('telegram_photo_unavailable');
       throw new SafeError('telegram_rejected_or_ambiguous');
     }
   }

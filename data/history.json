@@ -36,7 +36,7 @@
       "messageId": 180
     },
     "1520942179:22598454534": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:10:24",
       "at": "2026-11-15T13:24:26.976Z",
       "fingerprint": [
@@ -49,7 +49,8 @@
         "ideal",
         "reparos",
         "domesticos"
-      ]
+      ],
+      "messageId": 181
     }
   },
   "slots": {

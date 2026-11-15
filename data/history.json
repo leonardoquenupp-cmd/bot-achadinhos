@@ -71,7 +71,7 @@
       "messageId": 182
     },
     "728389176:58217580101": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:11:36",
       "at": "2026-11-15T14:37:05.480Z",
       "fingerprint": [
@@ -84,7 +84,8 @@
         "navalha",
         "antiaderente",
         "premium"
-      ]
+      ],
+      "messageId": 183
     }
   },
   "slots": {

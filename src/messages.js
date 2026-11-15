@@ -40,7 +40,7 @@ export function caption(p) {
   if(stats.length)body.push(`${Number.isFinite(p.rating)&&p.rating>0?'⭐ ':''}${stats.join(' • ')}`);
   if(facts.freeShippingConfirmed===true && facts.freeShipping===true)body.push('🚚 Frete grátis');
   for(const size of [105,85,65,45,25,10]) {
-    const result=`🔥 <b>${escapeHtml(shortTitle(facts.title||p.name,size))}</b>\n<i>Publicidade</i>\n\n${body.join('\n')}\n\n🧡 Shopee`;
+    const result=`🔥 <b>${escapeHtml(shortTitle(facts.title||p.name,size))}</b>\n\n${body.join('\n')}\n\n🧡 Shopee`;
     // Conservative raw HTML budget also satisfies main()'s existing guard.
     if(result.length<=1024)return result;
   }

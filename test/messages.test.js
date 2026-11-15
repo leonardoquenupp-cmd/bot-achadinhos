@@ -12,10 +12,10 @@ const empty=()=>({version:1,products:{},slots:{},cursor:0});
 const response=(d,status=200)=>new Response(JSON.stringify(d),{status});
 test('short title, unique price, compact stats and discrete affiliate disclosure',()=>{
  const text=caption(p);
- assert.ok(text.startsWith('🔥 <b>'+p.name+'</b>\n<i>Publicidade</i>\n\n'));
+ assert.ok(text.startsWith('🔥 <b>'+p.name+'</b>\n\n'));
  assert.match(text,/✅ Por: <b>R\$ 18,61<\/b>/);
  assert.match(text,/⭐ 4,8 • 1\.349 vendidos/);
- assert.ok(text.endsWith('🧡 Shopee'));assert.ok(!text.includes('Publicidade • Link de afiliado'));
+ assert.ok(text.endsWith('🧡 Shopee'));assert.ok(!text.includes('Publicidade'));
  assert.doesNotMatch(text,/https?:|A partir|Desconto informado|De:|Frete grátis|87%/);
 });
 test('independent confirmed previous price is struck and discount calculated conservatively',()=>{

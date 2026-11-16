@@ -936,7 +936,7 @@
       "messageId": 230
     },
     "1593878986:23198865297": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:16:42",
       "at": "2026-11-16T19:45:23.627Z",
       "fingerprint": [
@@ -949,7 +949,8 @@
         "vegetais",
         "frutas",
         "legumes"
-      ]
+      ],
+      "messageId": 231
     }
   },
   "slots": {

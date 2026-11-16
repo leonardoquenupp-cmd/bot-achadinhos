@@ -593,7 +593,7 @@
       "messageId": 211
     },
     "1269591353:23694320879": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:13:15",
       "at": "2026-11-16T16:20:37.984Z",
       "fingerprint": [
@@ -607,7 +607,8 @@
         "nova",
         "moda",
         "2025"
-      ]
+      ],
+      "messageId": 212
     }
   },
   "slots": {

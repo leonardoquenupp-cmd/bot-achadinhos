@@ -1346,7 +1346,7 @@
       "messageId": 252
     },
     "408653169:22593915398": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:36",
       "at": "2026-11-16T23:40:18.718Z",
       "fingerprint": [
@@ -1357,7 +1357,8 @@
         "cha",
         "inox",
         "110v"
-      ]
+      ],
+      "messageId": 253
     }
   },
   "slots": {

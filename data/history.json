@@ -413,7 +413,7 @@
       "messageId": 201
     },
     "1551887964:58268863717": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:36",
       "at": "2026-11-16T14:40:20.839Z",
       "fingerprint": [
@@ -431,7 +431,8 @@
         "moda",
         "feminina",
         "verao"
-      ]
+      ],
+      "messageId": 202
     }
   },
   "slots": {

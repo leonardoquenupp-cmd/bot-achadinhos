@@ -804,7 +804,7 @@
       "messageId": 223
     },
     "578296496:22094484158": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:15:21",
       "at": "2026-11-16T18:25:19.452Z",
       "fingerprint": [
@@ -820,7 +820,8 @@
         "dourada",
         "glitter",
         "lisa"
-      ]
+      ],
+      "messageId": 224
     }
   },
   "slots": {

@@ -1255,7 +1255,7 @@
       "messageId": 247
     },
     "994941429:22897703179": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:19:42",
       "at": "2026-11-16T22:50:22.628Z",
       "fingerprint": [
@@ -1264,7 +1264,8 @@
         "skinny",
         "masculina",
         "lycra"
-      ]
+      ],
+      "messageId": 248
     }
   },
   "slots": {

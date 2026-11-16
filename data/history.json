@@ -771,7 +771,7 @@
       "messageId": 221
     },
     "408715442:22499247158": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:15:03",
       "at": "2026-11-16T18:05:16.623Z",
       "fingerprint": [
@@ -784,7 +784,8 @@
         "saidas",
         "tipo",
         "lightning"
-      ]
+      ],
+      "messageId": 222
     }
   },
   "slots": {

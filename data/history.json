@@ -340,7 +340,7 @@
       "messageId": 197
     },
     "1103946075:18499853587": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:00",
       "at": "2026-11-16T14:00:34.258Z",
       "fingerprint": [
@@ -350,7 +350,8 @@
         "5000",
         "10000mah",
         "iphone"
-      ]
+      ],
+      "messageId": 198
     }
   },
   "slots": {

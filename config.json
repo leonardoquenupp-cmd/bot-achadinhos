@@ -1,6 +1,6 @@
 {
   "timezone": "America/Sao_Paulo",
-  "dailyLimit": 50,
+  "dailyLimit": 100,
   "windowMinutes": 15,
   "paused": false,
   "minRating": 4.5,
@@ -23,5 +23,5 @@
     "start": "08:00",
     "end": "23:00"
   },
-  "minimumIntervalMinutes": 15
+  "minimumIntervalMinutes": 9
 }

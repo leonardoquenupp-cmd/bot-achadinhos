@@ -5,7 +5,7 @@ export function signature(id, secret, timestamp, payload) {
 }
 export function validateConfig(c) {
   new Intl.DateTimeFormat('en', {timeZone:c.timezone}).format();
-  for (const [k,min,max] of [['dailyLimit',1,50],['windowMinutes',1,180],['minRating',0,5],['minSales',0,1e9],['minDiscount',0,99],['requestIntervalMs',1000,60000],['pagesPerSearch',1,5]]) {
+  for (const [k,min,max] of [['dailyLimit',1,100],['windowMinutes',1,180],['minRating',0,5],['minSales',0,1e9],['minDiscount',0,99],['requestIntervalMs',1000,60000],['pagesPerSearch',1,5]]) {
     if (!Number.isFinite(c[k]) || c[k]<min || c[k]>max) throw Error('invalid_config');
   }
   if (!Number.isInteger(c.dailyLimit) || !Number.isInteger(c.pagesPerSearch)) throw Error('invalid_config');

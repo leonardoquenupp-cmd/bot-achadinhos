@@ -1217,7 +1217,7 @@
       "messageId": 245
     },
     "1382685526:58258082046": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:19:24",
       "at": "2026-11-16T22:30:24.239Z",
       "fingerprint": [
@@ -1233,7 +1233,8 @@
         "iphone",
         "estojo",
         "recarga"
-      ]
+      ],
+      "messageId": 246
     }
   },
   "slots": {

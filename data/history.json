@@ -676,7 +676,7 @@
       "messageId": 216
     },
     "415175805:22392992790": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:14:09",
       "at": "2026-11-16T17:10:21.172Z",
       "fingerprint": [
@@ -689,7 +689,8 @@
         "cafe",
         "clara",
         "ovo"
-      ]
+      ],
+      "messageId": 217
     }
   },
   "slots": {

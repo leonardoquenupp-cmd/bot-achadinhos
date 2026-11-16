@@ -1091,7 +1091,7 @@
       "messageId": 238
     },
     "419081850:22893267017": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:18:12",
       "at": "2026-11-16T21:15:20.048Z",
       "fingerprint": [
@@ -1108,7 +1108,8 @@
         "cheia",
         "premium",
         "verde"
-      ]
+      ],
+      "messageId": 239
     }
   },
   "slots": {

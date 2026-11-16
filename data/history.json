@@ -1285,7 +1285,7 @@
       "messageId": 249
     },
     "217896078:22693482981": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:09",
       "at": "2026-11-16T23:10:19.033Z",
       "fingerprint": [
@@ -1299,7 +1299,8 @@
         "curto",
         "moda",
         "blogueira"
-      ]
+      ],
+      "messageId": 250
     }
   },
   "slots": {

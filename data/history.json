@@ -753,7 +753,7 @@
       "messageId": 220
     },
     "916652740:58207572793": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:14:54",
       "at": "2026-11-16T17:55:18.458Z",
       "fingerprint": [
@@ -767,7 +767,8 @@
         "controle",
         "toque",
         "dourada"
-      ]
+      ],
+      "messageId": 221
     }
   },
   "slots": {

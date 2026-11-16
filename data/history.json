@@ -1303,7 +1303,7 @@
       "messageId": 250
     },
     "729366575:58257789013": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:18",
       "at": "2026-11-16T23:20:28.630Z",
       "fingerprint": [
@@ -1321,7 +1321,8 @@
         "antiaderente",
         "127v",
         "220v"
-      ]
+      ],
+      "messageId": 251
     }
   },
   "slots": {

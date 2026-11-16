@@ -354,7 +354,7 @@
       "messageId": 198
     },
     "1350045638:45963749827": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:09",
       "at": "2026-11-16T14:10:38.407Z",
       "fingerprint": [
@@ -371,7 +371,8 @@
         "garrafa",
         "termica",
         "inoxidavel"
-      ]
+      ],
+      "messageId": 199
     }
   },
   "slots": {

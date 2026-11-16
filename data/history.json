@@ -972,7 +972,7 @@
       "messageId": 232
     },
     "1103946075:22598557664": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:17:00",
       "at": "2026-11-16T20:05:15.249Z",
       "fingerprint": [
@@ -988,7 +988,8 @@
         "livres",
         "prova",
         "agua"
-      ]
+      ],
+      "messageId": 233
     }
   },
   "slots": {

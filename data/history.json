@@ -325,7 +325,7 @@
       "messageId": 196
     },
     "1798950723:43684764598": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:10:42",
       "at": "2026-11-16T13:48:36.387Z",
       "fingerprint": [
@@ -336,7 +336,8 @@
         "150g",
         "importada",
         "kron"
-      ]
+      ],
+      "messageId": 197
     }
   },
   "slots": {

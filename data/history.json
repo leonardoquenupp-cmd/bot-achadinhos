@@ -732,7 +732,7 @@
       "messageId": 219
     },
     "1862380469:58267719064": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:14:45",
       "at": "2026-11-16T17:45:22.736Z",
       "fingerprint": [
@@ -749,7 +749,8 @@
         "decoracao",
         "jardim",
         "varanda"
-      ]
+      ],
+      "messageId": 220
     }
   },
   "slots": {

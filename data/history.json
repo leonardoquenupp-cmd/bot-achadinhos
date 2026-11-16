@@ -1201,7 +1201,7 @@
       "messageId": 244
     },
     "1258878023:18899372190": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:19:15",
       "at": "2026-11-16T22:20:33.435Z",
       "fingerprint": [
@@ -1213,7 +1213,8 @@
         "parede",
         "banheiro",
         "bnvt"
-      ]
+      ],
+      "messageId": 245
     }
   },
   "slots": {

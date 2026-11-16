@@ -375,7 +375,7 @@
       "messageId": 199
     },
     "832036467:18931705150": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:18",
       "at": "2026-11-16T14:20:22.462Z",
       "fingerprint": [
@@ -390,7 +390,8 @@
         "legumes",
         "alho",
         "gengibre"
-      ]
+      ],
+      "messageId": 200
     }
   },
   "slots": {

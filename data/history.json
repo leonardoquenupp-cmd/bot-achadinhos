@@ -1012,7 +1012,7 @@
       "messageId": 234
     },
     "1531785174:58215800426": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:17:18",
       "at": "2026-11-16T20:25:18.516Z",
       "fingerprint": [
@@ -1028,7 +1028,8 @@
         "eventos",
         "quente",
         "branco"
-      ]
+      ],
+      "messageId": 235
     }
   },
   "slots": {

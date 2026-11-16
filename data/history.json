@@ -1126,7 +1126,7 @@
       "messageId": 240
     },
     "1081532117:58256065420": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:18:30",
       "at": "2026-11-16T21:36:10.046Z",
       "fingerprint": [
@@ -1139,7 +1139,8 @@
         "100",
         "algodao",
         "70x130cm"
-      ]
+      ],
+      "messageId": 241
     }
   },
   "slots": {

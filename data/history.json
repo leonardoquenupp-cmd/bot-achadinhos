@@ -555,7 +555,7 @@
       "messageId": 209
     },
     "1661007426:58200560185": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:12:57",
       "at": "2026-11-16T16:00:29.288Z",
       "fingerprint": [
@@ -570,7 +570,8 @@
         "carro",
         "moto",
         "bicicleta"
-      ]
+      ],
+      "messageId": 210
     }
   },
   "slots": {

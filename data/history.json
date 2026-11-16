@@ -693,7 +693,7 @@
       "messageId": 217
     },
     "1547995492:22198797147": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:14:18",
       "at": "2026-11-16T17:25:17.241Z",
       "fingerprint": [
@@ -709,7 +709,8 @@
         "porta",
         "shampoo",
         "sabonete"
-      ]
+      ],
+      "messageId": 218
     }
   },
   "slots": {

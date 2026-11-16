@@ -305,7 +305,7 @@
       "messageId": 195
     },
     "1432047811:46861500842": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:10:06",
       "at": "2026-11-16T13:08:15.775Z",
       "fingerprint": [
@@ -321,7 +321,8 @@
         "bluetooth",
         "chamada",
         "masculino"
-      ]
+      ],
+      "messageId": 196
     }
   },
   "slots": {

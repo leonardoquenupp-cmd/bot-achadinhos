@@ -1032,7 +1032,7 @@
       "messageId": 235
     },
     "631587058:21198286873": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:17:27",
       "at": "2026-11-16T20:35:15.357Z",
       "fingerprint": [
@@ -1048,7 +1048,8 @@
         "quarto",
         "natal",
         "casamento"
-      ]
+      ],
+      "messageId": 236
     }
   },
   "slots": {

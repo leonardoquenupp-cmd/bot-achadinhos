@@ -878,7 +878,7 @@
       "messageId": 227
     },
     "1215385259:53750943172": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:16:06",
       "at": "2026-11-16T19:10:23.207Z",
       "fingerprint": [
@@ -895,7 +895,8 @@
         "coffee",
         "cappuccino",
         "talheres"
-      ]
+      ],
+      "messageId": 228
     }
   },
   "slots": {

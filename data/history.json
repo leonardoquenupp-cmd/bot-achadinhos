@@ -1268,7 +1268,7 @@
       "messageId": 248
     },
     "762919982:54857767078": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:00",
       "at": "2026-11-16T23:00:28.752Z",
       "fingerprint": [
@@ -1281,7 +1281,8 @@
         "vidro",
         "utensilios",
         "marfim"
-      ]
+      ],
+      "messageId": 249
     }
   },
   "slots": {

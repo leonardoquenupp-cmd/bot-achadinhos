@@ -574,7 +574,7 @@
       "messageId": 210
     },
     "1630740918:23594439744": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:13:06",
       "at": "2026-11-16T16:10:20.150Z",
       "fingerprint": [
@@ -589,7 +589,8 @@
         "alimentos",
         "misturador",
         "leite"
-      ]
+      ],
+      "messageId": 211
     }
   },
   "slots": {

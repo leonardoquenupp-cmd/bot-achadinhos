@@ -899,7 +899,7 @@
       "messageId": 228
     },
     "217896078:22199262533": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:16:24",
       "at": "2026-11-16T19:25:16.895Z",
       "fingerprint": [
@@ -917,7 +917,8 @@
         "ativo",
         "ruido",
         "mp3"
-      ]
+      ],
+      "messageId": 229
     }
   },
   "slots": {

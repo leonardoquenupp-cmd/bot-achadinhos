@@ -1325,7 +1325,7 @@
       "messageId": 251
     },
     "316945044:55260497129": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:27",
       "at": "2026-11-16T23:30:26.250Z",
       "fingerprint": [
@@ -1342,7 +1342,8 @@
         "pano",
         "pincel",
         "aplicador"
-      ]
+      ],
+      "messageId": 252
     }
   },
   "slots": {

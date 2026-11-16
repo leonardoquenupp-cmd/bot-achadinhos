@@ -449,7 +449,7 @@
       "messageId": 203
     },
     "790605924:53310729249": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:54",
       "at": "2026-11-16T15:00:38.480Z",
       "fingerprint": [
@@ -464,7 +464,8 @@
         "organiza",
         "congelador",
         "kaziva"
-      ]
+      ],
+      "messageId": 204
     }
   },
   "slots": {

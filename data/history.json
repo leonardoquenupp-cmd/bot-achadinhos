@@ -435,7 +435,7 @@
       "messageId": 202
     },
     "1064041485:58201523970": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:45",
       "at": "2026-11-16T14:50:22.261Z",
       "fingerprint": [
@@ -445,7 +445,8 @@
         "antiderrapante",
         "secagem",
         "rapida"
-      ]
+      ],
+      "messageId": 203
     }
   },
   "slots": {

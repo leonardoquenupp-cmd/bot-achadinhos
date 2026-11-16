@@ -394,7 +394,7 @@
       "messageId": 200
     },
     "1459511958:58257668036": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:11:27",
       "at": "2026-11-16T14:30:27.819Z",
       "fingerprint": [
@@ -409,7 +409,8 @@
         "design",
         "moderno",
         "duravel"
-      ]
+      ],
+      "messageId": 201
     }
   },
   "slots": {

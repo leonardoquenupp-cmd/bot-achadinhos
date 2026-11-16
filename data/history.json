@@ -840,7 +840,7 @@
       "messageId": 225
     },
     "406969593:58262972685": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:15:39",
       "at": "2026-11-16T18:45:20.445Z",
       "fingerprint": [
@@ -852,7 +852,8 @@
         "relaxante",
         "massagem",
         "profunda"
-      ]
+      ],
+      "messageId": 226
     }
   },
   "slots": {

@@ -953,7 +953,7 @@
       "messageId": 231
     },
     "217896078:58202483331": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:16:51",
       "at": "2026-11-16T19:55:15.540Z",
       "fingerprint": [
@@ -968,7 +968,8 @@
         "headphone",
         "envio",
         "imediato"
-      ]
+      ],
+      "messageId": 232
     }
   },
   "slots": {

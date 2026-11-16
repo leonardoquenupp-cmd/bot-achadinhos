@@ -627,7 +627,7 @@
       "messageId": 213
     },
     "1258556175:23197974712": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:13:33",
       "at": "2026-11-16T16:40:19.950Z",
       "fingerprint": [
@@ -640,7 +640,8 @@
         "sucos",
         "recarregavel",
         "usb"
-      ]
+      ],
+      "messageId": 214
     }
   },
   "slots": {

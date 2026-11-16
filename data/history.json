@@ -502,7 +502,7 @@
       "messageId": 206
     },
     "1258554467:29535501772": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:12:30",
       "at": "2026-11-16T15:30:27.200Z",
       "fingerprint": [
@@ -516,7 +516,8 @@
         "reversivel",
         "soquetes",
         "maleta"
-      ]
+      ],
+      "messageId": 207
     }
   },
   "slots": {

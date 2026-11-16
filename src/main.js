@@ -9,7 +9,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   const data=await state.load();
   const slot=dueSlot(c,data,now);
   if(!slot&&!preview){onLog('outside_window_or_quota');return;}
-  const recent=Object.values(data.products).filter(p=>p.status==='sent').sort((a,b)=>Date.parse(b.at)-Date.parse(a.at)).slice(0,3);
+  const recent=Object.values(data.products).filter(p=>p.status==='sent').sort((a,b)=>Date.parse(b.at)-Date.parse(a.at)).slice(0,100);
   const candidates=new Map();
   let successfulSearches=0;
   for(let j=0;j<c.keywords.length;j++) {
@@ -22,7 +22,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
         if(error.message!=='shopee_temporary_system') throw error;
         onLog('category_temporarily_unavailable',{category:j,page});break;
       }
-      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)&&!similarToRecent(p,recent)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword});}
+      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)&&!similarToRecent(p,recent)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword,sourcePage:page});}
       if(nodes.length<50)break;
     }
   }
@@ -38,7 +38,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     if(preview){onLog('preview_valid',{caption:text,image:p.image,parse_mode:'HTML',reply_markup:inlineKeyboard(p)});return;}
     await telegram.check();
     data.products[p.key]={status:'pending',slot,at:now.toISOString(),fingerprint:similarityFingerprint(p)};
-    data.slots[slot]=p.key;data.cursor=(data.cursor+1)%c.keywords.length;
+    data.slots[slot]=p.key;data.cursor=(data.cursor+candidate.category+1)%c.keywords.length;
     await state.save();
     let messageId;
     try {messageId=await telegram.send(p,text);}

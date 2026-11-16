@@ -52,16 +52,23 @@ export class Shopee {
     }
   }
   async search(keyword,page=1) {
-    if(this.keywordUnavailable)return this.query({page,limit:50});
+    if(this.keywordUnavailable)return this.generalSearch(page);
     try {return await this.query({keyword,page,limit:50});}
     catch(error) {
       if(error.message!=='shopee_temporary_system')throw error;
       this.keywordUnavailable=true;
       console.log(JSON.stringify({event:'shopee_keyword_unavailable_using_general'}));
-      return this.query({page,limit:50});
+      return this.generalSearch(page);
     }
   }
-  async refresh(p) { return (await this.search(p.sourceKeyword||p.name,1)).find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId); }
+  async generalSearch(page) {
+    this.generalPages ||= new Map();
+    if(!this.generalPages.has(page))this.generalPages.set(page,await this.query({page,limit:50}));
+    return this.generalPages.get(page);
+  }
+  async refresh(p) { return (await (this.keywordUnavailable
+    ? this.query({page:p.sourcePage||1,limit:50})
+    : this.query({keyword:p.sourceKeyword||p.name,page:p.sourcePage||1,limit:50}))).find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId); }
 }
 export class Telegram {
   constructor(env,{fetcher=fetch,wait=sleep}={}) {this.token=env.TELEGRAM_BOT_TOKEN;this.chat=env.TELEGRAM_CHAT_ID;this.fetcher=fetcher;this.wait=wait;}

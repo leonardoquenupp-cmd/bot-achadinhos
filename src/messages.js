@@ -62,6 +62,6 @@ export function similarToRecent(p, records) {
     const b=new Set(record.fingerprint||[]);
     if(b.size<3)return false;
     const common=[...a].filter(w=>b.has(w)).length;
-    return common/(new Set([...a,...b]).size)>=0.8;
+    return common/(new Set([...a,...b]).size)>=0.65;
   });
 }

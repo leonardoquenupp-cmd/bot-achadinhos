@@ -30,3 +30,27 @@ test('fresh unavailable offer skipped',async()=>{const f=fixture();f.shopee.refr
 test('local atomic state and concurrent lock',async()=>{const dir=await fs.mkdtemp(path.join(os.tmpdir(),'offers-'));try{const file=path.join(dir,'history.json');await fs.writeFile(file,JSON.stringify(empty()));const s=new State({}, {path:file});await s.load();s.data.cursor=1;await s.save();assert.equal(JSON.parse(await fs.readFile(file)).cursor,1);const release=await localLock(path.join(dir,'lock'));await assert.rejects(localLock(path.join(dir,'lock')));await release();}finally{await fs.rm(dir,{recursive:true,force:true});}});
 test('GitHub ledger CAS passes SHA and rejects conflict without retry',async()=>{let calls=0;const s=new State({GITHUB_ACTIONS:'true',GITHUB_TOKEN:'fake',GITHUB_REPOSITORY:'owner/repo',STATE_BRANCH:'main'},{fetcher:async(url,o)=>{calls++;if(o.method==='PUT'){assert.equal(JSON.parse(o.body).sha,'old');return response({},409);}return response({sha:'old',content:Buffer.from(JSON.stringify(empty())).toString('base64')});}});await s.load();await assert.rejects(s.save(),/conflict/);assert.equal(calls,2);});
 test('unsafe numeric IDs fail closed',()=>assert.equal(normalize({...node,itemId:123456789012345678},c),null));
+
+
+test('fallback caches pages while refresh reads the source page freshly',async()=>{
+ const api=new Shopee({},c),calls=[];
+ api.query=async v=>{calls.push(v);if(v.keyword)throw Error('shopee_temporary_system');return [node];};
+ await api.search('cozinha',2);await api.search('moda',2);await api.search('beleza',3);
+ assert.equal(calls.length,3);
+ assert.equal((await api.refresh({...normalize(node,c),sourcePage:2})).itemId,node.itemId);
+ assert.equal(calls.length,4);assert.deepEqual(calls.at(-1),{page:2,limit:50});
+});
+test('keyword refresh preserves source page and keyword',async()=>{
+ const api=new Shopee({},c);let received;
+ api.query=async v=>{received=v;return [node];};
+ await api.refresh({...normalize(node,c),sourcePage:3,sourceKeyword:'papelaria'});
+ assert.deepEqual(received,{keyword:'papelaria',page:3,limit:50});
+});
+test('similar offers beyond the last three publications are excluded',async()=>{
+ const f=fixture();const {similarityFingerprint}=await import('../src/messages.js');
+ const offered={...node,productName:'Fone Bluetooth Sem Fio Recarregavel Premium'};
+ f.shopee.search=async()=>[offered];f.shopee.refresh=async()=>offered;
+ f.data.products.old={status:'sent',at:'2026-11-13T08:00:00Z',fingerprint:similarityFingerprint({name:offered.productName})};
+ for(let i=0;i<4;i++)f.data.products['other'+i]={status:'sent',at:`2026-11-13T1${i}:00:00Z`,fingerprint:['jardim','vaso','ceramica']};
+ await execute({...f,c,now,onLog:()=>{}});assert.deepEqual(f.events,[]);
+});

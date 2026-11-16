@@ -7,7 +7,7 @@
   "minSales": 50,
   "minDiscount": 20,
   "requestIntervalMs": 2000,
-  "pagesPerSearch": 1,
+  "pagesPerSearch": 3,
   "keywords": [
     "fone bluetooth",
     "utensilios cozinha",
@@ -16,7 +16,15 @@
     "moda acessorios",
     "beleza",
     "ferramentas",
-    "brinquedos"
+    "brinquedos",
+    "esporte fitness",
+    "pet shop",
+    "papelaria",
+    "jardim",
+    "automotivo",
+    "cama mesa banho",
+    "calcados",
+    "bebes"
   ],
   "strictStock": false,
   "postingWindow": {

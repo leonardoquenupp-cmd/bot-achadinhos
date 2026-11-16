@@ -788,7 +788,7 @@
       "messageId": 222
     },
     "1212157552:23898138164": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:15:12",
       "at": "2026-11-16T18:15:19.607Z",
       "fingerprint": [
@@ -800,7 +800,8 @@
         "madeira",
         "completo",
         "mazzal"
-      ]
+      ],
+      "messageId": 223
     }
   },
   "slots": {

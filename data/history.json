@@ -644,7 +644,7 @@
       "messageId": 214
     },
     "1258556175:27123077441": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:13:42",
       "at": "2026-11-16T16:50:21.794Z",
       "fingerprint": [
@@ -657,7 +657,8 @@
         "casa",
         "festa",
         "natal"
-      ]
+      ],
+      "messageId": 215
     }
   },
   "slots": {

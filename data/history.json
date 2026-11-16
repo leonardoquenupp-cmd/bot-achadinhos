@@ -1143,7 +1143,7 @@
       "messageId": 241
     },
     "629742320:22699684273": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:18:39",
       "at": "2026-11-16T21:45:19.955Z",
       "fingerprint": [
@@ -1161,7 +1161,8 @@
         "galhos",
         "cheios",
         "verde"
-      ]
+      ],
+      "messageId": 242
     }
   },
   "slots": {

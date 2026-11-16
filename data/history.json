@@ -274,7 +274,7 @@
       "messageId": 193
     },
     "1252131778:23694694519": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-15:21:30",
       "at": "2026-11-16T00:36:22.661Z",
       "fingerprint": [
@@ -286,7 +286,8 @@
         "vidro",
         "reforcado",
         "premium"
-      ]
+      ],
+      "messageId": 194
     }
   },
   "slots": {

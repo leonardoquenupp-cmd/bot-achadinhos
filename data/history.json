@@ -1361,7 +1361,7 @@
       "messageId": 253
     },
     "726997639:21199029345": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:20:45",
       "at": "2026-11-16T23:50:22.897Z",
       "fingerprint": [
@@ -1376,7 +1376,8 @@
         "decoracao",
         "interna",
         "externa"
-      ]
+      ],
+      "messageId": 254
     }
   },
   "slots": {

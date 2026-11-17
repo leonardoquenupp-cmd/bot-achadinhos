@@ -1824,7 +1824,7 @@
       "messageId": 279
     },
     "1213929662:23194447770": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:12:48",
       "at": "2026-11-17T15:50:32.055Z",
       "fingerprint": [
@@ -1840,7 +1840,8 @@
         "parafuso",
         "combo",
         "furado"
-      ]
+      ],
+      "messageId": 280
     }
   },
   "slots": {

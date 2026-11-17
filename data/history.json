@@ -1416,7 +1416,7 @@
       "messageId": 256
     },
     "1478374935:58269021620": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:21:30",
       "at": "2026-11-17T00:30:36.219Z",
       "fingerprint": [
@@ -1432,7 +1432,8 @@
         "decorativas",
         "casa",
         "fachada"
-      ]
+      ],
+      "messageId": 257
     }
   },
   "slots": {

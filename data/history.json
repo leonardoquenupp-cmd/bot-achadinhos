@@ -1937,7 +1937,7 @@
       "messageId": 285
     },
     "976415369:45610825194": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:14:54",
       "at": "2026-11-17T18:00:31.345Z",
       "fingerprint": [
@@ -1953,7 +1953,8 @@
         "organizar",
         "congelador",
         "kaziva"
-      ]
+      ],
+      "messageId": 286
     }
   },
   "slots": {

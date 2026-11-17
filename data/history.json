@@ -1736,7 +1736,7 @@
       "messageId": 274
     },
     "415175805:20103606180": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:11:18",
       "at": "2026-11-17T14:25:17.122Z",
       "fingerprint": [
@@ -1745,7 +1745,8 @@
         "aparador",
         "pelos",
         "eletrico"
-      ]
+      ],
+      "messageId": 275
     }
   },
   "slots": {

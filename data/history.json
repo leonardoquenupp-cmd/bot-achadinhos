@@ -1455,7 +1455,7 @@
       "messageId": 258
     },
     "391739739:17460396643": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:21:57",
       "at": "2026-11-17T01:05:27.893Z",
       "fingerprint": [
@@ -1470,7 +1470,8 @@
         "multiplas",
         "ponteiras",
         "relaxamento"
-      ]
+      ],
+      "messageId": 259
     }
   },
   "slots": {

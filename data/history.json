@@ -2028,7 +2028,7 @@
       "messageId": 290
     },
     "1386775107:46555441248": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:16:42",
       "at": "2026-11-17T19:50:33.285Z",
       "fingerprint": [
@@ -2044,7 +2044,8 @@
         "corrida",
         "veraotendencia",
         "uv400"
-      ]
+      ],
+      "messageId": 291
     }
   },
   "slots": {

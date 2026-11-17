@@ -1546,7 +1546,7 @@
       "messageId": 263
     },
     "1636494323:23799143609": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:08:18",
       "at": "2026-11-17T11:20:19.878Z",
       "fingerprint": [
@@ -1561,7 +1561,8 @@
         "esportivo",
         "confortavel",
         "fresquinha"
-      ]
+      ],
+      "messageId": 264
     }
   },
   "slots": {

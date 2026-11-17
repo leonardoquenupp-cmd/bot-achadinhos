@@ -1491,7 +1491,7 @@
       "messageId": 260
     },
     "810113754:22698913347": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:22:33",
       "at": "2026-11-17T01:40:19.213Z",
       "fingerprint": [
@@ -1502,7 +1502,8 @@
         "45x45",
         "estampadas",
         "ziper"
-      ]
+      ],
+      "messageId": 261
     }
   },
   "slots": {

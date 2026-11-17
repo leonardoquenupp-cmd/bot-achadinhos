@@ -1749,7 +1749,7 @@
       "messageId": 275
     },
     "1585429562:58218368736": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:11:54",
       "at": "2026-11-17T14:54:31.022Z",
       "fingerprint": [
@@ -1765,7 +1765,8 @@
         "natal",
         "jardim",
         "festa"
-      ]
+      ],
+      "messageId": 276
     }
   },
   "slots": {

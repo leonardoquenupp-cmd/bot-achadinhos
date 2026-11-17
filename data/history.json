@@ -1634,7 +1634,7 @@
       "messageId": 268
     },
     "1397809275:58256926114": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:09:12",
       "at": "2026-11-17T12:20:20.574Z",
       "fingerprint": [
@@ -1647,7 +1647,8 @@
         "fio",
         "bateria",
         "carga"
-      ]
+      ],
+      "messageId": 269
     }
   },
   "slots": {

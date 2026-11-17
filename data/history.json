@@ -1597,7 +1597,7 @@
       "messageId": 266
     },
     "718649619:15863358210": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:08:54",
       "at": "2026-11-17T11:55:17.301Z",
       "fingerprint": [
@@ -1608,7 +1608,8 @@
         "necessaire",
         "envelope",
         "ziper"
-      ]
+      ],
+      "messageId": 267
     }
   },
   "slots": {

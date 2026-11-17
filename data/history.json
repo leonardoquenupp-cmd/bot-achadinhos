@@ -1666,7 +1666,7 @@
       "messageId": 270
     },
     "291174073:23218022612": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:09:48",
       "at": "2026-11-17T12:55:20.870Z",
       "fingerprint": [
@@ -1677,7 +1677,8 @@
         "laminas",
         "cabo",
         "usb"
-      ]
+      ],
+      "messageId": 271
     }
   },
   "slots": {

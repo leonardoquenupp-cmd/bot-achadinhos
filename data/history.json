@@ -1718,7 +1718,7 @@
       "messageId": 273
     },
     "1053212537:23698779418": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:10:33",
       "at": "2026-11-17T13:40:21.278Z",
       "fingerprint": [
@@ -1732,7 +1732,8 @@
         "lixo",
         "casa",
         "litros"
-      ]
+      ],
+      "messageId": 274
     }
   },
   "slots": {

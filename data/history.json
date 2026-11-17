@@ -2065,7 +2065,7 @@
       "messageId": 292
     },
     "1285485572:18698147487": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:18:21",
       "at": "2026-11-17T21:25:16.171Z",
       "fingerprint": [
@@ -2077,7 +2077,8 @@
         "alongador",
         "limpeza",
         "multiuso"
-      ]
+      ],
+      "messageId": 293
     }
   },
   "slots": {

@@ -1957,7 +1957,7 @@
       "messageId": 286
     },
     "300779622:22992945609": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:15:12",
       "at": "2026-11-17T18:15:22.567Z",
       "fingerprint": [
@@ -1966,7 +1966,8 @@
         "impermeavel",
         "matelado",
         "elastico"
-      ]
+      ],
+      "messageId": 287
     }
   },
   "slots": {

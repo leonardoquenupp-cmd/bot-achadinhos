@@ -2009,7 +2009,7 @@
       "messageId": 289
     },
     "217896078:58202483323": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:16:33",
       "at": "2026-11-17T19:40:20.341Z",
       "fingerprint": [
@@ -2024,7 +2024,8 @@
         "duracao",
         "corrida",
         "academia"
-      ]
+      ],
+      "messageId": 290
     }
   },
   "slots": {

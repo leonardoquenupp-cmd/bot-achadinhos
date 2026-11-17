@@ -1769,7 +1769,7 @@
       "messageId": 276
     },
     "1533353764:43924823754": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:12:03",
       "at": "2026-11-17T15:05:17.067Z",
       "fingerprint": [
@@ -1788,7 +1788,8 @@
         "cordao",
         "janela",
         "arvore"
-      ]
+      ],
+      "messageId": 277
     }
   },
   "slots": {

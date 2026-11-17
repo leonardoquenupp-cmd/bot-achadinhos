@@ -1681,7 +1681,7 @@
       "messageId": 271
     },
     "419081850:23596783977": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:09:57",
       "at": "2026-11-17T13:05:16.181Z",
       "fingerprint": [
@@ -1696,7 +1696,8 @@
         "pinheiro",
         "pinheirinho",
         "premium"
-      ]
+      ],
+      "messageId": 272
     }
   },
   "slots": {

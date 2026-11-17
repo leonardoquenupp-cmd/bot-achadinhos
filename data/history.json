@@ -1436,7 +1436,7 @@
       "messageId": 257
     },
     "398645174:23394689700": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-16:21:39",
       "at": "2026-11-17T00:45:29.286Z",
       "fingerprint": [
@@ -1451,7 +1451,8 @@
         "banheiro",
         "escritorio",
         "sala"
-      ]
+      ],
+      "messageId": 258
     }
   },
   "slots": {

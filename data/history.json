@@ -1809,7 +1809,7 @@
       "messageId": 278
     },
     "408653169:46360468172": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:12:39",
       "at": "2026-11-17T15:39:45.319Z",
       "fingerprint": [
@@ -1820,7 +1820,8 @@
         "organizador",
         "mantimentos",
         "cozinha"
-      ]
+      ],
+      "messageId": 279
     }
   },
   "slots": {

@@ -2048,7 +2048,7 @@
       "messageId": 291
     },
     "1598954512:22499363504": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:17:27",
       "at": "2026-11-17T20:35:15.998Z",
       "fingerprint": [
@@ -2061,7 +2061,8 @@
         "tampa",
         "dosadora",
         "condimentos"
-      ]
+      ],
+      "messageId": 292
     }
   },
   "slots": {

@@ -1521,7 +1521,7 @@
       "messageId": 262
     },
     "1345719405:18997974535": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:08:00",
       "at": "2026-11-17T11:00:28.597Z",
       "fingerprint": [
@@ -1542,7 +1542,8 @@
         "diamante",
         "mesa",
         "posta"
-      ]
+      ],
+      "messageId": 263
     }
   },
   "slots": {

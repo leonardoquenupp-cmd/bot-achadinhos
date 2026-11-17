@@ -1565,7 +1565,7 @@
       "messageId": 264
     },
     "1567176814:58212144061": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:08:27",
       "at": "2026-11-17T11:35:17.030Z",
       "fingerprint": [
@@ -1580,7 +1580,8 @@
         "banho",
         "tosa",
         "shop"
-      ]
+      ],
+      "messageId": 265
     }
   },
   "slots": {

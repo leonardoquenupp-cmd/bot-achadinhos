@@ -1877,7 +1877,7 @@
       "messageId": 282
     },
     "1006215031:45255565009": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:14:18",
       "at": "2026-11-17T17:21:00.845Z",
       "fingerprint": [
@@ -1898,7 +1898,8 @@
         "ipx5",
         "prova",
         "agua"
-      ]
+      ],
+      "messageId": 283
     }
   },
   "slots": {

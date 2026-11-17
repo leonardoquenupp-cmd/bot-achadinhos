@@ -2081,7 +2081,7 @@
       "messageId": 293
     },
     "379994163:58268465498": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:18:48",
       "at": "2026-11-17T21:55:27.535Z",
       "fingerprint": [
@@ -2098,7 +2098,8 @@
         "fio",
         "led",
         "natalino"
-      ]
+      ],
+      "messageId": 294
     }
   },
   "slots": {

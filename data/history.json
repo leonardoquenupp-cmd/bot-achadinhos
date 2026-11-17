@@ -1902,7 +1902,7 @@
       "messageId": 283
     },
     "431388499:22293584638": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:14:27",
       "at": "2026-11-17T17:35:16.504Z",
       "fingerprint": [
@@ -1920,7 +1920,8 @@
         "agua",
         "vinho",
         "330ml"
-      ]
+      ],
+      "messageId": 284
     }
   },
   "slots": {

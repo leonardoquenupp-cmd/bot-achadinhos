@@ -1612,7 +1612,7 @@
       "messageId": 267
     },
     "1523913267:58260237454": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:09:03",
       "at": "2026-11-17T12:05:17.793Z",
       "fingerprint": [
@@ -1630,7 +1630,8 @@
         "clareador",
         "tira",
         "mancha"
-      ]
+      ],
+      "messageId": 268
     }
   },
   "slots": {

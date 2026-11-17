@@ -1844,7 +1844,7 @@
       "messageId": 280
     },
     "424262284:41874811115": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:13:42",
       "at": "2026-11-17T16:46:18.470Z",
       "fingerprint": [
@@ -1858,7 +1858,8 @@
         "tradicional",
         "base",
         "ferro"
-      ]
+      ],
+      "messageId": 281
     }
   },
   "slots": {

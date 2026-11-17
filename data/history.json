@@ -2102,7 +2102,7 @@
       "messageId": 294
     },
     "1366028631:23498664668": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:20:18",
       "at": "2026-11-17T23:26:17.036Z",
       "fingerprint": [
@@ -2114,7 +2114,8 @@
         "imediato",
         "premium",
         "luxo"
-      ]
+      ],
+      "messageId": 295
     }
   },
   "slots": {

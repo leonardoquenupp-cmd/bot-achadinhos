@@ -21,14 +21,24 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     const keyword=c.keywords[(data.cursor+j)%c.keywords.length];
     for(const page of pages) {
       onLog('search_started',{category:j,page});
+      const counts={invalid:0,alreadyPublished:0,duplicate:0,recentFamily:0};
       let nodes;
       try { nodes=await shopee.search(keyword,page);successfulSearches++; }
       catch(error) {
         if(error.message!=='shopee_temporary_system') throw error;
-        onLog('category_temporarily_unavailable',{category:j,page});break;
+        onLog('category_temporarily_unavailable',{category:j,page});
+        if(sources)continue;
+        break;
       }
-      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)&&!duplicateOffer(p,history)&&!repeatFamily(p,recent)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword,sourcePage:page,sourceFilters:sources?.[j]});}
-      onLog('search_results',{page,received:nodes.length,eligible:candidates.size,general:!!shopee.keywordUnavailable,categoryId:sources?.[j]?.productCatId,sortType:sources?.[j]?.sortType});
+      for(const n of nodes) {
+        const p=normalize(n,c);
+        if(!p){counts.invalid++;continue;}
+        if(data.products[p.key]||candidates.has(p.key)){counts.alreadyPublished++;continue;}
+        if(duplicateOffer(p,history)){counts.duplicate++;continue;}
+        if(repeatFamily(p,recent)){counts.recentFamily++;continue;}
+        candidates.set(p.key,{...p,category:j,sourceKeyword:keyword,sourcePage:page,sourceFilters:sources?.[j]});
+      }
+      onLog('search_results',{page,received:nodes.length,eligible:candidates.size,...counts,general:!!shopee.keywordUnavailable,categoryId:sources?.[j]?.productCatId,sortType:sources?.[j]?.sortType});
     }
     // All keywords share the same fallback; do not pretend these are different categories.
     if(shopee.keywordUnavailable&&!sources)break;

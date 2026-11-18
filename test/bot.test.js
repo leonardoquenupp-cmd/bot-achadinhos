@@ -32,21 +32,21 @@ test('GitHub ledger CAS passes SHA and rejects conflict without retry',async()=>
 test('unsafe numeric IDs fail closed',()=>assert.equal(normalize({...node,itemId:123456789012345678},c),null));
 
 
-test('fallback caches pages while refresh reads the source page freshly',async()=>{
+test('fallback caches pages while refresh reads exact identifiers freshly',async()=>{
  const api=new Shopee({},c),calls=[];
  api.query=async v=>{calls.push(v);if(v.keyword)throw Error('shopee_temporary_system');return [node];};
  await api.search('cozinha',2);await api.search('moda',2);await api.search('beleza',3);
  assert.equal(calls.length,3);
  assert.equal((await api.refresh({...normalize(node,c),sourcePage:2})).itemId,node.itemId);
- assert.equal(calls.length,4);assert.deepEqual(calls.at(-1),{page:2,limit:50});
+ assert.equal(calls.length,4);assert.deepEqual(calls.at(-1),{itemId:node.itemId,shopId:55,page:1,limit:1});
 });
-test('keyword refresh preserves source page and keyword',async()=>{
+test('refresh uses exact identifiers independently of keyword and pagination',async()=>{
  const api=new Shopee({},c);let received;
  api.query=async v=>{received=v;return [node];};
  await api.refresh({...normalize(node,c),sourcePage:3,sourceKeyword:'papelaria'});
- assert.deepEqual(received,{keyword:'papelaria',page:3,limit:50});
+ assert.deepEqual(received,{itemId:node.itemId,shopId:55,page:1,limit:1});
 });
-test('category selection skips broken keyword search and refreshes the original category after rotation',async()=>{
+test('category selection skips broken keyword search and refreshes exact identifiers after category rotation',async()=>{
  const api=new Shopee({},c),calls=[];
  api.query=async v=>{calls.push(v);return [node];};
  api.setDiscovery({productCatId:100636,sortType:2});
@@ -55,7 +55,7 @@ test('category selection skips broken keyword search and refreshes the original 
  api.setDiscovery({productCatId:100535,sortType:4});
  await api.search('ignored keyword',3);
  await api.refresh({...normalize(node,c),sourcePage:3,sourceFilters:{productCatId:100636,sortType:2}});
- assert.deepEqual(calls.at(-1),{productCatId:100636,sortType:2,page:3,limit:50});
+ assert.deepEqual(calls.at(-1),{itemId:node.itemId,shopId:55,page:1,limit:1});
  assert.equal(calls.length,3);
 });
 test('similar offers beyond the last three publications are excluded',async()=>{

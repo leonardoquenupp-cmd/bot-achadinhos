@@ -11,7 +11,7 @@ export function discoverySources(c, now) {
   const ids=c.discoveryCategoryIds||[];
   if(!ids.length)return null;
   const cycle=Math.floor(now.getTime()/300000);
-  const sortType=[2,4,5][Math.floor(cycle/ids.length)%3];
+  const sortType=[2,4,5][cycle%3];
   return [...Array.from({length:Math.min(3,ids.length)},(_,i)=>({
     productCatId:ids[(cycle*3+i)%ids.length],sortType,
   })),{sortType}];

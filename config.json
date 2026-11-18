@@ -5,7 +5,7 @@
   "paused": false,
   "minRating": 4.5,
   "minSales": 50,
-  "minDiscount": 20,
+  "minDiscount": 10,
   "requestIntervalMs": 2000,
   "pagesPerSearch": 3,
   "discoveryPagePool": 5,

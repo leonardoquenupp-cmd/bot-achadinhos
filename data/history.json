@@ -2356,7 +2356,7 @@
       "messageId": 308
     },
     "1788224334:58259054290": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:09:57",
       "at": "2026-11-18T13:05:20.715Z",
       "fingerprint": [
@@ -2368,7 +2368,8 @@
         "grande",
         "corpo",
         "inteiro"
-      ]
+      ],
+      "messageId": 309
     }
   },
   "slots": {

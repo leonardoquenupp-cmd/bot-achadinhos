@@ -2700,7 +2700,7 @@
       "messageId": 327
     },
     "729366575:58258066970": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:20:20",
       "at": "2026-11-18T23:21:48.951Z",
       "fingerprint": [
@@ -2718,7 +2718,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lk-mtr552nml62rdd",
       "family": "panelas",
-      "department": "cozinha"
+      "department": "cozinha",
+      "messageId": 328
     }
   },
   "slots": {

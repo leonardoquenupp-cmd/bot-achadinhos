@@ -15,9 +15,14 @@ try {
   console.log(JSON.stringify({event:'discovery_schema',args:field?.args||[],errors:!!schema.errors}));
   const categories=await query('{productOfferV2(page:1,limit:50){nodes{productCatIds}}}');
   const ids=[...new Set((categories.data?.productOfferV2?.nodes||[]).flatMap(n=>n.productCatIds||[]))];
-  console.log(JSON.stringify({event:'discovery_categories',ids,errors:!!categories.errors}));
+  const roots=[...new Set((categories.data?.productOfferV2?.nodes||[]).map(n=>n.productCatIds?.[0]).filter(n=>n>0))];
+  console.log(JSON.stringify({event:'discovery_categories',ids,roots,errors:!!categories.errors}));
   for(const sort of [2,4,5]){
     const d=await query(`{productOfferV2(sortType:${sort},page:1,limit:50){nodes{itemId shopId ratingStar sales priceDiscountRate}}}`);
     console.log(JSON.stringify({event:'discovery_sort',sort,received:d.data?.productOfferV2?.nodes?.length||0,errors:!!d.errors}));
+  }
+  for(const category of roots.slice(0,4)){
+    const d=await query(`{productOfferV2(productCatId:${category},sortType:2,page:1,limit:50){nodes{itemId shopId ratingStar sales priceDiscountRate}}}`);
+    console.log(JSON.stringify({event:'discovery_category_test',category,received:d.data?.productOfferV2?.nodes?.length||0,errors:!!d.errors}));
   }
 }catch{console.error(JSON.stringify({event:'discovery_probe_failed'}));process.exitCode=1;}

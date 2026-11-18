@@ -2598,7 +2598,7 @@
       "messageId": 322
     },
     "285946712:4269256171": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:19:45",
       "at": "2026-11-18T22:45:18.771Z",
       "fingerprint": [
@@ -2612,7 +2612,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lr-mudmlj264y6878",
       "family": "pipeta-conta",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 323
     }
   },
   "slots": {

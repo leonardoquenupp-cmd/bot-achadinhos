@@ -62,4 +62,13 @@ Fontes: [Shopee](https://affiliate.shopee.com.br/open_api), [Telegram](https://c
 
 ## Estado da entrega
 
-Código e testes locais, sem ativação externa. Não foram realizadas consulta autenticada Shopee, postagem Telegram ou validação de schedule. Veja VALIDACAO.md.
+Shopee em produção no GitHub Actions, com acionamento externo pelo cron-job.org. A integração experimental do Mercado Livre permanece em uma branch separada e não participa da publicação.
+
+## Variedade e ritmo (18/11/2026)
+
+- Até 180 oportunidades diárias entre 08h e 23h (Brasília), uma por janela de cinco minutos. O intervalo mínimo de quatro minutos tolera pequenas variações do runner, sem recuperar filas em rajada. Não há garantia de preencher todas as janelas.
+- Busca alterna três categorias por ciclo dentre 11 raízes obtidas da API, páginas de 1 a 5 e três ordenações. Categorias temporariamente indisponíveis são ignoradas. A lista geral é uma fonte adicional.
+- Mantém avaliação mínima 4,5 e 50 vendas; desconto mínimo informado pela API passou a 10%. Preços antigos, frete e desconto na legenda continuam dependendo de confirmação.
+- Bloqueia IDs publicados e compara títulos com todo o histórico disponível. Novas entregas também guardam a identidade da foto. Evita a mesma família nas últimas quatro entregas e prioriza departamentos menos recentes. A comparação de títulos é heurística.
+- Revalida o item e a loja por seus IDs exatos imediatamente antes da entrega. Se a consulta direta for recusada pela API, refaz a consulta de origem e exige ambos os IDs, sem reutilizar preços em cache. O histórico persistente, a reserva antes do envio e a proteção para entregas incertas permanecem ativos.
+- Diagnóstico manual `discovery-probe.yml` consulta apenas a Shopee; não possui token Telegram e não publica. As prévias do workflow de ofertas também não enviam mensagens.

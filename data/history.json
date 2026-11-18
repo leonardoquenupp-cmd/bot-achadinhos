@@ -2742,7 +2742,7 @@
       "messageId": 329
     },
     "1058439747:22293667458": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:20:40",
       "at": "2026-11-18T23:42:16.279Z",
       "fingerprint": [
@@ -2757,7 +2757,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m8k6ynton21d33",
       "family": "roupas",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 330
     }
   },
   "slots": {

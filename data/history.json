@@ -2634,7 +2634,7 @@
       "messageId": 324
     },
     "1381191494:22193921882": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:19:55",
       "at": "2026-11-18T22:55:15.975Z",
       "fingerprint": [
@@ -2651,7 +2651,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81ztc-mjtzjkat1xc669",
       "family": "pets",
-      "department": "pets"
+      "department": "pets",
+      "messageId": 325
     }
   },
   "slots": {

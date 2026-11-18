@@ -2260,7 +2260,7 @@
       "messageId": 303
     },
     "1240652277:58208026413": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:08:18",
       "at": "2026-11-18T11:20:20.013Z",
       "fingerprint": [
@@ -2276,7 +2276,8 @@
         "inoxidavel",
         "tampa",
         "canudo"
-      ]
+      ],
+      "messageId": 304
     }
   },
   "slots": {

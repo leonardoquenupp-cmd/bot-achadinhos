@@ -2527,7 +2527,7 @@
       "messageId": 318
     },
     "1640876235:58261800283": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:15:39",
       "at": "2026-11-18T18:40:19.507Z",
       "fingerprint": [
@@ -2541,7 +2541,8 @@
         "cordao",
         "luz",
         "quente"
-      ]
+      ],
+      "messageId": 319
     }
   },
   "slots": {

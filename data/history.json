@@ -2321,7 +2321,7 @@
       "messageId": 306
     },
     "988030305:58219981801": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:09:30",
       "at": "2026-11-18T12:35:20.202Z",
       "fingerprint": [
@@ -2335,7 +2335,8 @@
         "banheiro",
         "vaso",
         "sanitario"
-      ]
+      ],
+      "messageId": 307
     }
   },
   "slots": {

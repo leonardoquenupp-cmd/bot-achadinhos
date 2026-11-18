@@ -2141,7 +2141,7 @@
       "messageId": 296
     },
     "650288332:58268341942": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:21:48",
       "at": "2026-11-18T00:50:31.876Z",
       "fingerprint": [
@@ -2158,7 +2158,8 @@
         "bolinhas",
         "led",
         "gel"
-      ]
+      ],
+      "messageId": 297
     }
   },
   "slots": {

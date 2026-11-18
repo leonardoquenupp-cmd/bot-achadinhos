@@ -2194,7 +2194,7 @@
       "messageId": 299
     },
     "344438002:10353487027": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:22:42",
       "at": "2026-11-18T01:44:23.549Z",
       "fingerprint": [
@@ -2203,7 +2203,8 @@
         "maternidade",
         "bebe",
         "organizador"
-      ]
+      ],
+      "messageId": 300
     }
   },
   "slots": {

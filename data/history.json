@@ -2224,7 +2224,7 @@
       "messageId": 301
     },
     "1644533687:58219045041": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:08:00",
       "at": "2026-11-18T11:00:30.427Z",
       "fingerprint": [
@@ -2238,7 +2238,8 @@
         "tira",
         "grossa",
         "reforcada"
-      ]
+      ],
+      "messageId": 302
     }
   },
   "slots": {

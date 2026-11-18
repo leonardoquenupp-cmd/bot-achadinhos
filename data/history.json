@@ -2448,7 +2448,7 @@
       "messageId": 313
     },
     "413699383:18098318420": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:12:21",
       "at": "2026-11-18T15:25:27.559Z",
       "fingerprint": [
@@ -2458,7 +2458,8 @@
         "livros",
         "estante",
         "decoracao"
-      ]
+      ],
+      "messageId": 314
     }
   },
   "slots": {

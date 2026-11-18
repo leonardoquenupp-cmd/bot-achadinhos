@@ -2207,7 +2207,7 @@
       "messageId": 300
     },
     "410522123:18598742873": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:22:51",
       "at": "2026-11-18T01:55:21.757Z",
       "fingerprint": [
@@ -2220,7 +2220,8 @@
         "ruido",
         "audio",
         "premium"
-      ]
+      ],
+      "messageId": 301
     }
   },
   "slots": {

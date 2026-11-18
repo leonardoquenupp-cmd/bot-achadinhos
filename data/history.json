@@ -2480,7 +2480,7 @@
       "messageId": 315
     },
     "802429275:22199374562": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:12:48",
       "at": "2026-11-18T15:55:25.768Z",
       "fingerprint": [
@@ -2493,7 +2493,8 @@
         "confortavel",
         "secagem",
         "rapida"
-      ]
+      ],
+      "messageId": 316
     }
   },
   "slots": {

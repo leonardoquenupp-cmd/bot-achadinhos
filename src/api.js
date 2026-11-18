@@ -21,7 +21,7 @@ export class Shopee {
   async query(variables) {
     await this.wait(this.c.requestIntervalMs);
     for(let i=0;i<3;i++) {
-      const body=JSON.stringify({query:`query GetProducts($keyword:String,$page:Int,$limit:Int) { productOfferV2(keyword:$keyword,page:$page,limit:$limit) { nodes { ${FIELDS} } } }`,operationName:"GetProducts",variables});
+      const body=JSON.stringify({query:`query GetProducts($keyword:String,$page:Int,$limit:Int,$productCatId:Int,$sortType:Int) { productOfferV2(keyword:$keyword,page:$page,limit:$limit,productCatId:$productCatId,sortType:$sortType) { nodes { ${FIELDS} } } }`,operationName:"GetProducts",variables});
       const t=Math.floor(Date.now()/1000);
       let r;
       try { r=await this.fetcher('https://open-api.affiliate.shopee.com.br/graphql',{method:'POST',headers:{'Content-Type':'application/json',Authorization:`SHA256 Credential=${this.id},Timestamp=${t},Signature=${signature(this.id,this.secret,t,body)}`},body,signal:AbortSignal.timeout(20000)}); }
@@ -61,13 +61,14 @@ export class Shopee {
       return this.generalSearch(page);
     }
   }
+  setDiscovery(filters) { this.discoveryFilters=filters;this.keywordUnavailable=true;this.generalPages=new Map(); }
   async generalSearch(page) {
     this.generalPages ||= new Map();
-    if(!this.generalPages.has(page))this.generalPages.set(page,await this.query({page,limit:50}));
+    if(!this.generalPages.has(page))this.generalPages.set(page,await this.query({...this.discoveryFilters,page,limit:50}));
     return this.generalPages.get(page);
   }
   async refresh(p) { return (await (this.keywordUnavailable
-    ? this.query({page:p.sourcePage||1,limit:50})
+    ? this.query({...p.sourceFilters,page:p.sourcePage||1,limit:50})
     : this.query({keyword:p.sourceKeyword||p.name,page:p.sourcePage||1,limit:50}))).find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId); }
 }
 export class Telegram {

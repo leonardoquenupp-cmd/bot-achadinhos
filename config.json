@@ -8,7 +8,8 @@
   "minDiscount": 20,
   "requestIntervalMs": 2000,
   "pagesPerSearch": 3,
-  "discoveryPagePool": 30,
+  "discoveryPagePool": 5,
+  "discoveryCategoryIds": [100636,100535,100017,100001,100010,100013,102187,100012,100630,100637,100631],
   "keywords": [
     "fone bluetooth",
     "utensilios cozinha",

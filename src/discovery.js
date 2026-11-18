@@ -7,6 +7,15 @@ export function discoveryPages(c, now) {
   const pages=Array.from({length:c.pagesPerSearch},(_,i)=>(cycle*c.pagesPerSearch+i)%pool+1);
   return [...new Set([...pages,1])];
 }
+export function discoverySources(c, now) {
+  const ids=c.discoveryCategoryIds||[];
+  if(!ids.length)return null;
+  const cycle=Math.floor(now.getTime()/300000);
+  const sortType=[2,4,5][Math.floor(cycle/ids.length)%3];
+  return [...Array.from({length:Math.min(3,ids.length)},(_,i)=>({
+    productCatId:ids[(cycle*3+i)%ids.length],sortType,
+  })),{sortType}];
+}
 const groups=[
   ['arvore-natal','decoracao',/arvore.*natal|natal.*arvore/],
   ['luzes-natal','decoracao',/natal|pisca/],

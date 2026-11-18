@@ -46,6 +46,18 @@ test('keyword refresh preserves source page and keyword',async()=>{
  await api.refresh({...normalize(node,c),sourcePage:3,sourceKeyword:'papelaria'});
  assert.deepEqual(received,{keyword:'papelaria',page:3,limit:50});
 });
+test('category selection skips broken keyword search and refreshes the original category after rotation',async()=>{
+ const api=new Shopee({},c),calls=[];
+ api.query=async v=>{calls.push(v);return [node];};
+ api.setDiscovery({productCatId:100636,sortType:2});
+ await api.search('ignored keyword',3);
+ assert.deepEqual(calls[0],{productCatId:100636,sortType:2,page:3,limit:50});
+ api.setDiscovery({productCatId:100535,sortType:4});
+ await api.search('ignored keyword',3);
+ await api.refresh({...normalize(node,c),sourcePage:3,sourceFilters:{productCatId:100636,sortType:2}});
+ assert.deepEqual(calls.at(-1),{productCatId:100636,sortType:2,page:3,limit:50});
+ assert.equal(calls.length,3);
+});
 test('similar offers beyond the last three publications are excluded',async()=>{
  const f=fixture();const {similarityFingerprint}=await import('../src/messages.js');
  const offered={...node,productName:'Fone Bluetooth Sem Fio Recarregavel Premium'};

@@ -1,24 +1,34 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {discoveryPages,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity} from '../src/discovery.js';
+import {discoveryPages,discoverySources,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity} from '../src/discovery.js';
 import {similarityFingerprint} from '../src/messages.js';
 import {execute} from '../src/main.js';
 import {readFile} from 'node:fs/promises';
 const c=JSON.parse(await readFile(new URL('../config.json',import.meta.url)));
 const record=name=>({fingerprint:similarityFingerprint({name}),status:'sent',at:'2026-11-17T12:00:00Z'});
-test('exploration covers all 30 pages despite no deliveries, keeping page one as fallback',()=>{
+test('exploration covers all five available pages despite no deliveries, keeping page one as fallback',()=>{
  const seen=new Set();
  for(let i=0;i<10;i++){
   const pages=discoveryPages(c,new Date(i*300000));
   assert.ok(pages.includes(1));assert.equal(new Set(pages).size,pages.length);
   pages.forEach(p=>seen.add(p));
  }
- assert.equal(seen.size,30);
+ assert.equal(seen.size,5);
  assert.notDeepEqual(discoveryPages(c,new Date(0)),discoveryPages(c,new Date(300000)));
 });
 test('different listings with the same original photo are excluded',()=>{
  assert.ok(duplicateOffer({name:'Outro nome completamente diferente',image:'https://down-br.img.susercontent.com/file/abc?x=2'},
   [{imageIdentity:imageIdentity('https://down-br.img.susercontent.com/file/abc?x=1')}]));
+});
+test('category rotation covers every configured category without publishing or changing cursor',()=>{
+ const ids=new Set(), sorts=new Set();
+ for(let i=0;i<c.discoveryCategoryIds.length*3;i++){
+  const sources=discoverySources(c,new Date(i*300000));
+  assert.equal(sources.length,4);
+  sources.forEach(s=>{if(s.productCatId)ids.add(s.productCatId);sorts.add(s.sortType);});
+ }
+ assert.equal(ids.size,c.discoveryCategoryIds.length);
+ assert.deepEqual([...sorts].sort(),[2,4,5]);
 });
 test('seller title padding does not hide the same product',()=>{
  const old=record('Kit potes vidro hermeticos tampa silicone alimentos');

@@ -3,7 +3,7 @@ import {validateConfig,dueSlot,normalize,caption} from './core.js';
 import {Shopee,Telegram} from './api.js';
 import {State,localLock} from './state.js';
 import {inlineKeyboard,similarityFingerprint} from './messages.js';
-import {discoveryPages,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity,productGroup} from './discovery.js';
+import {discoveryPages,discoverySources,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity,productGroup} from './discovery.js';
 export const log=(event,details={})=>console.log(JSON.stringify({time:new Date().toISOString(),event,...details}));
 export async function execute({c,state,shopee,telegram,preview=false,now=new Date(),onLog=log}) {
   if(c.paused) {onLog('paused');return;}
@@ -13,9 +13,11 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   const history=Object.values(data.products).filter(p=>p.status==='sent');
   const recent=history.slice().sort((a,b)=>Date.parse(b.at)-Date.parse(a.at));
   const pages=discoveryPages(c,now);
+  const sources=shopee.setDiscovery?discoverySources(c,now):null;
   const candidates=new Map();
   let successfulSearches=0;
-  for(let j=0;j<c.keywords.length;j++) {
+  for(let j=0;j<(sources?.length||c.keywords.length);j++) {
+    if(sources)shopee.setDiscovery(sources[j]);
     const keyword=c.keywords[(data.cursor+j)%c.keywords.length];
     for(const page of pages) {
       onLog('search_started',{category:j,page});
@@ -25,11 +27,12 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
         if(error.message!=='shopee_temporary_system') throw error;
         onLog('category_temporarily_unavailable',{category:j,page});break;
       }
-      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)&&!duplicateOffer(p,history)&&!repeatFamily(p,recent)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword,sourcePage:page});}
-      onLog('search_results',{page,received:nodes.length,eligible:candidates.size,general:!!shopee.keywordUnavailable});
+      for(const n of nodes) {const p=normalize(n,c);if(p&&!data.products[p.key]&&!candidates.has(p.key)&&!duplicateOffer(p,history)&&!repeatFamily(p,recent)) candidates.set(p.key,{...p,category:j,sourceKeyword:keyword,sourcePage:page,sourceFilters:sources?.[j]});}
+      onLog('search_results',{page,received:nodes.length,eligible:candidates.size,general:!!shopee.keywordUnavailable,categoryId:sources?.[j]?.productCatId,sortType:sources?.[j]?.sortType});
     }
     // All keywords share the same fallback; do not pretend these are different categories.
-    if(shopee.keywordUnavailable)break;
+    if(shopee.keywordUnavailable&&!sources)break;
+    if(sources&&j>=1&&candidates.size>=30)break;
   }
   if(!successfulSearches)throw Error('shopee_all_searches_failed');
   const sorted=[...candidates.values()].sort((a,b)=>varietyPenalty(a,recent)-varietyPenalty(b,recent)||a.category-b.category||b.score-a.score);

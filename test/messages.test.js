@@ -81,17 +81,17 @@ test('similar recent titles are excluded without weakening exact identity histor
  assert.ok(!similarToRecent({...p,name:'Monitor Samsung Odyssey G5 27 Polegadas 144Hz'},[record]));
  assert.ok(!similarToRecent(p,[{}]));
 });
-test('100 derived slots fill 08:00–23:00 with no simultaneous timestamps',()=>{
- const times=scheduledTimes(validateConfig(c));assert.equal(times.length,100);assert.equal(new Set(times).size,100);assert.equal(times[0],'08:00');assert.equal(times.at(-1),'22:51');
- for(let i=1;i<times.length;i++){const minutes=t=>+t.slice(0,2)*60 + +t.slice(3);assert.equal(minutes(times[i])-minutes(times[i-1]),9);}
+test('180 derived slots fill 08:00–23:00 with no simultaneous timestamps',()=>{
+ const times=scheduledTimes(validateConfig(c));assert.equal(times.length,180);assert.equal(new Set(times).size,180);assert.equal(times[0],'08:00');assert.equal(times.at(-1),'22:55');
+ for(let i=1;i<times.length;i++){const minutes=t=>+t.slice(0,2)*60 + +t.slice(3);assert.equal(minutes(times[i])-minutes(times[i-1]),5);}
  assert.equal(scheduledTimes({...c,dailyLimit:10}).length,10);
 });
 test('delays use latest slot only, gap prevents bursts, and day boundaries match Brasilia',()=>{
- const d=empty();assert.equal(dueSlot(c,d,now),'2026-11-15:08:18');d.slots['2026-11-15:08:18']='x';assert.equal(dueSlot(c,d,now),null);
+ const d=empty();assert.equal(dueSlot(c,d,now),'2026-11-15:08:20');d.slots['2026-11-15:08:20']='x';assert.equal(dueSlot(c,d,now),null);
  assert.equal(dueSlot(c,empty(),new Date('2026-11-15T10:59:00Z')),null);
  assert.equal(dueSlot(c,empty(),new Date('2026-11-16T02:00:00Z')),null);
- const gap=empty();gap.products.x={status:'sent',at:now.toISOString()};assert.equal(dueSlot(c,gap,new Date('2026-11-15T11:31:00Z')),'2026-11-15:08:27');assert.equal(dueSlot(c,gap,new Date('2026-11-15T11:30:00Z')),null);
- assert.equal(dueSlot(c,empty(),new Date('2026-11-15T11:17:00Z')),'2026-11-15:08:09');
+ const gap=empty();gap.products.x={status:'sent',at:now.toISOString()};assert.equal(dueSlot(c,gap,new Date('2026-11-15T11:27:00Z')),'2026-11-15:08:25');assert.equal(dueSlot(c,gap,new Date('2026-11-15T11:25:00Z')),null);
+ assert.equal(dueSlot(c,empty(),new Date('2026-11-15T11:17:00Z')),'2026-11-15:08:15');
 });
 test('every derived slot has a five-minute cron tick inside its tolerance',()=>{
  for(const t of scheduledTimes(c)) {

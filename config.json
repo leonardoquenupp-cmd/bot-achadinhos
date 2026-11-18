@@ -1,6 +1,6 @@
 {
   "timezone": "America/Sao_Paulo",
-  "dailyLimit": 100,
+  "dailyLimit": 180,
   "windowMinutes": 15,
   "paused": false,
   "minRating": 4.5,
@@ -8,6 +8,7 @@
   "minDiscount": 20,
   "requestIntervalMs": 2000,
   "pagesPerSearch": 3,
+  "discoveryPagePool": 30,
   "keywords": [
     "fone bluetooth",
     "utensilios cozinha",
@@ -31,5 +32,5 @@
     "start": "08:00",
     "end": "23:00"
   },
-  "minimumIntervalMinutes": 9
+  "minimumIntervalMinutes": 4
 }

@@ -5,10 +5,11 @@ export function signature(id, secret, timestamp, payload) {
 }
 export function validateConfig(c) {
   new Intl.DateTimeFormat('en', {timeZone:c.timezone}).format();
-  for (const [k,min,max] of [['dailyLimit',1,100],['windowMinutes',1,180],['minRating',0,5],['minSales',0,1e9],['minDiscount',0,99],['requestIntervalMs',1000,60000],['pagesPerSearch',1,5]]) {
+  for (const [k,min,max] of [['dailyLimit',1,180],['windowMinutes',1,180],['minRating',0,5],['minSales',0,1e9],['minDiscount',0,99],['requestIntervalMs',1000,60000],['pagesPerSearch',1,5]]) {
     if (!Number.isFinite(c[k]) || c[k]<min || c[k]>max) throw Error('invalid_config');
   }
   if (!Number.isInteger(c.dailyLimit) || !Number.isInteger(c.pagesPerSearch)) throw Error('invalid_config');
+  if(c.discoveryPagePool!==undefined&&(!Number.isInteger(c.discoveryPagePool)||c.discoveryPagePool<c.pagesPerSearch||c.discoveryPagePool>100))throw Error('invalid_config');
   const timePattern=/^([01]\d|2[0-3]):[0-5]\d$/;
   if(c.times!==undefined && (!Array.isArray(c.times)||!c.times.length||c.times.some(t=>!timePattern.test(t))||new Set(c.times).size!==c.times.length))throw Error('invalid_times');
   if(c.postingWindow) {

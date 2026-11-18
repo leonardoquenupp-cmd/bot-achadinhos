@@ -2761,7 +2761,7 @@
       "messageId": 330
     },
     "233660920:48402066160": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:20:50",
       "at": "2026-11-18T23:51:45.688Z",
       "fingerprint": [
@@ -2774,7 +2774,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-8226n-mhgz0mfq2c5e16",
       "family": "gancho-pesca",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 331
     }
   },
   "slots": {

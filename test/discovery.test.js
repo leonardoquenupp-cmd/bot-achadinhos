@@ -70,3 +70,13 @@ test('temporary revalidation failure skips that source and previews another veri
  assert.deepEqual(calls,['101','102']);
  assert.ok(logs.includes('revalidation_source_temporarily_unavailable'));assert.ok(logs.includes('preview_valid'));
 });
+test('slow search cannot publish after the configured window closes',async()=>{
+ const now=new Date('2026-11-19T01:59:00Z'),events=[];
+ const node={itemId:'100',shopId:'200',productName:'Teclado mecanico gamer RGB',priceMin:50,priceMax:50,
+  ratingStar:4.9,sales:500,priceDiscountRate:30,imageUrl:'https://down-br.img.susercontent.com/file/keyboard',offerLink:'https://s.shopee.com.br/keyboard'};
+ await execute({c,now,clock:()=>new Date('2026-11-19T02:01:00Z'),
+  state:{async load(){return {version:1,products:{},slots:{},cursor:0};},async save(){events.push('save');}},
+  shopee:{keywordUnavailable:true,async search(){return [node];},async refresh(){return node;}},
+  telegram:{async check(){events.push('check');},async send(){events.push('send');}},onLog:()=>{}});
+ assert.deepEqual(events,[]);
+});

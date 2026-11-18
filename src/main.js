@@ -5,10 +5,10 @@ import {State,localLock} from './state.js';
 import {inlineKeyboard,similarityFingerprint} from './messages.js';
 import {discoveryPages,discoverySources,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity,productGroup} from './discovery.js';
 export const log=(event,details={})=>console.log(JSON.stringify({time:new Date().toISOString(),event,...details}));
-export async function execute({c,state,shopee,telegram,preview=false,now=new Date(),onLog=log}) {
+export async function execute({c,state,shopee,telegram,preview=false,now=new Date(),clock=()=>now,onLog=log}) {
   if(c.paused) {onLog('paused');return;}
   const data=await state.load();
-  const slot=dueSlot(c,data,now);
+  let slot=dueSlot(c,data,now);
   if(!slot&&!preview){onLog('outside_window_or_quota');return;}
   const history=Object.values(data.products).filter(p=>p.status==='sent');
   const recent=history.slice().sort((a,b)=>Date.parse(b.at)-Date.parse(a.at));
@@ -66,8 +66,11 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     const text=caption(p);
     if(text.length>1024)continue;
     if(preview){onLog('preview_valid',{caption:text,image:p.image,parse_mode:'HTML',reply_markup:inlineKeyboard(p)});return;}
+    const deliveryTime=clock();
+    slot=dueSlot(c,data,deliveryTime);
+    if(!slot){onLog('delivery_window_or_interval_closed');return;}
     await telegram.check();
-    data.products[p.key]={status:'pending',slot,at:now.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p)};
+    data.products[p.key]={status:'pending',slot,at:deliveryTime.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p)};
     data.slots[slot]=p.key;data.cursor=(data.cursor+candidate.category+1)%c.keywords.length;
     await state.save();
     let messageId;
@@ -95,6 +98,6 @@ export async function main() {
       log('connectivity_ok',{received:nodes.length,eligible:nodes.filter(n=>normalize(n,c)).length});return;
     }
     if(process.env.GITHUB_ACTIONS!=='true'&&!process.argv.includes('--preview')&&!process.argv.includes('--publish'))throw Error('local_publish_requires_flag');
-    await execute({c:diagnostic?{...c,paused:false}:c,state:new State(),shopee,telegram,preview:process.argv.includes('--preview')});
+    await execute({c:diagnostic?{...c,paused:false}:c,state:new State(),shopee,telegram,clock:()=>new Date(),preview:process.argv.includes('--preview')});
   }finally{await release();}
 }

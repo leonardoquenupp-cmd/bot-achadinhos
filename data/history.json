@@ -2655,7 +2655,7 @@
       "messageId": 325
     },
     "1379804016:22798430444": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:20:00",
       "at": "2026-11-18T23:01:19.775Z",
       "fingerprint": [
@@ -2672,7 +2672,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820le-munp2qqwjthd7a",
       "family": "computador",
-      "department": "informatica"
+      "department": "informatica",
+      "messageId": 326
     }
   },
   "slots": {

@@ -2674,6 +2674,29 @@
       "family": "computador",
       "department": "informatica",
       "messageId": 326
+    },
+    "538239917:23399455280": {
+      "status": "pending",
+      "slot": "2026-11-18:20:10",
+      "at": "2026-11-18T23:11:48.805Z",
+      "fingerprint": [
+        "suporte",
+        "chao",
+        "manutencao",
+        "bicicleta",
+        "metal",
+        "resistente",
+        "ajustavel",
+        "63cm",
+        "gancho",
+        "regulavel",
+        "base",
+        "firme",
+        "lavavel"
+      ],
+      "imageIdentity": "/file/br-11134207-820mf-mp2kngeyp5vlaa",
+      "family": "esporte",
+      "department": "esporte"
     }
   },
   "slots": {
@@ -2826,7 +2849,8 @@
     "2026-11-18:19:45": "285946712:4269256171",
     "2026-11-18:19:50": "264956337:19573194649",
     "2026-11-18:19:55": "1381191494:22193921882",
-    "2026-11-18:20:00": "1379804016:22798430444"
+    "2026-11-18:20:00": "1379804016:22798430444",
+    "2026-11-18:20:10": "538239917:23399455280"
   },
-  "cursor": 14
+  "cursor": 1
 }

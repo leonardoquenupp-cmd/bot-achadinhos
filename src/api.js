@@ -68,9 +68,21 @@ export class Shopee {
     return this.generalPages.get(page);
   }
   async refresh(p) {
-    const scalar=id=>Number.isSafeInteger(Number(id))?Number(id):String(id);
-    return (await this.query({itemId:scalar(p.itemId),shopId:scalar(p.shopId),page:1,limit:1}))
-      .find(n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId);
+    const matches=n=>String(n.itemId)===p.itemId&&String(n.shopId)===p.shopId;
+    if(!this.directLookupUnavailable) {
+      const scalar=id=>Number.isSafeInteger(Number(id))?Number(id):String(id);
+      try {
+        const exact=(await this.query({itemId:scalar(p.itemId),shopId:scalar(p.shopId),page:1,limit:1})).find(matches);
+        if(exact)return exact;
+      }catch(error) {
+        if(!['shopee_schema_or_auth','shopee_temporary_system','shopee_schema_type_Int64','shopee_unknown_argument_itemId','shopee_unknown_argument_shopId'].includes(error.message))throw error;
+        this.directLookupUnavailable=true;
+        console.log(JSON.stringify({event:'shopee_direct_lookup_unavailable_using_source'}));
+      }
+    }
+    // Always fetch fresh data and require both exact identifiers; never reuse cached prices.
+    const source=this.keywordUnavailable?{...p.sourceFilters}:{keyword:p.sourceKeyword||p.name};
+    return (await this.query({...source,page:p.sourcePage||1,limit:50})).find(matches);
   }
 }
 export class Telegram {

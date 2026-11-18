@@ -58,6 +58,16 @@ test('category selection skips broken keyword search and refreshes exact identif
  assert.deepEqual(calls.at(-1),{itemId:node.itemId,shopId:55,page:1,limit:1});
  assert.equal(calls.length,3);
 });
+test('unsupported direct lookup falls back to fresh source and never accepts a different product',async()=>{
+ const api=new Shopee({},c),calls=[];
+ api.setDiscovery({productCatId:100636,sortType:2});
+ api.query=async v=>{calls.push(v);if(v.itemId)throw Error('shopee_schema_or_auth');return [node];};
+ const candidate={...normalize(node,c),sourcePage:3,sourceFilters:{productCatId:100535,sortType:4}};
+ assert.equal((await api.refresh(candidate)).itemId,node.itemId);
+ assert.deepEqual(calls.at(-1),{productCatId:100535,sortType:4,page:3,limit:50});
+ await api.refresh(candidate);assert.equal(calls.length,3);
+ api.query=async()=>[{...node,itemId:'999'}];assert.equal(await api.refresh(candidate),undefined);
+});
 test('similar offers beyond the last three publications are excluded',async()=>{
  const f=fixture();const {similarityFingerprint}=await import('../src/messages.js');
  const offered={...node,productName:'Fone Bluetooth Sem Fio Recarregavel Premium'};

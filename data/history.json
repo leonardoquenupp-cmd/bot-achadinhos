@@ -2562,7 +2562,7 @@
       "messageId": 320
     },
     "1258744084:22098118493": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:18:30",
       "at": "2026-11-18T21:35:22.993Z",
       "fingerprint": [
@@ -2575,7 +2575,8 @@
         "limpador",
         "corrente",
         "vonixx"
-      ]
+      ],
+      "messageId": 321
     }
   },
   "slots": {

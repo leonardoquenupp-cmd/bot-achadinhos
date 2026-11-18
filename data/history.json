@@ -2676,7 +2676,7 @@
       "messageId": 326
     },
     "538239917:23399455280": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:20:10",
       "at": "2026-11-18T23:11:48.805Z",
       "fingerprint": [
@@ -2696,7 +2696,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820mf-mp2kngeyp5vlaa",
       "family": "esporte",
-      "department": "esporte"
+      "department": "esporte",
+      "messageId": 327
     }
   },
   "slots": {

@@ -2118,7 +2118,7 @@
       "messageId": 295
     },
     "1003085235:23297493497": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:21:12",
       "at": "2026-11-18T00:17:22.915Z",
       "fingerprint": [
@@ -2137,7 +2137,8 @@
         "eletrico",
         "carregamento",
         "usb"
-      ]
+      ],
+      "messageId": 296
     }
   },
   "slots": {

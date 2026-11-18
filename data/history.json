@@ -2372,7 +2372,7 @@
       "messageId": 309
     },
     "693282950:48216232287": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:10:15",
       "at": "2026-11-18T13:20:20.147Z",
       "fingerprint": [
@@ -2385,7 +2385,8 @@
         "180cm",
         "branca",
         "volumosa"
-      ]
+      ],
+      "messageId": 310
     }
   },
   "slots": {

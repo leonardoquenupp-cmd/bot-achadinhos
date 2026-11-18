@@ -2179,7 +2179,7 @@
       "messageId": 298
     },
     "930489579:58203668922": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:22:24",
       "at": "2026-11-18T01:30:23.358Z",
       "fingerprint": [
@@ -2190,7 +2190,8 @@
         "agua",
         "suco",
         "resistente"
-      ]
+      ],
+      "messageId": 299
     }
   },
   "slots": {

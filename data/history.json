@@ -2339,7 +2339,7 @@
       "messageId": 307
     },
     "1624177702:50467882199": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:09:48",
       "at": "2026-11-18T12:55:18.893Z",
       "fingerprint": [
@@ -2352,7 +2352,8 @@
         "tradicional",
         "decoracao",
         "laruno"
-      ]
+      ],
+      "messageId": 308
     }
   },
   "slots": {

@@ -2462,7 +2462,7 @@
       "messageId": 314
     },
     "807597901:23497309877": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:12:30",
       "at": "2026-11-18T15:35:18.304Z",
       "fingerprint": [
@@ -2476,7 +2476,8 @@
         "recarregavel",
         "usb",
         "cozinha"
-      ]
+      ],
+      "messageId": 315
     }
   },
   "slots": {

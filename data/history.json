@@ -2427,7 +2427,7 @@
       "messageId": 312
     },
     "849672475:58213607752": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:11:18",
       "at": "2026-11-18T14:20:17.752Z",
       "fingerprint": [
@@ -2444,7 +2444,8 @@
         "moderno",
         "drink",
         "coquetel"
-      ]
+      ],
+      "messageId": 313
     }
   },
   "slots": {

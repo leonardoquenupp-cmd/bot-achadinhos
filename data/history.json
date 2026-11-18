@@ -2579,7 +2579,7 @@
       "messageId": 321
     },
     "1516694934:23093943573": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:18:57",
       "at": "2026-11-18T22:05:31.375Z",
       "fingerprint": [
@@ -2594,7 +2594,8 @@
         "carregador",
         "original",
         "anatel"
-      ]
+      ],
+      "messageId": 322
     }
   },
   "slots": {

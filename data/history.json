@@ -2497,7 +2497,7 @@
       "messageId": 316
     },
     "408715442:22998819222": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:12:57",
       "at": "2026-11-18T16:05:16.740Z",
       "fingerprint": [
@@ -2508,7 +2508,8 @@
         "protetora",
         "silicone",
         "antiderrapante"
-      ]
+      ],
+      "messageId": 317
     }
   },
   "slots": {

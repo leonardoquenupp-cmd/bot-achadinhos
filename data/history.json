@@ -2162,7 +2162,7 @@
       "messageId": 297
     },
     "332038931:40350102773": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-17:22:15",
       "at": "2026-11-18T01:15:19.959Z",
       "fingerprint": [
@@ -2175,7 +2175,8 @@
         "cumbuca",
         "oleo",
         "7ml"
-      ]
+      ],
+      "messageId": 298
     }
   },
   "slots": {

@@ -55,3 +55,18 @@ test('fallback pages remain accessible when an earlier explored page is empty; p
   preview:true,now,onLog:event=>logs.push(event)});
  assert.ok(pages.length>1);assert.equal(pages.at(-1),1);assert.ok(logs.includes('preview_valid'));
 });
+test('temporary revalidation failure skips that source and previews another verified product',async()=>{
+ const now=new Date('2026-11-18T12:10:00Z'),firstPage=discoveryPages(c,now)[0];
+ const base={shopId:'200',priceMin:50,priceMax:50,ratingStar:4.9,sales:500,
+  imageUrl:'https://down-br.img.susercontent.com/file/example',offerLink:'https://s.shopee.com.br/example'};
+ const a={...base,itemId:'101',productName:'Teclado mecanico gamer RGB',priceDiscountRate:50};
+ const b={...base,itemId:'102',productName:'Fone Bluetooth Sony sem fio',priceDiscountRate:30};
+ const calls=[],logs=[];
+ await execute({c,now,preview:true,
+  state:{async load(){return {version:1,products:{},slots:{},cursor:0};},async save(){throw Error('must not save');}},
+  shopee:{keywordUnavailable:true,async search(keyword,page){return page===firstPage?[a]:[b];},async refresh(p){
+    calls.push(p.itemId);if(p.itemId==='101')throw Error('shopee_temporary_system');return b;
+  }},telegram:{async send(){throw Error('must not send');}},onLog:event=>logs.push(event)});
+ assert.deepEqual(calls,['101','102']);
+ assert.ok(logs.includes('revalidation_source_temporarily_unavailable'));assert.ok(logs.includes('preview_valid'));
+});

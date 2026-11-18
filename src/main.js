@@ -46,9 +46,21 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
   }
   if(!successfulSearches)throw Error('shopee_all_searches_failed');
   const sorted=[...candidates.values()].sort((a,b)=>varietyPenalty(a,recent)-varietyPenalty(b,recent)||a.category-b.category||b.score-a.score);
-  for(const candidate of sorted.slice(0,12)) {
+  const failedSources=new Set();
+  let refreshAttempts=0;
+  for(const candidate of sorted) {
+    const source=JSON.stringify([candidate.sourceFilters||candidate.sourceKeyword,candidate.sourcePage]);
+    if(failedSources.has(source))continue;
+    if(refreshAttempts++>=12)break;
     onLog('revalidation_started');
-    const fresh=await shopee.refresh(candidate);
+    let fresh;
+    try {fresh=await shopee.refresh(candidate);}
+    catch(error) {
+      if(error.message!=='shopee_temporary_system')throw error;
+      failedSources.add(source);
+      onLog('revalidation_source_temporarily_unavailable');
+      continue;
+    }
     const p=fresh&&normalize(fresh,c);
     if(!p||p.key!==candidate.key||duplicateOffer(p,history)||repeatFamily(p,recent))continue;
     const text=caption(p);

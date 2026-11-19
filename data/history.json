@@ -3784,7 +3784,7 @@
       "messageId": 381
     },
     "332038931:55467913764": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:14:10",
       "at": "2026-11-19T17:12:47.703Z",
       "fingerprint": [
@@ -3797,7 +3797,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lx-mt6qm8bsu03od3",
       "family": "amend-acidificante",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 382
     }
   },
   "slots": {

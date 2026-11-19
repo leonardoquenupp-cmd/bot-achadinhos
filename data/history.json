@@ -3230,7 +3230,7 @@
       "messageId": 353
     },
     "1242044379:20399323829": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:09:30",
       "at": "2026-11-19T12:31:24.525Z",
       "fingerprint": [
@@ -3244,7 +3244,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lz-ms0d4wq8sj5x7b",
       "family": "esporte",
-      "department": "esporte"
+      "department": "esporte",
+      "messageId": 354
     }
   },
   "slots": {

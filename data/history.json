@@ -4648,6 +4648,31 @@
         "affiliateLink": "https://s.shopee.com.br/1BO2SESm5w"
       },
       "messageId": 420
+    },
+    "1235915900:52101643929": {
+      "status": "pending",
+      "slot": "2026-11-19:20:55",
+      "at": "2026-11-19T23:56:41.144Z",
+      "fingerprint": [
+        "super",
+        "cola",
+        "bola",
+        "20ml",
+        "conserta",
+        "bolas",
+        "unidade",
+        "veda",
+        "futebol",
+        "futsal",
+        "outros"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mh6qj0w764n8fe",
+      "family": "super-cola",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "1d9282fe2a7db4b17f25e3a0e322d7440977d65a835c29c8574a331a3bd637af",
+        "affiliateLink": "https://s.shopee.com.br/9zzQmmWLPO"
+      }
     }
   },
   "slots": {
@@ -4895,7 +4920,8 @@
     "2026-11-19:20:15": "328666563:22093672043",
     "2026-11-19:20:25": "411286117:44161199455",
     "2026-11-19:20:35": "1873225232:48215725650",
-    "2026-11-19:20:45": "1531826276:58250033091"
+    "2026-11-19:20:45": "1531826276:58250033091",
+    "2026-11-19:20:55": "1235915900:52101643929"
   },
-  "cursor": 11
+  "cursor": 14
 }

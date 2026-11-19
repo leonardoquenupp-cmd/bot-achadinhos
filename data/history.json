@@ -4282,7 +4282,7 @@
       "messageId": 406
     },
     "1042627371:18299888611": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:18:25",
       "at": "2026-11-19T21:26:52.380Z",
       "fingerprint": [
@@ -4303,7 +4303,9 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-mcmn3uw59h6a31",
       "family": "bone-five",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 407,
+      "reconciliation": "verified_public_telegram_post"
     }
   },
   "slots": {

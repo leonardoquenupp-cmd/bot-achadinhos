@@ -4375,6 +4375,28 @@
         "affiliateLink": "https://s.shopee.com.br/6VPYVTgAwO"
       },
       "messageId": 410
+    },
+    "1527662393:58250639343": {
+      "status": "pending",
+      "slot": "2026-11-19:19:10",
+      "at": "2026-11-19T22:12:37.222Z",
+      "fingerprint": [
+        "espuma",
+        "microfone",
+        "headset",
+        "intercomunicador",
+        "reducao",
+        "ruido",
+        "anti",
+        "puff"
+      ],
+      "imageIdentity": "/file/br-11134207-820ly-mos66gv06jgj9d",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "7cec7f2e192407d9bec86eb17c164b2e00f6cd195b31e7eebddb79b85fec4594",
+        "affiliateLink": "https://s.shopee.com.br/5AuAvmaznl"
+      }
     }
   },
   "slots": {
@@ -4611,7 +4633,8 @@
     "2026-11-19:18:25": "1042627371:18299888611",
     "2026-11-19:18:40": "1520918666:58213117115",
     "2026-11-19:18:50": "519444261:20870199955",
-    "2026-11-19:19:00": "1521699574:23898692172"
+    "2026-11-19:19:00": "1521699574:23898692172",
+    "2026-11-19:19:10": "1527662393:58250639343"
   },
-  "cursor": 2
+  "cursor": 5
 }

@@ -3089,7 +3089,7 @@
       "messageId": 346
     },
     "325954291:19497692224": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:08:20",
       "at": "2026-11-19T11:22:24.880Z",
       "fingerprint": [
@@ -3102,7 +3102,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81z1k-me1r8fnxc2dc92",
       "family": "roupas",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 347
     }
   },
   "slots": {

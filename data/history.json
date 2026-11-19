@@ -3986,7 +3986,7 @@
       "messageId": 391
     },
     "526596865:23097303590": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:15:45",
       "at": "2026-11-19T18:46:19.229Z",
       "fingerprint": [
@@ -4005,7 +4005,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-824g9-mfcqeby0z7d466",
       "family": "papelaria",
-      "department": "papelaria"
+      "department": "papelaria",
+      "messageId": 392
     }
   },
   "slots": {

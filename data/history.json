@@ -2801,6 +2801,24 @@
       "family": "ferramentas",
       "department": "ferramentas",
       "messageId": 332
+    },
+    "314477428:58270100155": {
+      "status": "pending",
+      "slot": "2026-11-18:21:10",
+      "at": "2026-11-19T00:11:53.531Z",
+      "fingerprint": [
+        "bolinhas",
+        "natal",
+        "personalizadas",
+        "foto",
+        "enfeite",
+        "arvore",
+        "decoracao",
+        "natalina"
+      ],
+      "imageIdentity": "/file/br-11134207-820lr-mu6c88t2x8n714",
+      "family": "arvore-natal",
+      "department": "decoracao"
     }
   },
   "slots": {
@@ -2959,7 +2977,8 @@
     "2026-11-18:20:30": "1430626556:22198112325",
     "2026-11-18:20:40": "1058439747:22293667458",
     "2026-11-18:20:50": "233660920:48402066160",
-    "2026-11-18:21:00": "392202270:19697980846"
+    "2026-11-18:21:00": "392202270:19697980846",
+    "2026-11-18:21:10": "314477428:58270100155"
   },
-  "cursor": 12
+  "cursor": 0
 }

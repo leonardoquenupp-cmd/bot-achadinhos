@@ -2982,7 +2982,7 @@
       "messageId": 341
     },
     "415175805:20199713818": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:22:30",
       "at": "2026-11-19T01:31:22.237Z",
       "fingerprint": [
@@ -2997,7 +2997,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m94shi4qyr0902",
       "family": "computador",
-      "department": "informatica"
+      "department": "informatica",
+      "messageId": 342
     }
   },
   "slots": {

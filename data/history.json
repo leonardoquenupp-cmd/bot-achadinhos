@@ -3711,7 +3711,7 @@
       "messageId": 377
     },
     "330690685:22798449853": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:13:30",
       "at": "2026-11-19T16:31:22.465Z",
       "fingerprint": [
@@ -3723,7 +3723,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m97qla6kj9xe8c",
       "family": "automotivo",
-      "department": "automotivo"
+      "department": "automotivo",
+      "messageId": 378
     }
   },
   "slots": {

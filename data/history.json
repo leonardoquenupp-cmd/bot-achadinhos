@@ -4049,7 +4049,7 @@
       "messageId": 394
     },
     "1921399168:58217626503": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:16:15",
       "at": "2026-11-19T19:16:31.663Z",
       "fingerprint": [
@@ -4065,7 +4065,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-825b6-msrflnne6qys46",
       "family": "utensilios",
-      "department": "cozinha"
+      "department": "cozinha",
+      "messageId": 395
     }
   },
   "slots": {

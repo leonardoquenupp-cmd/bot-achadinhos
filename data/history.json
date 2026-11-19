@@ -4398,6 +4398,29 @@
         "affiliateLink": "https://s.shopee.com.br/5AuAvmaznl"
       },
       "messageId": 411
+    },
+    "1006215031:26403330394": {
+      "status": "pending",
+      "slot": "2026-11-19:19:20",
+      "at": "2026-11-19T22:22:05.341Z",
+      "fingerprint": [
+        "oculos",
+        "sol",
+        "esportivos",
+        "polarizados",
+        "masculinos",
+        "ciclismo",
+        "pesca",
+        "protecao",
+        "moda"
+      ],
+      "imageIdentity": "/file/sg-11134201-823rd-mp4mffedebr4d0",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "c7152c051e78f18c3d20d6ed983d19ee132f389ab15da4b21d8f93f5ef535139",
+        "affiliateLink": "https://s.shopee.com.br/qlCVBzBMh"
+      }
     }
   },
   "slots": {
@@ -4635,7 +4658,8 @@
     "2026-11-19:18:40": "1520918666:58213117115",
     "2026-11-19:18:50": "519444261:20870199955",
     "2026-11-19:19:00": "1521699574:23898692172",
-    "2026-11-19:19:10": "1527662393:58250639343"
+    "2026-11-19:19:10": "1527662393:58250639343",
+    "2026-11-19:19:20": "1006215031:26403330394"
   },
-  "cursor": 5
+  "cursor": 9
 }

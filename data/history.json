@@ -4308,7 +4308,7 @@
       "reconciliation": "verified_public_telegram_post"
     },
     "1520918666:58213117115": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:18:40",
       "at": "2026-11-19T21:42:18.823Z",
       "fingerprint": [
@@ -4322,7 +4322,8 @@
       ],
       "imageIdentity": "/file/br-11134201-820lx-mqx4zg1u598l93",
       "family": "calcados",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 408
     }
   },
   "slots": {

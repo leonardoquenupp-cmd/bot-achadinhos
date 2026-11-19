@@ -2938,7 +2938,7 @@
       "messageId": 339
     },
     "359240167:23998679954": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:22:15",
       "at": "2026-11-19T01:16:18.673Z",
       "fingerprint": [
@@ -2957,7 +2957,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rdxk-mbnztwovciyd11",
       "family": "beleza",
-      "department": "beleza"
+      "department": "beleza",
+      "messageId": 340
     }
   },
   "slots": {

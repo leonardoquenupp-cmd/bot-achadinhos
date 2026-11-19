@@ -3633,7 +3633,7 @@
       "messageId": 373
     },
     "1045085918:57519556993": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:12:50",
       "at": "2026-11-19T15:52:18.427Z",
       "fingerprint": [
@@ -3647,7 +3647,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-825ao-muj8itt4yjnq19",
       "family": "creme-dental",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 374
     }
   },
   "slots": {

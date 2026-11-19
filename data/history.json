@@ -3307,6 +3307,26 @@
       "family": "cama-banho",
       "department": "casa",
       "messageId": 357
+    },
+    "1917759660:58218877849": {
+      "status": "pending",
+      "slot": "2026-11-19:10:10",
+      "at": "2026-11-19T13:11:53.508Z",
+      "fingerprint": [
+        "nuveo",
+        "babuche",
+        "masculino",
+        "plataforma",
+        "eva",
+        "antiderrapante",
+        "leve",
+        "respiravel",
+        "dia",
+        "trabalho"
+      ],
+      "imageIdentity": "/file/br-11134207-820m2-mthxxwyzxo8ze3",
+      "family": "nuveo-babuche",
+      "department": "outros"
     }
   },
   "slots": {
@@ -3490,7 +3510,8 @@
     "2026-11-19:09:30": "1242044379:20399323829",
     "2026-11-19:09:40": "526443323:10688323091",
     "2026-11-19:09:50": "1322239149:23194398000",
-    "2026-11-19:10:00": "1655354747:58251498745"
+    "2026-11-19:10:00": "1655354747:58251498745",
+    "2026-11-19:10:10": "1917759660:58218877849"
   },
-  "cursor": 11
+  "cursor": 15
 }

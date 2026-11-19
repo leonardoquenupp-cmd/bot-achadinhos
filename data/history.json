@@ -4519,6 +4519,30 @@
         "affiliateLink": "https://s.shopee.com.br/4B1eF7Byn7"
       },
       "messageId": 415
+    },
+    "1269019626:20798031398": {
+      "status": "pending",
+      "slot": "2026-11-19:20:10",
+      "at": "2026-11-19T23:11:44.229Z",
+      "fingerprint": [
+        "vestido",
+        "feminino",
+        "curto",
+        "rodado",
+        "camponesa",
+        "alcinha",
+        "estampado",
+        "bojo",
+        "forro",
+        "regulavel"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhkgczey3h8h38",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "65df64f718d5e8764fd20a48ea6863f0e1b7899aa233791da53c359205cbd68c",
+        "affiliateLink": "https://s.shopee.com.br/3Vlx0myKz7"
+      }
     }
   },
   "slots": {
@@ -4761,7 +4785,8 @@
     "2026-11-19:19:25": "1381191494:58268058363",
     "2026-11-19:19:35": "1241281618:20098202552",
     "2026-11-19:19:45": "1453485282:58210700708",
-    "2026-11-19:20:00": "418205294:22893054360"
+    "2026-11-19:20:00": "418205294:22893054360",
+    "2026-11-19:20:10": "1269019626:20798031398"
   },
-  "cursor": 4
+  "cursor": 5
 }

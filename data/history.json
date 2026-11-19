@@ -4599,9 +4599,9 @@
       "messageId": 418
     },
     "1873225232:48215725650": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:20:35",
-      "at": "2026-11-19T23:37:09.400Z",
+      "at": "2026-11-19T23:37:12.839Z",
       "fingerprint": [
         "cadarcos",
         "elasticos",
@@ -4622,7 +4622,8 @@
       "receipt": {
         "captionHash": "233056566ad8a3c4fc62bfd422fbe658e099da7a158541ce6f3bbfe3b00ffb4b",
         "affiliateLink": "https://s.shopee.com.br/3B96Yovlrp"
-      }
+      },
+      "messageId": 419
     }
   },
   "slots": {

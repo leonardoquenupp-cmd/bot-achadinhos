@@ -2776,6 +2776,30 @@
       "family": "gancho-pesca",
       "department": "outros",
       "messageId": 331
+    },
+    "392202270:19697980846": {
+      "status": "pending",
+      "slot": "2026-11-18:21:00",
+      "at": "2026-11-19T00:01:34.691Z",
+      "fingerprint": [
+        "ventilador",
+        "luminaria",
+        "led",
+        "pas",
+        "lampada",
+        "soquete",
+        "bocal",
+        "e27",
+        "teto",
+        "cores",
+        "luz",
+        "branco",
+        "amarelo",
+        "bivolt"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhqkzkrt4w03ba",
+      "family": "ferramentas",
+      "department": "ferramentas"
     }
   },
   "slots": {
@@ -2933,7 +2957,8 @@
     "2026-11-18:20:20": "729366575:58258066970",
     "2026-11-18:20:30": "1430626556:22198112325",
     "2026-11-18:20:40": "1058439747:22293667458",
-    "2026-11-18:20:50": "233660920:48402066160"
+    "2026-11-18:20:50": "233660920:48402066160",
+    "2026-11-18:21:00": "392202270:19697980846"
   },
-  "cursor": 11
+  "cursor": 12
 }

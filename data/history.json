@@ -4225,7 +4225,7 @@
       "messageId": 403
     },
     "264956337:15296424390": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:17:50",
       "at": "2026-11-19T20:52:05.365Z",
       "fingerprint": [
@@ -4239,7 +4239,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-23020-kkoddsp4xlnv02",
       "family": "1pcs-cilios",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 404
     }
   },
   "slots": {

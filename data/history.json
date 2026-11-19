@@ -4448,6 +4448,30 @@
         "affiliateLink": "https://s.shopee.com.br/5q9sSGVMcS"
       },
       "reason": "photo_unavailable"
+    },
+    "1241281618:20098202552": {
+      "status": "pending",
+      "slot": "2026-11-19:19:35",
+      "at": "2026-11-19T22:37:14.575Z",
+      "fingerprint": [
+        "cadeira",
+        "gamer",
+        "ergonomica",
+        "escritorio",
+        "casa",
+        "universitario",
+        "reclinacao",
+        "altura",
+        "ajustavel",
+        "f19"
+      ],
+      "imageIdentity": "/file/br-11134207-820m8-mu7744w88r9c6f",
+      "family": "cadeira-gamer",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "1469128effe971d8167dde6e6fd05051d14958274680f0e49a4f64862d3af7c5",
+        "affiliateLink": "https://s.shopee.com.br/9zzRQ2Z5L0"
+      }
     }
   },
   "slots": {
@@ -4687,7 +4711,8 @@
     "2026-11-19:19:00": "1521699574:23898692172",
     "2026-11-19:19:10": "1527662393:58250639343",
     "2026-11-19:19:20": "1006215031:26403330394",
-    "2026-11-19:19:25": "1381191494:58268058363"
+    "2026-11-19:19:25": "1381191494:58268058363",
+    "2026-11-19:19:35": "1241281618:20098202552"
   },
-  "cursor": 12
+  "cursor": 0
 }

@@ -2778,7 +2778,7 @@
       "messageId": 331
     },
     "392202270:19697980846": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:21:00",
       "at": "2026-11-19T00:01:34.691Z",
       "fingerprint": [
@@ -2799,7 +2799,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81z1k-mhqkzkrt4w03ba",
       "family": "ferramentas",
-      "department": "ferramentas"
+      "department": "ferramentas",
+      "messageId": 332
     }
   },
   "slots": {

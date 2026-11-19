@@ -4450,9 +4450,9 @@
       "reason": "photo_unavailable"
     },
     "1241281618:20098202552": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:19:35",
-      "at": "2026-11-19T22:37:14.575Z",
+      "at": "2026-11-19T22:37:17.369Z",
       "fingerprint": [
         "cadeira",
         "gamer",
@@ -4471,7 +4471,8 @@
       "receipt": {
         "captionHash": "1469128effe971d8167dde6e6fd05051d14958274680f0e49a4f64862d3af7c5",
         "affiliateLink": "https://s.shopee.com.br/9zzRQ2Z5L0"
-      }
+      },
+      "messageId": 413
     }
   },
   "slots": {

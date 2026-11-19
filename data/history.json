@@ -3902,6 +3902,28 @@
       "family": "cartela-100",
       "department": "outros",
       "messageId": 387
+    },
+    "526596865:22293730893": {
+      "status": "pending",
+      "slot": "2026-11-19:15:00",
+      "at": "2026-11-19T18:01:38.037Z",
+      "fingerprint": [
+        "termometro",
+        "digital",
+        "infravermelho",
+        "sem",
+        "contato",
+        "medicao",
+        "precisa",
+        "bebes",
+        "adultos",
+        "lcd",
+        "pratico",
+        "fang"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rcdd-m6fyri22zzo4cb",
+      "family": "bebes",
+      "department": "bebes"
     }
   },
   "slots": {
@@ -4115,7 +4137,8 @@
     "2026-11-19:14:30": "922783555:23698311645",
     "2026-11-19:14:35": "378129323:22898221954",
     "2026-11-19:14:40": "1195616626:21797761113",
-    "2026-11-19:14:50": "725120777:42924180809"
+    "2026-11-19:14:50": "725120777:42924180809",
+    "2026-11-19:15:00": "526596865:22293730893"
   },
-  "cursor": 1
+  "cursor": 2
 }

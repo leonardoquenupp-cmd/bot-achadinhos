@@ -3575,7 +3575,7 @@
       "messageId": 370
     },
     "1502862522:58211596691": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:12:20",
       "at": "2026-11-19T15:22:33.018Z",
       "fingerprint": [
@@ -3592,7 +3592,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lp-mtigoarlkwsg92",
       "family": "roupas",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 371
     }
   },
   "slots": {

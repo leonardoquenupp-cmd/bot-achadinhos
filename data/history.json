@@ -2901,7 +2901,7 @@
       "messageId": 337
     },
     "1106688191:19299193168": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:21:55",
       "at": "2026-11-19T00:57:26.970Z",
       "fingerprint": [
@@ -2914,7 +2914,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m1rgfes21okqfb",
       "family": "botoes-fogao",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 338
     }
   },
   "slots": {

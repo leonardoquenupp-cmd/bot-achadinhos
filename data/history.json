@@ -3285,6 +3285,27 @@
       "family": "garrafas",
       "department": "cozinha",
       "messageId": 356
+    },
+    "1655354747:58251498745": {
+      "status": "pending",
+      "slot": "2026-11-19:10:00",
+      "at": "2026-11-19T13:02:26.311Z",
+      "fingerprint": [
+        "jornal",
+        "tapete",
+        "higienico",
+        "grande",
+        "folhas",
+        "biodegradavel",
+        "pet",
+        "descartavel",
+        "otimo",
+        "custo",
+        "beneficio"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhut3bthr4ee26",
+      "family": "cama-banho",
+      "department": "casa"
     }
   },
   "slots": {
@@ -3467,7 +3488,8 @@
     "2026-11-19:09:20": "1146151118:28719742294",
     "2026-11-19:09:30": "1242044379:20399323829",
     "2026-11-19:09:40": "526443323:10688323091",
-    "2026-11-19:09:50": "1322239149:23194398000"
+    "2026-11-19:09:50": "1322239149:23194398000",
+    "2026-11-19:10:00": "1655354747:58251498745"
   },
-  "cursor": 10
+  "cursor": 11
 }

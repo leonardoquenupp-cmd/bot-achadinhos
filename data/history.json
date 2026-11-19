@@ -2820,6 +2820,25 @@
       "family": "arvore-natal",
       "department": "decoracao",
       "messageId": 333
+    },
+    "572747099:21597635635": {
+      "status": "pending",
+      "slot": "2026-11-18:21:15",
+      "at": "2026-11-19T00:16:55.835Z",
+      "fingerprint": [
+        "colchao",
+        "pneumatico",
+        "anti",
+        "escaras",
+        "airplus",
+        "dellamed",
+        "motor",
+        "acamados",
+        "hospitalar"
+      ],
+      "imageIdentity": "/file/br-11134207-820m8-mn2731s6bxfo6f",
+      "family": "automotivo",
+      "department": "automotivo"
     }
   },
   "slots": {
@@ -2979,7 +2998,8 @@
     "2026-11-18:20:40": "1058439747:22293667458",
     "2026-11-18:20:50": "233660920:48402066160",
     "2026-11-18:21:00": "392202270:19697980846",
-    "2026-11-18:21:10": "314477428:58270100155"
+    "2026-11-18:21:10": "314477428:58270100155",
+    "2026-11-18:21:15": "572747099:21597635635"
   },
-  "cursor": 0
+  "cursor": 2
 }

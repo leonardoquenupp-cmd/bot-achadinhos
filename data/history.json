@@ -2959,6 +2959,26 @@
       "family": "beleza",
       "department": "beleza",
       "messageId": 340
+    },
+    "842229983:40384194692": {
+      "status": "pending",
+      "slot": "2026-11-18:22:20",
+      "at": "2026-11-19T01:22:16.643Z",
+      "fingerprint": [
+        "ajustador",
+        "tesoura",
+        "cabeleireiro",
+        "ferramenta",
+        "ajuste",
+        "animais",
+        "estimacao",
+        "peca",
+        "pano",
+        "limpeza"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-msp6v1t12s5mc6",
+      "family": "ferramentas",
+      "department": "ferramentas"
     }
   },
   "slots": {
@@ -3125,7 +3145,8 @@
     "2026-11-18:21:45": "1339057789:56206811201",
     "2026-11-18:21:55": "1106688191:19299193168",
     "2026-11-18:22:05": "1760687231:58211157047",
-    "2026-11-18:22:15": "359240167:23998679954"
+    "2026-11-18:22:15": "359240167:23998679954",
+    "2026-11-18:22:20": "842229983:40384194692"
   },
-  "cursor": 10
+  "cursor": 11
 }

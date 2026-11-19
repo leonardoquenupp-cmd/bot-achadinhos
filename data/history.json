@@ -4184,7 +4184,7 @@
       "messageId": 401
     },
     "797027700:17293601216": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:17:35",
       "at": "2026-11-19T20:36:47.929Z",
       "fingerprint": [
@@ -4199,7 +4199,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7qvdh-lepx4ueqksvna3",
       "family": "pets",
-      "department": "pets"
+      "department": "pets",
+      "messageId": 402
     }
   },
   "slots": {

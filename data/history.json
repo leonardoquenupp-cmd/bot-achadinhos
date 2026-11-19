@@ -3613,7 +3613,7 @@
       "messageId": 372
     },
     "332038931:19299386855": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:12:40",
       "at": "2026-11-19T15:41:30.755Z",
       "fingerprint": [
@@ -3629,7 +3629,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rdwj-m0c4n49e20mo25",
       "family": "progressiva-nao",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 373
     }
   },
   "slots": {

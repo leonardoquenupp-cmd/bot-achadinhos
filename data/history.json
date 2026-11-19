@@ -3727,7 +3727,7 @@
       "messageId": 378
     },
     "1393644393:23598944009": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:13:40",
       "at": "2026-11-19T16:42:10.385Z",
       "fingerprint": [
@@ -3741,7 +3741,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81z1k-mf8mg7mou1on3d",
       "family": "fone",
-      "department": "eletronicos"
+      "department": "eletronicos",
+      "messageId": 379
     }
   },
   "slots": {

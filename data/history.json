@@ -4262,7 +4262,7 @@
       "messageId": 405
     },
     "1343438067:18399868455": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:18:15",
       "at": "2026-11-19T21:16:28.000Z",
       "fingerprint": [
@@ -4278,7 +4278,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rdxx-mcbya38s6fzl91",
       "family": "brinquedos",
-      "department": "brinquedos"
+      "department": "brinquedos",
+      "messageId": 406
     }
   },
   "slots": {

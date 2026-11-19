@@ -3904,7 +3904,7 @@
       "messageId": 387
     },
     "526596865:22293730893": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:15:00",
       "at": "2026-11-19T18:01:38.037Z",
       "fingerprint": [
@@ -3923,7 +3923,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rcdd-m6fyri22zzo4cb",
       "family": "bebes",
-      "department": "bebes"
+      "department": "bebes",
+      "messageId": 388
     }
   },
   "slots": {

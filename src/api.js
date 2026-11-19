@@ -1,5 +1,6 @@
 import { signature, sleep } from './core.js';
 import { inlineKeyboard } from './messages.js';
+import { findReceipt } from './receipts.js';
 export class SafeError extends Error { constructor(code,detail){super(code);this.detail=detail;} }
 export async function readRequest(url, options={}, {fetcher=fetch, wait=sleep, attempts=3}={}) {
   for(let i=0;i<attempts;i++) {
@@ -93,11 +94,26 @@ export class Telegram {
     const member=await readRequest(`https://api.telegram.org/bot${this.token}/getChatMember`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat,user_id:me.result.id})},{fetcher:this.fetcher});
     if(!member.ok||!['administrator','creator'].includes(member.result.status)||member.result.can_post_messages===false) throw new SafeError('telegram_permissions');
   }
+  async reconcile(pending) {
+    if(!pending.receipt)return null;
+    const chat=await readRequest(`https://api.telegram.org/bot${this.token}/getChat`,{
+      method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat}),
+    },{fetcher:this.fetcher});
+    const username=chat.ok&&chat.result?.username;
+    if(typeof username!=='string'||!/^\w{5,32}$/.test(username))return null;
+    let html;
+    try {
+      const response=await this.fetcher(`https://t.me/s/${username}`,{signal:AbortSignal.timeout(20000)});
+      if(!response.ok)return null;
+      html=await response.text();
+    }catch{return null;}
+    return findReceipt(html,username,pending);
+  }
   async send(p,caption) {
     for(let i=0;i<3;i++) {
       let r,data;
       try {
-        r=await this.fetcher(`https://api.telegram.org/bot${this.token}/sendPhoto`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat,photo:p.image,caption,parse_mode:"HTML",show_caption_above_media:false,reply_markup:inlineKeyboard(p)}),signal:AbortSignal.timeout(25000)});
+        r=await this.fetcher(`https://api.telegram.org/bot${this.token}/sendPhoto`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:this.chat,photo:p.image,caption,parse_mode:"HTML",show_caption_above_media:false,reply_markup:inlineKeyboard(p)}),signal:AbortSignal.timeout(90000)});
         data=await r.json();
       } catch { throw new SafeError('telegram_ambiguous'); }
       if(r.ok&&data.ok&&Number.isInteger(data.result?.message_id)) return data.result.message_id;

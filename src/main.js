@@ -3,11 +3,30 @@ import {validateConfig,dueSlot,normalize,caption} from './core.js';
 import {Shopee,Telegram} from './api.js';
 import {State,localLock} from './state.js';
 import {inlineKeyboard,similarityFingerprint} from './messages.js';
+import {captionHash} from './receipts.js';
 import {discoveryPages,discoverySources,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity,productGroup} from './discovery.js';
 export const log=(event,details={})=>console.log(JSON.stringify({time:new Date().toISOString(),event,...details}));
 export async function execute({c,state,shopee,telegram,preview=false,now=new Date(),clock=()=>now,onLog=log}) {
   if(c.paused) {onLog('paused');return;}
   const data=await state.load();
+  for(const [key,pending] of Object.entries(data.products).filter(([,p])=>p.status==='pending')) {
+    let receipt;
+    if(!preview&&telegram.reconcile) {
+      try {receipt=await telegram.reconcile(pending);}
+      catch(error) {
+        if(!['read_network','invalid_json','rate_limit_long'].includes(error.message)&&
+          !/^read_http_(429|5\d\d)$/.test(error.message))throw error;
+        onLog('delivery_receipt_temporarily_unavailable');
+      }
+    }
+    if(!receipt) {
+      onLog('delivery_awaiting_confirmation',{product:key});
+      return; // Existing uncertainty is a blocked cycle, not a new failure every five minutes.
+    }
+    pending.status='sent';pending.messageId=receipt.messageId;pending.at=receipt.publishedAt;
+    pending.reconciliation='verified_public_telegram_post';
+    await state.save();onLog('delivery_reconciled',{product:key,messageId:receipt.messageId});
+  }
   let slot=dueSlot(c,data,now);
   if(!slot&&!preview){onLog('outside_window_or_quota');return;}
   const history=Object.values(data.products).filter(p=>p.status==='sent');
@@ -70,7 +89,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     slot=dueSlot(c,data,deliveryTime);
     if(!slot){onLog('delivery_window_or_interval_closed');return;}
     await telegram.check();
-    data.products[p.key]={status:'pending',slot,at:deliveryTime.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p)};
+    data.products[p.key]={status:'pending',slot,at:deliveryTime.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p),receipt:{captionHash:captionHash(text),affiliateLink:p.link}};
     data.slots[slot]=p.key;data.cursor=(data.cursor+candidate.category+1)%c.keywords.length;
     await state.save();
     let messageId;
@@ -80,7 +99,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
       data.products[p.key].status='skipped';data.products[p.key].reason='photo_unavailable';
       await state.save();onLog('skipped_unavailable_photo',{product:p.key});return;
     }
-    data.products[p.key].status='sent';data.products[p.key].messageId=messageId;
+    data.products[p.key].status='sent';data.products[p.key].messageId=messageId;data.products[p.key].at=clock().toISOString();
     await state.save();onLog('published',{product:p.key,messageId});return;
   }
   onLog('no_eligible_offers');

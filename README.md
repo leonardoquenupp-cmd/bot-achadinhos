@@ -72,3 +72,16 @@ Shopee em produção no GitHub Actions, com acionamento externo pelo cron-job.or
 - Bloqueia IDs publicados e compara títulos com todo o histórico disponível. Novas entregas também guardam a identidade da foto. Evita a mesma família nas últimas quatro entregas e prioriza departamentos menos recentes. A comparação de títulos é heurística.
 - Revalida o item e a loja por seus IDs exatos imediatamente antes da entrega. Se a consulta direta for recusada pela API, refaz a consulta de origem e exige ambos os IDs, sem reutilizar preços em cache. O histórico persistente, a reserva antes do envio e a proteção para entregas incertas permanecem ativos.
 - Diagnóstico manual `discovery-probe.yml` consulta apenas a Shopee; não possui token Telegram e não publica. As prévias do workflow de ofertas também não enviam mensagens.
+
+
+## Recuperação de entrega incerta (19/11/2026)
+
+O envio de foto aguarda até 90 segundos. Uma falha de comunicação nunca causa reenvio automático.
+Novas reservas guardam um resumo criptográfico da legenda e o link de afiliado. No ciclo seguinte,
+o bot pode confirmar a entrega no canal público, exigindo legenda, botão, foto, canal e horário
+compatíveis e uma única mensagem correspondente, antes de atualizar o histórico e retomar.
+Se não houver prova, a reserva continua bloqueando novos envios; os ciclos registram
+`delivery_awaiting_confirmation`, sem repetir a mesma falha por e-mail a cada cinco minutos.
+A falha inicial continua sendo notificada. Novos erros de autenticação, estado ou código
+continuam falhando normalmente. Canais privados e reservas antigas sem os dados de conferência
+precisam de revisão manual; nunca são considerados entregues por suposição.

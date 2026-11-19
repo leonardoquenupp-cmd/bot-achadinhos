@@ -3434,6 +3434,26 @@
       "family": "beleza",
       "department": "beleza",
       "messageId": 363
+    },
+    "681967866:41571413330": {
+      "status": "pending",
+      "slot": "2026-11-19:11:10",
+      "at": "2026-11-19T14:12:01.691Z",
+      "fingerprint": [
+        "camiseta",
+        "natal",
+        "hohoho",
+        "casual",
+        "masculina",
+        "feminina",
+        "elegante",
+        "lancamento",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mf2hcedhbeo708",
+      "family": "luzes-natal",
+      "department": "decoracao"
     }
   },
   "slots": {
@@ -3623,7 +3643,8 @@
     "2026-11-19:10:35": "1464624047:23893703937",
     "2026-11-19:10:45": "627750190:18999727561",
     "2026-11-19:10:50": "874603044:22892292953",
-    "2026-11-19:11:00": "1766995800:58269003830"
+    "2026-11-19:11:00": "1766995800:58269003830",
+    "2026-11-19:11:10": "681967866:41571413330"
   },
-  "cursor": 13
+  "cursor": 15
 }

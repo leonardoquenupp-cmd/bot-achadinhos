@@ -2883,7 +2883,7 @@
       "messageId": 336
     },
     "1339057789:56206811201": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:21:45",
       "at": "2026-11-19T00:46:45.653Z",
       "fingerprint": [
@@ -2897,7 +2897,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lx-mt46fiv12bk6bf",
       "family": "cama-banho",
-      "department": "casa"
+      "department": "casa",
+      "messageId": 337
     }
   },
   "slots": {

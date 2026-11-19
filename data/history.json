@@ -4326,9 +4326,9 @@
       "messageId": 408
     },
     "519444261:20870199955": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:18:50",
-      "at": "2026-11-19T21:51:47.848Z",
+      "at": "2026-11-19T21:51:52.397Z",
       "fingerprint": [
         "4everu",
         "atadura",
@@ -4346,7 +4346,8 @@
       "receipt": {
         "captionHash": "26e5c75a22a575e21b8b0560f16d183c5ca5d9046399e265b305404458b5dbce",
         "affiliateLink": "https://s.shopee.com.br/30pgWmpORW"
-      }
+      },
+      "messageId": 409
     }
   },
   "slots": {

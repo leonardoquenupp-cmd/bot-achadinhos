@@ -3866,7 +3866,7 @@
       "messageId": 385
     },
     "1195616626:21797761113": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:14:40",
       "at": "2026-11-19T17:43:28.109Z",
       "fingerprint": [
@@ -3881,7 +3881,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m5daflfanyvkf8",
       "family": "shorts-feminino",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 386
     }
   },
   "slots": {

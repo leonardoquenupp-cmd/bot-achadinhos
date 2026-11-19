@@ -3266,7 +3266,7 @@
       "messageId": 355
     },
     "1322239149:23194398000": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:09:50",
       "at": "2026-11-19T12:52:34.196Z",
       "fingerprint": [
@@ -3283,7 +3283,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-824g5-mej2joz7xlvn9e",
       "family": "garrafas",
-      "department": "cozinha"
+      "department": "cozinha",
+      "messageId": 356
     }
   },
   "slots": {

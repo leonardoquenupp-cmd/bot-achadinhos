@@ -4546,9 +4546,9 @@
       "messageId": 416
     },
     "328666563:22093672043": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:20:15",
-      "at": "2026-11-19T23:17:32.332Z",
+      "at": "2026-11-19T23:17:34.910Z",
       "fingerprint": [
         "caneta",
         "touch",
@@ -4571,7 +4571,8 @@
       "receipt": {
         "captionHash": "30de31f17f415ba9374d276d903b8f4e6798c8293f37acc5a005d7a758127259",
         "affiliateLink": "https://s.shopee.com.br/4B1duYLWjX"
-      }
+      },
+      "messageId": 417
     }
   },
   "slots": {

@@ -4377,9 +4377,9 @@
       "messageId": 410
     },
     "1527662393:58250639343": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:19:10",
-      "at": "2026-11-19T22:12:37.222Z",
+      "at": "2026-11-19T22:12:39.601Z",
       "fingerprint": [
         "espuma",
         "microfone",
@@ -4396,7 +4396,8 @@
       "receipt": {
         "captionHash": "7cec7f2e192407d9bec86eb17c164b2e00f6cd195b31e7eebddb79b85fec4594",
         "affiliateLink": "https://s.shopee.com.br/5AuAvmaznl"
-      }
+      },
+      "messageId": 411
     }
   },
   "slots": {

@@ -3799,6 +3799,31 @@
       "family": "amend-acidificante",
       "department": "outros",
       "messageId": 382
+    },
+    "439328620:20398291119": {
+      "status": "pending",
+      "slot": "2026-11-19:14:20",
+      "at": "2026-11-19T17:21:52.127Z",
+      "fingerprint": [
+        "calca",
+        "jeans",
+        "baggy",
+        "masculina",
+        "balao",
+        "larga",
+        "carpenter",
+        "streetwear",
+        "skatista",
+        "wide",
+        "leg",
+        "premium",
+        "casual",
+        "confortavel",
+        "dazzling"
+      ],
+      "imageIdentity": "/file/br-11134207-820m0-mqrqa4vzelmqdf",
+      "family": "roupas",
+      "department": "moda"
     }
   },
   "slots": {
@@ -4007,7 +4032,8 @@
     "2026-11-19:13:40": "1393644393:23598944009",
     "2026-11-19:13:50": "610852758:23994160356",
     "2026-11-19:14:00": "313660590:22893873080",
-    "2026-11-19:14:10": "332038931:55467913764"
+    "2026-11-19:14:10": "332038931:55467913764",
+    "2026-11-19:14:20": "439328620:20398291119"
   },
-  "cursor": 5
+  "cursor": 9
 }

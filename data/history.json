@@ -4498,6 +4498,26 @@
         "affiliateLink": "https://s.shopee.com.br/8fU3JwIpJt"
       },
       "messageId": 414
+    },
+    "418205294:22893054360": {
+      "status": "pending",
+      "slot": "2026-11-19:20:00",
+      "at": "2026-11-19T23:01:31.248Z",
+      "fingerprint": [
+        "ana1108",
+        "grande",
+        "alicate",
+        "cortador",
+        "unhas",
+        "aco"
+      ],
+      "imageIdentity": "/file/br-11134207-81zun-ml4dgzglzmyqf3",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "d73cdc880534085f14b91e19553f1fd578e4515b50b8c5bea79042b6dae765df",
+        "affiliateLink": "https://s.shopee.com.br/4B1eF7Byn7"
+      }
     }
   },
   "slots": {
@@ -4739,7 +4759,8 @@
     "2026-11-19:19:20": "1006215031:26403330394",
     "2026-11-19:19:25": "1381191494:58268058363",
     "2026-11-19:19:35": "1241281618:20098202552",
-    "2026-11-19:19:45": "1453485282:58210700708"
+    "2026-11-19:19:45": "1453485282:58210700708",
+    "2026-11-19:20:00": "418205294:22893054360"
   },
-  "cursor": 2
+  "cursor": 4
 }

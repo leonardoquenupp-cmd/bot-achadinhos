@@ -3984,6 +3984,28 @@
       "family": "iphone-pro",
       "department": "outros",
       "messageId": 391
+    },
+    "526596865:23097303590": {
+      "status": "pending",
+      "slot": "2026-11-19:15:45",
+      "at": "2026-11-19T18:46:19.229Z",
+      "fingerprint": [
+        "depilador",
+        "indolor",
+        "caneta",
+        "sobrancelha",
+        "removedor",
+        "instantaneo",
+        "pelos",
+        "facial",
+        "eletrico",
+        "pilha",
+        "portatil",
+        "feminino"
+      ],
+      "imageIdentity": "/file/sg-11134201-824g9-mfcqeby0z7d466",
+      "family": "papelaria",
+      "department": "papelaria"
     }
   },
   "slots": {
@@ -4201,7 +4223,8 @@
     "2026-11-19:15:00": "526596865:22293730893",
     "2026-11-19:15:10": "1381191494:58269568124",
     "2026-11-19:15:25": "1788702793:58210080994",
-    "2026-11-19:15:40": "873865538:22594542431"
+    "2026-11-19:15:40": "873865538:22594542431",
+    "2026-11-19:15:45": "526596865:23097303590"
   },
-  "cursor": 9
+  "cursor": 10
 }

@@ -3436,7 +3436,7 @@
       "messageId": 363
     },
     "681967866:41571413330": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:11:10",
       "at": "2026-11-19T14:12:01.691Z",
       "fingerprint": [
@@ -3453,7 +3453,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81z1k-mf2hcedhbeo708",
       "family": "luzes-natal",
-      "department": "decoracao"
+      "department": "decoracao",
+      "messageId": 364
     }
   },
   "slots": {

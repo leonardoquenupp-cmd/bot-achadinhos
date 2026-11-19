@@ -3369,7 +3369,7 @@
       "messageId": 360
     },
     "627750190:18999727561": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:10:45",
       "at": "2026-11-19T13:46:14.228Z",
       "fingerprint": [
@@ -3386,7 +3386,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81ztc-mk9la20m7sw180",
       "family": "computador",
-      "department": "informatica"
+      "department": "informatica",
+      "messageId": 361
     }
   },
   "slots": {

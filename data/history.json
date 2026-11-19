@@ -3674,7 +3674,7 @@
       "messageId": 375
     },
     "1347431374:22593948550": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:13:10",
       "at": "2026-11-19T16:12:08.521Z",
       "fingerprint": [
@@ -3690,7 +3690,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820m1-mpkx54t5rsw32f",
       "family": "potes",
-      "department": "cozinha"
+      "department": "cozinha",
+      "messageId": 376
     }
   },
   "slots": {

@@ -2803,7 +2803,7 @@
       "messageId": 332
     },
     "314477428:58270100155": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:21:10",
       "at": "2026-11-19T00:11:53.531Z",
       "fingerprint": [
@@ -2818,7 +2818,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lr-mu6c88t2x8n714",
       "family": "arvore-natal",
-      "department": "decoracao"
+      "department": "decoracao",
+      "messageId": 333
     }
   },
   "slots": {

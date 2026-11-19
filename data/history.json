@@ -3649,6 +3649,28 @@
       "family": "creme-dental",
       "department": "outros",
       "messageId": 374
+    },
+    "375201738:22794407161": {
+      "status": "pending",
+      "slot": "2026-11-19:13:00",
+      "at": "2026-11-19T16:01:33.604Z",
+      "fingerprint": [
+        "pcs",
+        "pasta",
+        "nariz",
+        "limpeza",
+        "profunda",
+        "carvao",
+        "bambu",
+        "cravo",
+        "ponto",
+        "nasal",
+        "tira",
+        "ferramentas"
+      ],
+      "imageIdentity": "/file/br-11134207-820ld-mlj5417osmbq8f",
+      "family": "ferramentas",
+      "department": "ferramentas"
     }
   },
   "slots": {
@@ -3849,7 +3871,8 @@
     "2026-11-19:12:20": "1502862522:58211596691",
     "2026-11-19:12:30": "779649115:58206634589",
     "2026-11-19:12:40": "332038931:19299386855",
-    "2026-11-19:12:50": "1045085918:57519556993"
+    "2026-11-19:12:50": "1045085918:57519556993",
+    "2026-11-19:13:00": "375201738:22794407161"
   },
-  "cursor": 6
+  "cursor": 7
 }

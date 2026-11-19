@@ -2822,7 +2822,7 @@
       "messageId": 333
     },
     "572747099:21597635635": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:21:15",
       "at": "2026-11-19T00:16:55.835Z",
       "fingerprint": [
@@ -2838,7 +2838,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820m8-mn2731s6bxfo6f",
       "family": "automotivo",
-      "department": "automotivo"
+      "department": "automotivo",
+      "messageId": 334
     }
   },
   "slots": {

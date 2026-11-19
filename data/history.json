@@ -4473,6 +4473,30 @@
         "affiliateLink": "https://s.shopee.com.br/9zzRQ2Z5L0"
       },
       "messageId": 413
+    },
+    "1453485282:58210700708": {
+      "status": "pending",
+      "slot": "2026-11-19:19:45",
+      "at": "2026-11-19T22:46:28.162Z",
+      "fingerprint": [
+        "comedouro",
+        "duplo",
+        "elevado",
+        "mdf",
+        "gato",
+        "cachorro",
+        "potes",
+        "preto",
+        "branco",
+        "pet"
+      ],
+      "imageIdentity": "/file/br-11134207-820m5-mo8pi14oozyc51",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "f61afa5068c65730b3d1041cbd0e18e0fcb73132e35c2cb997d46013acfc4d27",
+        "affiliateLink": "https://s.shopee.com.br/8fU3JwIpJt"
+      }
     }
   },
   "slots": {
@@ -4713,7 +4737,8 @@
     "2026-11-19:19:10": "1527662393:58250639343",
     "2026-11-19:19:20": "1006215031:26403330394",
     "2026-11-19:19:25": "1381191494:58268058363",
-    "2026-11-19:19:35": "1241281618:20098202552"
+    "2026-11-19:19:35": "1241281618:20098202552",
+    "2026-11-19:19:45": "1453485282:58210700708"
   },
-  "cursor": 0
+  "cursor": 2
 }

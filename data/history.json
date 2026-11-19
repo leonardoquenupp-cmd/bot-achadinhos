@@ -4400,9 +4400,9 @@
       "messageId": 411
     },
     "1006215031:26403330394": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:19:20",
-      "at": "2026-11-19T22:22:05.341Z",
+      "at": "2026-11-19T22:22:07.139Z",
       "fingerprint": [
         "oculos",
         "sol",
@@ -4420,7 +4420,8 @@
       "receipt": {
         "captionHash": "c7152c051e78f18c3d20d6ed983d19ee132f389ab15da4b21d8f93f5ef535139",
         "affiliateLink": "https://s.shopee.com.br/qlCVBzBMh"
-      }
+      },
+      "messageId": 412
     }
   },
   "slots": {

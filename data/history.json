@@ -3063,7 +3063,7 @@
       "messageId": 345
     },
     "1180920205:22093160276": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:08:10",
       "at": "2026-11-19T11:12:04.582Z",
       "fingerprint": [
@@ -3085,7 +3085,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rdym-lxrzfhio6fhl9d",
       "family": "relogio",
-      "department": "eletronicos"
+      "department": "eletronicos",
+      "messageId": 346
     }
   },
   "slots": {

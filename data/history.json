@@ -4110,6 +4110,26 @@
       "family": "calcados",
       "department": "moda",
       "messageId": 397
+    },
+    "883941882:19956592942": {
+      "status": "pending",
+      "slot": "2026-11-19:16:45",
+      "at": "2026-11-19T19:47:34.194Z",
+      "fingerprint": [
+        "radio",
+        "retro",
+        "vintage",
+        "portatil",
+        "bluetooth",
+        "carregavel",
+        "tomada",
+        "pilha",
+        "pendrive",
+        "usb"
+      ],
+      "imageIdentity": "/file/sg-11134202-7qvft-lffq1u0ieu072d",
+      "family": "computador",
+      "department": "informatica"
     }
   },
   "slots": {
@@ -4333,7 +4353,8 @@
     "2026-11-19:16:05": "504210070:22492388439",
     "2026-11-19:16:15": "1921399168:58217626503",
     "2026-11-19:16:25": "427471230:58216012662",
-    "2026-11-19:16:35": "1054926476:23492145341"
+    "2026-11-19:16:35": "1054926476:23492145341",
+    "2026-11-19:16:45": "883941882:19956592942"
   },
-  "cursor": 5
+  "cursor": 7
 }

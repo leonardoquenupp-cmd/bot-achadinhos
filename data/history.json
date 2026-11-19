@@ -4500,9 +4500,9 @@
       "messageId": 414
     },
     "418205294:22893054360": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:20:00",
-      "at": "2026-11-19T23:01:31.248Z",
+      "at": "2026-11-19T23:01:33.109Z",
       "fingerprint": [
         "ana1108",
         "grande",
@@ -4517,7 +4517,8 @@
       "receipt": {
         "captionHash": "d73cdc880534085f14b91e19553f1fd578e4515b50b8c5bea79042b6dae765df",
         "affiliateLink": "https://s.shopee.com.br/4B1eF7Byn7"
-      }
+      },
+      "messageId": 415
     }
   },
   "slots": {

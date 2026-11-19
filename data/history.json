@@ -3555,7 +3555,7 @@
       "messageId": 369
     },
     "411286117:41511199276": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:12:10",
       "at": "2026-11-19T15:12:04.701Z",
       "fingerprint": [
@@ -3571,7 +3571,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-mcwfhv697htt90",
       "family": "cabo-hdmi",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 370
     }
   },
   "slots": {

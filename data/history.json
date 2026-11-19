@@ -3473,7 +3473,7 @@
       "messageId": 365
     },
     "1424310457:58203772645": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:11:30",
       "at": "2026-11-19T14:31:42.851Z",
       "fingerprint": [
@@ -3490,7 +3490,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820l6-mt0d46gqpbet99",
       "family": "papelaria",
-      "department": "papelaria"
+      "department": "papelaria",
+      "messageId": 366
     }
   },
   "slots": {

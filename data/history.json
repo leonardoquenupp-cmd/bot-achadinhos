@@ -3309,7 +3309,7 @@
       "messageId": 357
     },
     "1917759660:58218877849": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:10:10",
       "at": "2026-11-19T13:11:53.508Z",
       "fingerprint": [
@@ -3326,7 +3326,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820m2-mthxxwyzxo8ze3",
       "family": "nuveo-babuche",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 358
     }
   },
   "slots": {

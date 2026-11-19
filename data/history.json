@@ -4203,7 +4203,7 @@
       "messageId": 402
     },
     "322198636:54366715729": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:17:45",
       "at": "2026-11-19T20:46:24.975Z",
       "fingerprint": [
@@ -4221,7 +4221,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-22110-b3f6hyriv3jv87",
       "family": "beleza",
-      "department": "beleza"
+      "department": "beleza",
+      "messageId": 403
     }
   },
   "slots": {

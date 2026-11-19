@@ -3848,7 +3848,7 @@
       "messageId": 384
     },
     "378129323:22898221954": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:14:35",
       "at": "2026-11-19T17:37:33.226Z",
       "fingerprint": [
@@ -3862,7 +3862,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lq-mlhna1a2xeys44",
       "family": "ferramentas",
-      "department": "ferramentas"
+      "department": "ferramentas",
+      "messageId": 385
     }
   },
   "slots": {

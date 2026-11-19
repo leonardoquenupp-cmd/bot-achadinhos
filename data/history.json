@@ -4260,6 +4260,25 @@
       "family": "roupas",
       "department": "moda",
       "messageId": 405
+    },
+    "1343438067:18399868455": {
+      "status": "pending",
+      "slot": "2026-11-19:18:15",
+      "at": "2026-11-19T21:16:28.000Z",
+      "fingerprint": [
+        "bola",
+        "rolamento",
+        "automatica",
+        "brinquedo",
+        "interativo",
+        "filhotes",
+        "treinamento",
+        "eletrico",
+        "caes"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdxx-mcbya38s6fzl91",
+      "family": "brinquedos",
+      "department": "brinquedos"
     }
   },
   "slots": {
@@ -4491,7 +4510,8 @@
     "2026-11-19:17:35": "797027700:17293601216",
     "2026-11-19:17:45": "322198636:54366715729",
     "2026-11-19:17:50": "264956337:15296424390",
-    "2026-11-19:18:05": "1675984618:58216767467"
+    "2026-11-19:18:05": "1675984618:58216767467",
+    "2026-11-19:18:15": "1343438067:18399868455"
   },
-  "cursor": 7
+  "cursor": 8
 }

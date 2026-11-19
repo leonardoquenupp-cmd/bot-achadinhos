@@ -4597,6 +4597,32 @@
         "affiliateLink": "https://s.shopee.com.br/5fqRWiPXqh"
       },
       "messageId": 418
+    },
+    "1873225232:48215725650": {
+      "status": "pending",
+      "slot": "2026-11-19:20:35",
+      "at": "2026-11-19T23:37:09.400Z",
+      "fingerprint": [
+        "cadarcos",
+        "elasticos",
+        "sem",
+        "amarracao",
+        "tenis",
+        "skate",
+        "ajustaveis",
+        "elegantes",
+        "unissex",
+        "ajuste",
+        "seguro",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/ddb2e2c0dac8a15f14979ff1fde5ebd7",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "233056566ad8a3c4fc62bfd422fbe658e099da7a158541ce6f3bbfe3b00ffb4b",
+        "affiliateLink": "https://s.shopee.com.br/3B96Yovlrp"
+      }
     }
   },
   "slots": {
@@ -4842,7 +4868,8 @@
     "2026-11-19:20:00": "418205294:22893054360",
     "2026-11-19:20:10": "1269019626:20798031398",
     "2026-11-19:20:15": "328666563:22093672043",
-    "2026-11-19:20:25": "411286117:44161199455"
+    "2026-11-19:20:25": "411286117:44161199455",
+    "2026-11-19:20:35": "1873225232:48215725650"
   },
-  "cursor": 8
+  "cursor": 10
 }

@@ -3129,7 +3129,7 @@
       "messageId": 348
     },
     "332038931:23393398319": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:08:40",
       "at": "2026-11-19T11:41:56.479Z",
       "fingerprint": [
@@ -3143,7 +3143,8 @@
       ],
       "imageIdentity": "/file/sg-11134201-7rdwa-m0otdzx46was56",
       "family": "borabella-selagem",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 349
     }
   },
   "slots": {

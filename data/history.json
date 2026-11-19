@@ -3494,7 +3494,7 @@
       "messageId": 366
     },
     "298298179:22893963394": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:11:40",
       "at": "2026-11-19T14:43:28.706Z",
       "fingerprint": [
@@ -3508,7 +3508,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m9fz10i1zz0ied",
       "family": "camisa-polo",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 367
     }
   },
   "slots": {

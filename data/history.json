@@ -4626,9 +4626,9 @@
       "messageId": 419
     },
     "1531826276:58250033091": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:20:45",
-      "at": "2026-11-19T23:46:35.629Z",
+      "at": "2026-11-19T23:46:37.400Z",
       "fingerprint": [
         "alaxe5",
         "geracao",
@@ -4646,7 +4646,8 @@
       "receipt": {
         "captionHash": "7694fe57387c0e6fe4bb8a7f28788f0f1383c22e7739143b45d49af27aff97fc",
         "affiliateLink": "https://s.shopee.com.br/1BO2SESm5w"
-      }
+      },
+      "messageId": 420
     }
   },
   "slots": {

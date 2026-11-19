@@ -4348,6 +4348,32 @@
         "affiliateLink": "https://s.shopee.com.br/30pgWmpORW"
       },
       "messageId": 409
+    },
+    "1521699574:23898692172": {
+      "status": "pending",
+      "slot": "2026-11-19:19:00",
+      "at": "2026-11-19T22:01:40.070Z",
+      "fingerprint": [
+        "ventilador",
+        "teto",
+        "luz",
+        "silencioso",
+        "controle",
+        "remoto",
+        "economica",
+        "instalacao",
+        "facil",
+        "led",
+        "bivolt",
+        "e27"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdwy-mbw84yf3pvcl00",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "8341b06c988ebefba6fd148b6ead01d6bd9e4d66147bce4198f7a66830a30a2d",
+        "affiliateLink": "https://s.shopee.com.br/6VPYVTgAwO"
+      }
     }
   },
   "slots": {
@@ -4583,7 +4609,8 @@
     "2026-11-19:18:15": "1343438067:18399868455",
     "2026-11-19:18:25": "1042627371:18299888611",
     "2026-11-19:18:40": "1520918666:58213117115",
-    "2026-11-19:18:50": "519444261:20870199955"
+    "2026-11-19:18:50": "519444261:20870199955",
+    "2026-11-19:19:00": "1521699574:23898692172"
   },
-  "cursor": 1
+  "cursor": 2
 }

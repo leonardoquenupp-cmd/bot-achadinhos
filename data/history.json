@@ -3457,7 +3457,7 @@
       "messageId": 364
     },
     "1870373404:53218368253": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:11:20",
       "at": "2026-11-19T14:22:06.891Z",
       "fingerprint": [
@@ -3469,7 +3469,8 @@
       ],
       "imageIdentity": "/file/cn-11134207-820l4-muag372t39j56c",
       "family": "calcados",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 365
     }
   },
   "slots": {

@@ -4168,7 +4168,7 @@
       "messageId": 400
     },
     "1195616626:18397753877": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:17:25",
       "at": "2026-11-19T20:26:52.619Z",
       "fingerprint": [
@@ -4180,7 +4180,8 @@
       ],
       "imageIdentity": "/file/br-11134207-7r98o-m5bre1d0qv7p23",
       "family": "shorts-gode",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 401
     }
   },
   "slots": {

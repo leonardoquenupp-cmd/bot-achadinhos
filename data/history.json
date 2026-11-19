@@ -3885,7 +3885,7 @@
       "messageId": 386
     },
     "725120777:42924180809": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:14:50",
       "at": "2026-11-19T17:52:25.577Z",
       "fingerprint": [
@@ -3900,7 +3900,8 @@
       ],
       "imageIdentity": "/file/br-11134207-81z1k-mfucwsv3u8792f",
       "family": "cartela-100",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 387
     }
   },
   "slots": {

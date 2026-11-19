@@ -3022,7 +3022,7 @@
       "messageId": 343
     },
     "316071483:49663299220": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-18:22:50",
       "at": "2026-11-19T01:51:46.136Z",
       "fingerprint": [
@@ -3041,7 +3041,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820ls-mqf3re43nsoz6b",
       "family": "monte-sua",
-      "department": "outros"
+      "department": "outros",
+      "messageId": 344
     }
   },
   "slots": {

@@ -4324,6 +4324,29 @@
       "family": "calcados",
       "department": "moda",
       "messageId": 408
+    },
+    "519444261:20870199955": {
+      "status": "pending",
+      "slot": "2026-11-19:18:50",
+      "at": "2026-11-19T21:51:47.848Z",
+      "fingerprint": [
+        "4everu",
+        "atadura",
+        "esportiva",
+        "autoadesivo",
+        "cor",
+        "elastico",
+        "esporte",
+        "protecao",
+        "tornozelo"
+      ],
+      "imageIdentity": "/file/br-11134201-820md-mqxilp5s3cw4bf",
+      "family": "4everu-atadura",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "26e5c75a22a575e21b8b0560f16d183c5ca5d9046399e265b305404458b5dbce",
+        "affiliateLink": "https://s.shopee.com.br/30pgWmpORW"
+      }
     }
   },
   "slots": {
@@ -4558,7 +4581,8 @@
     "2026-11-19:18:05": "1675984618:58216767467",
     "2026-11-19:18:15": "1343438067:18399868455",
     "2026-11-19:18:25": "1042627371:18299888611",
-    "2026-11-19:18:40": "1520918666:58213117115"
+    "2026-11-19:18:40": "1520918666:58213117115",
+    "2026-11-19:18:50": "519444261:20870199955"
   },
-  "cursor": 0
+  "cursor": 1
 }

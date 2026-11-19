@@ -4243,7 +4243,7 @@
       "messageId": 404
     },
     "1675984618:58216767467": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:18:05",
       "at": "2026-11-19T21:06:50.934Z",
       "fingerprint": [
@@ -4258,7 +4258,8 @@
       ],
       "imageIdentity": "/file/br-11134207-820lt-ms7wwbsug6px94",
       "family": "roupas",
-      "department": "moda"
+      "department": "moda",
+      "messageId": 405
     }
   },
   "slots": {

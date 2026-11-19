@@ -4573,6 +4573,29 @@
         "affiliateLink": "https://s.shopee.com.br/4B1duYLWjX"
       },
       "messageId": 417
+    },
+    "411286117:44161199455": {
+      "status": "pending",
+      "slot": "2026-11-19:20:25",
+      "at": "2026-11-19T23:27:22.339Z",
+      "fingerprint": [
+        "cabo",
+        "hdmi",
+        "metros",
+        "gamer",
+        "1080p",
+        "240hz",
+        "120hz",
+        "60hz",
+        "metro"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-md4n4ki04jle27",
+      "family": "cabo-hdmi",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "82456fca49e93e30ebbb1b615a936fd1ecef21f6c7f339373d9e04a30fff0daf",
+        "affiliateLink": "https://s.shopee.com.br/5fqRWiPXqh"
+      }
     }
   },
   "slots": {
@@ -4817,7 +4840,8 @@
     "2026-11-19:19:45": "1453485282:58210700708",
     "2026-11-19:20:00": "418205294:22893054360",
     "2026-11-19:20:10": "1269019626:20798031398",
-    "2026-11-19:20:15": "328666563:22093672043"
+    "2026-11-19:20:15": "328666563:22093672043",
+    "2026-11-19:20:25": "411286117:44161199455"
   },
-  "cursor": 6
+  "cursor": 8
 }

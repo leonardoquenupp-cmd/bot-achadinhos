@@ -6098,6 +6098,27 @@
         "affiliateLink": "https://s.shopee.com.br/3LSWvOo7lc"
       },
       "messageId": 478
+    },
+    "1671697946:53815909753": {
+      "status": "pending",
+      "slot": "2026-11-20:17:00",
+      "at": "2026-11-20T20:01:38.155Z",
+      "fingerprint": [
+        "suporte",
+        "universal",
+        "monitor",
+        "fixo",
+        "parede",
+        "100",
+        "polegadas"
+      ],
+      "imageIdentity": "/file/br-11134207-820m1-mrtmodbi86bp8b",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "4cd5f61a3c43e1439d0f1e52e57d586683c4e612ff1898e46ff607af7ac1b60f",
+        "affiliateLink": "https://s.shopee.com.br/30pgRFR9pL"
+      }
     }
   },
   "slots": {
@@ -6403,7 +6424,8 @@
     "2026-11-20:16:10": "367839228:17092385149",
     "2026-11-20:16:30": "418205294:22696241891",
     "2026-11-20:16:40": "1590080946:23298881879",
-    "2026-11-20:16:50": "519444261:23219850802"
+    "2026-11-20:16:50": "519444261:23219850802",
+    "2026-11-20:17:00": "1671697946:53815909753"
   },
-  "cursor": 0
+  "cursor": 1
 }

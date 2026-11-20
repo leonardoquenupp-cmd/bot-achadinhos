@@ -5397,6 +5397,34 @@
         "affiliateLink": "https://s.shopee.com.br/8pnTRhupV4"
       },
       "messageId": 450
+    },
+    "1151895537:23493340862": {
+      "status": "pending",
+      "slot": "2026-11-20:11:35",
+      "at": "2026-11-20T14:36:58.825Z",
+      "fingerprint": [
+        "lixa",
+        "100",
+        "180",
+        "unidade",
+        "profissional",
+        "lavavel",
+        "boomerangue",
+        "banana",
+        "quadrada",
+        "caixao",
+        "uso",
+        "manicure",
+        "nail",
+        "designer"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mkclv24mca2p75",
+      "family": "lixa-100",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "17486a9ec0354ff2f2f148a5f4cfd3ba951eb3ff55bc8db750a9d62143870647",
+        "affiliateLink": "https://s.shopee.com.br/LovFdbU5C"
+      }
     }
   },
   "slots": {
@@ -5674,7 +5702,8 @@
     "2026-11-20:10:40": "367839228:23998171803",
     "2026-11-20:11:00": "1006215031:52908490120",
     "2026-11-20:11:15": "1025202028:18399335359",
-    "2026-11-20:11:25": "1590080946:22194435267"
+    "2026-11-20:11:25": "1590080946:22194435267",
+    "2026-11-20:11:35": "1151895537:23493340862"
   },
-  "cursor": 1
+  "cursor": 3
 }

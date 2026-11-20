@@ -4979,6 +4979,31 @@
         "affiliateLink": "https://s.shopee.com.br/6q2PQ11pNO"
       },
       "messageId": 433
+    },
+    "1541425248:51456146275": {
+      "status": "pending",
+      "slot": "2026-11-20:08:20",
+      "at": "2026-11-20T11:22:25.212Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "nuvem",
+        "sandalia",
+        "masculino",
+        "macio",
+        "moda",
+        "verao",
+        "asuna",
+        "ortopedico",
+        "ergonomico"
+      ],
+      "imageIdentity": "/file/br-11134207-81zu5-mkmvvnqg9zi9c3",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "caca7cfe325d7196921fcf8a6a10b3aea5c3b0ae6a29b35a78f481e0e2931ee5",
+        "affiliateLink": "https://s.shopee.com.br/3qOo4hadDv"
+      }
     }
   },
   "slots": {
@@ -5239,7 +5264,8 @@
     "2026-11-19:22:45": "1385382926:21697974917",
     "2026-11-19:22:50": "398944029:10869646245",
     "2026-11-20:08:05": "1625455449:58220465797",
-    "2026-11-20:08:15": "1758964706:58265696376"
+    "2026-11-20:08:15": "1758964706:58265696376",
+    "2026-11-20:08:20": "1541425248:51456146275"
   },
-  "cursor": 6
+  "cursor": 10
 }

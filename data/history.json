@@ -5236,9 +5236,9 @@
       "messageId": 443
     },
     "329179386:20399832219": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:10:15",
-      "at": "2026-11-20T13:16:12.529Z",
+      "at": "2026-11-20T13:16:14.483Z",
       "fingerprint": [
         "expansor",
         "nasal",
@@ -5255,7 +5255,8 @@
       "receipt": {
         "captionHash": "8e2bb346cc1326b8b922ff6e15cd36af42517ed222bf254041f3549b44a86cc9",
         "affiliateLink": "https://s.shopee.com.br/7AfFOtlJF6"
-      }
+      },
+      "messageId": 444
     }
   },
   "slots": {

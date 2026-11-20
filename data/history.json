@@ -5905,6 +5905,33 @@
         "affiliateLink": "https://s.shopee.com.br/8KrClekOgf"
       },
       "messageId": 470
+    },
+    "1352604009:21397997656": {
+      "status": "pending",
+      "slot": "2026-11-20:15:35",
+      "at": "2026-11-20T18:37:09.675Z",
+      "fingerprint": [
+        "lixa",
+        "profissional",
+        "unidade",
+        "gramatura",
+        "100",
+        "180",
+        "unha",
+        "gel",
+        "acrilico",
+        "formatos",
+        "caixao",
+        "quadrada",
+        "reta"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-meny0cwnr401ae",
+      "family": "lixa-profissional",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "9ef158bc6a5f5d08a4c8324c3eeb87731f6db31ecc97592db922a157e56ac916",
+        "affiliateLink": "https://s.shopee.com.br/50akoJHmAW"
+      }
     }
   },
   "slots": {
@@ -6202,7 +6229,8 @@
     "2026-11-20:14:40": "1381191494:58220072892",
     "2026-11-20:15:00": "847374786:51050550700",
     "2026-11-20:15:15": "299564699:22598401117",
-    "2026-11-20:15:25": "868533879:43115028793"
+    "2026-11-20:15:25": "868533879:43115028793",
+    "2026-11-20:15:35": "1352604009:21397997656"
   },
-  "cursor": 4
+  "cursor": 5
 }

@@ -4826,9 +4826,9 @@
       "messageId": 427
     },
     "1640887988:23094549378": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:22:20",
-      "at": "2026-11-20T01:22:13.439Z",
+      "at": "2026-11-20T01:22:17.025Z",
       "fingerprint": [
         "calca",
         "balao",
@@ -4851,7 +4851,8 @@
       "receipt": {
         "captionHash": "af7a4f824f0a6b3432daa34f291b8d25bce19737512c4cdbe984717f7c1b8bf9",
         "affiliateLink": "https://s.shopee.com.br/1W0tIQ5Rag"
-      }
+      },
+      "messageId": 428
     }
   },
   "slots": {

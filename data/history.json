@@ -5691,6 +5691,32 @@
         "affiliateLink": "https://s.shopee.com.br/6fiynJhqSg"
       },
       "messageId": 462
+    },
+    "1459307687:52905774499": {
+      "status": "pending",
+      "slot": "2026-11-20:14:15",
+      "at": "2026-11-20T17:16:12.230Z",
+      "fingerprint": [
+        "espremedor",
+        "eletrico",
+        "frutas",
+        "automatico",
+        "laranja",
+        "limao",
+        "outras",
+        "suco",
+        "natural",
+        "rapido",
+        "design",
+        "premium"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260c-mlw5gdmlji8493",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "e95b50d931ec8733598de0e53fa27803a1b47722ed0f1021b3cab5506cb844db",
+        "affiliateLink": "https://s.shopee.com.br/906taHzr82"
+      }
     }
   },
   "slots": {
@@ -5980,7 +6006,8 @@
     "2026-11-20:13:10": "1782913841:57667214868",
     "2026-11-20:13:25": "204993078:28041444788",
     "2026-11-20:13:45": "1660293952:58212076866",
-    "2026-11-20:14:05": "1594633180:55501913565"
+    "2026-11-20:14:05": "1594633180:55501913565",
+    "2026-11-20:14:15": "1459307687:52905774499"
   },
-  "cursor": 5
+  "cursor": 6
 }

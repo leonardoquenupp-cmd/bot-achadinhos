@@ -5322,9 +5322,9 @@
       "messageId": 447
     },
     "1006215031:52908490120": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:11:00",
-      "at": "2026-11-20T14:02:02.618Z",
+      "at": "2026-11-20T14:02:05.311Z",
       "fingerprint": [
         "bastao",
         "sombra",
@@ -5345,7 +5345,8 @@
       "receipt": {
         "captionHash": "f36eedd44a116403490eea5b9437100dec3eeab6636da55e91512a00e61bbb2e",
         "affiliateLink": "https://s.shopee.com.br/2BGZPgFZoH"
-      }
+      },
+      "messageId": 448
     }
   },
   "slots": {

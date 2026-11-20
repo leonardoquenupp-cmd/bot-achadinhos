@@ -5879,6 +5879,31 @@
         "affiliateLink": "https://s.shopee.com.br/LoxEvlSGd"
       },
       "messageId": 469
+    },
+    "868533879:43115028793": {
+      "status": "pending",
+      "slot": "2026-11-20:15:25",
+      "at": "2026-11-20T18:27:17.211Z",
+      "fingerprint": [
+        "camiseta",
+        "plus",
+        "size",
+        "tshirt",
+        "urso",
+        "pink",
+        "moda",
+        "feminina",
+        "cor",
+        "estampa",
+        "surpresa"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mdugdr2x730j21",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "fc6bea0e861e401bd7a37589e5eccd725d662db00825ce40598d933a0af5f30d",
+        "affiliateLink": "https://s.shopee.com.br/8KrClekOgf"
+      }
     }
   },
   "slots": {
@@ -6175,7 +6200,8 @@
     "2026-11-20:14:35": "1414434727:46109157975",
     "2026-11-20:14:40": "1381191494:58220072892",
     "2026-11-20:15:00": "847374786:51050550700",
-    "2026-11-20:15:15": "299564699:22598401117"
+    "2026-11-20:15:15": "299564699:22598401117",
+    "2026-11-20:15:25": "868533879:43115028793"
   },
-  "cursor": 3
+  "cursor": 4
 }

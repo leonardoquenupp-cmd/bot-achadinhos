@@ -5516,9 +5516,9 @@
       "messageId": 455
     },
     "868533879:23396118279": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:12:40",
-      "at": "2026-11-20T15:42:11.674Z",
+      "at": "2026-11-20T15:42:13.555Z",
       "fingerprint": [
         "camiseta",
         "feminina",
@@ -5535,7 +5535,8 @@
       "receipt": {
         "captionHash": "241830bdcac0e46c380e7f3ce29c80ea0bf83e0998a152f095cf8e241dca94cf",
         "affiliateLink": "https://s.shopee.com.br/8AXmZLl21e"
-      }
+      },
+      "messageId": 456
     }
   },
   "slots": {

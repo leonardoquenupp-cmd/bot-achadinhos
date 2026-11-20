@@ -5081,9 +5081,9 @@
       "messageId": 437
     },
     "768659092:58207714861": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:55",
-      "at": "2026-11-20T11:57:22.174Z",
+      "at": "2026-11-20T11:57:24.163Z",
       "fingerprint": [
         "luvas",
         "eletrostaticas",
@@ -5103,7 +5103,8 @@
       "receipt": {
         "captionHash": "9ec15705d6e5eac3153ebceeb7fd81e13b1a5850e4b06a8afe49b29fb26d97f0",
         "affiliateLink": "https://s.shopee.com.br/1W0sgaB9Xc"
-      }
+      },
+      "messageId": 438
     }
   },
   "slots": {

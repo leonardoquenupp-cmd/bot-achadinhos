@@ -5134,6 +5134,30 @@
         "affiliateLink": "https://s.shopee.com.br/9V3AGeXToe"
       },
       "messageId": 439
+    },
+    "979730489:23897176041": {
+      "status": "pending",
+      "slot": "2026-11-20:09:15",
+      "at": "2026-11-20T12:16:37.710Z",
+      "fingerprint": [
+        "fita",
+        "led",
+        "mangueira",
+        "neon",
+        "metros",
+        "ip65",
+        "flexivel",
+        "sem",
+        "fonte",
+        "cores"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lp9nlkeeniol65",
+      "family": "jardim",
+      "department": "jardim",
+      "receipt": {
+        "captionHash": "306d30287494afcda32114c01bcd62a6ac7012992efcfd3f390e1c0f2bbad83c",
+        "affiliateLink": "https://s.shopee.com.br/6fiyjqGACN"
+      }
     }
   },
   "slots": {
@@ -5400,7 +5424,8 @@
     "2026-11-20:08:35": "519444261:14868731775",
     "2026-11-20:08:45": "478697224:21097623587",
     "2026-11-20:08:55": "768659092:58207714861",
-    "2026-11-20:09:05": "1171907204:25381410463"
+    "2026-11-20:09:05": "1171907204:25381410463",
+    "2026-11-20:09:15": "979730489:23897176041"
   },
-  "cursor": 2
+  "cursor": 3
 }

@@ -4701,6 +4701,32 @@
         "affiliateLink": "https://s.shopee.com.br/4LL4fcueqT"
       },
       "messageId": 422
+    },
+    "1232066422:23798771235": {
+      "status": "pending",
+      "slot": "2026-11-19:21:15",
+      "at": "2026-11-20T00:16:21.876Z",
+      "fingerprint": [
+        "escova",
+        "onda",
+        "finalizadora",
+        "beauty",
+        "flash",
+        "definicao",
+        "cachos",
+        "finalizacao",
+        "cabelo",
+        "cacheado",
+        "crespo",
+        "mania"
+      ],
+      "imageIdentity": "/file/br-11134201-820m1-ms800j2nfjlxf3",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "e2c4db69c96e63206fffeda5866f36957c8ec77891047a15fa38f06dec684789",
+        "affiliateLink": "https://s.shopee.com.br/gRlcvLHr6"
+      }
     }
   },
   "slots": {
@@ -4950,7 +4976,8 @@
     "2026-11-19:20:35": "1873225232:48215725650",
     "2026-11-19:20:45": "1531826276:58250033091",
     "2026-11-19:20:55": "1235915900:52101643929",
-    "2026-11-19:21:05": "1661007426:22795030307"
+    "2026-11-19:21:05": "1661007426:22795030307",
+    "2026-11-19:21:15": "1232066422:23798771235"
   },
-  "cursor": 2
+  "cursor": 3
 }

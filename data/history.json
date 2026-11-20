@@ -5593,9 +5593,9 @@
       "messageId": 458
     },
     "1782913841:57667214868": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:13:10",
-      "at": "2026-11-20T16:12:02.971Z",
+      "at": "2026-11-20T16:12:05.610Z",
       "fingerprint": [
         "produtos",
         "biotermo",
@@ -5611,7 +5611,8 @@
       "receipt": {
         "captionHash": "dec7fe91cb5aef554f7191c4e0189a0145863a9444eea646b8d0062ef8adb6fb",
         "affiliateLink": "https://s.shopee.com.br/3B96Y2xYrA"
-      }
+      },
+      "messageId": 459
     }
   },
   "slots": {

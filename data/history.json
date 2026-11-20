@@ -5299,9 +5299,9 @@
       "messageId": 446
     },
     "367839228:23998171803": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:10:40",
-      "at": "2026-11-20T13:41:51.442Z",
+      "at": "2026-11-20T13:41:54.096Z",
       "fingerprint": [
         "bota",
         "masculino",
@@ -5318,7 +5318,8 @@
       "receipt": {
         "captionHash": "d80ad92a4f0084eb56e8372ff830b584ee2cf2c5814049f427c0154890488a9d",
         "affiliateLink": "https://s.shopee.com.br/2gCpzDQ4MO"
-      }
+      },
+      "messageId": 447
     }
   },
   "slots": {

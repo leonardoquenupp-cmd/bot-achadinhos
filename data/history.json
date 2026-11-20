@@ -4906,9 +4906,9 @@
       "messageId": 430
     },
     "398944029:10869646245": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:22:50",
-      "at": "2026-11-20T01:52:36.746Z",
+      "at": "2026-11-20T01:52:39.083Z",
       "fingerprint": [
         "racao",
         "umida",
@@ -4926,7 +4926,8 @@
       "receipt": {
         "captionHash": "cd7708594c00be17c56e1c8dc671ee49588e595c053bf4e52ebd5defee8d5023",
         "affiliateLink": "https://s.shopee.com.br/4fxuSOz673"
-      }
+      },
+      "messageId": 431
     }
   },
   "slots": {

@@ -5105,6 +5105,34 @@
         "affiliateLink": "https://s.shopee.com.br/1W0sgaB9Xc"
       },
       "messageId": 438
+    },
+    "1171907204:25381410463": {
+      "status": "pending",
+      "slot": "2026-11-20:09:05",
+      "at": "2026-11-20T12:06:35.641Z",
+      "fingerprint": [
+        "par",
+        "sapatos",
+        "elasticos",
+        "preguicosos",
+        "magicos",
+        "sem",
+        "rendas",
+        "fivelas",
+        "metal",
+        "tenis",
+        "neutro",
+        "criancas",
+        "adultos",
+        "futebol"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdve-lz4aljftuir82e",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "aa0b5e8352849f9860483eea67b21d4d4ff365cdfc4a02d4ed7a90777d2dde87",
+        "affiliateLink": "https://s.shopee.com.br/9V3AGeXToe"
+      }
     }
   },
   "slots": {
@@ -5370,7 +5398,8 @@
     "2026-11-20:08:30": "467535637:58203004464",
     "2026-11-20:08:35": "519444261:14868731775",
     "2026-11-20:08:45": "478697224:21097623587",
-    "2026-11-20:08:55": "768659092:58207714861"
+    "2026-11-20:08:55": "768659092:58207714861",
+    "2026-11-20:09:05": "1171907204:25381410463"
   },
-  "cursor": 15
+  "cursor": 2
 }

@@ -6076,6 +6076,27 @@
         "affiliateLink": "https://s.shopee.com.br/8fU3FOvSq3"
       },
       "messageId": 477
+    },
+    "519444261:23219850802": {
+      "status": "pending",
+      "slot": "2026-11-20:16:50",
+      "at": "2026-11-20T19:52:30.330Z",
+      "fingerprint": [
+        "bandagem",
+        "dedos",
+        "4everu",
+        "fita",
+        "esportiva",
+        "elastica",
+        "atadura"
+      ],
+      "imageIdentity": "/file/sg-11134201-23010-c391m1wnmjmv6c",
+      "family": "bandagem-dedos",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "56d080f608f248f70f9f1d5b918ead2d85b1705a747a0df2602accd865f3bed9",
+        "affiliateLink": "https://s.shopee.com.br/3LSWvOo7lc"
+      }
     }
   },
   "slots": {
@@ -6380,7 +6401,8 @@
     "2026-11-20:16:00": "1286352236:22198485684",
     "2026-11-20:16:10": "367839228:17092385149",
     "2026-11-20:16:30": "418205294:22696241891",
-    "2026-11-20:16:40": "1590080946:23298881879"
+    "2026-11-20:16:40": "1590080946:23298881879",
+    "2026-11-20:16:50": "519444261:23219850802"
   },
-  "cursor": 15
+  "cursor": 0
 }

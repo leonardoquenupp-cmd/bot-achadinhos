@@ -5693,9 +5693,9 @@
       "messageId": 462
     },
     "1459307687:52905774499": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:14:15",
-      "at": "2026-11-20T17:16:12.230Z",
+      "at": "2026-11-20T17:16:14.222Z",
       "fingerprint": [
         "espremedor",
         "eletrico",
@@ -5716,7 +5716,8 @@
       "receipt": {
         "captionHash": "e95b50d931ec8733598de0e53fa27803a1b47722ed0f1021b3cab5506cb844db",
         "affiliateLink": "https://s.shopee.com.br/906taHzr82"
-      }
+      },
+      "messageId": 463
     }
   },
   "slots": {

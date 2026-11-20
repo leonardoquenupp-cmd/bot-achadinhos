@@ -6175,9 +6175,9 @@
       "messageId": 481
     },
     "1195616626:21399302297": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:18:25",
-      "at": "2026-11-20T21:28:43.152Z",
+      "at": "2026-11-20T21:28:45.495Z",
       "fingerprint": [
         "blusa",
         "cropped",
@@ -6194,7 +6194,8 @@
       "receipt": {
         "captionHash": "0b5b0c3f869ec82ab52db2f866d39319d0cb5582d15f06a3e6432625a64f8310",
         "affiliateLink": "https://s.shopee.com.br/1LhSdDGmlE"
-      }
+      },
+      "messageId": 482
     }
   },
   "slots": {

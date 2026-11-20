@@ -5005,6 +5005,30 @@
         "affiliateLink": "https://s.shopee.com.br/3qOo4hadDv"
       },
       "messageId": 434
+    },
+    "467535637:58203004464": {
+      "status": "pending",
+      "slot": "2026-11-20:08:30",
+      "at": "2026-11-20T11:31:38.761Z",
+      "fingerprint": [
+        "palmilha",
+        "gel",
+        "confortavel",
+        "macia",
+        "ideal",
+        "quem",
+        "trabalha",
+        "durante",
+        "muitas",
+        "horas"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260d-mja0fgwew8au75",
+      "family": "palmilha-gel",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "1f4ab534833d77b454b691ff26fe47703cefc01424a7d8b8b16c134c563c01f6",
+        "affiliateLink": "https://s.shopee.com.br/AKcHVIU7Es"
+      }
     }
   },
   "slots": {
@@ -5266,7 +5290,8 @@
     "2026-11-19:22:50": "398944029:10869646245",
     "2026-11-20:08:05": "1625455449:58220465797",
     "2026-11-20:08:15": "1758964706:58265696376",
-    "2026-11-20:08:20": "1541425248:51456146275"
+    "2026-11-20:08:20": "1541425248:51456146275",
+    "2026-11-20:08:30": "467535637:58203004464"
   },
-  "cursor": 10
+  "cursor": 12
 }

@@ -5079,6 +5079,31 @@
         "affiliateLink": "https://s.shopee.com.br/6L68JBbwB5"
       },
       "messageId": 437
+    },
+    "768659092:58207714861": {
+      "status": "pending",
+      "slot": "2026-11-20:08:55",
+      "at": "2026-11-20T11:57:22.174Z",
+      "fingerprint": [
+        "luvas",
+        "eletrostaticas",
+        "remocao",
+        "pelos",
+        "animais",
+        "estimacao",
+        "luva",
+        "removedora",
+        "2025",
+        "lavaveis",
+        "reu"
+      ],
+      "imageIdentity": "/file/sg-11134201-8261v-mmasjrm7uzup99",
+      "family": "luvas-eletrostaticas",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "9ec15705d6e5eac3153ebceeb7fd81e13b1a5850e4b06a8afe49b29fb26d97f0",
+        "affiliateLink": "https://s.shopee.com.br/1W0sgaB9Xc"
+      }
     }
   },
   "slots": {
@@ -5343,7 +5368,8 @@
     "2026-11-20:08:20": "1541425248:51456146275",
     "2026-11-20:08:30": "467535637:58203004464",
     "2026-11-20:08:35": "519444261:14868731775",
-    "2026-11-20:08:45": "478697224:21097623587"
+    "2026-11-20:08:45": "478697224:21097623587",
+    "2026-11-20:08:55": "768659092:58207714861"
   },
-  "cursor": 14
+  "cursor": 15
 }

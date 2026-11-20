@@ -5821,6 +5821,36 @@
         "affiliateLink": "https://s.shopee.com.br/3qOnXgVpN6"
       },
       "messageId": 467
+    },
+    "847374786:51050550700": {
+      "status": "pending",
+      "slot": "2026-11-20:15:00",
+      "at": "2026-11-20T18:01:37.862Z",
+      "fingerprint": [
+        "caneleira",
+        "tornozeleira",
+        "peso",
+        "unidade",
+        "500g",
+        "1kg",
+        "2kg",
+        "3kg",
+        "4kg",
+        "5kg",
+        "preta",
+        "rosa",
+        "exercicio",
+        "musculacao",
+        "fisioterapia",
+        "academia"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mg2kklpwdfk75c",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "2f28b5c00bcab9240006ca05f9f0a73b831a5d7936200d7da9a5e6bf59c64b42",
+        "affiliateLink": "https://s.shopee.com.br/2LZzmErDPO"
+      }
     }
   },
   "slots": {
@@ -6115,7 +6145,8 @@
     "2026-11-20:14:20": "1151895537:19899442828",
     "2026-11-20:14:30": "1243683750:22198669287",
     "2026-11-20:14:35": "1414434727:46109157975",
-    "2026-11-20:14:40": "1381191494:58220072892"
+    "2026-11-20:14:40": "1381191494:58220072892",
+    "2026-11-20:15:00": "847374786:51050550700"
   },
-  "cursor": 0
+  "cursor": 1
 }

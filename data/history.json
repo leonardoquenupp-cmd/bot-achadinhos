@@ -4674,6 +4674,32 @@
         "affiliateLink": "https://s.shopee.com.br/9zzQmmWLPO"
       },
       "messageId": 421
+    },
+    "1661007426:22795030307": {
+      "status": "pending",
+      "slot": "2026-11-19:21:05",
+      "at": "2026-11-20T00:07:16.503Z",
+      "fingerprint": [
+        "eps",
+        "3091",
+        "churrasqueira",
+        "eletrica",
+        "mesa",
+        "epsilon",
+        "controle",
+        "temperatura",
+        "grill",
+        "grelhador",
+        "portatil",
+        "cozinha"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-msmyilnzka9y79",
+      "family": "eps-3091",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "e63d0cc29436cc78c38b441ba9d4e085f1826b0e8bfe17893c3e54db6dd73218",
+        "affiliateLink": "https://s.shopee.com.br/4LL4fcueqT"
+      }
     }
   },
   "slots": {
@@ -4922,7 +4948,8 @@
     "2026-11-19:20:25": "411286117:44161199455",
     "2026-11-19:20:35": "1873225232:48215725650",
     "2026-11-19:20:45": "1531826276:58250033091",
-    "2026-11-19:20:55": "1235915900:52101643929"
+    "2026-11-19:20:55": "1235915900:52101643929",
+    "2026-11-19:21:05": "1661007426:22795030307"
   },
-  "cursor": 14
+  "cursor": 2
 }

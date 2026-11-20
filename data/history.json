@@ -5297,6 +5297,28 @@
         "affiliateLink": "https://s.shopee.com.br/AUvhZNtFA9"
       },
       "messageId": 446
+    },
+    "367839228:23998171803": {
+      "status": "pending",
+      "slot": "2026-11-20:10:40",
+      "at": "2026-11-20T13:41:51.442Z",
+      "fingerprint": [
+        "bota",
+        "masculino",
+        "coturno",
+        "bullgat",
+        "cano",
+        "medio",
+        "motoqueiro",
+        "moda"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-mum1az2ewnb68a",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "d80ad92a4f0084eb56e8372ff830b584ee2cf2c5814049f427c0154890488a9d",
+        "affiliateLink": "https://s.shopee.com.br/2gCpzDQ4MO"
+      }
     }
   },
   "slots": {
@@ -5570,7 +5592,8 @@
     "2026-11-20:10:00": "1577854515:22599501220",
     "2026-11-20:10:15": "329179386:20399832219",
     "2026-11-20:10:20": "264956337:16092743768",
-    "2026-11-20:10:30": "1396355892:18699557153"
+    "2026-11-20:10:30": "1396355892:18699557153",
+    "2026-11-20:10:40": "367839228:23998171803"
   },
-  "cursor": 11
+  "cursor": 12
 }

@@ -4752,6 +4752,29 @@
         "affiliateLink": "https://s.shopee.com.br/BVVUowYll"
       },
       "messageId": 424
+    },
+    "1384046689:58254621747": {
+      "status": "pending",
+      "slot": "2026-11-19:21:40",
+      "at": "2026-11-20T00:42:19.502Z",
+      "fingerprint": [
+        "oculos",
+        "sol",
+        "feminino",
+        "oval",
+        "retro",
+        "padrao",
+        "tartaruga",
+        "estilo",
+        "moderno"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfed52e1pcef5f",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "258d17212992c96fedd4cbf7223186f2538f3fba14af2420fd1895f215006330",
+        "affiliateLink": "https://s.shopee.com.br/8VAddHenNt"
+      }
     }
   },
   "slots": {
@@ -5003,7 +5026,8 @@
     "2026-11-19:20:55": "1235915900:52101643929",
     "2026-11-19:21:05": "1661007426:22795030307",
     "2026-11-19:21:15": "1232066422:23798771235",
-    "2026-11-19:21:30": "1512084630:58254010650"
+    "2026-11-19:21:30": "1512084630:58254010650",
+    "2026-11-19:21:40": "1384046689:58254621747"
   },
-  "cursor": 4
+  "cursor": 8
 }

@@ -5771,9 +5771,9 @@
       "messageId": 465
     },
     "1414434727:46109157975": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:14:35",
-      "at": "2026-11-20T17:37:45.170Z",
+      "at": "2026-11-20T17:37:48.110Z",
       "fingerprint": [
         "meidj",
         "encantos",
@@ -5793,7 +5793,8 @@
       "receipt": {
         "captionHash": "50600254282f75108fe8127222f98a600fae79bb86f5ccba4c614d0a82f1b30e",
         "affiliateLink": "https://s.shopee.com.br/8pnTTS8oRV"
-      }
+      },
+      "messageId": 466
     }
   },
   "slots": {

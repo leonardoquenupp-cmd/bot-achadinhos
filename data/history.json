@@ -6358,6 +6358,28 @@
         "affiliateLink": "https://s.shopee.com.br/7puxjvTYhg"
       },
       "messageId": 488
+    },
+    "1864181446:23995046606": {
+      "status": "pending",
+      "slot": "2026-11-20:19:55",
+      "at": "2026-11-20T22:57:08.813Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "nuvem",
+        "unissex",
+        "leve",
+        "macio",
+        "confortavel",
+        "casual"
+      ],
+      "imageIdentity": "/file/sg-11134201-825a7-mqc017gre5u44d",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "a8de2416ce64de1cbbbe4e34f5c2a6479f0c00d200804f2b1ae8ebbd8ef986c3",
+        "affiliateLink": "https://s.shopee.com.br/5fqRwjCLhF"
+      }
     }
   },
   "slots": {
@@ -6673,7 +6695,8 @@
     "2026-11-20:19:00": "471468707:49767747280",
     "2026-11-20:19:15": "1829370324:58262115339",
     "2026-11-20:19:30": "617617904:18910553978",
-    "2026-11-20:19:45": "1083951020:22894654908"
+    "2026-11-20:19:45": "1083951020:22894654908",
+    "2026-11-20:19:55": "1864181446:23995046606"
   },
-  "cursor": 15
+  "cursor": 3
 }

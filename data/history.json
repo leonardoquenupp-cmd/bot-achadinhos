@@ -6428,6 +6428,29 @@
         "affiliateLink": "https://s.shopee.com.br/8AXnEfg43r"
       },
       "messageId": 491
+    },
+    "1874544643:58214505589": {
+      "status": "pending",
+      "slot": "2026-11-20:20:45",
+      "at": "2026-11-20T23:46:18.898Z",
+      "fingerprint": [
+        "palmilha",
+        "ortopedica",
+        "gel",
+        "anatomica",
+        "macia",
+        "anti",
+        "impacto",
+        "alivio",
+        "dores"
+      ],
+      "imageIdentity": "/file/br-11134207-820m5-mrfy4cyxm3gn92",
+      "family": "palmilha-ortopedica",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "3acdf35509550625d639db47b6701903ab7104fb7cf6f34306eefde92a016f50",
+        "affiliateLink": "https://s.shopee.com.br/3qOnlMJKQ5"
+      }
     }
   },
   "slots": {
@@ -6746,7 +6769,8 @@
     "2026-11-20:19:45": "1083951020:22894654908",
     "2026-11-20:19:55": "1864181446:23995046606",
     "2026-11-20:20:10": "1381191494:58212939365",
-    "2026-11-20:20:25": "1003085235:21298534683"
+    "2026-11-20:20:25": "1003085235:21298534683",
+    "2026-11-20:20:45": "1874544643:58214505589"
   },
-  "cursor": 10
+  "cursor": 11
 }

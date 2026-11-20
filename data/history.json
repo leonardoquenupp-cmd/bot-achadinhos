@@ -5854,9 +5854,9 @@
       "messageId": 468
     },
     "299564699:22598401117": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:15:15",
-      "at": "2026-11-20T18:16:26.276Z",
+      "at": "2026-11-20T18:16:28.960Z",
       "fingerprint": [
         "cutelaria",
         "profissional",
@@ -5877,7 +5877,8 @@
       "receipt": {
         "captionHash": "5f876920ecc80b01df7c693bdfc22a8f444c1251e28249d8594206c44d778473",
         "affiliateLink": "https://s.shopee.com.br/LoxEvlSGd"
-      }
+      },
+      "messageId": 469
     }
   },
   "slots": {

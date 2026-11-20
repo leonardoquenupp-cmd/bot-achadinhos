@@ -4956,9 +4956,9 @@
       "messageId": 432
     },
     "1758964706:58265696376": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:15",
-      "at": "2026-11-20T11:16:20.505Z",
+      "at": "2026-11-20T11:16:22.955Z",
       "fingerprint": [
         "terapia",
         "capilar",
@@ -4977,7 +4977,8 @@
       "receipt": {
         "captionHash": "ec7197b8450a64ef4d7dfe0f6d6f33529a338f1d82d45686db333f95257bb9ec",
         "affiliateLink": "https://s.shopee.com.br/6q2PQ11pNO"
-      }
+      },
+      "messageId": 433
     }
   },
   "slots": {

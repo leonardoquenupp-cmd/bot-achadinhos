@@ -6058,6 +6058,23 @@
         "affiliateLink": "https://s.shopee.com.br/60THyj0z1f"
       },
       "messageId": 476
+    },
+    "1590080946:23298881879": {
+      "status": "pending",
+      "slot": "2026-11-20:16:40",
+      "at": "2026-11-20T19:42:27.425Z",
+      "fingerprint": [
+        "manose",
+        "500mg",
+        "cranberry"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-merv3zzjypdtab",
+      "family": "manose-500mg",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "391ca7eded06421d38c02abdbe5500ae76fa429127a7957764abd2b67103be1b",
+        "affiliateLink": "https://s.shopee.com.br/8fU3FOvSq3"
+      }
     }
   },
   "slots": {
@@ -6361,7 +6378,8 @@
     "2026-11-20:15:50": "464886257:13959278641",
     "2026-11-20:16:00": "1286352236:22198485684",
     "2026-11-20:16:10": "367839228:17092385149",
-    "2026-11-20:16:30": "418205294:22696241891"
+    "2026-11-20:16:30": "418205294:22696241891",
+    "2026-11-20:16:40": "1590080946:23298881879"
   },
-  "cursor": 14
+  "cursor": 15
 }

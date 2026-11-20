@@ -6035,6 +6035,28 @@
         "affiliateLink": "https://s.shopee.com.br/3qOnNMLczb"
       },
       "messageId": 475
+    },
+    "418205294:22696241891": {
+      "status": "pending",
+      "slot": "2026-11-20:16:30",
+      "at": "2026-11-20T19:31:24.708Z",
+      "fingerprint": [
+        "ana1108",
+        "conjunto",
+        "unidades",
+        "pinceis",
+        "maquiagem",
+        "contorno",
+        "kabuki",
+        "profissional"
+      ],
+      "imageIdentity": "/file/br-11134207-820lk-mmvxxzgnjh1g4c",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "c6c44202270a1b4e1502007a783927e7a7627d2263e32e701368f87637409b7a",
+        "affiliateLink": "https://s.shopee.com.br/60THyj0z1f"
+      }
     }
   },
   "slots": {
@@ -6337,7 +6359,8 @@
     "2026-11-20:15:40": "1393644393:19799895616",
     "2026-11-20:15:50": "464886257:13959278641",
     "2026-11-20:16:00": "1286352236:22198485684",
-    "2026-11-20:16:10": "367839228:17092385149"
+    "2026-11-20:16:10": "367839228:17092385149",
+    "2026-11-20:16:30": "418205294:22696241891"
   },
-  "cursor": 13
+  "cursor": 14
 }

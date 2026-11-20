@@ -6078,9 +6078,9 @@
       "messageId": 477
     },
     "519444261:23219850802": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:16:50",
-      "at": "2026-11-20T19:52:30.330Z",
+      "at": "2026-11-20T19:52:32.559Z",
       "fingerprint": [
         "bandagem",
         "dedos",
@@ -6096,7 +6096,8 @@
       "receipt": {
         "captionHash": "56d080f608f248f70f9f1d5b918ead2d85b1705a747a0df2602accd865f3bed9",
         "affiliateLink": "https://s.shopee.com.br/3LSWvOo7lc"
-      }
+      },
+      "messageId": 478
     }
   },
   "slots": {

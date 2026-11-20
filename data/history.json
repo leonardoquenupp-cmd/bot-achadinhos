@@ -5567,9 +5567,9 @@
       "messageId": 457
     },
     "862328117:23399456883": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:13:00",
-      "at": "2026-11-20T16:01:20.793Z",
+      "at": "2026-11-20T16:01:23.662Z",
       "fingerprint": [
         "dilatador",
         "nasal",
@@ -5589,7 +5589,8 @@
       "receipt": {
         "captionHash": "be189c66e2136a3b85ac3ed8b31147763d6f6b77f3ad3c202c66f78001c5a2fb",
         "affiliateLink": "https://s.shopee.com.br/6q2QkS57RG"
-      }
+      },
+      "messageId": 458
     }
   },
   "slots": {

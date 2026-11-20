@@ -4728,6 +4728,29 @@
         "affiliateLink": "https://s.shopee.com.br/gRlcvLHr6"
       },
       "messageId": 423
+    },
+    "1512084630:58254010650": {
+      "status": "pending",
+      "slot": "2026-11-19:21:30",
+      "at": "2026-11-20T00:31:53.087Z",
+      "fingerprint": [
+        "capa",
+        "moto",
+        "termica",
+        "banco",
+        "impermeavel",
+        "universal",
+        "preta",
+        "macia",
+        "respiravel"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260a-mjwbw9kq8t8jb5",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "f40433a1652b1c212666c53bdeba96b3ce8a8a0154c91087ab448d7b5549fc99",
+        "affiliateLink": "https://s.shopee.com.br/BVVUowYll"
+      }
     }
   },
   "slots": {
@@ -4978,7 +5001,8 @@
     "2026-11-19:20:45": "1531826276:58250033091",
     "2026-11-19:20:55": "1235915900:52101643929",
     "2026-11-19:21:05": "1661007426:22795030307",
-    "2026-11-19:21:15": "1232066422:23798771235"
+    "2026-11-19:21:15": "1232066422:23798771235",
+    "2026-11-19:21:30": "1512084630:58254010650"
   },
-  "cursor": 3
+  "cursor": 4
 }

@@ -6120,6 +6120,29 @@
         "affiliateLink": "https://s.shopee.com.br/30pgRFR9pL"
       },
       "messageId": 479
+    },
+    "1381191494:23998706677": {
+      "status": "pending",
+      "slot": "2026-11-20:17:10",
+      "at": "2026-11-20T20:11:54.914Z",
+      "fingerprint": [
+        "coleira",
+        "cachorro",
+        "plaquinha",
+        "identificacao",
+        "pet",
+        "ajustavel",
+        "regulavel",
+        "fecho",
+        "resistente"
+      ],
+      "imageIdentity": "/file/br-11134207-820lq-muv9i57104jme1",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "7d37300ebe3e77ff2a6f926d0eebe0ed614cbd4a65c6aac1285db951c253bd53",
+        "affiliateLink": "https://s.shopee.com.br/3g5N8wZzgz"
+      }
     }
   },
   "slots": {
@@ -6426,7 +6449,8 @@
     "2026-11-20:16:30": "418205294:22696241891",
     "2026-11-20:16:40": "1590080946:23298881879",
     "2026-11-20:16:50": "519444261:23219850802",
-    "2026-11-20:17:00": "1671697946:53815909753"
+    "2026-11-20:17:00": "1671697946:53815909753",
+    "2026-11-20:17:10": "1381191494:23998706677"
   },
-  "cursor": 1
+  "cursor": 2
 }

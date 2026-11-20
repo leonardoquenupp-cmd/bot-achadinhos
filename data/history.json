@@ -5979,6 +5979,37 @@
         "affiliateLink": "https://s.shopee.com.br/9fMaSzrcle"
       },
       "messageId": 473
+    },
+    "1286352236:22198485684": {
+      "status": "pending",
+      "slot": "2026-11-20:16:00",
+      "at": "2026-11-20T19:01:30.922Z",
+      "fingerprint": [
+        "conjunto",
+        "gringa",
+        "femenino",
+        "langerie",
+        "sensual",
+        "renda",
+        "sem",
+        "bojo",
+        "meia",
+        "taca",
+        "aro",
+        "calcinha",
+        "string",
+        "regulavel",
+        "forro",
+        "100",
+        "algodao"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mesp1s76gikia7",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "bd30e497c823a78833befa66a1339fcbd3906216bf280d84eb10769dfee0b989",
+        "affiliateLink": "https://s.shopee.com.br/3B97Cbp6EZ"
+      }
     }
   },
   "slots": {
@@ -6279,7 +6310,8 @@
     "2026-11-20:15:25": "868533879:43115028793",
     "2026-11-20:15:35": "1352604009:21397997656",
     "2026-11-20:15:40": "1393644393:19799895616",
-    "2026-11-20:15:50": "464886257:13959278641"
+    "2026-11-20:15:50": "464886257:13959278641",
+    "2026-11-20:16:00": "1286352236:22198485684"
   },
-  "cursor": 10
+  "cursor": 12
 }

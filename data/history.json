@@ -5470,6 +5470,28 @@
         "affiliateLink": "https://s.shopee.com.br/7AfFJNMfaS"
       },
       "messageId": 453
+    },
+    "1512108548:23698384152": {
+      "status": "pending",
+      "slot": "2026-11-20:12:15",
+      "at": "2026-11-20T15:16:32.568Z",
+      "fingerprint": [
+        "bicicleta",
+        "bike",
+        "ergometrica",
+        "spinning",
+        "academia",
+        "fitness",
+        "profissional",
+        "120kg"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m8dq90menppta0",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "af37b21411234bb8ead16e3b5aeb37894df15f1341160aff4da4aa73a4ec7ed2",
+        "affiliateLink": "https://s.shopee.com.br/5LDbbg37xN"
+      }
     }
   },
   "slots": {
@@ -5750,7 +5772,8 @@
     "2026-11-20:11:25": "1590080946:22194435267",
     "2026-11-20:11:35": "1151895537:23493340862",
     "2026-11-20:11:45": "391739739:20299250319",
-    "2026-11-20:11:55": "1381191494:22894295612"
+    "2026-11-20:11:55": "1381191494:22894295612",
+    "2026-11-20:12:15": "1512108548:23698384152"
   },
-  "cursor": 8
+  "cursor": 9
 }

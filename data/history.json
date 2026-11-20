@@ -5107,9 +5107,9 @@
       "messageId": 438
     },
     "1171907204:25381410463": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:09:05",
-      "at": "2026-11-20T12:06:35.641Z",
+      "at": "2026-11-20T12:06:37.797Z",
       "fingerprint": [
         "par",
         "sapatos",
@@ -5132,7 +5132,8 @@
       "receipt": {
         "captionHash": "aa0b5e8352849f9860483eea67b21d4d4ff365cdfc4a02d4ed7a90777d2dde87",
         "affiliateLink": "https://s.shopee.com.br/9V3AGeXToe"
-      }
+      },
+      "messageId": 439
     }
   },
   "slots": {

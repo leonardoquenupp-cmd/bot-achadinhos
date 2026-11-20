@@ -6254,6 +6254,31 @@
         "affiliateLink": "https://s.shopee.com.br/8KrD5b0IWC"
       },
       "messageId": 484
+    },
+    "471468707:49767747280": {
+      "status": "pending",
+      "slot": "2026-11-20:19:00",
+      "at": "2026-11-20T22:01:45.565Z",
+      "fingerprint": [
+        "pacote",
+        "mantas",
+        "pet",
+        "soft",
+        "cachorro",
+        "gato",
+        "80x60",
+        "cobertor",
+        "fleece",
+        "macio",
+        "lavavel"
+      ],
+      "imageIdentity": "/file/br-11134201-820m7-mvrfv083ft35a8",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "8f15c583a759aa61c80cc45405bb4d94a6d2fe835526fc436f6dd7ab0fff63dc",
+        "affiliateLink": "https://s.shopee.com.br/1qdjufjXwg"
+      }
     }
   },
   "slots": {
@@ -6565,7 +6590,8 @@
     "2026-11-20:18:15": "1060688258:58268174348",
     "2026-11-20:18:25": "1195616626:21399302297",
     "2026-11-20:18:35": "457931655:9265712239",
-    "2026-11-20:18:45": "1259086167:23993091677"
+    "2026-11-20:18:45": "1259086167:23993091677",
+    "2026-11-20:19:00": "471468707:49767747280"
   },
-  "cursor": 9
+  "cursor": 10
 }

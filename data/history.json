@@ -4981,9 +4981,9 @@
       "messageId": 433
     },
     "1541425248:51456146275": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:20",
-      "at": "2026-11-20T11:22:25.212Z",
+      "at": "2026-11-20T11:22:27.813Z",
       "fingerprint": [
         "chinelo",
         "slide",
@@ -5003,7 +5003,8 @@
       "receipt": {
         "captionHash": "caca7cfe325d7196921fcf8a6a10b3aea5c3b0ae6a29b35a78f481e0e2931ee5",
         "affiliateLink": "https://s.shopee.com.br/3qOo4hadDv"
-      }
+      },
+      "messageId": 434
     }
   },
   "slots": {

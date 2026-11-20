@@ -5718,6 +5718,27 @@
         "affiliateLink": "https://s.shopee.com.br/906taHzr82"
       },
       "messageId": 463
+    },
+    "1151895537:19899442828": {
+      "status": "pending",
+      "slot": "2026-11-20:14:20",
+      "at": "2026-11-20T17:22:33.374Z",
+      "fingerprint": [
+        "enfeite",
+        "unhas",
+        "decoracoes",
+        "nails",
+        "manicure",
+        "resina",
+        "sq4323"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m0izszppjsm8d9",
+      "family": "enfeite-unhas",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "3ab5fbeaa60932b5b48f4cfb9625288b9816ca2c0d71d2c41cd659deb49a5f81",
+        "affiliateLink": "https://s.shopee.com.br/BVV3Kc7Q9"
+      }
     }
   },
   "slots": {
@@ -6008,7 +6029,8 @@
     "2026-11-20:13:25": "204993078:28041444788",
     "2026-11-20:13:45": "1660293952:58212076866",
     "2026-11-20:14:05": "1594633180:55501913565",
-    "2026-11-20:14:15": "1459307687:52905774499"
+    "2026-11-20:14:15": "1459307687:52905774499",
+    "2026-11-20:14:20": "1151895537:19899442828"
   },
-  "cursor": 6
+  "cursor": 8
 }

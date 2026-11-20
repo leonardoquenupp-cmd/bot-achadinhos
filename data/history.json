@@ -5377,9 +5377,9 @@
       "messageId": 449
     },
     "1590080946:22194435267": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:11:25",
-      "at": "2026-11-20T14:27:06.054Z",
+      "at": "2026-11-20T14:27:08.611Z",
       "fingerprint": [
         "zinco",
         "quelato",
@@ -5395,7 +5395,8 @@
       "receipt": {
         "captionHash": "df09e7e0234651ba72d6f3ae70387113cb61fce3a76d1ceefc193d47dd083005",
         "affiliateLink": "https://s.shopee.com.br/8pnTRhupV4"
-      }
+      },
+      "messageId": 450
     }
   },
   "slots": {

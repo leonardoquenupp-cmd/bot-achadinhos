@@ -6037,9 +6037,9 @@
       "messageId": 475
     },
     "418205294:22696241891": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:16:30",
-      "at": "2026-11-20T19:31:24.708Z",
+      "at": "2026-11-20T19:31:26.461Z",
       "fingerprint": [
         "ana1108",
         "conjunto",
@@ -6056,7 +6056,8 @@
       "receipt": {
         "captionHash": "c6c44202270a1b4e1502007a783927e7a7627d2263e32e701368f87637409b7a",
         "affiliateLink": "https://s.shopee.com.br/60THyj0z1f"
-      }
+      },
+      "messageId": 476
     }
   },
   "slots": {

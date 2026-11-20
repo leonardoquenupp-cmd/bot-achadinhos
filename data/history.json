@@ -5933,6 +5933,30 @@
         "affiliateLink": "https://s.shopee.com.br/50akoJHmAW"
       },
       "messageId": 471
+    },
+    "1393644393:19799895616": {
+      "status": "pending",
+      "slot": "2026-11-20:15:40",
+      "at": "2026-11-20T18:43:11.422Z",
+      "fingerprint": [
+        "fone",
+        "sports",
+        "sem",
+        "fio",
+        "fitness",
+        "bluetooth",
+        "kaidi",
+        "901",
+        "academia",
+        "corridas"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfiafbcdui2o6a",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "6e36c5d6d592d049c308bb9e4aa4f88b3ffc8fad41bd07f0f735353013b3ae73",
+        "affiliateLink": "https://s.shopee.com.br/1gKJ81wjSC"
+      }
     }
   },
   "slots": {
@@ -6231,7 +6255,8 @@
     "2026-11-20:15:00": "847374786:51050550700",
     "2026-11-20:15:15": "299564699:22598401117",
     "2026-11-20:15:25": "868533879:43115028793",
-    "2026-11-20:15:35": "1352604009:21397997656"
+    "2026-11-20:15:35": "1352604009:21397997656",
+    "2026-11-20:15:40": "1393644393:19799895616"
   },
-  "cursor": 5
+  "cursor": 7
 }

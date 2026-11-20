@@ -5639,6 +5639,33 @@
         "affiliateLink": "https://s.shopee.com.br/9fMaQIBQzA"
       },
       "messageId": 460
+    },
+    "1660293952:58212076866": {
+      "status": "pending",
+      "slot": "2026-11-20:13:45",
+      "at": "2026-11-20T16:46:26.105Z",
+      "fingerprint": [
+        "maquina",
+        "cortar",
+        "cabelo",
+        "eletrica",
+        "profissional",
+        "visor",
+        "digital",
+        "essencial",
+        "homens",
+        "estilosos",
+        "uso",
+        "domestico",
+        "barb"
+      ],
+      "imageIdentity": "/file/br-11134207-820l5-mp651wmbdp8ja0",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "d9ea55568afc895e3a6ecac926d1406561afefabd44982ca72fa70d5611304ff",
+        "affiliateLink": "https://s.shopee.com.br/7fbVxmuddp"
+      }
     }
   },
   "slots": {
@@ -5926,7 +5953,8 @@
     "2026-11-20:12:50": "332179884:23097284836",
     "2026-11-20:13:00": "862328117:23399456883",
     "2026-11-20:13:10": "1782913841:57667214868",
-    "2026-11-20:13:25": "204993078:28041444788"
+    "2026-11-20:13:25": "204993078:28041444788",
+    "2026-11-20:13:45": "1660293952:58212076866"
   },
-  "cursor": 3
+  "cursor": 4
 }

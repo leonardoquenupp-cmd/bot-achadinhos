@@ -6256,9 +6256,9 @@
       "messageId": 484
     },
     "471468707:49767747280": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:19:00",
-      "at": "2026-11-20T22:01:45.565Z",
+      "at": "2026-11-20T22:01:47.326Z",
       "fingerprint": [
         "pacote",
         "mantas",
@@ -6278,7 +6278,8 @@
       "receipt": {
         "captionHash": "8f15c583a759aa61c80cc45405bb4d94a6d2fe835526fc436f6dd7ab0fff63dc",
         "affiliateLink": "https://s.shopee.com.br/1qdjufjXwg"
-      }
+      },
+      "messageId": 485
     }
   },
   "slots": {

@@ -5055,9 +5055,9 @@
       "messageId": 436
     },
     "478697224:21097623587": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:45",
-      "at": "2026-11-20T11:46:44.923Z",
+      "at": "2026-11-20T11:46:47.488Z",
       "fingerprint": [
         "projetor",
         "hy300",
@@ -5077,7 +5077,8 @@
       "receipt": {
         "captionHash": "2bad88c024f13daef58a7a7364afe550ca0ca1766be27e3a304933e458d8017f",
         "affiliateLink": "https://s.shopee.com.br/6L68JBbwB5"
-      }
+      },
+      "messageId": 437
     }
   },
   "slots": {

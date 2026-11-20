@@ -5615,9 +5615,9 @@
       "messageId": 459
     },
     "204993078:28041444788": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:13:25",
-      "at": "2026-11-20T16:26:44.722Z",
+      "at": "2026-11-20T16:26:47.090Z",
       "fingerprint": [
         "tenis",
         "polo",
@@ -5637,7 +5637,8 @@
       "receipt": {
         "captionHash": "20f2e777bdb00e742dc02b311855b6000ca3b11b52fd3f001e466a5ac7876aaa",
         "affiliateLink": "https://s.shopee.com.br/9fMaQIBQzA"
-      }
+      },
+      "messageId": 460
     }
   },
   "slots": {

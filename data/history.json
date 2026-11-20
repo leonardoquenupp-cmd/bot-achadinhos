@@ -4954,6 +4954,30 @@
         "affiliateLink": "https://s.shopee.com.br/4fxuTnhxz4"
       },
       "messageId": 432
+    },
+    "1758964706:58265696376": {
+      "status": "pending",
+      "slot": "2026-11-20:08:15",
+      "at": "2026-11-20T11:16:20.505Z",
+      "fingerprint": [
+        "terapia",
+        "capilar",
+        "oleo",
+        "coco",
+        "ricino",
+        "alecrim",
+        "60ml",
+        "misturinha",
+        "umectacao",
+        "completa"
+      ],
+      "imageIdentity": "/file/sg-11134201-82587-mrk5utdsf56pd7",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "ec7197b8450a64ef4d7dfe0f6d6f33529a338f1d82d45686db333f95257bb9ec",
+        "affiliateLink": "https://s.shopee.com.br/6q2PQ11pNO"
+      }
     }
   },
   "slots": {
@@ -5213,7 +5237,8 @@
     "2026-11-19:22:30": "1840627515:58261885368",
     "2026-11-19:22:45": "1385382926:21697974917",
     "2026-11-19:22:50": "398944029:10869646245",
-    "2026-11-20:08:05": "1625455449:58220465797"
+    "2026-11-20:08:05": "1625455449:58220465797",
+    "2026-11-20:08:15": "1758964706:58265696376"
   },
-  "cursor": 5
+  "cursor": 6
 }

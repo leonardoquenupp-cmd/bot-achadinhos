@@ -6308,9 +6308,9 @@
       "messageId": 486
     },
     "617617904:18910553978": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:19:30",
-      "at": "2026-11-20T22:31:48.973Z",
+      "at": "2026-11-20T22:31:51.247Z",
       "fingerprint": [
         "botina",
         "seguranca",
@@ -6330,7 +6330,8 @@
       "receipt": {
         "captionHash": "c91a1ebaa5e4807146978fb3ff4a8b61a4c57bd6d128fe71d1dfd1a81642b48b",
         "affiliateLink": "https://s.shopee.com.br/5VX2DJJw2Z"
-      }
+      },
+      "messageId": 487
     }
   },
   "slots": {

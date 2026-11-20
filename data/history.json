@@ -4730,9 +4730,9 @@
       "messageId": 423
     },
     "1512084630:58254010650": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-19:21:30",
-      "at": "2026-11-20T00:31:53.087Z",
+      "at": "2026-11-20T00:31:55.483Z",
       "fingerprint": [
         "capa",
         "moto",
@@ -4750,7 +4750,8 @@
       "receipt": {
         "captionHash": "f40433a1652b1c212666c53bdeba96b3ce8a8a0154c91087ab448d7b5549fc99",
         "affiliateLink": "https://s.shopee.com.br/BVVUowYll"
-      }
+      },
+      "messageId": 424
     }
   },
   "slots": {

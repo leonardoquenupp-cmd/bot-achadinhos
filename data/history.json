@@ -6196,6 +6196,34 @@
         "affiliateLink": "https://s.shopee.com.br/1LhSdDGmlE"
       },
       "messageId": 482
+    },
+    "457931655:9265712239": {
+      "status": "pending",
+      "slot": "2026-11-20:18:35",
+      "at": "2026-11-20T21:37:04.359Z",
+      "fingerprint": [
+        "alfabetos",
+        "fluorescentes",
+        "numeros",
+        "tenis",
+        "encantos",
+        "sandalias",
+        "pingente",
+        "botao",
+        "original",
+        "sapato",
+        "tamanco",
+        "pinos",
+        "presentes",
+        "ami"
+      ],
+      "imageIdentity": "/file/cn-11134207-7ras8-m1gcvf289u0db7",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "8af74966d29663751452ce56a6d3a648c8db4d63e0ade389d52d179394c1d03a",
+        "affiliateLink": "https://s.shopee.com.br/8fU3H99RmS"
+      }
     }
   },
   "slots": {
@@ -6505,7 +6533,8 @@
     "2026-11-20:17:00": "1671697946:53815909753",
     "2026-11-20:17:10": "1381191494:23998706677",
     "2026-11-20:18:15": "1060688258:58268174348",
-    "2026-11-20:18:25": "1195616626:21399302297"
+    "2026-11-20:18:25": "1195616626:21399302297",
+    "2026-11-20:18:35": "457931655:9265712239"
   },
-  "cursor": 6
+  "cursor": 8
 }

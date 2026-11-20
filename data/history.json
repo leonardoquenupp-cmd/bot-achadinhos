@@ -4776,6 +4776,30 @@
         "affiliateLink": "https://s.shopee.com.br/8VAddHenNt"
       },
       "messageId": 425
+    },
+    "403153126:23493697247": {
+      "status": "pending",
+      "slot": "2026-11-19:21:50",
+      "at": "2026-11-20T00:51:56.021Z",
+      "fingerprint": [
+        "pecas",
+        "cadarcos",
+        "silicone",
+        "elastico",
+        "sem",
+        "amarracao",
+        "tenis",
+        "corrida",
+        "criancas",
+        "adultos"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbl9-m5ynergzyhroc8",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "bf6c258f1560297966610e61c41481238a7031890d2b3ea0721aae4292348772",
+        "affiliateLink": "https://s.shopee.com.br/40iDYLsbAs"
+      }
     }
   },
   "slots": {
@@ -5028,7 +5052,8 @@
     "2026-11-19:21:05": "1661007426:22795030307",
     "2026-11-19:21:15": "1232066422:23798771235",
     "2026-11-19:21:30": "1512084630:58254010650",
-    "2026-11-19:21:40": "1384046689:58254621747"
+    "2026-11-19:21:40": "1384046689:58254621747",
+    "2026-11-19:21:50": "403153126:23493697247"
   },
-  "cursor": 8
+  "cursor": 9
 }

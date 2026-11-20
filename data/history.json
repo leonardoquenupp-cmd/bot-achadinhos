@@ -5613,6 +5613,31 @@
         "affiliateLink": "https://s.shopee.com.br/3B96Y2xYrA"
       },
       "messageId": 459
+    },
+    "204993078:28041444788": {
+      "status": "pending",
+      "slot": "2026-11-20:13:25",
+      "at": "2026-11-20T16:26:44.722Z",
+      "fingerprint": [
+        "tenis",
+        "polo",
+        "fit",
+        "urban",
+        "street",
+        "skate",
+        "casual",
+        "original",
+        "masculino",
+        "dia",
+        "esporte"
+      ],
+      "imageIdentity": "/file/br-11134207-820me-mth59i6gqbcxcc",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "20f2e777bdb00e742dc02b311855b6000ca3b11b52fd3f001e466a5ac7876aaa",
+        "affiliateLink": "https://s.shopee.com.br/9fMaQIBQzA"
+      }
     }
   },
   "slots": {
@@ -5899,7 +5924,8 @@
     "2026-11-20:12:40": "868533879:23396118279",
     "2026-11-20:12:50": "332179884:23097284836",
     "2026-11-20:13:00": "862328117:23399456883",
-    "2026-11-20:13:10": "1782913841:57667214868"
+    "2026-11-20:13:10": "1782913841:57667214868",
+    "2026-11-20:13:25": "204993078:28041444788"
   },
-  "cursor": 2
+  "cursor": 3
 }

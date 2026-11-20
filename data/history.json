@@ -5234,6 +5234,28 @@
         "affiliateLink": "https://s.shopee.com.br/50aku5IM2a"
       },
       "messageId": 443
+    },
+    "329179386:20399832219": {
+      "status": "pending",
+      "slot": "2026-11-20:10:15",
+      "at": "2026-11-20T13:16:12.529Z",
+      "fingerprint": [
+        "expansor",
+        "nasal",
+        "anti",
+        "ronco",
+        "respiracao",
+        "silencioso",
+        "confortavel",
+        "congestao"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rass-mb58un7gdduqed",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "8e2bb346cc1326b8b922ff6e15cd36af42517ed222bf254041f3549b44a86cc9",
+        "affiliateLink": "https://s.shopee.com.br/7AfFOtlJF6"
+      }
     }
   },
   "slots": {
@@ -5504,7 +5526,8 @@
     "2026-11-20:09:15": "979730489:23897176041",
     "2026-11-20:09:30": "575218903:58216760674",
     "2026-11-20:09:45": "324642050:20597347457",
-    "2026-11-20:10:00": "1577854515:22599501220"
+    "2026-11-20:10:00": "1577854515:22599501220",
+    "2026-11-20:10:15": "329179386:20399832219"
   },
-  "cursor": 6
+  "cursor": 7
 }

@@ -5981,9 +5981,9 @@
       "messageId": 473
     },
     "1286352236:22198485684": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:16:00",
-      "at": "2026-11-20T19:01:30.922Z",
+      "at": "2026-11-20T19:01:33.106Z",
       "fingerprint": [
         "conjunto",
         "gringa",
@@ -6009,7 +6009,8 @@
       "receipt": {
         "captionHash": "bd30e497c823a78833befa66a1339fcbd3906216bf280d84eb10769dfee0b989",
         "affiliateLink": "https://s.shopee.com.br/3B97Cbp6EZ"
-      }
+      },
+      "messageId": 474
     }
   },
   "slots": {

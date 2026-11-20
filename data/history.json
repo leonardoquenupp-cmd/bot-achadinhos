@@ -5428,9 +5428,9 @@
       "messageId": 451
     },
     "391739739:20299250319": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:11:45",
-      "at": "2026-11-20T14:46:26.185Z",
+      "at": "2026-11-20T14:46:28.164Z",
       "fingerprint": [
         "monitor",
         "digital",
@@ -5447,7 +5447,8 @@
       "receipt": {
         "captionHash": "b710755254e0d588d0ab7ac69e00b0b3d11e8ef5d7658725336025d90489ada9",
         "affiliateLink": "https://s.shopee.com.br/8KrCn2grsT"
-      }
+      },
+      "messageId": 452
     }
   },
   "slots": {

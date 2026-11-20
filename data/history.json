@@ -6306,6 +6306,31 @@
         "affiliateLink": "https://s.shopee.com.br/2gCqiqNAjU"
       },
       "messageId": 486
+    },
+    "617617904:18910553978": {
+      "status": "pending",
+      "slot": "2026-11-20:19:30",
+      "at": "2026-11-20T22:31:48.973Z",
+      "fingerprint": [
+        "botina",
+        "seguranca",
+        "bico",
+        "pvc",
+        "couro",
+        "trabalho",
+        "atacado",
+        "epi",
+        "resistente",
+        "servicos",
+        "gerais"
+      ],
+      "imageIdentity": "/file/br-11134207-820m8-mvoqh4fs7fuq39",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "c91a1ebaa5e4807146978fb3ff4a8b61a4c57bd6d128fe71d1dfd1a81642b48b",
+        "affiliateLink": "https://s.shopee.com.br/5VX2DJJw2Z"
+      }
     }
   },
   "slots": {
@@ -6619,7 +6644,8 @@
     "2026-11-20:18:35": "457931655:9265712239",
     "2026-11-20:18:45": "1259086167:23993091677",
     "2026-11-20:19:00": "471468707:49767747280",
-    "2026-11-20:19:15": "1829370324:58262115339"
+    "2026-11-20:19:15": "1829370324:58262115339",
+    "2026-11-20:19:30": "617617904:18910553978"
   },
-  "cursor": 12
+  "cursor": 14
 }

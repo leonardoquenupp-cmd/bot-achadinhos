@@ -5769,6 +5769,31 @@
         "affiliateLink": "https://s.shopee.com.br/20xAzZNWFn"
       },
       "messageId": 465
+    },
+    "1414434727:46109157975": {
+      "status": "pending",
+      "slot": "2026-11-20:14:35",
+      "at": "2026-11-20T17:37:45.170Z",
+      "fingerprint": [
+        "meidj",
+        "encantos",
+        "fivelas",
+        "sapato",
+        "personalidade",
+        "legal",
+        "bonito",
+        "alfinetes",
+        "tamancos",
+        "sandalias",
+        "acessorios"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mn9mygqufgn689",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "50600254282f75108fe8127222f98a600fae79bb86f5ccba4c614d0a82f1b30e",
+        "affiliateLink": "https://s.shopee.com.br/8pnTTS8oRV"
+      }
     }
   },
   "slots": {
@@ -6061,7 +6086,8 @@
     "2026-11-20:14:05": "1594633180:55501913565",
     "2026-11-20:14:15": "1459307687:52905774499",
     "2026-11-20:14:20": "1151895537:19899442828",
-    "2026-11-20:14:30": "1243683750:22198669287"
+    "2026-11-20:14:30": "1243683750:22198669287",
+    "2026-11-20:14:35": "1414434727:46109157975"
   },
-  "cursor": 10
+  "cursor": 13
 }

@@ -6383,9 +6383,9 @@
       "messageId": 489
     },
     "1381191494:58212939365": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:20:10",
-      "at": "2026-11-20T23:11:52.281Z",
+      "at": "2026-11-20T23:11:54.944Z",
       "fingerprint": [
         "coleira",
         "ajuste",
@@ -6404,7 +6404,8 @@
       "receipt": {
         "captionHash": "60bcd4b8cc44353b8e8791b63c68bb00ab075bda8e7bca5ee973ea46c145538f",
         "affiliateLink": "https://s.shopee.com.br/3g5NLNWSi5"
-      }
+      },
+      "messageId": 490
     }
   },
   "slots": {

@@ -6011,6 +6011,29 @@
         "affiliateLink": "https://s.shopee.com.br/3B97Cbp6EZ"
       },
       "messageId": 474
+    },
+    "367839228:17092385149": {
+      "status": "pending",
+      "slot": "2026-11-20:16:10",
+      "at": "2026-11-20T19:11:54.701Z",
+      "fingerprint": [
+        "sandalia",
+        "chinelo",
+        "masculino",
+        "couro",
+        "legitimo",
+        "anti",
+        "stress",
+        "anatomico",
+        "ortopedico"
+      ],
+      "imageIdentity": "/file/br-11134201-23020-jiqtquf7y1mv5e",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "9c2db5ce7e2b52cb37db037c0fb705c727eda85a45079759ecadfb856593454d",
+        "affiliateLink": "https://s.shopee.com.br/3qOnNMLczb"
+      }
     }
   },
   "slots": {
@@ -6312,7 +6335,8 @@
     "2026-11-20:15:35": "1352604009:21397997656",
     "2026-11-20:15:40": "1393644393:19799895616",
     "2026-11-20:15:50": "464886257:13959278641",
-    "2026-11-20:16:00": "1286352236:22198485684"
+    "2026-11-20:16:00": "1286352236:22198485684",
+    "2026-11-20:16:10": "367839228:17092385149"
   },
-  "cursor": 12
+  "cursor": 13
 }

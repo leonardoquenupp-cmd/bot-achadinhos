@@ -5209,6 +5209,30 @@
         "affiliateLink": "https://s.shopee.com.br/5VX1NlzMaW"
       },
       "messageId": 442
+    },
+    "1577854515:22599501220": {
+      "status": "pending",
+      "slot": "2026-11-20:10:00",
+      "at": "2026-11-20T13:01:36.571Z",
+      "fingerprint": [
+        "caneta",
+        "touch",
+        "screen",
+        "universal",
+        "ponta",
+        "super",
+        "fina",
+        "pen",
+        "tablet",
+        "celular"
+      ],
+      "imageIdentity": "/file/sg-11134201-823ob-moo7cjfjy2ha96",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "fe8915708a0ca5417b790dd22407aa54931df40b1b9d50f46c18f1afe883811b",
+        "affiliateLink": "https://s.shopee.com.br/50aku5IM2a"
+      }
     }
   },
   "slots": {
@@ -5478,7 +5502,8 @@
     "2026-11-20:09:05": "1171907204:25381410463",
     "2026-11-20:09:15": "979730489:23897176041",
     "2026-11-20:09:30": "575218903:58216760674",
-    "2026-11-20:09:45": "324642050:20597347457"
+    "2026-11-20:09:45": "324642050:20597347457",
+    "2026-11-20:10:00": "1577854515:22599501220"
   },
-  "cursor": 5
+  "cursor": 6
 }

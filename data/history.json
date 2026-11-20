@@ -5472,9 +5472,9 @@
       "messageId": 453
     },
     "1512108548:23698384152": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:12:15",
-      "at": "2026-11-20T15:16:32.568Z",
+      "at": "2026-11-20T15:16:34.425Z",
       "fingerprint": [
         "bicicleta",
         "bike",
@@ -5491,7 +5491,8 @@
       "receipt": {
         "captionHash": "af37b21411234bb8ead16e3b5aeb37894df15f1341160aff4da4aa73a4ec7ed2",
         "affiliateLink": "https://s.shopee.com.br/5LDbbg37xN"
-      }
+      },
+      "messageId": 454
     }
   },
   "slots": {

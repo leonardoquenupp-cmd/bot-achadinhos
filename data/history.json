@@ -5032,9 +5032,9 @@
       "messageId": 435
     },
     "519444261:14868731775": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:35",
-      "at": "2026-11-20T11:39:49.962Z",
+      "at": "2026-11-20T11:39:53.836Z",
       "fingerprint": [
         "4everu",
         "bandagem",
@@ -5051,7 +5051,8 @@
       "receipt": {
         "captionHash": "2112256ff6c967a12902c32eb14618e110ee9a3edf6008ab9e5fc6c54730cc2d",
         "affiliateLink": "https://s.shopee.com.br/2qWGKTq1mT"
-      }
+      },
+      "messageId": 436
     }
   },
   "slots": {

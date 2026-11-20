@@ -5159,6 +5159,29 @@
         "affiliateLink": "https://s.shopee.com.br/6fiyjqGACN"
       },
       "messageId": 440
+    },
+    "575218903:58216760674": {
+      "status": "pending",
+      "slot": "2026-11-20:09:30",
+      "at": "2026-11-20T12:31:24.237Z",
+      "fingerprint": [
+        "boia",
+        "infantil",
+        "colete",
+        "tamanhos",
+        "inflavel",
+        "brinquedo",
+        "piscina",
+        "praia",
+        "lago"
+      ],
+      "imageIdentity": "/file/sg-11134201-82590-ms7awvq5si6fdc",
+      "family": "brinquedos",
+      "department": "brinquedos",
+      "receipt": {
+        "captionHash": "fc19d79c26c14896bf4681b26138028d567cad2e29df7d0bf84c8ccaea97e7d2",
+        "affiliateLink": "https://s.shopee.com.br/7VI6Tj4luj"
+      }
     }
   },
   "slots": {
@@ -5426,7 +5449,8 @@
     "2026-11-20:08:45": "478697224:21097623587",
     "2026-11-20:08:55": "768659092:58207714861",
     "2026-11-20:09:05": "1171907204:25381410463",
-    "2026-11-20:09:15": "979730489:23897176041"
+    "2026-11-20:09:15": "979730489:23897176041",
+    "2026-11-20:09:30": "575218903:58216760674"
   },
-  "cursor": 3
+  "cursor": 4
 }

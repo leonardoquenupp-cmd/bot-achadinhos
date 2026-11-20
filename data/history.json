@@ -4853,6 +4853,31 @@
         "affiliateLink": "https://s.shopee.com.br/1W0tIQ5Rag"
       },
       "messageId": 428
+    },
+    "1840627515:58261885368": {
+      "status": "pending",
+      "slot": "2026-11-19:22:30",
+      "at": "2026-11-20T01:31:30.415Z",
+      "fingerprint": [
+        "elastico",
+        "extensor",
+        "exercicios",
+        "pull",
+        "reducer",
+        "multi",
+        "funcao",
+        "academia",
+        "casa",
+        "uso",
+        "profissional"
+      ],
+      "imageIdentity": "/file/br-11134207-820la-moeclyshz4sm99",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "cd0a2f2b33f51303a0390495498a1535ec0fdb9e27866ca666284c1fc9086aeb",
+        "affiliateLink": "https://s.shopee.com.br/3VlxAPPcjD"
+      }
     }
   },
   "slots": {
@@ -5108,7 +5133,8 @@
     "2026-11-19:21:40": "1384046689:58254621747",
     "2026-11-19:21:50": "403153126:23493697247",
     "2026-11-19:22:00": "487020334:51914316862",
-    "2026-11-19:22:20": "1640887988:23094549378"
+    "2026-11-19:22:20": "1640887988:23094549378",
+    "2026-11-19:22:30": "1840627515:58261885368"
   },
-  "cursor": 14
+  "cursor": 15
 }

@@ -5537,6 +5537,33 @@
         "affiliateLink": "https://s.shopee.com.br/8AXmZLl21e"
       },
       "messageId": 456
+    },
+    "332179884:23097284836": {
+      "status": "pending",
+      "slot": "2026-11-20:12:50",
+      "at": "2026-11-20T15:50:04.910Z",
+      "fingerprint": [
+        "clip",
+        "lente",
+        "telefone",
+        "movel",
+        "externo",
+        "macro",
+        "37mm",
+        "49uv",
+        "45x",
+        "super",
+        "grande",
+        "angular",
+        "camera"
+      ],
+      "imageIdentity": "/file/br-11134211-7r98o-lylii0zdrz8l3e",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "e257a93b95eb821a690db6c7965779506d4d96c4f7e5efffb92e83f6ad1ac76d",
+        "affiliateLink": "https://s.shopee.com.br/80EMIGrFtK"
+      }
     }
   },
   "slots": {
@@ -5820,7 +5847,8 @@
     "2026-11-20:11:55": "1381191494:22894295612",
     "2026-11-20:12:15": "1512108548:23698384152",
     "2026-11-20:12:25": "1392192213:58266563692",
-    "2026-11-20:12:40": "868533879:23396118279"
+    "2026-11-20:12:40": "868533879:23396118279",
+    "2026-11-20:12:50": "332179884:23097284836"
   },
-  "cursor": 14
+  "cursor": 15
 }

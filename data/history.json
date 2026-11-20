@@ -4930,9 +4930,9 @@
       "messageId": 431
     },
     "1625455449:58220465797": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:08:05",
-      "at": "2026-11-20T11:06:58.355Z",
+      "at": "2026-11-20T11:07:00.450Z",
       "fingerprint": [
         "bola",
         "natal",
@@ -4952,7 +4952,8 @@
       "receipt": {
         "captionHash": "be1555067b5f9023d20f031bd6930d65119659dfac9824940475345b9252d10e",
         "affiliateLink": "https://s.shopee.com.br/4fxuTnhxz4"
-      }
+      },
+      "messageId": 432
     }
   },
   "slots": {

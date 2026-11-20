@@ -6060,9 +6060,9 @@
       "messageId": 476
     },
     "1590080946:23298881879": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:16:40",
-      "at": "2026-11-20T19:42:27.425Z",
+      "at": "2026-11-20T19:42:29.302Z",
       "fingerprint": [
         "manose",
         "500mg",
@@ -6074,7 +6074,8 @@
       "receipt": {
         "captionHash": "391ca7eded06421d38c02abdbe5500ae76fa429127a7957764abd2b67103be1b",
         "affiliateLink": "https://s.shopee.com.br/8fU3FOvSq3"
-      }
+      },
+      "messageId": 477
     }
   },
   "slots": {

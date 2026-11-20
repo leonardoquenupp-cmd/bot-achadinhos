@@ -5347,6 +5347,33 @@
         "affiliateLink": "https://s.shopee.com.br/2BGZPgFZoH"
       },
       "messageId": 448
+    },
+    "1025202028:18399335359": {
+      "status": "pending",
+      "slot": "2026-11-20:11:15",
+      "at": "2026-11-20T14:16:40.970Z",
+      "fingerprint": [
+        "2pcs",
+        "espelhos",
+        "retrovisores",
+        "convexo",
+        "auxiliar",
+        "ajustaveis",
+        "antipontos",
+        "cegos",
+        "seguranca",
+        "total",
+        "mais",
+        "visibilidade",
+        "transito"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhisam2l3q4jb4",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "7843f548f63aeccdb571b4e927502bdb87924673a0b50a26fddca14ceae5b31d",
+        "affiliateLink": "https://s.shopee.com.br/3B97LwNaZY"
+      }
     }
   },
   "slots": {
@@ -5622,7 +5649,8 @@
     "2026-11-20:10:20": "264956337:16092743768",
     "2026-11-20:10:30": "1396355892:18699557153",
     "2026-11-20:10:40": "367839228:23998171803",
-    "2026-11-20:11:00": "1006215031:52908490120"
+    "2026-11-20:11:00": "1006215031:52908490120",
+    "2026-11-20:11:15": "1025202028:18399335359"
   },
-  "cursor": 13
+  "cursor": 14
 }

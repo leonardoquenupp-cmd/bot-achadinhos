@@ -5823,9 +5823,9 @@
       "messageId": 467
     },
     "847374786:51050550700": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:15:00",
-      "at": "2026-11-20T18:01:37.862Z",
+      "at": "2026-11-20T18:01:39.850Z",
       "fingerprint": [
         "caneleira",
         "tornozeleira",
@@ -5850,7 +5850,8 @@
       "receipt": {
         "captionHash": "2f28b5c00bcab9240006ca05f9f0a73b831a5d7936200d7da9a5e6bf59c64b42",
         "affiliateLink": "https://s.shopee.com.br/2LZzmErDPO"
-      }
+      },
+      "messageId": 468
     }
   },
   "slots": {

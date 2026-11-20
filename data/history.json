@@ -5565,6 +5565,31 @@
         "affiliateLink": "https://s.shopee.com.br/80EMIGrFtK"
       },
       "messageId": 457
+    },
+    "862328117:23399456883": {
+      "status": "pending",
+      "slot": "2026-11-20:13:00",
+      "at": "2026-11-20T16:01:20.793Z",
+      "fingerprint": [
+        "dilatador",
+        "nasal",
+        "anti",
+        "ronco",
+        "apneia",
+        "clipe",
+        "magnetico",
+        "silicone",
+        "estojo",
+        "parar",
+        "roncar"
+      ],
+      "imageIdentity": "/file/br-11134207-820lw-muhxwxsxh81vf1",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "be189c66e2136a3b85ac3ed8b31147763d6f6b77f3ad3c202c66f78001c5a2fb",
+        "affiliateLink": "https://s.shopee.com.br/6q2QkS57RG"
+      }
     }
   },
   "slots": {
@@ -5849,7 +5874,8 @@
     "2026-11-20:12:15": "1512108548:23698384152",
     "2026-11-20:12:25": "1392192213:58266563692",
     "2026-11-20:12:40": "868533879:23396118279",
-    "2026-11-20:12:50": "332179884:23097284836"
+    "2026-11-20:12:50": "332179884:23097284836",
+    "2026-11-20:13:00": "862328117:23399456883"
   },
-  "cursor": 15
+  "cursor": 0
 }

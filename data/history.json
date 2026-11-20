@@ -5136,9 +5136,9 @@
       "messageId": 439
     },
     "979730489:23897176041": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:09:15",
-      "at": "2026-11-20T12:16:37.710Z",
+      "at": "2026-11-20T12:16:40.335Z",
       "fingerprint": [
         "fita",
         "led",
@@ -5157,7 +5157,8 @@
       "receipt": {
         "captionHash": "306d30287494afcda32114c01bcd62a6ac7012992efcfd3f390e1c0f2bbad83c",
         "affiliateLink": "https://s.shopee.com.br/6fiyjqGACN"
-      }
+      },
+      "messageId": 440
     }
   },
   "slots": {

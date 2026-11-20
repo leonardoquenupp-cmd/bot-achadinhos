@@ -5449,6 +5449,26 @@
         "affiliateLink": "https://s.shopee.com.br/8KrCn2grsT"
       },
       "messageId": 452
+    },
+    "1381191494:22894295612": {
+      "status": "pending",
+      "slot": "2026-11-20:11:55",
+      "at": "2026-11-20T14:56:55.449Z",
+      "fingerprint": [
+        "coleira",
+        "guia",
+        "maos",
+        "livres",
+        "cachorro",
+        "peitoral"
+      ],
+      "imageIdentity": "/file/br-11134207-81zuk-ml2b3qe1uyo0fc",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "84cbbac805fc0004f72f5a31bfbd7ebff3632afafe7abef366cc8ac8e59a77ae",
+        "affiliateLink": "https://s.shopee.com.br/7AfFJNMfaS"
+      }
     }
   },
   "slots": {
@@ -5728,7 +5748,8 @@
     "2026-11-20:11:15": "1025202028:18399335359",
     "2026-11-20:11:25": "1590080946:22194435267",
     "2026-11-20:11:35": "1151895537:23493340862",
-    "2026-11-20:11:45": "391739739:20299250319"
+    "2026-11-20:11:45": "391739739:20299250319",
+    "2026-11-20:11:55": "1381191494:22894295612"
   },
-  "cursor": 5
+  "cursor": 8
 }

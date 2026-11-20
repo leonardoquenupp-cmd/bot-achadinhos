@@ -6430,9 +6430,9 @@
       "messageId": 491
     },
     "1874544643:58214505589": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:20:45",
-      "at": "2026-11-20T23:46:18.898Z",
+      "at": "2026-11-20T23:46:20.945Z",
       "fingerprint": [
         "palmilha",
         "ortopedica",
@@ -6450,7 +6450,8 @@
       "receipt": {
         "captionHash": "3acdf35509550625d639db47b6701903ab7104fb7cf6f34306eefde92a016f50",
         "affiliateLink": "https://s.shopee.com.br/3qOnlMJKQ5"
-      }
+      },
+      "messageId": 492
     }
   },
   "slots": {

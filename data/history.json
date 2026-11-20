@@ -5183,6 +5183,31 @@
         "affiliateLink": "https://s.shopee.com.br/7VI6Tj4luj"
       },
       "messageId": 441
+    },
+    "324642050:20597347457": {
+      "status": "pending",
+      "slot": "2026-11-20:09:45",
+      "at": "2026-11-20T12:46:35.432Z",
+      "fingerprint": [
+        "tenis",
+        "masculino",
+        "polo",
+        "fran",
+        "sapatenis",
+        "basico",
+        "casual",
+        "carteira",
+        "cinto",
+        "relogio",
+        "london"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98p-ll9k0xrw95jfef",
+      "family": "relogio",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "34ff643f66cab6ba5ba60f9656c16e90367aa682f9ad245964f43a764f0d3089",
+        "affiliateLink": "https://s.shopee.com.br/5VX1NlzMaW"
+      }
     }
   },
   "slots": {
@@ -5451,7 +5476,8 @@
     "2026-11-20:08:55": "768659092:58207714861",
     "2026-11-20:09:05": "1171907204:25381410463",
     "2026-11-20:09:15": "979730489:23897176041",
-    "2026-11-20:09:30": "575218903:58216760674"
+    "2026-11-20:09:30": "575218903:58216760674",
+    "2026-11-20:09:45": "324642050:20597347457"
   },
-  "cursor": 4
+  "cursor": 5
 }

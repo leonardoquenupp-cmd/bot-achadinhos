@@ -6381,6 +6381,30 @@
         "affiliateLink": "https://s.shopee.com.br/5fqRwjCLhF"
       },
       "messageId": 489
+    },
+    "1381191494:58212939365": {
+      "status": "pending",
+      "slot": "2026-11-20:20:10",
+      "at": "2026-11-20T23:11:52.281Z",
+      "fingerprint": [
+        "coleira",
+        "ajuste",
+        "tamanho",
+        "guia",
+        "premium",
+        "resistente",
+        "robusta",
+        "cachorro",
+        "todos",
+        "portes"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-mpr96cmejh8j4f",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "60bcd4b8cc44353b8e8791b63c68bb00ab075bda8e7bca5ee973ea46c145538f",
+        "affiliateLink": "https://s.shopee.com.br/3g5NLNWSi5"
+      }
     }
   },
   "slots": {
@@ -6697,7 +6721,8 @@
     "2026-11-20:19:15": "1829370324:58262115339",
     "2026-11-20:19:30": "617617904:18910553978",
     "2026-11-20:19:45": "1083951020:22894654908",
-    "2026-11-20:19:55": "1864181446:23995046606"
+    "2026-11-20:19:55": "1864181446:23995046606",
+    "2026-11-20:20:10": "1381191494:58212939365"
   },
-  "cursor": 3
+  "cursor": 6
 }

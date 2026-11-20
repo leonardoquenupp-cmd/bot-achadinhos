@@ -4824,6 +4824,34 @@
         "affiliateLink": "https://s.shopee.com.br/9Kjk5478cD"
       },
       "messageId": 427
+    },
+    "1640887988:23094549378": {
+      "status": "pending",
+      "slot": "2026-11-19:22:20",
+      "at": "2026-11-20T01:22:13.439Z",
+      "fingerprint": [
+        "calca",
+        "balao",
+        "jeans",
+        "masculina",
+        "baggy",
+        "boca",
+        "larga",
+        "streetwear",
+        "skatista",
+        "oversized",
+        "moda",
+        "urbana",
+        "cintura",
+        "alta"
+      ],
+      "imageIdentity": "/file/br-11134207-820lf-mu75pzevquio34",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "af7a4f824f0a6b3432daa34f291b8d25bce19737512c4cdbe984717f7c1b8bf9",
+        "affiliateLink": "https://s.shopee.com.br/1W0tIQ5Rag"
+      }
     }
   },
   "slots": {
@@ -5078,7 +5106,8 @@
     "2026-11-19:21:30": "1512084630:58254010650",
     "2026-11-19:21:40": "1384046689:58254621747",
     "2026-11-19:21:50": "403153126:23493697247",
-    "2026-11-19:22:00": "487020334:51914316862"
+    "2026-11-19:22:00": "487020334:51914316862",
+    "2026-11-19:22:20": "1640887988:23094549378"
   },
-  "cursor": 10
+  "cursor": 14
 }

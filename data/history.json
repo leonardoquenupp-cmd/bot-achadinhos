@@ -4879,6 +4879,30 @@
         "affiliateLink": "https://s.shopee.com.br/3VlxAPPcjD"
       },
       "messageId": 429
+    },
+    "1385382926:21697974917": {
+      "status": "pending",
+      "slot": "2026-11-19:22:45",
+      "at": "2026-11-20T01:46:23.129Z",
+      "fingerprint": [
+        "tenis",
+        "masculino",
+        "presente",
+        "natal",
+        "ano",
+        "novo",
+        "super",
+        "confortavel",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m1onm1jj0h5d63",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "c8acec6444279ef4c1867916cdd00a1b9fc6fe280897cc14014d532f7887894a",
+        "affiliateLink": "https://s.shopee.com.br/7VI5lRrkWq"
+      }
     }
   },
   "slots": {
@@ -5135,7 +5159,8 @@
     "2026-11-19:21:50": "403153126:23493697247",
     "2026-11-19:22:00": "487020334:51914316862",
     "2026-11-19:22:20": "1640887988:23094549378",
-    "2026-11-19:22:30": "1840627515:58261885368"
+    "2026-11-19:22:30": "1840627515:58261885368",
+    "2026-11-19:22:45": "1385382926:21697974917"
   },
-  "cursor": 15
+  "cursor": 0
 }

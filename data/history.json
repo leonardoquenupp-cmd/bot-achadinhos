@@ -4928,6 +4928,31 @@
         "affiliateLink": "https://s.shopee.com.br/4fxuSOz673"
       },
       "messageId": 431
+    },
+    "1625455449:58220465797": {
+      "status": "pending",
+      "slot": "2026-11-20:08:05",
+      "at": "2026-11-20T11:06:58.355Z",
+      "fingerprint": [
+        "bola",
+        "natal",
+        "personalizada",
+        "foto",
+        "enfeite",
+        "arvore",
+        "natalina",
+        "final",
+        "ano",
+        "presente",
+        "lembrancinha"
+      ],
+      "imageIdentity": "/file/br-11134207-820m4-mub1k5ao5wjk2b",
+      "family": "arvore-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "be1555067b5f9023d20f031bd6930d65119659dfac9824940475345b9252d10e",
+        "affiliateLink": "https://s.shopee.com.br/4fxuTnhxz4"
+      }
     }
   },
   "slots": {
@@ -5186,7 +5211,8 @@
     "2026-11-19:22:20": "1640887988:23094549378",
     "2026-11-19:22:30": "1840627515:58261885368",
     "2026-11-19:22:45": "1385382926:21697974917",
-    "2026-11-19:22:50": "398944029:10869646245"
+    "2026-11-19:22:50": "398944029:10869646245",
+    "2026-11-20:08:05": "1625455449:58220465797"
   },
-  "cursor": 1
+  "cursor": 5
 }

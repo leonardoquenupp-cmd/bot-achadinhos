@@ -5669,9 +5669,9 @@
       "messageId": 461
     },
     "1594633180:55501913565": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:14:05",
-      "at": "2026-11-20T17:07:06.150Z",
+      "at": "2026-11-20T17:07:08.637Z",
       "fingerprint": [
         "enrolador",
         "linha",
@@ -5689,7 +5689,8 @@
       "receipt": {
         "captionHash": "35567eb5628444eae8f8f8a079f3b5edeb0ad212c058029971cdde19dd9dbd40",
         "affiliateLink": "https://s.shopee.com.br/6fiynJhqSg"
-      }
+      },
+      "messageId": 462
     }
   },
   "slots": {

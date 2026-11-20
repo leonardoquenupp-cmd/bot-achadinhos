@@ -5667,6 +5667,29 @@
         "affiliateLink": "https://s.shopee.com.br/7fbVxmuddp"
       },
       "messageId": 461
+    },
+    "1594633180:55501913565": {
+      "status": "pending",
+      "slot": "2026-11-20:14:05",
+      "at": "2026-11-20T17:07:06.150Z",
+      "fingerprint": [
+        "enrolador",
+        "linha",
+        "polinha",
+        "suporte",
+        "pesca",
+        "compativel",
+        "varas",
+        "simples",
+        "telescopicas"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhccre0s9ix19b",
+      "family": "enrolador-linha",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "35567eb5628444eae8f8f8a079f3b5edeb0ad212c058029971cdde19dd9dbd40",
+        "affiliateLink": "https://s.shopee.com.br/6fiynJhqSg"
+      }
     }
   },
   "slots": {
@@ -5955,7 +5978,8 @@
     "2026-11-20:13:00": "862328117:23399456883",
     "2026-11-20:13:10": "1782913841:57667214868",
     "2026-11-20:13:25": "204993078:28041444788",
-    "2026-11-20:13:45": "1660293952:58212076866"
+    "2026-11-20:13:45": "1660293952:58212076866",
+    "2026-11-20:14:05": "1594633180:55501913565"
   },
-  "cursor": 4
+  "cursor": 5
 }

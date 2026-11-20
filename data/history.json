@@ -4904,6 +4904,29 @@
         "affiliateLink": "https://s.shopee.com.br/7VI5lRrkWq"
       },
       "messageId": 430
+    },
+    "398944029:10869646245": {
+      "status": "pending",
+      "slot": "2026-11-19:22:50",
+      "at": "2026-11-20T01:52:36.746Z",
+      "fingerprint": [
+        "racao",
+        "umida",
+        "sache",
+        "granplus",
+        "gourmet",
+        "gatos",
+        "adultos",
+        "atum",
+        "85g"
+      ],
+      "imageIdentity": "/file/br-11134201-23010-es46z9kzafmv7d",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "cd7708594c00be17c56e1c8dc671ee49588e595c053bf4e52ebd5defee8d5023",
+        "affiliateLink": "https://s.shopee.com.br/4fxuSOz673"
+      }
     }
   },
   "slots": {
@@ -5161,7 +5184,8 @@
     "2026-11-19:22:00": "487020334:51914316862",
     "2026-11-19:22:20": "1640887988:23094549378",
     "2026-11-19:22:30": "1840627515:58261885368",
-    "2026-11-19:22:45": "1385382926:21697974917"
+    "2026-11-19:22:45": "1385382926:21697974917",
+    "2026-11-19:22:50": "398944029:10869646245"
   },
-  "cursor": 0
+  "cursor": 1
 }

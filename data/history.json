@@ -5275,6 +5275,27 @@
         "affiliateLink": "https://s.shopee.com.br/1LhSo9y24Q"
       },
       "messageId": 445
+    },
+    "1396355892:18699557153": {
+      "status": "pending",
+      "slot": "2026-11-20:10:30",
+      "at": "2026-11-20T13:31:19.154Z",
+      "fingerprint": [
+        "mini",
+        "caixinha",
+        "som",
+        "metal",
+        "bluetooth",
+        "amplificada",
+        "potente"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rffa-m321o4oyjp6h2d",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "7605a541e5a6f7dce1b54b9e298e884a897679a2c70c07a58e310688a93821b7",
+        "affiliateLink": "https://s.shopee.com.br/AUvhZNtFA9"
+      }
     }
   },
   "slots": {
@@ -5547,7 +5568,8 @@
     "2026-11-20:09:45": "324642050:20597347457",
     "2026-11-20:10:00": "1577854515:22599501220",
     "2026-11-20:10:15": "329179386:20399832219",
-    "2026-11-20:10:20": "264956337:16092743768"
+    "2026-11-20:10:20": "264956337:16092743768",
+    "2026-11-20:10:30": "1396355892:18699557153"
   },
-  "cursor": 10
+  "cursor": 11
 }

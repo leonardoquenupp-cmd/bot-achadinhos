@@ -4801,6 +4801,28 @@
         "affiliateLink": "https://s.shopee.com.br/40iDYLsbAs"
       },
       "messageId": 426
+    },
+    "487020334:51914316862": {
+      "status": "pending",
+      "slot": "2026-11-19:22:00",
+      "at": "2026-11-20T01:01:53.568Z",
+      "fingerprint": [
+        "ate",
+        "pares",
+        "meias",
+        "feminina",
+        "unissex",
+        "soquete",
+        "100",
+        "algodao"
+      ],
+      "imageIdentity": "/file/sg-11134201-825an-mqv615ri2lmr40",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "fec390848c8558dd6b7e7d7b814a46aa98ed1e03f381a07aa16c7b6ae9fc852f",
+        "affiliateLink": "https://s.shopee.com.br/9Kjk5478cD"
+      }
     }
   },
   "slots": {
@@ -5054,7 +5076,8 @@
     "2026-11-19:21:15": "1232066422:23798771235",
     "2026-11-19:21:30": "1512084630:58254010650",
     "2026-11-19:21:40": "1384046689:58254621747",
-    "2026-11-19:21:50": "403153126:23493697247"
+    "2026-11-19:21:50": "403153126:23493697247",
+    "2026-11-19:22:00": "487020334:51914316862"
   },
-  "cursor": 9
+  "cursor": 10
 }

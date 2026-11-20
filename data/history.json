@@ -6225,6 +6225,34 @@
         "affiliateLink": "https://s.shopee.com.br/8fU3H99RmS"
       },
       "messageId": 483
+    },
+    "1259086167:23993091677": {
+      "status": "pending",
+      "slot": "2026-11-20:18:45",
+      "at": "2026-11-20T21:46:22.758Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "bluetooth",
+        "tws",
+        "m10",
+        "s20",
+        "alto",
+        "espelho",
+        "sem",
+        "fio",
+        "estereo",
+        "binaural",
+        "touch",
+        "hifi"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mg694tk6gao98e",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "fe963d2350d8fd0b834ac043743ad8023399139c4e7d759e087a9d7e16e2f070",
+        "affiliateLink": "https://s.shopee.com.br/8KrD5b0IWC"
+      }
     }
   },
   "slots": {
@@ -6535,7 +6563,8 @@
     "2026-11-20:17:10": "1381191494:23998706677",
     "2026-11-20:18:15": "1060688258:58268174348",
     "2026-11-20:18:25": "1195616626:21399302297",
-    "2026-11-20:18:35": "457931655:9265712239"
+    "2026-11-20:18:35": "457931655:9265712239",
+    "2026-11-20:18:45": "1259086167:23993091677"
   },
-  "cursor": 8
+  "cursor": 9
 }

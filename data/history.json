@@ -5740,6 +5740,34 @@
         "affiliateLink": "https://s.shopee.com.br/BVV3Kc7Q9"
       },
       "messageId": 464
+    },
+    "1243683750:22198669287": {
+      "status": "pending",
+      "slot": "2026-11-20:14:30",
+      "at": "2026-11-20T17:31:22.135Z",
+      "fingerprint": [
+        "balanca",
+        "digital",
+        "app",
+        "inteligente",
+        "bioimpedancia",
+        "monitor",
+        "corporal",
+        "peso",
+        "gordura",
+        "massa",
+        "muscular",
+        "bluetooth",
+        "academia",
+        "140kg"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mia5qaiyz30h45",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "89ab4f045f9b67114534702f9d84d588c9c6b9faf5f2e44e1f7a47e160f2c25c",
+        "affiliateLink": "https://s.shopee.com.br/20xAzZNWFn"
+      }
     }
   },
   "slots": {
@@ -6031,7 +6059,8 @@
     "2026-11-20:13:45": "1660293952:58212076866",
     "2026-11-20:14:05": "1594633180:55501913565",
     "2026-11-20:14:15": "1459307687:52905774499",
-    "2026-11-20:14:20": "1151895537:19899442828"
+    "2026-11-20:14:20": "1151895537:19899442828",
+    "2026-11-20:14:30": "1243683750:22198669287"
   },
-  "cursor": 8
+  "cursor": 10
 }

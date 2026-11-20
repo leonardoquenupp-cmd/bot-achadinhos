@@ -5185,9 +5185,9 @@
       "messageId": 441
     },
     "324642050:20597347457": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:09:45",
-      "at": "2026-11-20T12:46:35.432Z",
+      "at": "2026-11-20T12:46:37.491Z",
       "fingerprint": [
         "tenis",
         "masculino",
@@ -5207,7 +5207,8 @@
       "receipt": {
         "captionHash": "34ff643f66cab6ba5ba60f9656c16e90367aa682f9ad245964f43a764f0d3089",
         "affiliateLink": "https://s.shopee.com.br/5VX1NlzMaW"
-      }
+      },
+      "messageId": 442
     }
   },
   "slots": {

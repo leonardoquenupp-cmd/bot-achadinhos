@@ -5030,6 +5030,28 @@
         "affiliateLink": "https://s.shopee.com.br/AKcHVIU7Es"
       },
       "messageId": 435
+    },
+    "519444261:14868731775": {
+      "status": "pending",
+      "slot": "2026-11-20:08:35",
+      "at": "2026-11-20T11:39:49.962Z",
+      "fingerprint": [
+        "4everu",
+        "bandagem",
+        "antidesbotamento",
+        "fita",
+        "esportiva",
+        "dedo",
+        "mao",
+        "pressurizada"
+      ],
+      "imageIdentity": "/file/0d72b8fddc73b384230f4b2da46c5a23",
+      "family": "4everu-bandagem",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "2112256ff6c967a12902c32eb14618e110ee9a3edf6008ab9e5fc6c54730cc2d",
+        "affiliateLink": "https://s.shopee.com.br/2qWGKTq1mT"
+      }
     }
   },
   "slots": {
@@ -5292,7 +5314,8 @@
     "2026-11-20:08:05": "1625455449:58220465797",
     "2026-11-20:08:15": "1758964706:58265696376",
     "2026-11-20:08:20": "1541425248:51456146275",
-    "2026-11-20:08:30": "467535637:58203004464"
+    "2026-11-20:08:30": "467535637:58203004464",
+    "2026-11-20:08:35": "519444261:14868731775"
   },
-  "cursor": 12
+  "cursor": 13
 }

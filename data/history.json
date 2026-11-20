@@ -5852,6 +5852,32 @@
         "affiliateLink": "https://s.shopee.com.br/2LZzmErDPO"
       },
       "messageId": 468
+    },
+    "299564699:22598401117": {
+      "status": "pending",
+      "slot": "2026-11-20:15:15",
+      "at": "2026-11-20T18:16:26.276Z",
+      "fingerprint": [
+        "cutelaria",
+        "profissional",
+        "alicate",
+        "espatula",
+        "palito",
+        "inox",
+        "unha",
+        "esmalte",
+        "gel",
+        "cetim",
+        "skin",
+        "care"
+      ],
+      "imageIdentity": "/file/sg-11134201-825a3-mt2p15yglwjp88",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "5f876920ecc80b01df7c693bdfc22a8f444c1251e28249d8594206c44d778473",
+        "affiliateLink": "https://s.shopee.com.br/LoxEvlSGd"
+      }
     }
   },
   "slots": {
@@ -6147,7 +6173,8 @@
     "2026-11-20:14:30": "1243683750:22198669287",
     "2026-11-20:14:35": "1414434727:46109157975",
     "2026-11-20:14:40": "1381191494:58220072892",
-    "2026-11-20:15:00": "847374786:51050550700"
+    "2026-11-20:15:00": "847374786:51050550700",
+    "2026-11-20:15:15": "299564699:22598401117"
   },
-  "cursor": 1
+  "cursor": 3
 }

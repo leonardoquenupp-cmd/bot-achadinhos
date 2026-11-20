@@ -6013,9 +6013,9 @@
       "messageId": 474
     },
     "367839228:17092385149": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:16:10",
-      "at": "2026-11-20T19:11:54.701Z",
+      "at": "2026-11-20T19:11:56.737Z",
       "fingerprint": [
         "sandalia",
         "chinelo",
@@ -6033,7 +6033,8 @@
       "receipt": {
         "captionHash": "9c2db5ce7e2b52cb37db037c0fb705c727eda85a45079759ecadfb856593454d",
         "affiliateLink": "https://s.shopee.com.br/3qOnNMLczb"
-      }
+      },
+      "messageId": 475
     }
   },
   "slots": {

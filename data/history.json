@@ -5399,9 +5399,9 @@
       "messageId": 450
     },
     "1151895537:23493340862": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:11:35",
-      "at": "2026-11-20T14:36:58.825Z",
+      "at": "2026-11-20T14:37:00.697Z",
       "fingerprint": [
         "lixa",
         "100",
@@ -5424,7 +5424,8 @@
       "receipt": {
         "captionHash": "17486a9ec0354ff2f2f148a5f4cfd3ba951eb3ff55bc8db750a9d62143870647",
         "affiliateLink": "https://s.shopee.com.br/LovFdbU5C"
-      }
+      },
+      "messageId": 451
     }
   },
   "slots": {

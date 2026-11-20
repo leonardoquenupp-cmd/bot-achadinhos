@@ -5935,9 +5935,9 @@
       "messageId": 471
     },
     "1393644393:19799895616": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:15:40",
-      "at": "2026-11-20T18:43:11.422Z",
+      "at": "2026-11-20T18:43:13.887Z",
       "fingerprint": [
         "fone",
         "sports",
@@ -5956,7 +5956,8 @@
       "receipt": {
         "captionHash": "6e36c5d6d592d049c308bb9e4aa4f88b3ffc8fad41bd07f0f735353013b3ae73",
         "affiliateLink": "https://s.shopee.com.br/1gKJ81wjSC"
-      }
+      },
+      "messageId": 472
     }
   },
   "slots": {

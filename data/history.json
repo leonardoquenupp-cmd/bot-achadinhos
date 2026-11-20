@@ -5591,6 +5591,27 @@
         "affiliateLink": "https://s.shopee.com.br/6q2QkS57RG"
       },
       "messageId": 458
+    },
+    "1782913841:57667214868": {
+      "status": "pending",
+      "slot": "2026-11-20:13:10",
+      "at": "2026-11-20T16:12:02.971Z",
+      "fingerprint": [
+        "produtos",
+        "biotermo",
+        "energia",
+        "imunishot",
+        "fibras",
+        "frutas",
+        "eqbio"
+      ],
+      "imageIdentity": "/file/br-11134207-820lw-msmq1b97xl3b34",
+      "family": "produtos-biotermo",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "dec7fe91cb5aef554f7191c4e0189a0145863a9444eea646b8d0062ef8adb6fb",
+        "affiliateLink": "https://s.shopee.com.br/3B96Y2xYrA"
+      }
     }
   },
   "slots": {
@@ -5876,7 +5897,8 @@
     "2026-11-20:12:25": "1392192213:58266563692",
     "2026-11-20:12:40": "868533879:23396118279",
     "2026-11-20:12:50": "332179884:23097284836",
-    "2026-11-20:13:00": "862328117:23399456883"
+    "2026-11-20:13:00": "862328117:23399456883",
+    "2026-11-20:13:10": "1782913841:57667214868"
   },
-  "cursor": 0
+  "cursor": 2
 }

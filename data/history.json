@@ -6406,6 +6406,27 @@
         "affiliateLink": "https://s.shopee.com.br/3g5NLNWSi5"
       },
       "messageId": 490
+    },
+    "1003085235:21298534683": {
+      "status": "pending",
+      "slot": "2026-11-20:20:25",
+      "at": "2026-11-20T23:27:10.994Z",
+      "fingerprint": [
+        "amolador",
+        "cozinha",
+        "afiador",
+        "facas",
+        "fases",
+        "afiar",
+        "profissional"
+      ],
+      "imageIdentity": "/file/br-11134207-7qukw-lh319dapcdpxcb",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "8fa27e4b8213672bc90919f65cf8bf12ad61ee8c20abe6beb9d6d094a512de1f",
+        "affiliateLink": "https://s.shopee.com.br/8AXnEfg43r"
+      }
     }
   },
   "slots": {
@@ -6723,7 +6744,8 @@
     "2026-11-20:19:30": "617617904:18910553978",
     "2026-11-20:19:45": "1083951020:22894654908",
     "2026-11-20:19:55": "1864181446:23995046606",
-    "2026-11-20:20:10": "1381191494:58212939365"
+    "2026-11-20:20:10": "1381191494:58212939365",
+    "2026-11-20:20:25": "1003085235:21298534683"
   },
-  "cursor": 6
+  "cursor": 10
 }

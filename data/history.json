@@ -6477,6 +6477,34 @@
         "affiliateLink": "https://s.shopee.com.br/6fiyt8Gfwb"
       },
       "messageId": 493
+    },
+    "1630962576:58207585208": {
+      "status": "pending",
+      "slot": "2026-11-20:21:10",
+      "at": "2026-11-21T00:11:39.454Z",
+      "fingerprint": [
+        "chinelo",
+        "dedo",
+        "masculino",
+        "tira",
+        "tecido",
+        "leve",
+        "antiderrapante",
+        "praia",
+        "piscina",
+        "john",
+        "oliver",
+        "wave",
+        "macio",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/br-11134207-820mf-ml7y33sssu87c1",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "ccf454466d3c26a38478fb5c675c1efe565072dd8975daf1ded7c5f3b575694b",
+        "affiliateLink": "https://s.shopee.com.br/7puwFcrUrv"
+      }
     }
   },
   "slots": {
@@ -6797,7 +6825,8 @@
     "2026-11-20:20:10": "1381191494:58212939365",
     "2026-11-20:20:25": "1003085235:21298534683",
     "2026-11-20:20:45": "1874544643:58214505589",
-    "2026-11-20:21:00": "883941882:23993101572"
+    "2026-11-20:21:00": "883941882:23993101572",
+    "2026-11-20:21:10": "1630962576:58207585208"
   },
-  "cursor": 12
+  "cursor": 0
 }

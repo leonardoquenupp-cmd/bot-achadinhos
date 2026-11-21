@@ -6452,6 +6452,30 @@
         "affiliateLink": "https://s.shopee.com.br/3qOnlMJKQ5"
       },
       "messageId": 492
+    },
+    "883941882:23993101572": {
+      "status": "pending",
+      "slot": "2026-11-20:21:00",
+      "at": "2026-11-21T00:01:33.267Z",
+      "fingerprint": [
+        "carregador",
+        "turbo",
+        "inteligente",
+        "tipo",
+        "cabo",
+        "micro",
+        "usb",
+        "novos",
+        "telefones",
+        "recomendados"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lwsogz92un4ic8",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "ca6770f017881a8c7b4bfae2845417b5c141ae9c0f30e83a635d9e15187f85d1",
+        "affiliateLink": "https://s.shopee.com.br/6fiyt8Gfwb"
+      }
     }
   },
   "slots": {
@@ -6771,7 +6795,8 @@
     "2026-11-20:19:55": "1864181446:23995046606",
     "2026-11-20:20:10": "1381191494:58212939365",
     "2026-11-20:20:25": "1003085235:21298534683",
-    "2026-11-20:20:45": "1874544643:58214505589"
+    "2026-11-20:20:45": "1874544643:58214505589",
+    "2026-11-20:21:00": "883941882:23993101572"
   },
-  "cursor": 11
+  "cursor": 12
 }

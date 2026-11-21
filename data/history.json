@@ -7477,9 +7477,9 @@
       "messageId": 532
     },
     "504210070:23658642494": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:15:05",
-      "at": "2026-11-21T18:06:53.256Z",
+      "at": "2026-11-21T18:06:55.157Z",
       "fingerprint": [
         "anzois",
         "pesca",
@@ -7493,7 +7493,8 @@
       "receipt": {
         "captionHash": "07ec46dd234c85c3298b3cef7193d225164711dfe71cda89489b929b6621a1c8",
         "affiliateLink": "https://s.shopee.com.br/70LpBvgZmi"
-      }
+      },
+      "messageId": 533
     }
   },
   "slots": {

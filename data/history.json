@@ -7684,6 +7684,32 @@
         "affiliateLink": "https://s.shopee.com.br/2La1lFuZwi"
       },
       "messageId": 541
+    },
+    "526596865:22193077029": {
+      "status": "pending",
+      "slot": "2026-11-21:16:45",
+      "at": "2026-11-21T19:46:14.646Z",
+      "fingerprint": [
+        "adaptador",
+        "conversor",
+        "ps2",
+        "hdmi",
+        "audio",
+        "video",
+        "interface",
+        "multimidia",
+        "plug",
+        "play",
+        "monitor",
+        "projetor"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lxse7oqpn0xi78",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "35fd25d00dac7dc7a8cc102cdf14aeb6dbea221f94bf8ef0fd75612bac97d16d",
+        "affiliateLink": "https://s.shopee.com.br/qlBn8kpoC"
+      }
     }
   },
   "slots": {
@@ -8053,7 +8079,8 @@
     "2026-11-21:16:00": "1005980154:22993348854",
     "2026-11-21:16:15": "409964177:46201063556",
     "2026-11-21:16:25": "532455428:23093092976",
-    "2026-11-21:16:35": "392744038:21597608114"
+    "2026-11-21:16:35": "392744038:21597608114",
+    "2026-11-21:16:45": "526596865:22193077029"
   },
-  "cursor": 5
+  "cursor": 6
 }

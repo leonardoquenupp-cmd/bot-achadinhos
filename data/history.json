@@ -7046,9 +7046,9 @@
       "messageId": 515
     },
     "1785631148:58211462949": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:11:45",
-      "at": "2026-11-21T14:46:22.176Z",
+      "at": "2026-11-21T14:46:24.199Z",
       "fingerprint": [
         "solperk",
         "bicicleta",
@@ -7069,7 +7069,8 @@
       "receipt": {
         "captionHash": "db0f0dd11722413265a9f6d5cc3bedc59a4aef98894dfd4d4bf5625742758305",
         "affiliateLink": "https://s.shopee.com.br/AAIrecucVV"
-      }
+      },
+      "messageId": 516
     }
   },
   "slots": {

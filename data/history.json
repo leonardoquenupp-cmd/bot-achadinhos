@@ -7658,6 +7658,31 @@
         "affiliateLink": "https://s.shopee.com.br/114c2AM01m"
       },
       "messageId": 540
+    },
+    "392744038:21597608114": {
+      "status": "pending",
+      "slot": "2026-11-21:16:35",
+      "at": "2026-11-21T19:37:19.277Z",
+      "fingerprint": [
+        "chinelos",
+        "masculino",
+        "feminino",
+        "bandeirinha",
+        "brasil",
+        "sandalia",
+        "chinela",
+        "anti",
+        "derrapante",
+        "sem",
+        "marca"
+      ],
+      "imageIdentity": "/file/br-11134207-820ly-mm0fnoeg6neo47",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "af6d1ccd45450303178efe81885363cf8c93343355786e7cd3eb46965e190509",
+        "affiliateLink": "https://s.shopee.com.br/2La1lFuZwi"
+      }
     }
   },
   "slots": {
@@ -8026,7 +8051,8 @@
     "2026-11-21:15:45": "302062814:22792929864",
     "2026-11-21:16:00": "1005980154:22993348854",
     "2026-11-21:16:15": "409964177:46201063556",
-    "2026-11-21:16:25": "532455428:23093092976"
+    "2026-11-21:16:25": "532455428:23093092976",
+    "2026-11-21:16:35": "392744038:21597608114"
   },
-  "cursor": 1
+  "cursor": 5
 }

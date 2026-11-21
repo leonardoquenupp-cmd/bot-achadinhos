@@ -7713,9 +7713,9 @@
       "messageId": 542
     },
     "1230788489:58201979459": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:17:00",
-      "at": "2026-11-21T20:01:45.556Z",
+      "at": "2026-11-21T20:01:47.603Z",
       "fingerprint": [
         "4kg",
         "areia",
@@ -7735,7 +7735,8 @@
       "receipt": {
         "captionHash": "b459755fae64d6ea0a00b0f9ed2ddad91bee8cfd8cfd82a169fde5445527fb23",
         "affiliateLink": "https://s.shopee.com.br/5fqReDMyjf"
-      }
+      },
+      "messageId": 543
     }
   },
   "slots": {

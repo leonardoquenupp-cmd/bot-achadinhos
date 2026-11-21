@@ -7868,6 +7868,28 @@
         "affiliateLink": "https://s.shopee.com.br/2gCq9XaGjr"
       },
       "messageId": 548
+    },
+    "361370412:58217595646": {
+      "status": "pending",
+      "slot": "2026-11-21:18:30",
+      "at": "2026-11-21T21:31:46.041Z",
+      "fingerprint": [
+        "biquini",
+        "cortininha",
+        "fio",
+        "dental",
+        "regulavel",
+        "moda",
+        "praia",
+        "estiloso"
+      ],
+      "imageIdentity": "/file/br-11134207-820lz-mslrcnewye4kcc",
+      "family": "biquini-cortininha",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "4ae9dd098183e86ab1d2edb5c8b581279d293fe1a4e2a6b51e02124d28c38e07",
+        "affiliateLink": "https://s.shopee.com.br/6q2P8XCvyJ"
+      }
     }
   },
   "slots": {
@@ -8244,7 +8266,8 @@
     "2026-11-21:17:30": "1446748153:58203234670",
     "2026-11-21:17:45": "720952207:58250361148",
     "2026-11-21:17:55": "1290755423:23799421101",
-    "2026-11-21:18:10": "1381191494:58213458980"
+    "2026-11-21:18:10": "1381191494:58213458980",
+    "2026-11-21:18:30": "361370412:58217595646"
   },
-  "cursor": 1
+  "cursor": 2
 }

@@ -6798,6 +6798,33 @@
         "affiliateLink": "https://s.shopee.com.br/7KyfXn8ItM"
       },
       "messageId": 506
+    },
+    "430146238:22694535605": {
+      "status": "pending",
+      "slot": "2026-11-21:09:15",
+      "at": "2026-11-21T12:16:44.536Z",
+      "fingerprint": [
+        "360",
+        "suporte",
+        "magnetico",
+        "forte",
+        "telefone",
+        "carro",
+        "design",
+        "dobravel",
+        "vacuo",
+        "ajustavel",
+        "mesa",
+        "uso",
+        "universal"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfuehv34wutga2",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "4441f5ff468fc590478c7f8c19a3c8d5f46c588680604babb3145d76923d6261",
+        "affiliateLink": "https://s.shopee.com.br/40iELTKPst"
+      }
     }
   },
   "slots": {
@@ -7131,7 +7158,8 @@
     "2026-11-21:08:15": "338537405:9511754133",
     "2026-11-21:08:30": "992612253:41368657771",
     "2026-11-21:08:45": "1754908140:58206007853",
-    "2026-11-21:08:55": "367839228:23197543508"
+    "2026-11-21:08:55": "367839228:23197543508",
+    "2026-11-21:09:15": "430146238:22694535605"
   },
-  "cursor": 4
+  "cursor": 5
 }

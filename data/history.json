@@ -6700,6 +6700,25 @@
         "affiliateLink": "https://s.shopee.com.br/qlDO1gsIk"
       },
       "messageId": 502
+    },
+    "338537405:9511754133": {
+      "status": "pending",
+      "slot": "2026-11-21:08:15",
+      "at": "2026-11-21T11:16:20.655Z",
+      "fingerprint": [
+        "creatina",
+        "max",
+        "titanium",
+        "300g",
+        "pura"
+      ],
+      "imageIdentity": "/file/sg-11134201-22100-7b7tjvynfbivb7",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "8258d3dd1304c261afed8fcebf9961ce396b8d0d87b152e576f3594f8333c526",
+        "affiliateLink": "https://s.shopee.com.br/5AuB1DS71k"
+      }
     }
   },
   "slots": {
@@ -7029,7 +7048,8 @@
     "2026-11-20:22:30": "451371260:22897389357",
     "2026-11-20:22:40": "1381191494:58269915517",
     "2026-11-20:22:50": "484917341:40656794230",
-    "2026-11-21:08:00": "1383559492:18397989488"
+    "2026-11-21:08:00": "1383559492:18397989488",
+    "2026-11-21:08:15": "338537405:9511754133"
   },
-  "cursor": 13
+  "cursor": 14
 }

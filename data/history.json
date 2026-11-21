@@ -7989,6 +7989,25 @@
         "affiliateLink": "https://s.shopee.com.br/60THvER6xD"
       },
       "messageId": 553
+    },
+    "1670233926:58216881244": {
+      "status": "pending",
+      "slot": "2026-11-21:19:40",
+      "at": "2026-11-21T22:41:37.578Z",
+      "fingerprint": [
+        "chinelo",
+        "homens",
+        "mulheres",
+        "premium",
+        "relampago"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-msb913iakphh44",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "4ef6af0d06d15fba3cb615e869f71277de314fa57e102daea9545134455a9095",
+        "affiliateLink": "https://s.shopee.com.br/7puyJMZdmG"
+      }
     }
   },
   "slots": {
@@ -8370,7 +8389,8 @@
     "2026-11-21:18:45": "387517673:19044723152",
     "2026-11-21:19:00": "1377846021:23199013821",
     "2026-11-21:19:15": "347988064:9212570285",
-    "2026-11-21:19:25": "1381191494:22893853262"
+    "2026-11-21:19:25": "1381191494:22893853262",
+    "2026-11-21:19:40": "1670233926:58216881244"
   },
-  "cursor": 8
+  "cursor": 12
 }

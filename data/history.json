@@ -6681,9 +6681,9 @@
       "messageId": 501
     },
     "1383559492:18397989488": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:08:00",
-      "at": "2026-11-21T11:01:59.898Z",
+      "at": "2026-11-21T11:02:02.408Z",
       "fingerprint": [
         "jogo",
         "tapete",
@@ -6698,7 +6698,8 @@
       "receipt": {
         "captionHash": "ec29a6c687bbe3e03ae390285ad41d2825f80b838846b00884866b13c7fd920e",
         "affiliateLink": "https://s.shopee.com.br/qlDO1gsIk"
-      }
+      },
+      "messageId": 502
     }
   },
   "slots": {

@@ -7428,6 +7428,27 @@
         "affiliateLink": "https://s.shopee.com.br/1qdj5tfFsO"
       },
       "messageId": 530
+    },
+    "391739739:22791523448": {
+      "status": "pending",
+      "slot": "2026-11-21:14:45",
+      "at": "2026-11-21T17:46:36.123Z",
+      "fingerprint": [
+        "mini",
+        "aspirador",
+        "portatil",
+        "automotivo",
+        "casa",
+        "potente",
+        "recarregavel"
+      ],
+      "imageIdentity": "/file/br-11134207-820mf-mlcl5xgwbp530f",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "d6fbab9eaefd77b81123a2b161f5e089b2ed26b91ca59d7d70ecd5de0c9d8ca9",
+        "affiliateLink": "https://s.shopee.com.br/20x9gBpa32"
+      }
     }
   },
   "slots": {
@@ -7786,7 +7807,8 @@
     "2026-11-21:13:55": "1381191494:58212420041",
     "2026-11-21:14:05": "1579353989:58206209035",
     "2026-11-21:14:15": "1506463215:58201437433",
-    "2026-11-21:14:25": "389185931:9546689239"
+    "2026-11-21:14:25": "389185931:9546689239",
+    "2026-11-21:14:45": "391739739:22791523448"
   },
-  "cursor": 10
+  "cursor": 11
 }

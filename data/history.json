@@ -6454,9 +6454,9 @@
       "messageId": 492
     },
     "883941882:23993101572": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:21:00",
-      "at": "2026-11-21T00:01:33.267Z",
+      "at": "2026-11-21T00:01:35.937Z",
       "fingerprint": [
         "carregador",
         "turbo",
@@ -6475,7 +6475,8 @@
       "receipt": {
         "captionHash": "ca6770f017881a8c7b4bfae2845417b5c141ae9c0f30e83a635d9e15187f85d1",
         "affiliateLink": "https://s.shopee.com.br/6fiyt8Gfwb"
-      }
+      },
+      "messageId": 493
     }
   },
   "slots": {

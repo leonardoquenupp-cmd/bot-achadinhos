@@ -7711,6 +7711,31 @@
         "affiliateLink": "https://s.shopee.com.br/qlBn8kpoC"
       },
       "messageId": 542
+    },
+    "1230788489:58201979459": {
+      "status": "pending",
+      "slot": "2026-11-21:17:00",
+      "at": "2026-11-21T20:01:45.556Z",
+      "fingerprint": [
+        "4kg",
+        "areia",
+        "sanitaria",
+        "higienica",
+        "mimocat",
+        "super",
+        "premium",
+        "argila",
+        "ecologica",
+        "absorvente",
+        "gatos"
+      ],
+      "imageIdentity": "/file/br-11134207-820lv-mpnok5nzntheb3",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "b459755fae64d6ea0a00b0f9ed2ddad91bee8cfd8cfd82a169fde5445527fb23",
+        "affiliateLink": "https://s.shopee.com.br/5fqReDMyjf"
+      }
     }
   },
   "slots": {
@@ -8081,7 +8106,8 @@
     "2026-11-21:16:15": "409964177:46201063556",
     "2026-11-21:16:25": "532455428:23093092976",
     "2026-11-21:16:35": "392744038:21597608114",
-    "2026-11-21:16:45": "526596865:22193077029"
+    "2026-11-21:16:45": "526596865:22193077029",
+    "2026-11-21:17:00": "1230788489:58201979459"
   },
-  "cursor": 6
+  "cursor": 7
 }

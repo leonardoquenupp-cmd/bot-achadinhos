@@ -7739,9 +7739,9 @@
       "messageId": 543
     },
     "1382462472:58263472560": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:17:15",
-      "at": "2026-11-21T20:16:27.665Z",
+      "at": "2026-11-21T20:16:29.961Z",
       "fingerprint": [
         "pcs",
         "caneta",
@@ -7763,7 +7763,8 @@
       "receipt": {
         "captionHash": "35a53ffb30e1223ddcacd291f5f253278e22ea20210495dea1e17b8fe3ca5260",
         "affiliateLink": "https://s.shopee.com.br/40iFbfXUpR"
-      }
+      },
+      "messageId": 544
     }
   },
   "slots": {

@@ -6854,6 +6854,28 @@
         "affiliateLink": "https://s.shopee.com.br/8AXmUXZpYw"
       },
       "messageId": 508
+    },
+    "1381191494:58212488222": {
+      "status": "pending",
+      "slot": "2026-11-21:09:40",
+      "at": "2026-11-21T12:42:22.086Z",
+      "fingerprint": [
+        "coleiras",
+        "cachorro",
+        "fecho",
+        "seguranca",
+        "reforcado",
+        "regulador",
+        "tamanho",
+        "pet"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-muvbanml3wg340",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "869d6b9ff24010bf9e315d729ab4235ec0f3dc7fe882f414c5b21cc60a3fe98f",
+        "affiliateLink": "https://s.shopee.com.br/6L693BTSbd"
+      }
     }
   },
   "slots": {
@@ -7189,7 +7211,8 @@
     "2026-11-21:08:45": "1754908140:58206007853",
     "2026-11-21:08:55": "367839228:23197543508",
     "2026-11-21:09:15": "430146238:22694535605",
-    "2026-11-21:09:30": "1534000949:58260257222"
+    "2026-11-21:09:30": "1534000949:58260257222",
+    "2026-11-21:09:40": "1381191494:58212488222"
   },
-  "cursor": 6
+  "cursor": 7
 }

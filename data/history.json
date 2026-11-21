@@ -6627,6 +6627,29 @@
         "affiliateLink": "https://s.shopee.com.br/60TI0mBHDg"
       },
       "messageId": 499
+    },
+    "1381191494:58269915517": {
+      "status": "pending",
+      "slot": "2026-11-20:22:40",
+      "at": "2026-11-21T01:42:16.500Z",
+      "fingerprint": [
+        "guia",
+        "cachorro",
+        "30m",
+        "mosquetao",
+        "giratorio",
+        "passeio",
+        "porte",
+        "pequeno",
+        "medio"
+      ],
+      "imageIdentity": "/file/br-11134207-820lv-mu01h1lgscu945",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "35b8567c1c0efde8163354c2daf4b4f4fc5599de602e716f828bdcf7eedc8c4d",
+        "affiliateLink": "https://s.shopee.com.br/6VPZFUSpGe"
+      }
     }
   },
   "slots": {
@@ -6953,7 +6976,8 @@
     "2026-11-20:21:45": "1472427018:21899851088",
     "2026-11-20:22:00": "328666563:11720146857",
     "2026-11-20:22:15": "526625785:58253993587",
-    "2026-11-20:22:30": "451371260:22897389357"
+    "2026-11-20:22:30": "451371260:22897389357",
+    "2026-11-20:22:40": "1381191494:58269915517"
   },
-  "cursor": 7
+  "cursor": 8
 }

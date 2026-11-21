@@ -7542,6 +7542,30 @@
         "affiliateLink": "https://s.shopee.com.br/6q2R7rvII4"
       },
       "messageId": 535
+    },
+    "883941882:23093509247": {
+      "status": "pending",
+      "slot": "2026-11-21:15:30",
+      "at": "2026-11-21T18:31:35.302Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "fio",
+        "microfone",
+        "cobre",
+        "driver",
+        "esportivo",
+        "baixo",
+        "estereo",
+        "qkz"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m22tzz0333dwae",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "81e208915271c1d6a3d0d949a49bd6585a36f42ab87c3df3668b4b1097fde543",
+        "affiliateLink": "https://s.shopee.com.br/9fMaZqwPr2"
+      }
     }
   },
   "slots": {
@@ -7905,7 +7929,8 @@
     "2026-11-21:14:55": "1258878023:21497683409",
     "2026-11-21:15:05": "504210070:23658642494",
     "2026-11-21:15:15": "1458854085:58267226289",
-    "2026-11-21:15:20": "1649530709:58267082966"
+    "2026-11-21:15:20": "1649530709:58267082966",
+    "2026-11-21:15:30": "883941882:23093509247"
   },
-  "cursor": 7
+  "cursor": 9
 }

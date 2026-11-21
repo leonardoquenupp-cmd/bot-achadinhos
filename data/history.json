@@ -7495,6 +7495,30 @@
         "affiliateLink": "https://s.shopee.com.br/70LpBvgZmi"
       },
       "messageId": 533
+    },
+    "1458854085:58267226289": {
+      "status": "pending",
+      "slot": "2026-11-21:15:15",
+      "at": "2026-11-21T18:16:15.152Z",
+      "fingerprint": [
+        "regata",
+        "feminina",
+        "estampada",
+        "yoga",
+        "academia",
+        "confortavel",
+        "100",
+        "algodao",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mshefjf9qebq65",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "a859c26b45ca78c51d933a5b468e91c7613608f90cbdb80785781cba3e653b61",
+        "affiliateLink": "https://s.shopee.com.br/3g5NKexVYf"
+      }
     }
   },
   "slots": {
@@ -7856,7 +7880,8 @@
     "2026-11-21:14:25": "389185931:9546689239",
     "2026-11-21:14:45": "391739739:22791523448",
     "2026-11-21:14:55": "1258878023:21497683409",
-    "2026-11-21:15:05": "504210070:23658642494"
+    "2026-11-21:15:05": "504210070:23658642494",
+    "2026-11-21:15:15": "1458854085:58267226289"
   },
-  "cursor": 2
+  "cursor": 3
 }

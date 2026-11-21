@@ -7247,6 +7247,32 @@
         "affiliateLink": "https://s.shopee.com.br/6L6Bk8SPhF"
       },
       "messageId": 523
+    },
+    "1553099932:23394267693": {
+      "status": "pending",
+      "slot": "2026-11-21:13:15",
+      "at": "2026-11-21T16:16:44.321Z",
+      "fingerprint": [
+        "shampoo",
+        "escurecedor",
+        "cabelos",
+        "brancos",
+        "tonalizante",
+        "colored",
+        "300ml",
+        "efeito",
+        "100",
+        "natural",
+        "super",
+        "resultado"
+      ],
+      "imageIdentity": "/file/br-11134207-820mf-mmajzmcmll3a15",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "2c57eefb5022feb9205fc8a2190232f884dc7b5696fde22c3296de36dab0f7a7",
+        "affiliateLink": "https://s.shopee.com.br/3LSYLaNwW8"
+      }
     }
   },
   "slots": {
@@ -7598,7 +7624,8 @@
     "2026-11-21:12:30": "487444734:44763368530",
     "2026-11-21:12:40": "1022538008:20297921812",
     "2026-11-21:12:50": "675475277:23898420517",
-    "2026-11-21:13:00": "1059936083:58202333762"
+    "2026-11-21:13:00": "1059936083:58202333762",
+    "2026-11-21:13:15": "1553099932:23394267693"
   },
-  "cursor": 10
+  "cursor": 12
 }

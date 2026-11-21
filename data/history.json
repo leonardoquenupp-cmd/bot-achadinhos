@@ -7842,6 +7842,31 @@
         "affiliateLink": "https://s.shopee.com.br/4VeWLEzScS"
       },
       "messageId": 547
+    },
+    "1381191494:58213458980": {
+      "status": "pending",
+      "slot": "2026-11-21:18:10",
+      "at": "2026-11-21T21:13:23.905Z",
+      "fingerprint": [
+        "focinheira",
+        "cachorro",
+        "ajustavel",
+        "anti",
+        "mordida",
+        "banho",
+        "tosa",
+        "veterinario",
+        "controle",
+        "seguro",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/br-11134207-820m1-mvdj89cx8g01da",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "7dee57634e9a83fbbf9abe2ae52242f87cf3087ac875f7ae2e20a96753712931",
+        "affiliateLink": "https://s.shopee.com.br/2gCq9XaGjr"
+      }
     }
   },
   "slots": {
@@ -8217,7 +8242,8 @@
     "2026-11-21:17:15": "1382462472:58263472560",
     "2026-11-21:17:30": "1446748153:58203234670",
     "2026-11-21:17:45": "720952207:58250361148",
-    "2026-11-21:17:55": "1290755423:23799421101"
+    "2026-11-21:17:55": "1290755423:23799421101",
+    "2026-11-21:18:10": "1381191494:58213458980"
   },
-  "cursor": 14
+  "cursor": 1
 }

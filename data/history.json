@@ -7765,6 +7765,34 @@
         "affiliateLink": "https://s.shopee.com.br/40iFbfXUpR"
       },
       "messageId": 544
+    },
+    "1446748153:58203234670": {
+      "status": "pending",
+      "slot": "2026-11-21:17:30",
+      "at": "2026-11-21T20:31:24.241Z",
+      "fingerprint": [
+        "gancho",
+        "universal",
+        "encosto",
+        "cabeca",
+        "assento",
+        "carro",
+        "duplo",
+        "couro",
+        "premium",
+        "cabide",
+        "liga",
+        "grande",
+        "suporte",
+        "lulu"
+      ],
+      "imageIdentity": "/file/sg-11134201-8261t-mjg52g4cznyfe4",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "5f8d06ccaf6c0830226f4e878e4cbb605d80530640b2ad531f0ddaca0572776f",
+        "affiliateLink": "https://s.shopee.com.br/7puwuVOAYp"
+      }
     }
   },
   "slots": {
@@ -8137,7 +8165,8 @@
     "2026-11-21:16:35": "392744038:21597608114",
     "2026-11-21:16:45": "526596865:22193077029",
     "2026-11-21:17:00": "1230788489:58201979459",
-    "2026-11-21:17:15": "1382462472:58263472560"
+    "2026-11-21:17:15": "1382462472:58263472560",
+    "2026-11-21:17:30": "1446748153:58203234670"
   },
-  "cursor": 8
+  "cursor": 9
 }

@@ -7965,6 +7965,29 @@
         "affiliateLink": "https://s.shopee.com.br/30pjm10xpU"
       },
       "messageId": 552
+    },
+    "1381191494:22893853262": {
+      "status": "pending",
+      "slot": "2026-11-21:19:25",
+      "at": "2026-11-21T22:27:06.374Z",
+      "fingerprint": [
+        "guia",
+        "maos",
+        "livres",
+        "cachorro",
+        "metros",
+        "comprimento",
+        "mosquetao",
+        "giratorio",
+        "360graus"
+      ],
+      "imageIdentity": "/file/br-11134207-820m5-muwmwwhf2dj6dd",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "059437d07da87931d7f10ced64a51a85c60f0b5a7eff31cbfbbea3df67df9d3e",
+        "affiliateLink": "https://s.shopee.com.br/60THvER6xD"
+      }
     }
   },
   "slots": {
@@ -8345,7 +8368,8 @@
     "2026-11-21:18:30": "361370412:58217595646",
     "2026-11-21:18:45": "387517673:19044723152",
     "2026-11-21:19:00": "1377846021:23199013821",
-    "2026-11-21:19:15": "347988064:9212570285"
+    "2026-11-21:19:15": "347988064:9212570285",
+    "2026-11-21:19:25": "1381191494:22893853262"
   },
-  "cursor": 6
+  "cursor": 8
 }

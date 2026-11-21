@@ -7638,9 +7638,9 @@
       "messageId": 539
     },
     "532455428:23093092976": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:16:25",
-      "at": "2026-11-21T19:27:28.375Z",
+      "at": "2026-11-21T19:27:30.114Z",
       "fingerprint": [
         "calca",
         "pantalona",
@@ -7656,7 +7656,8 @@
       "receipt": {
         "captionHash": "63a895fb50fe158280fd6b4483a87b7bc1f0a8fef0f1f6178dd0d1370c625db0",
         "affiliateLink": "https://s.shopee.com.br/114c2AM01m"
-      }
+      },
+      "messageId": 540
     }
   },
   "slots": {

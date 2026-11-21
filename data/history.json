@@ -6532,6 +6532,26 @@
         "affiliateLink": "https://s.shopee.com.br/1qdlEqFMMv"
       },
       "messageId": 495
+    },
+    "1472427018:21899851088": {
+      "status": "pending",
+      "slot": "2026-11-20:21:45",
+      "at": "2026-11-21T00:46:19.261Z",
+      "fingerprint": [
+        "unidades",
+        "bebedouros",
+        "automaticos",
+        "aves",
+        "galinhas",
+        "codornas"
+      ],
+      "imageIdentity": "/file/br-11134207-820l5-mmccxdwb6dc635",
+      "family": "bebes",
+      "department": "bebes",
+      "receipt": {
+        "captionHash": "a52b5bd802291b9c7cf2dbbf009c65beb6f2b2aab2b10d6ba532689db9471015",
+        "affiliateLink": "https://s.shopee.com.br/2VtQLFbqLi"
+      }
     }
   },
   "slots": {
@@ -6854,7 +6874,8 @@
     "2026-11-20:20:45": "1874544643:58214505589",
     "2026-11-20:21:00": "883941882:23993101572",
     "2026-11-20:21:10": "1630962576:58207585208",
-    "2026-11-20:21:25": "698978884:23799348135"
+    "2026-11-20:21:25": "698978884:23799348135",
+    "2026-11-20:21:45": "1472427018:21899851088"
   },
-  "cursor": 3
+  "cursor": 4
 }

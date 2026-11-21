@@ -8066,9 +8066,9 @@
       "messageId": 556
     },
     "407523450:23598387814": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:20:30",
-      "at": "2026-11-21T23:31:21.463Z",
+      "at": "2026-11-21T23:31:23.510Z",
       "fingerprint": [
         "adaptador",
         "tomada",
@@ -8089,7 +8089,8 @@
       "receipt": {
         "captionHash": "3c824104539f494f1a86d401a7f71a3647f92b31e7cada33a24f90b7e56997a4",
         "affiliateLink": "https://s.shopee.com.br/9KjnAfdbYg"
-      }
+      },
+      "messageId": 557
     }
   },
   "slots": {

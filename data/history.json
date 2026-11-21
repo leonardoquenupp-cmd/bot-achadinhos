@@ -7176,6 +7176,28 @@
         "affiliateLink": "https://s.shopee.com.br/5LDebfdhxJ"
       },
       "messageId": 520
+    },
+    "1022538008:20297921812": {
+      "status": "pending",
+      "slot": "2026-11-21:12:40",
+      "at": "2026-11-21T15:41:55.450Z",
+      "fingerprint": [
+        "original",
+        "carregador",
+        "cabo",
+        "fonte",
+        "tipo",
+        "lightning",
+        "lacrado",
+        "lehmox"
+      ],
+      "imageIdentity": "/file/br-11134207-820li-mvbxuesz3s3k30",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "ba5aa99fe703e5362e1d037b583d199d84eb65924401cf3bdef7e66e483a5da8",
+        "affiliateLink": "https://s.shopee.com.br/gRlfiD8Xh"
+      }
     }
   },
   "slots": {
@@ -7524,7 +7546,8 @@
     "2026-11-21:12:00": "821481586:45357411273",
     "2026-11-21:12:10": "1096468658:58220253408",
     "2026-11-21:12:20": "754127588:57253891031",
-    "2026-11-21:12:30": "487444734:44763368530"
+    "2026-11-21:12:30": "487444734:44763368530",
+    "2026-11-21:12:40": "1022538008:20297921812"
   },
-  "cursor": 1
+  "cursor": 5
 }

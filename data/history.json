@@ -7122,9 +7122,9 @@
       "messageId": 518
     },
     "754127588:57253891031": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:12:20",
-      "at": "2026-11-21T15:21:39.921Z",
+      "at": "2026-11-21T15:21:42.014Z",
       "fingerprint": [
         "pcs",
         "pesca",
@@ -7148,7 +7148,8 @@
       "receipt": {
         "captionHash": "dca0079d243c156ab5429f9b21f3d2b6576aebbe3a18db2981bb498bb0302f8c",
         "affiliateLink": "https://s.shopee.com.br/60TI05kNoU"
-      }
+      },
+      "messageId": 519
     }
   },
   "slots": {

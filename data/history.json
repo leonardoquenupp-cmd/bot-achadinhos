@@ -7044,6 +7044,32 @@
         "affiliateLink": "https://s.shopee.com.br/W8M2jdrqX"
       },
       "messageId": 515
+    },
+    "1785631148:58211462949": {
+      "status": "pending",
+      "slot": "2026-11-21:11:45",
+      "at": "2026-11-21T14:46:22.176Z",
+      "fingerprint": [
+        "solperk",
+        "bicicleta",
+        "spinning",
+        "profissional",
+        "ergometrica",
+        "silenciosa",
+        "bike",
+        "indoor",
+        "suporta",
+        "ate",
+        "120kg",
+        "casa"
+      ],
+      "imageIdentity": "/file/br-11134207-820mb-mqzj45ayi51i96",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "db0f0dd11722413265a9f6d5cc3bedc59a4aef98894dfd4d4bf5625742758305",
+        "affiliateLink": "https://s.shopee.com.br/AAIrecucVV"
+      }
     }
   },
   "slots": {
@@ -7387,7 +7413,8 @@
     "2026-11-21:10:45": "1841876322:47511399823",
     "2026-11-21:11:00": "1534000949:58268797399",
     "2026-11-21:11:10": "1381191494:23698337900",
-    "2026-11-21:11:30": "941012768:23898566928"
+    "2026-11-21:11:30": "941012768:23898566928",
+    "2026-11-21:11:45": "1785631148:58211462949"
   },
-  "cursor": 5
+  "cursor": 7
 }

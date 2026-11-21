@@ -7592,9 +7592,9 @@
       "messageId": 537
     },
     "1005980154:22993348854": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:16:00",
-      "at": "2026-11-21T19:01:26.911Z",
+      "at": "2026-11-21T19:01:29.402Z",
       "fingerprint": [
         "chapinha",
         "prancha",
@@ -7610,7 +7610,8 @@
       "receipt": {
         "captionHash": "4d048dcb86de1e97a1d83f705bbbeb49a5ae0398e6b71b127b94564240263146",
         "affiliateLink": "https://s.shopee.com.br/8pnVXtqMuy"
-      }
+      },
+      "messageId": 538
     }
   },
   "slots": {

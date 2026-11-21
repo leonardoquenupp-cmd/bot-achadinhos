@@ -6629,9 +6629,9 @@
       "messageId": 499
     },
     "1381191494:58269915517": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:22:40",
-      "at": "2026-11-21T01:42:16.500Z",
+      "at": "2026-11-21T01:42:18.918Z",
       "fingerprint": [
         "guia",
         "cachorro",
@@ -6649,7 +6649,8 @@
       "receipt": {
         "captionHash": "35b8567c1c0efde8163354c2daf4b4f4fc5599de602e716f828bdcf7eedc8c4d",
         "affiliateLink": "https://s.shopee.com.br/6VPZFUSpGe"
-      }
+      },
+      "messageId": 500
     }
   },
   "slots": {

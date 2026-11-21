@@ -8118,6 +8118,25 @@
         "affiliateLink": "https://s.shopee.com.br/3Vlwwdad1y"
       },
       "messageId": 558
+    },
+    "1790727424:22594959280": {
+      "status": "pending",
+      "slot": "2026-11-21:20:55",
+      "at": "2026-11-21T23:56:41.396Z",
+      "fingerprint": [
+        "chienlo",
+        "masculino",
+        "feminino",
+        "emborrachado",
+        "leve"
+      ],
+      "imageIdentity": "/file/br-11134201-820lt-mqxsd52os7bbb2",
+      "family": "chienlo-masculino",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "b35e5e0afd5cd644c88f6ade07ac8b5a007ecd91c6821d442ebcfeef09b41002",
+        "affiliateLink": "https://s.shopee.com.br/1BO2aS30py"
+      }
     }
   },
   "slots": {
@@ -8504,7 +8523,8 @@
     "2026-11-21:20:00": "1032838083:58268649472",
     "2026-11-21:20:15": "207474891:24234709173",
     "2026-11-21:20:30": "407523450:23598387814",
-    "2026-11-21:20:40": "1381191494:23798375208"
+    "2026-11-21:20:40": "1381191494:23798375208",
+    "2026-11-21:20:55": "1790727424:22594959280"
   },
-  "cursor": 1
+  "cursor": 5
 }

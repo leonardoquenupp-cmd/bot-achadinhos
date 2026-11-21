@@ -7567,6 +7567,28 @@
         "affiliateLink": "https://s.shopee.com.br/9fMaZqwPr2"
       },
       "messageId": 536
+    },
+    "302062814:22792929864": {
+      "status": "pending",
+      "slot": "2026-11-21:15:45",
+      "at": "2026-11-21T18:46:29.895Z",
+      "fingerprint": [
+        "capa",
+        "chuva",
+        "conjunto",
+        "completo",
+        "pvc",
+        "impermeavel",
+        "motoqueiro",
+        "adulto"
+      ],
+      "imageIdentity": "/file/br-11134207-820lf-mptliwgyxjpc32",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "2b106b41cf93cba8345059419bcb67df8f7472da67fe32d510ca48cfd1bb685c",
+        "affiliateLink": "https://s.shopee.com.br/3LSXW4KdNY"
+      }
     }
   },
   "slots": {
@@ -7931,7 +7953,8 @@
     "2026-11-21:15:05": "504210070:23658642494",
     "2026-11-21:15:15": "1458854085:58267226289",
     "2026-11-21:15:20": "1649530709:58267082966",
-    "2026-11-21:15:30": "883941882:23093509247"
+    "2026-11-21:15:30": "883941882:23093509247",
+    "2026-11-21:15:45": "302062814:22792929864"
   },
-  "cursor": 9
+  "cursor": 10
 }

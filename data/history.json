@@ -7348,9 +7348,9 @@
       "messageId": 527
     },
     "1579353989:58206209035": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:14:05",
-      "at": "2026-11-21T17:07:29.455Z",
+      "at": "2026-11-21T17:07:31.430Z",
       "fingerprint": [
         "espelho",
         "verona",
@@ -7372,7 +7372,8 @@
       "receipt": {
         "captionHash": "a933edbe650a529674d8ee924a3956ffd2d035673f1c7759e369c90ba8e87cc7",
         "affiliateLink": "https://s.shopee.com.br/5fqTFu78e3"
-      }
+      },
+      "messageId": 528
     }
   },
   "slots": {

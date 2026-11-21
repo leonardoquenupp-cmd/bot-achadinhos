@@ -7796,9 +7796,9 @@
       "messageId": 545
     },
     "720952207:58250361148": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:17:45",
-      "at": "2026-11-21T20:46:22.761Z",
+      "at": "2026-11-21T20:46:24.562Z",
       "fingerprint": [
         "panela",
         "arroz",
@@ -7817,7 +7817,8 @@
       "receipt": {
         "captionHash": "4a795113a9b1aa690673dd66ced4b9ca96856666331062d8a6537815f005c462",
         "affiliateLink": "https://s.shopee.com.br/6q2P0J86Wf"
-      }
+      },
+      "messageId": 546
     }
   },
   "slots": {

@@ -7071,6 +7071,30 @@
         "affiliateLink": "https://s.shopee.com.br/AAIrecucVV"
       },
       "messageId": 516
+    },
+    "821481586:45357411273": {
+      "status": "pending",
+      "slot": "2026-11-21:12:00",
+      "at": "2026-11-21T15:02:08.299Z",
+      "fingerprint": [
+        "palmilha",
+        "gel",
+        "ortopedica",
+        "silicone",
+        "macio",
+        "absorve",
+        "impacto",
+        "calcanhar",
+        "pes",
+        "cansados"
+      ],
+      "imageIdentity": "/file/br-11134207-820lr-mucyceck2m0yc8",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "e77bfb3a619cbbff63a7d823dfc93f0d985a922e523efc94eb80581e21e2bca8",
+        "affiliateLink": "https://s.shopee.com.br/8VAdJw1YwW"
+      }
     }
   },
   "slots": {
@@ -7415,7 +7439,8 @@
     "2026-11-21:11:00": "1534000949:58268797399",
     "2026-11-21:11:10": "1381191494:23698337900",
     "2026-11-21:11:30": "941012768:23898566928",
-    "2026-11-21:11:45": "1785631148:58211462949"
+    "2026-11-21:11:45": "1785631148:58211462949",
+    "2026-11-21:12:00": "821481586:45357411273"
   },
-  "cursor": 7
+  "cursor": 9
 }

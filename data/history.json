@@ -6925,6 +6925,28 @@
         "affiliateLink": "https://s.shopee.com.br/60TI8ydFyi"
       },
       "messageId": 510
+    },
+    "378486098:23293903335": {
+      "status": "pending",
+      "slot": "2026-11-21:10:30",
+      "at": "2026-11-21T13:31:26.536Z",
+      "fingerprint": [
+        "pente",
+        "eletrico",
+        "alisador",
+        "cabelo",
+        "aquecimento",
+        "milti",
+        "fucional",
+        "alisadora"
+      ],
+      "imageIdentity": "/file/sg-11134201-821e8-mgxzwtkb3g941f",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "d7fc10161cf0d85ec201434bafa9174adbc4298929c5fded570f7ee1ed2d75da",
+        "affiliateLink": "https://s.shopee.com.br/4VeWeNZDNW"
+      }
     }
   },
   "slots": {
@@ -7263,7 +7285,8 @@
     "2026-11-21:09:30": "1534000949:58260257222",
     "2026-11-21:09:40": "1381191494:58212488222",
     "2026-11-21:09:55": "1381191494:58269316431",
-    "2026-11-21:10:15": "260477274:22298228200"
+    "2026-11-21:10:15": "260477274:22298228200",
+    "2026-11-21:10:30": "378486098:23293903335"
   },
-  "cursor": 11
+  "cursor": 13
 }

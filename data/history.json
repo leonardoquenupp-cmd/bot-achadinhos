@@ -7686,9 +7686,9 @@
       "messageId": 541
     },
     "526596865:22193077029": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:16:45",
-      "at": "2026-11-21T19:46:14.646Z",
+      "at": "2026-11-21T19:46:17.140Z",
       "fingerprint": [
         "adaptador",
         "conversor",
@@ -7709,7 +7709,8 @@
       "receipt": {
         "captionHash": "35fd25d00dac7dc7a8cc102cdf14aeb6dbea221f94bf8ef0fd75612bac97d16d",
         "affiliateLink": "https://s.shopee.com.br/qlBn8kpoC"
-      }
+      },
+      "messageId": 542
     }
   },
   "slots": {

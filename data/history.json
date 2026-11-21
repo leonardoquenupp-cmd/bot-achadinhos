@@ -7569,9 +7569,9 @@
       "messageId": 536
     },
     "302062814:22792929864": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:15:45",
-      "at": "2026-11-21T18:46:29.895Z",
+      "at": "2026-11-21T18:46:31.734Z",
       "fingerprint": [
         "capa",
         "chuva",
@@ -7588,7 +7588,8 @@
       "receipt": {
         "captionHash": "2b106b41cf93cba8345059419bcb67df8f7472da67fe32d510ca48cfd1bb685c",
         "affiliateLink": "https://s.shopee.com.br/3LSXW4KdNY"
-      }
+      },
+      "messageId": 537
     }
   },
   "slots": {

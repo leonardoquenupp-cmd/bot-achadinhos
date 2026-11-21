@@ -6774,6 +6774,29 @@
         "affiliateLink": "https://s.shopee.com.br/9AQKMf6sFt"
       },
       "messageId": 505
+    },
+    "367839228:23197543508": {
+      "status": "pending",
+      "slot": "2026-11-21:08:55",
+      "at": "2026-11-21T11:57:27.742Z",
+      "fingerprint": [
+        "sandalia",
+        "chinelo",
+        "masculino",
+        "couro",
+        "sintetico",
+        "anatomico",
+        "ortopedico",
+        "mega",
+        "conforto"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lveyvute8fxc11",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "b30d084d5be8e67205e801f4cbf3f5374e12a742bd819f8eae167007772c316a",
+        "affiliateLink": "https://s.shopee.com.br/7KyfXn8ItM"
+      }
     }
   },
   "slots": {
@@ -7106,7 +7129,8 @@
     "2026-11-21:08:00": "1383559492:18397989488",
     "2026-11-21:08:15": "338537405:9511754133",
     "2026-11-21:08:30": "992612253:41368657771",
-    "2026-11-21:08:45": "1754908140:58206007853"
+    "2026-11-21:08:45": "1754908140:58206007853",
+    "2026-11-21:08:55": "367839228:23197543508"
   },
-  "cursor": 1
+  "cursor": 4
 }

@@ -7590,6 +7590,27 @@
         "affiliateLink": "https://s.shopee.com.br/3LSXW4KdNY"
       },
       "messageId": 537
+    },
+    "1005980154:22993348854": {
+      "status": "pending",
+      "slot": "2026-11-21:16:00",
+      "at": "2026-11-21T19:01:26.911Z",
+      "fingerprint": [
+        "chapinha",
+        "prancha",
+        "modelador",
+        "alisador",
+        "cabelo",
+        "barba",
+        "masculino"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m0lx5a03o8sh41",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "4d048dcb86de1e97a1d83f705bbbeb49a5ae0398e6b71b127b94564240263146",
+        "affiliateLink": "https://s.shopee.com.br/8pnVXtqMuy"
+      }
     }
   },
   "slots": {
@@ -7955,7 +7976,8 @@
     "2026-11-21:15:15": "1458854085:58267226289",
     "2026-11-21:15:20": "1649530709:58267082966",
     "2026-11-21:15:30": "883941882:23093509247",
-    "2026-11-21:15:45": "302062814:22792929864"
+    "2026-11-21:15:45": "302062814:22792929864",
+    "2026-11-21:16:00": "1005980154:22993348854"
   },
-  "cursor": 10
+  "cursor": 12
 }

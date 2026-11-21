@@ -7199,6 +7199,27 @@
         "affiliateLink": "https://s.shopee.com.br/gRlfiD8Xh"
       },
       "messageId": 521
+    },
+    "675475277:23898420517": {
+      "status": "pending",
+      "slot": "2026-11-21:12:50",
+      "at": "2026-11-21T15:52:11.820Z",
+      "fingerprint": [
+        "chinelo",
+        "masculino",
+        "nuvem",
+        "slide",
+        "confortavel",
+        "casual",
+        "jogador"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rfh3-m967hnp2wf5500",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "b6127b98241036aeecb32443c3fd6034a5070d3eafb05100560a9015ce82153f",
+        "affiliateLink": "https://s.shopee.com.br/BVUycBMTr"
+      }
     }
   },
   "slots": {
@@ -7548,7 +7569,8 @@
     "2026-11-21:12:10": "1096468658:58220253408",
     "2026-11-21:12:20": "754127588:57253891031",
     "2026-11-21:12:30": "487444734:44763368530",
-    "2026-11-21:12:40": "1022538008:20297921812"
+    "2026-11-21:12:40": "1022538008:20297921812",
+    "2026-11-21:12:50": "675475277:23898420517"
   },
-  "cursor": 5
+  "cursor": 9
 }

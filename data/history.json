@@ -7024,6 +7024,25 @@
         "affiliateLink": "https://s.shopee.com.br/2qWGLqZdOs"
       },
       "messageId": 514
+    },
+    "941012768:23898566928": {
+      "status": "pending",
+      "slot": "2026-11-21:11:30",
+      "at": "2026-11-21T14:31:41.502Z",
+      "fingerprint": [
+        "toalha",
+        "geladeira",
+        "pvc",
+        "lavavel",
+        "46x32cm"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mf5m3zwzooas8c",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "eb33fb9a2e22da3b201cf73725823a76195a68cee5e11a8d961e8b2042e885c8",
+        "affiliateLink": "https://s.shopee.com.br/W8M2jdrqX"
+      }
     }
   },
   "slots": {
@@ -7366,7 +7385,8 @@
     "2026-11-21:10:30": "378486098:23293903335",
     "2026-11-21:10:45": "1841876322:47511399823",
     "2026-11-21:11:00": "1534000949:58268797399",
-    "2026-11-21:11:10": "1381191494:23698337900"
+    "2026-11-21:11:10": "1381191494:23698337900",
+    "2026-11-21:11:30": "941012768:23898566928"
   },
-  "cursor": 3
+  "cursor": 5
 }

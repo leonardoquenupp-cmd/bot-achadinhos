@@ -6927,9 +6927,9 @@
       "messageId": 510
     },
     "378486098:23293903335": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:10:30",
-      "at": "2026-11-21T13:31:26.536Z",
+      "at": "2026-11-21T13:31:28.968Z",
       "fingerprint": [
         "pente",
         "eletrico",
@@ -6946,7 +6946,8 @@
       "receipt": {
         "captionHash": "d7fc10161cf0d85ec201434bafa9174adbc4298929c5fded570f7ee1ed2d75da",
         "affiliateLink": "https://s.shopee.com.br/4VeWeNZDNW"
-      }
+      },
+      "messageId": 511
     }
   },
   "slots": {

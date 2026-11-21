@@ -8064,6 +8064,32 @@
         "affiliateLink": "https://s.shopee.com.br/7VI9haJbbR"
       },
       "messageId": 556
+    },
+    "407523450:23598387814": {
+      "status": "pending",
+      "slot": "2026-11-21:20:30",
+      "at": "2026-11-21T23:31:21.463Z",
+      "fingerprint": [
+        "adaptador",
+        "tomada",
+        "ultra",
+        "resistente",
+        "porcelana",
+        "secador",
+        "air",
+        "fryer",
+        "benjamin",
+        "bivolt",
+        "10a",
+        "20a"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rep2-m8i16u5pyp4wcf",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "3c824104539f494f1a86d401a7f71a3647f92b31e7cada33a24f90b7e56997a4",
+        "affiliateLink": "https://s.shopee.com.br/9KjnAfdbYg"
+      }
     }
   },
   "slots": {
@@ -8448,7 +8474,8 @@
     "2026-11-21:19:25": "1381191494:22893853262",
     "2026-11-21:19:40": "1670233926:58216881244",
     "2026-11-21:20:00": "1032838083:58268649472",
-    "2026-11-21:20:15": "207474891:24234709173"
+    "2026-11-21:20:15": "207474891:24234709173",
+    "2026-11-21:20:30": "407523450:23598387814"
   },
-  "cursor": 15
+  "cursor": 0
 }

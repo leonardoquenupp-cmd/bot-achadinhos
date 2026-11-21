@@ -6826,6 +6826,33 @@
         "affiliateLink": "https://s.shopee.com.br/40iELTKPst"
       },
       "messageId": 507
+    },
+    "1534000949:58260257222": {
+      "status": "pending",
+      "slot": "2026-11-21:09:30",
+      "at": "2026-11-21T12:31:51.949Z",
+      "fingerprint": [
+        "filtro",
+        "agua",
+        "torneira",
+        "remover",
+        "cloro",
+        "metais",
+        "pesados",
+        "chuveiros",
+        "filtrados",
+        "cabeca",
+        "banho",
+        "dura",
+        "purificador"
+      ],
+      "imageIdentity": "/file/br-11134207-820m0-mo3ph7zjckxuff",
+      "family": "filtro-agua",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "d4f1560dfdca61da6d01a169c424ec3ca966565b4f0b26675c60ab9fc427ffc3",
+        "affiliateLink": "https://s.shopee.com.br/8AXmUXZpYw"
+      }
     }
   },
   "slots": {
@@ -7160,7 +7187,8 @@
     "2026-11-21:08:30": "992612253:41368657771",
     "2026-11-21:08:45": "1754908140:58206007853",
     "2026-11-21:08:55": "367839228:23197543508",
-    "2026-11-21:09:15": "430146238:22694535605"
+    "2026-11-21:09:15": "430146238:22694535605",
+    "2026-11-21:09:30": "1534000949:58260257222"
   },
-  "cursor": 5
+  "cursor": 6
 }

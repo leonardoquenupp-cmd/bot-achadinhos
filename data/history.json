@@ -7767,9 +7767,9 @@
       "messageId": 544
     },
     "1446748153:58203234670": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:17:30",
-      "at": "2026-11-21T20:31:24.241Z",
+      "at": "2026-11-21T20:31:26.861Z",
       "fingerprint": [
         "gancho",
         "universal",
@@ -7792,7 +7792,8 @@
       "receipt": {
         "captionHash": "5f8d06ccaf6c0830226f4e878e4cbb605d80530640b2ad531f0ddaca0572776f",
         "affiliateLink": "https://s.shopee.com.br/7puwuVOAYp"
-      }
+      },
+      "messageId": 545
     }
   },
   "slots": {

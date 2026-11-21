@@ -7942,6 +7942,28 @@
         "affiliateLink": "https://s.shopee.com.br/9pg26Z8c2O"
       },
       "messageId": 551
+    },
+    "347988064:9212570285": {
+      "status": "pending",
+      "slot": "2026-11-21:19:15",
+      "at": "2026-11-21T22:16:11.459Z",
+      "fingerprint": [
+        "creatina",
+        "suplemento",
+        "monohidratada",
+        "100",
+        "pura",
+        "importada",
+        "soldiers",
+        "nutrition"
+      ],
+      "imageIdentity": "/file/br-11134207-820m9-mpwm1rqctatfc5",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "1a8cf29834469505f7834264bceebefa48bc8781c117a5c2387c196a1853d34b",
+        "affiliateLink": "https://s.shopee.com.br/30pjm10xpU"
+      }
     }
   },
   "slots": {
@@ -8321,7 +8343,8 @@
     "2026-11-21:18:10": "1381191494:58213458980",
     "2026-11-21:18:30": "361370412:58217595646",
     "2026-11-21:18:45": "387517673:19044723152",
-    "2026-11-21:19:00": "1377846021:23199013821"
+    "2026-11-21:19:00": "1377846021:23199013821",
+    "2026-11-21:19:15": "347988064:9212570285"
   },
-  "cursor": 5
+  "cursor": 6
 }

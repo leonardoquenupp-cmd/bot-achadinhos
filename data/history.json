@@ -7221,6 +7221,31 @@
         "affiliateLink": "https://s.shopee.com.br/BVUycBMTr"
       },
       "messageId": 522
+    },
+    "1059936083:58202333762": {
+      "status": "pending",
+      "slot": "2026-11-21:13:00",
+      "at": "2026-11-21T16:01:29.087Z",
+      "fingerprint": [
+        "carro",
+        "deriva",
+        "grande",
+        "guiador",
+        "freio",
+        "continuo",
+        "triciclo",
+        "eletrico",
+        "led",
+        "bluetooth",
+        "velocidades"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mjh04re9ngg2ef",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "8fdc110e343839fb5453eca806a2bedfaada2c602122233e1f234ea51e3f911b",
+        "affiliateLink": "https://s.shopee.com.br/6L6Bk8SPhF"
+      }
     }
   },
   "slots": {
@@ -7571,7 +7596,8 @@
     "2026-11-21:12:20": "754127588:57253891031",
     "2026-11-21:12:30": "487444734:44763368530",
     "2026-11-21:12:40": "1022538008:20297921812",
-    "2026-11-21:12:50": "675475277:23898420517"
+    "2026-11-21:12:50": "675475277:23898420517",
+    "2026-11-21:13:00": "1059936083:58202333762"
   },
-  "cursor": 9
+  "cursor": 10
 }

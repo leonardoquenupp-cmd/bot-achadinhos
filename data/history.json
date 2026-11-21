@@ -7475,6 +7475,25 @@
         "affiliateLink": "https://s.shopee.com.br/4B1hA91SpF"
       },
       "messageId": 532
+    },
+    "504210070:23658642494": {
+      "status": "pending",
+      "slot": "2026-11-21:15:05",
+      "at": "2026-11-21T18:06:53.256Z",
+      "fingerprint": [
+        "anzois",
+        "pesca",
+        "pretos",
+        "auxiliares",
+        "anzo"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbne-ln3tr4k08p8m77",
+      "family": "anzois-pesca",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "07ec46dd234c85c3298b3cef7193d225164711dfe71cda89489b929b6621a1c8",
+        "affiliateLink": "https://s.shopee.com.br/70LpBvgZmi"
+      }
     }
   },
   "slots": {
@@ -7835,7 +7854,8 @@
     "2026-11-21:14:15": "1506463215:58201437433",
     "2026-11-21:14:25": "389185931:9546689239",
     "2026-11-21:14:45": "391739739:22791523448",
-    "2026-11-21:14:55": "1258878023:21497683409"
+    "2026-11-21:14:55": "1258878023:21497683409",
+    "2026-11-21:15:05": "504210070:23658642494"
   },
-  "cursor": 15
+  "cursor": 2
 }

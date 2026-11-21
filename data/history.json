@@ -6581,9 +6581,9 @@
       "messageId": 497
     },
     "526625785:58253993587": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:22:15",
-      "at": "2026-11-21T01:16:53.226Z",
+      "at": "2026-11-21T01:16:55.341Z",
       "fingerprint": [
         "scanner",
         "automotivo",
@@ -6601,7 +6601,8 @@
       "receipt": {
         "captionHash": "bcc3df0cf6d65099b4f7d0f7446da58595659fbaad3ae8e7c7c1cb7d2af20b08",
         "affiliateLink": "https://s.shopee.com.br/6VPa8RLInI"
-      }
+      },
+      "messageId": 498
     }
   },
   "slots": {

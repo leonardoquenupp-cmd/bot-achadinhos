@@ -6975,9 +6975,9 @@
       "messageId": 512
     },
     "1534000949:58268797399": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:11:00",
-      "at": "2026-11-21T14:01:52.983Z",
+      "at": "2026-11-21T14:01:55.089Z",
       "fingerprint": [
         "projetor",
         "natalino",
@@ -6999,7 +6999,8 @@
       "receipt": {
         "captionHash": "231f336396feabba208606b37ab58d8feff8df63ad9015586b131bdb92d8132d",
         "affiliateLink": "https://s.shopee.com.br/4B1h1A20Yx"
-      }
+      },
+      "messageId": 513
     }
   },
   "slots": {

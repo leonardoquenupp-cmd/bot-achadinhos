@@ -6877,6 +6877,28 @@
         "affiliateLink": "https://s.shopee.com.br/6L693BTSbd"
       },
       "reason": "photo_unavailable"
+    },
+    "1381191494:58269316431": {
+      "status": "pending",
+      "slot": "2026-11-21:09:55",
+      "at": "2026-11-21T12:57:13.688Z",
+      "fingerprint": [
+        "coleiras",
+        "cachorro",
+        "regulavel",
+        "reforcada",
+        "fecho",
+        "seguranca",
+        "passeio",
+        "caes"
+      ],
+      "imageIdentity": "/file/br-11134207-820lw-mtpvuh7tqadf5e",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "7102f873dbdc93ebb4bef807b4455908a54ffd57a0e971acbe055c4cd6decfad",
+        "affiliateLink": "https://s.shopee.com.br/5LDbrLXGdP"
+      }
     }
   },
   "slots": {
@@ -7213,7 +7235,8 @@
     "2026-11-21:08:55": "367839228:23197543508",
     "2026-11-21:09:15": "430146238:22694535605",
     "2026-11-21:09:30": "1534000949:58260257222",
-    "2026-11-21:09:40": "1381191494:58212488222"
+    "2026-11-21:09:40": "1381191494:58212488222",
+    "2026-11-21:09:55": "1381191494:58269316431"
   },
-  "cursor": 7
+  "cursor": 10
 }

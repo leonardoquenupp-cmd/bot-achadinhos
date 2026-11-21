@@ -6948,6 +6948,30 @@
         "affiliateLink": "https://s.shopee.com.br/4VeWeNZDNW"
       },
       "messageId": 511
+    },
+    "1841876322:47511399823": {
+      "status": "pending",
+      "slot": "2026-11-21:10:45",
+      "at": "2026-11-21T13:46:56.220Z",
+      "fingerprint": [
+        "almofadas",
+        "silicone",
+        "fechadura",
+        "porta",
+        "carro",
+        "amortecedores",
+        "vibracao",
+        "reducao",
+        "ruido",
+        "unidades"
+      ],
+      "imageIdentity": "/file/sg-11134201-82604-mj6cm3ruwk5hc1",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "fabb4b9e39ebbdb3895646aebf4a638471bdfd9ea825dbbfe2a5feb0690adb81",
+        "affiliateLink": "https://s.shopee.com.br/4VeVklSuqr"
+      }
     }
   },
   "slots": {
@@ -7287,7 +7311,8 @@
     "2026-11-21:09:40": "1381191494:58212488222",
     "2026-11-21:09:55": "1381191494:58269316431",
     "2026-11-21:10:15": "260477274:22298228200",
-    "2026-11-21:10:30": "378486098:23293903335"
+    "2026-11-21:10:30": "378486098:23293903335",
+    "2026-11-21:10:45": "1841876322:47511399823"
   },
-  "cursor": 13
+  "cursor": 15
 }

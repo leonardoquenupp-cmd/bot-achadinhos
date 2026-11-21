@@ -7324,9 +7324,9 @@
       "messageId": 526
     },
     "1381191494:58212420041": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:13:55",
-      "at": "2026-11-21T16:57:16.461Z",
+      "at": "2026-11-21T16:57:18.392Z",
       "fingerprint": [
         "coleira",
         "cachorro",
@@ -7344,7 +7344,8 @@
       "receipt": {
         "captionHash": "a9b5e443b2505e365adc0c9e093437cd51406cf73589453e16c0d2e39697fe71",
         "affiliateLink": "https://s.shopee.com.br/AAIrcEErpG"
-      }
+      },
+      "messageId": 527
     }
   },
   "slots": {

@@ -7150,6 +7150,31 @@
         "affiliateLink": "https://s.shopee.com.br/60TI05kNoU"
       },
       "messageId": 519
+    },
+    "487444734:44763368530": {
+      "status": "pending",
+      "slot": "2026-11-21:12:30",
+      "at": "2026-11-21T15:31:22.516Z",
+      "fingerprint": [
+        "sutias",
+        "reforcados",
+        "plus",
+        "size",
+        "alta",
+        "sustentacao",
+        "tecido",
+        "duplo",
+        "alcas",
+        "grossas",
+        "reguladores"
+      ],
+      "imageIdentity": "/file/br-11134207-820lu-mq7zdjlzz94x93",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "fc9a4edaff9d6a2ef38393d4dc78e079e60dadecb14db84c0e08288b492d83da",
+        "affiliateLink": "https://s.shopee.com.br/5LDebfdhxJ"
+      }
     }
   },
   "slots": {
@@ -7497,7 +7522,8 @@
     "2026-11-21:11:45": "1785631148:58211462949",
     "2026-11-21:12:00": "821481586:45357411273",
     "2026-11-21:12:10": "1096468658:58220253408",
-    "2026-11-21:12:20": "754127588:57253891031"
+    "2026-11-21:12:20": "754127588:57253891031",
+    "2026-11-21:12:30": "487444734:44763368530"
   },
-  "cursor": 0
+  "cursor": 1
 }

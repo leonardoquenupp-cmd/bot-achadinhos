@@ -6679,6 +6679,26 @@
         "affiliateLink": "https://s.shopee.com.br/906tfl8B6Y"
       },
       "messageId": 501
+    },
+    "1383559492:18397989488": {
+      "status": "pending",
+      "slot": "2026-11-21:08:00",
+      "at": "2026-11-21T11:01:59.898Z",
+      "fingerprint": [
+        "jogo",
+        "tapete",
+        "borracha",
+        "automotivo",
+        "universal",
+        "pcs"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-mofj60rl1f5xbf",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "ec29a6c687bbe3e03ae390285ad41d2825f80b838846b00884866b13c7fd920e",
+        "affiliateLink": "https://s.shopee.com.br/qlDO1gsIk"
+      }
     }
   },
   "slots": {
@@ -7007,7 +7027,8 @@
     "2026-11-20:22:15": "526625785:58253993587",
     "2026-11-20:22:30": "451371260:22897389357",
     "2026-11-20:22:40": "1381191494:58269915517",
-    "2026-11-20:22:50": "484917341:40656794230"
+    "2026-11-20:22:50": "484917341:40656794230",
+    "2026-11-21:08:00": "1383559492:18397989488"
   },
-  "cursor": 11
+  "cursor": 13
 }

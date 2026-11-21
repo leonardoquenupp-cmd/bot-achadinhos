@@ -6973,6 +6973,33 @@
         "affiliateLink": "https://s.shopee.com.br/4VeVklSuqr"
       },
       "messageId": 512
+    },
+    "1534000949:58268797399": {
+      "status": "pending",
+      "slot": "2026-11-21:11:00",
+      "at": "2026-11-21T14:01:52.983Z",
+      "fingerprint": [
+        "projetor",
+        "natalino",
+        "refletor",
+        "luzes",
+        "natal",
+        "desenhos",
+        "laser",
+        "decorativo",
+        "bivolt",
+        "portatil",
+        "decoracao",
+        "festa",
+        "quarto"
+      ],
+      "imageIdentity": "/file/br-11134207-820mb-mtyzni9dts003d",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "231f336396feabba208606b37ab58d8feff8df63ad9015586b131bdb92d8132d",
+        "affiliateLink": "https://s.shopee.com.br/4B1h1A20Yx"
+      }
     }
   },
   "slots": {
@@ -7313,7 +7340,8 @@
     "2026-11-21:09:55": "1381191494:58269316431",
     "2026-11-21:10:15": "260477274:22298228200",
     "2026-11-21:10:30": "378486098:23293903335",
-    "2026-11-21:10:45": "1841876322:47511399823"
+    "2026-11-21:10:45": "1841876322:47511399823",
+    "2026-11-21:11:00": "1534000949:58268797399"
   },
-  "cursor": 15
+  "cursor": 1
 }

@@ -7374,6 +7374,34 @@
         "affiliateLink": "https://s.shopee.com.br/5fqTFu78e3"
       },
       "messageId": 528
+    },
+    "1506463215:58201437433": {
+      "status": "pending",
+      "slot": "2026-11-21:14:15",
+      "at": "2026-11-21T17:16:41.011Z",
+      "fingerprint": [
+        "tapete",
+        "higienico",
+        "neutro",
+        "50x60cm",
+        "unidades",
+        "economico",
+        "cachorro",
+        "cao",
+        "pet",
+        "borda",
+        "protetora",
+        "gel",
+        "super",
+        "absorvente"
+      ],
+      "imageIdentity": "/file/sg-11134201-82258-mhtgn48akj5w25",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "30282341bce6c7f70eb49be4751b8e9acb9fc1c189905626cac6ba22c31d32c1",
+        "affiliateLink": "https://s.shopee.com.br/3g5NGXUanT"
+      }
     }
   },
   "slots": {
@@ -7730,7 +7758,8 @@
     "2026-11-21:13:35": "504210070:23358494735",
     "2026-11-21:13:45": "720952207:58219003410",
     "2026-11-21:13:55": "1381191494:58212420041",
-    "2026-11-21:14:05": "1579353989:58206209035"
+    "2026-11-21:14:05": "1579353989:58206209035",
+    "2026-11-21:14:15": "1506463215:58201437433"
   },
-  "cursor": 6
+  "cursor": 7
 }

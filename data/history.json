@@ -7152,9 +7152,9 @@
       "messageId": 519
     },
     "487444734:44763368530": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:12:30",
-      "at": "2026-11-21T15:31:22.516Z",
+      "at": "2026-11-21T15:31:24.309Z",
       "fingerprint": [
         "sutias",
         "reforcados",
@@ -7174,7 +7174,8 @@
       "receipt": {
         "captionHash": "fc9a4edaff9d6a2ef38393d4dc78e079e60dadecb14db84c0e08288b492d83da",
         "affiliateLink": "https://s.shopee.com.br/5LDebfdhxJ"
-      }
+      },
+      "messageId": 520
     }
   },
   "slots": {

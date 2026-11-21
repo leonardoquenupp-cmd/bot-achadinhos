@@ -7346,6 +7346,33 @@
         "affiliateLink": "https://s.shopee.com.br/AAIrcEErpG"
       },
       "messageId": 527
+    },
+    "1579353989:58206209035": {
+      "status": "pending",
+      "slot": "2026-11-21:14:05",
+      "at": "2026-11-21T17:07:29.455Z",
+      "fingerprint": [
+        "espelho",
+        "verona",
+        "oval",
+        "base",
+        "reta",
+        "corpo",
+        "inteiro",
+        "moldura",
+        "couro",
+        "premium",
+        "120x50",
+        "sala",
+        "quarto"
+      ],
+      "imageIdentity": "/file/br-11134207-820mh-mvme80xdc74342",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "a933edbe650a529674d8ee924a3956ffd2d035673f1c7759e369c90ba8e87cc7",
+        "affiliateLink": "https://s.shopee.com.br/5fqTFu78e3"
+      }
     }
   },
   "slots": {
@@ -7701,7 +7728,8 @@
     "2026-11-21:13:15": "1553099932:23394267693",
     "2026-11-21:13:35": "504210070:23358494735",
     "2026-11-21:13:45": "720952207:58219003410",
-    "2026-11-21:13:55": "1381191494:58212420041"
+    "2026-11-21:13:55": "1381191494:58212420041",
+    "2026-11-21:14:05": "1579353989:58206209035"
   },
-  "cursor": 2
+  "cursor": 6
 }

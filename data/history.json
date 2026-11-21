@@ -6579,6 +6579,29 @@
         "affiliateLink": "https://s.shopee.com.br/5AuBQx8AlH"
       },
       "messageId": 497
+    },
+    "526625785:58253993587": {
+      "status": "pending",
+      "slot": "2026-11-20:22:15",
+      "at": "2026-11-21T01:16:53.226Z",
+      "fingerprint": [
+        "scanner",
+        "automotivo",
+        "bluetooth",
+        "android",
+        "eml",
+        "327",
+        "estoque",
+        "mini",
+        "ming"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260j-mjvqrztci683c0",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "bcc3df0cf6d65099b4f7d0f7446da58595659fbaad3ae8e7c7c1cb7d2af20b08",
+        "affiliateLink": "https://s.shopee.com.br/6VPa8RLInI"
+      }
     }
   },
   "slots": {
@@ -6903,7 +6926,8 @@
     "2026-11-20:21:10": "1630962576:58207585208",
     "2026-11-20:21:25": "698978884:23799348135",
     "2026-11-20:21:45": "1472427018:21899851088",
-    "2026-11-20:22:00": "328666563:11720146857"
+    "2026-11-20:22:00": "328666563:11720146857",
+    "2026-11-20:22:15": "526625785:58253993587"
   },
-  "cursor": 5
+  "cursor": 6
 }

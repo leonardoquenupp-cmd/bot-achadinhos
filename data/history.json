@@ -7096,6 +7096,29 @@
         "affiliateLink": "https://s.shopee.com.br/8VAdJw1YwW"
       },
       "messageId": 517
+    },
+    "1096468658:58220253408": {
+      "status": "pending",
+      "slot": "2026-11-21:12:10",
+      "at": "2026-11-21T15:11:34.856Z",
+      "fingerprint": [
+        "bonecos",
+        "natalinos",
+        "decorativos",
+        "9cm",
+        "papai",
+        "noel",
+        "rena",
+        "arvore",
+        "natal"
+      ],
+      "imageIdentity": "/file/br-11134207-820lo-mu6u5ljsrmrlbf",
+      "family": "arvore-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "95f57f8a6cacd8cd6d23740dee45e8272fd526fcc56f183f086840878f592bc1",
+        "affiliateLink": "https://s.shopee.com.br/3g5OsEEkhw"
+      }
     }
   },
   "slots": {
@@ -7441,7 +7464,8 @@
     "2026-11-21:11:10": "1381191494:23698337900",
     "2026-11-21:11:30": "941012768:23898566928",
     "2026-11-21:11:45": "1785631148:58211462949",
-    "2026-11-21:12:00": "821481586:45357411273"
+    "2026-11-21:12:00": "821481586:45357411273",
+    "2026-11-21:12:10": "1096468658:58220253408"
   },
-  "cursor": 9
+  "cursor": 13
 }

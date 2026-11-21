@@ -6902,9 +6902,9 @@
       "messageId": 509
     },
     "260477274:22298228200": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:10:15",
-      "at": "2026-11-21T13:16:11.157Z",
+      "at": "2026-11-21T13:16:13.676Z",
       "fingerprint": [
         "bicicleta",
         "spinning",
@@ -6923,7 +6923,8 @@
       "receipt": {
         "captionHash": "c8dba9efc2085186365bdfad4099b91ced00fa759487c06303763d590bf8fbad",
         "affiliateLink": "https://s.shopee.com.br/60TI8ydFyi"
-      }
+      },
+      "messageId": 510
     }
   },
   "slots": {

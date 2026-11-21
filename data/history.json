@@ -7403,6 +7403,30 @@
         "affiliateLink": "https://s.shopee.com.br/3g5NGXUanT"
       },
       "messageId": 529
+    },
+    "389185931:9546689239": {
+      "status": "pending",
+      "slot": "2026-11-21:14:25",
+      "at": "2026-11-21T17:26:56.811Z",
+      "fingerprint": [
+        "tenis",
+        "masculino",
+        "casual",
+        "polo",
+        "blu",
+        "super",
+        "leve",
+        "confortavel",
+        "cano",
+        "baixo"
+      ],
+      "imageIdentity": "/file/br-11134207-820lr-mrutuk4flg5ie4",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "dace5937da4ea382f217d20c55b51ddcea7e79ab81400fb3417b626afc900112",
+        "affiliateLink": "https://s.shopee.com.br/1qdj5tfFsO"
+      }
     }
   },
   "slots": {
@@ -7760,7 +7784,8 @@
     "2026-11-21:13:45": "720952207:58219003410",
     "2026-11-21:13:55": "1381191494:58212420041",
     "2026-11-21:14:05": "1579353989:58206209035",
-    "2026-11-21:14:15": "1506463215:58201437433"
+    "2026-11-21:14:15": "1506463215:58201437433",
+    "2026-11-21:14:25": "389185931:9546689239"
   },
-  "cursor": 7
+  "cursor": 10
 }

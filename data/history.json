@@ -6828,9 +6828,9 @@
       "messageId": 507
     },
     "1534000949:58260257222": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:09:30",
-      "at": "2026-11-21T12:31:51.949Z",
+      "at": "2026-11-21T12:31:54.411Z",
       "fingerprint": [
         "filtro",
         "agua",
@@ -6852,7 +6852,8 @@
       "receipt": {
         "captionHash": "d4f1560dfdca61da6d01a169c424ec3ca966565b4f0b26675c60ab9fc427ffc3",
         "affiliateLink": "https://s.shopee.com.br/8AXmUXZpYw"
-      }
+      },
+      "messageId": 508
     }
   },
   "slots": {

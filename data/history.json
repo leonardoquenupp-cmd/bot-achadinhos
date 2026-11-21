@@ -8091,6 +8091,32 @@
         "affiliateLink": "https://s.shopee.com.br/9KjnAfdbYg"
       },
       "messageId": 557
+    },
+    "1381191494:23798375208": {
+      "status": "pending",
+      "slot": "2026-11-21:20:40",
+      "at": "2026-11-21T23:41:48.223Z",
+      "fingerprint": [
+        "guia",
+        "longa",
+        "maos",
+        "livres",
+        "passeio",
+        "corrida",
+        "pet",
+        "cachorro",
+        "regulavel",
+        "reforcada",
+        "transversal",
+        "caes"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m88ixsm5ay297a",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "2104949aa309405a3f1b5caef78d8bf37926a974725eb29d225c5f7b237c634d",
+        "affiliateLink": "https://s.shopee.com.br/3Vlwwdad1y"
+      }
     }
   },
   "slots": {
@@ -8476,7 +8502,8 @@
     "2026-11-21:19:40": "1670233926:58216881244",
     "2026-11-21:20:00": "1032838083:58268649472",
     "2026-11-21:20:15": "207474891:24234709173",
-    "2026-11-21:20:30": "407523450:23598387814"
+    "2026-11-21:20:30": "407523450:23598387814",
+    "2026-11-21:20:40": "1381191494:23798375208"
   },
-  "cursor": 0
+  "cursor": 1
 }

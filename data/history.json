@@ -6651,6 +6651,33 @@
         "affiliateLink": "https://s.shopee.com.br/6VPZFUSpGe"
       },
       "messageId": 500
+    },
+    "484917341:40656794230": {
+      "status": "pending",
+      "slot": "2026-11-20:22:50",
+      "at": "2026-11-21T01:52:01.824Z",
+      "fingerprint": [
+        "hot",
+        "pcs",
+        "encantos",
+        "sapato",
+        "decrations",
+        "engenharia",
+        "veiculo",
+        "sandalias",
+        "fivela",
+        "pvc",
+        "acessorios",
+        "botao",
+        "pinos"
+      ],
+      "imageIdentity": "/file/cn-11134207-7ras8-mb90a9k0o479dd",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "ef12b7cbbcc796af83ee0bd24c956a436aa730ed576ada6caca83b016ea1fb44",
+        "affiliateLink": "https://s.shopee.com.br/906tfl8B6Y"
+      }
     }
   },
   "slots": {
@@ -6978,7 +7005,8 @@
     "2026-11-20:22:00": "328666563:11720146857",
     "2026-11-20:22:15": "526625785:58253993587",
     "2026-11-20:22:30": "451371260:22897389357",
-    "2026-11-20:22:40": "1381191494:58269915517"
+    "2026-11-20:22:40": "1381191494:58269915517",
+    "2026-11-20:22:50": "484917341:40656794230"
   },
-  "cursor": 8
+  "cursor": 11
 }

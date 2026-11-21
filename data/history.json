@@ -7844,9 +7844,9 @@
       "messageId": 547
     },
     "1381191494:58213458980": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:18:10",
-      "at": "2026-11-21T21:13:23.905Z",
+      "at": "2026-11-21T21:13:27.752Z",
       "fingerprint": [
         "focinheira",
         "cachorro",
@@ -7866,7 +7866,8 @@
       "receipt": {
         "captionHash": "7dee57634e9a83fbbf9abe2ae52242f87cf3087ac875f7ae2e20a96753712931",
         "affiliateLink": "https://s.shopee.com.br/2gCq9XaGjr"
-      }
+      },
+      "messageId": 548
     }
   },
   "slots": {

@@ -7944,9 +7944,9 @@
       "messageId": 551
     },
     "347988064:9212570285": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:19:15",
-      "at": "2026-11-21T22:16:11.459Z",
+      "at": "2026-11-21T22:16:13.235Z",
       "fingerprint": [
         "creatina",
         "suplemento",
@@ -7963,7 +7963,8 @@
       "receipt": {
         "captionHash": "1a8cf29834469505f7834264bceebefa48bc8781c117a5c2387c196a1853d34b",
         "affiliateLink": "https://s.shopee.com.br/30pjm10xpU"
-      }
+      },
+      "messageId": 552
     }
   },
   "slots": {

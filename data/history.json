@@ -7026,9 +7026,9 @@
       "messageId": 514
     },
     "941012768:23898566928": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:11:30",
-      "at": "2026-11-21T14:31:41.502Z",
+      "at": "2026-11-21T14:31:43.804Z",
       "fingerprint": [
         "toalha",
         "geladeira",
@@ -7042,7 +7042,8 @@
       "receipt": {
         "captionHash": "eb33fb9a2e22da3b201cf73725823a76195a68cee5e11a8d961e8b2042e885c8",
         "affiliateLink": "https://s.shopee.com.br/W8M2jdrqX"
-      }
+      },
+      "messageId": 515
     }
   },
   "slots": {

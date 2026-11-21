@@ -7916,6 +7916,31 @@
         "affiliateLink": "https://s.shopee.com.br/1BO2DnpScN"
       },
       "messageId": 550
+    },
+    "1377846021:23199013821": {
+      "status": "pending",
+      "slot": "2026-11-21:19:00",
+      "at": "2026-11-21T22:01:24.537Z",
+      "fingerprint": [
+        "caneta",
+        "pintura",
+        "reparo",
+        "arranhoes",
+        "carro",
+        "cores",
+        "preenchimento",
+        "zero",
+        "manutencao",
+        "removedor",
+        "revestim"
+      ],
+      "imageIdentity": "/file/sg-11134201-824i9-mfmv4gud3pcb4f",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "2fea5aa4d2a186e6280c57a708239d410b1187b6863824c8f16937f6af2828eb",
+        "affiliateLink": "https://s.shopee.com.br/9pg26Z8c2O"
+      }
     }
   },
   "slots": {
@@ -8294,7 +8319,8 @@
     "2026-11-21:17:55": "1290755423:23799421101",
     "2026-11-21:18:10": "1381191494:58213458980",
     "2026-11-21:18:30": "361370412:58217595646",
-    "2026-11-21:18:45": "387517673:19044723152"
+    "2026-11-21:18:45": "387517673:19044723152",
+    "2026-11-21:19:00": "1377846021:23199013821"
   },
-  "cursor": 3
+  "cursor": 5
 }

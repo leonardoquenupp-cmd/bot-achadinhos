@@ -7636,6 +7636,27 @@
         "affiliateLink": "https://s.shopee.com.br/5fqSKWWPxS"
       },
       "messageId": 539
+    },
+    "532455428:23093092976": {
+      "status": "pending",
+      "slot": "2026-11-21:16:25",
+      "at": "2026-11-21T19:27:28.375Z",
+      "fingerprint": [
+        "calca",
+        "pantalona",
+        "feminina",
+        "roupa",
+        "cintura",
+        "alta",
+        "lanzinha"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-moy6mgf4g00356",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "63a895fb50fe158280fd6b4483a87b7bc1f0a8fef0f1f6178dd0d1370c625db0",
+        "affiliateLink": "https://s.shopee.com.br/114c2AM01m"
+      }
     }
   },
   "slots": {
@@ -8003,7 +8024,8 @@
     "2026-11-21:15:30": "883941882:23093509247",
     "2026-11-21:15:45": "302062814:22792929864",
     "2026-11-21:16:00": "1005980154:22993348854",
-    "2026-11-21:16:15": "409964177:46201063556"
+    "2026-11-21:16:15": "409964177:46201063556",
+    "2026-11-21:16:25": "532455428:23093092976"
   },
-  "cursor": 14
+  "cursor": 1
 }

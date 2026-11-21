@@ -7737,6 +7737,33 @@
         "affiliateLink": "https://s.shopee.com.br/5fqReDMyjf"
       },
       "messageId": 543
+    },
+    "1382462472:58263472560": {
+      "status": "pending",
+      "slot": "2026-11-21:17:15",
+      "at": "2026-11-21T20:16:27.665Z",
+      "fingerprint": [
+        "pcs",
+        "caneta",
+        "moagem",
+        "quartzo",
+        "portatil",
+        "tesoura",
+        "cuticula",
+        "unhas",
+        "removedor",
+        "pele",
+        "morta",
+        "vara",
+        "arquivos"
+      ],
+      "imageIdentity": "/file/br-11134201-820m9-mqyo0bdrco3p3d",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "35a53ffb30e1223ddcacd291f5f253278e22ea20210495dea1e17b8fe3ca5260",
+        "affiliateLink": "https://s.shopee.com.br/40iFbfXUpR"
+      }
     }
   },
   "slots": {
@@ -8108,7 +8135,8 @@
     "2026-11-21:16:25": "532455428:23093092976",
     "2026-11-21:16:35": "392744038:21597608114",
     "2026-11-21:16:45": "526596865:22193077029",
-    "2026-11-21:17:00": "1230788489:58201979459"
+    "2026-11-21:17:00": "1230788489:58201979459",
+    "2026-11-21:17:15": "1382462472:58263472560"
   },
-  "cursor": 7
+  "cursor": 8
 }

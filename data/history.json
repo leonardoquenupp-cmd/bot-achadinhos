@@ -6553,6 +6553,31 @@
         "affiliateLink": "https://s.shopee.com.br/2VtQLFbqLi"
       },
       "messageId": 496
+    },
+    "328666563:11720146857": {
+      "status": "pending",
+      "slot": "2026-11-20:22:00",
+      "at": "2026-11-21T01:01:33.431Z",
+      "fingerprint": [
+        "maquina",
+        "barbear",
+        "cortar",
+        "cabelo",
+        "aparador",
+        "profissional",
+        "barbeador",
+        "acabamento",
+        "sem",
+        "fio",
+        "portatil"
+      ],
+      "imageIdentity": "/file/7b95b6cd68b2c230f14881e33584057b",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "39db42dfde04a45d694754cee9f24267e8499d0eaa1d9c8270922c034d60b47e",
+        "affiliateLink": "https://s.shopee.com.br/5AuBQx8AlH"
+      }
     }
   },
   "slots": {
@@ -6876,7 +6901,8 @@
     "2026-11-20:21:00": "883941882:23993101572",
     "2026-11-20:21:10": "1630962576:58207585208",
     "2026-11-20:21:25": "698978884:23799348135",
-    "2026-11-20:21:45": "1472427018:21899851088"
+    "2026-11-20:21:45": "1472427018:21899851088",
+    "2026-11-20:22:00": "328666563:11720146857"
   },
-  "cursor": 4
+  "cursor": 5
 }

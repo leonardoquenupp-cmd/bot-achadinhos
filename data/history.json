@@ -7098,9 +7098,9 @@
       "messageId": 517
     },
     "1096468658:58220253408": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:12:10",
-      "at": "2026-11-21T15:11:34.856Z",
+      "at": "2026-11-21T15:11:37.399Z",
       "fingerprint": [
         "bonecos",
         "natalinos",
@@ -7118,7 +7118,8 @@
       "receipt": {
         "captionHash": "95f57f8a6cacd8cd6d23740dee45e8272fd526fcc56f183f086840878f592bc1",
         "affiliateLink": "https://s.shopee.com.br/3g5OsEEkhw"
-      }
+      },
+      "messageId": 518
     }
   },
   "slots": {

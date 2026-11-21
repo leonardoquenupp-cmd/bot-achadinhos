@@ -7120,6 +7120,35 @@
         "affiliateLink": "https://s.shopee.com.br/3g5OsEEkhw"
       },
       "messageId": 518
+    },
+    "754127588:57253891031": {
+      "status": "pending",
+      "slot": "2026-11-21:12:20",
+      "at": "2026-11-21T15:21:39.921Z",
+      "fingerprint": [
+        "pcs",
+        "pesca",
+        "preto",
+        "auxiliar",
+        "ganchos",
+        "gabarito",
+        "isca",
+        "unico",
+        "gancho",
+        "duplo",
+        "lento",
+        "rapido",
+        "par",
+        "jigging",
+        "fishjig"
+      ],
+      "imageIdentity": "/file/sg-11134201-81zvk-mitxayod86irfb",
+      "family": "pcs-pesca",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "dca0079d243c156ab5429f9b21f3d2b6576aebbe3a18db2981bb498bb0302f8c",
+        "affiliateLink": "https://s.shopee.com.br/60TI05kNoU"
+      }
     }
   },
   "slots": {
@@ -7466,7 +7495,8 @@
     "2026-11-21:11:30": "941012768:23898566928",
     "2026-11-21:11:45": "1785631148:58211462949",
     "2026-11-21:12:00": "821481586:45357411273",
-    "2026-11-21:12:10": "1096468658:58220253408"
+    "2026-11-21:12:10": "1096468658:58220253408",
+    "2026-11-21:12:20": "754127588:57253891031"
   },
-  "cursor": 13
+  "cursor": 0
 }

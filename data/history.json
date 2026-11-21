@@ -7520,6 +7520,27 @@
         "affiliateLink": "https://s.shopee.com.br/3g5NKexVYf"
       },
       "messageId": 534
+    },
+    "1649530709:58267082966": {
+      "status": "pending",
+      "slot": "2026-11-21:15:20",
+      "at": "2026-11-21T18:22:10.160Z",
+      "fingerprint": [
+        "chinelo",
+        "pro",
+        "dia",
+        "homens",
+        "mulheres",
+        "material",
+        "premium"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-msegwek6rgudb0",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "3d0bdd0c0e75b838ac245911e8abdb3c6b34e3d344ee87c527dc50a2fa97bba8",
+        "affiliateLink": "https://s.shopee.com.br/6q2R7rvII4"
+      }
     }
   },
   "slots": {
@@ -7882,7 +7903,8 @@
     "2026-11-21:14:45": "391739739:22791523448",
     "2026-11-21:14:55": "1258878023:21497683409",
     "2026-11-21:15:05": "504210070:23658642494",
-    "2026-11-21:15:15": "1458854085:58267226289"
+    "2026-11-21:15:15": "1458854085:58267226289",
+    "2026-11-21:15:20": "1649530709:58267082966"
   },
-  "cursor": 3
+  "cursor": 7
 }

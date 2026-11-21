@@ -7870,9 +7870,9 @@
       "messageId": 548
     },
     "361370412:58217595646": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:18:30",
-      "at": "2026-11-21T21:31:46.041Z",
+      "at": "2026-11-21T21:31:48.687Z",
       "fingerprint": [
         "biquini",
         "cortininha",
@@ -7889,7 +7889,8 @@
       "receipt": {
         "captionHash": "4ae9dd098183e86ab1d2edb5c8b581279d293fe1a4e2a6b51e02124d28c38e07",
         "affiliateLink": "https://s.shopee.com.br/6q2P8XCvyJ"
-      }
+      },
+      "messageId": 549
     }
   },
   "slots": {

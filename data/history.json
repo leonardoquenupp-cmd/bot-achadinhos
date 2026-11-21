@@ -7614,9 +7614,9 @@
       "messageId": 538
     },
     "409964177:46201063556": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:16:15",
-      "at": "2026-11-21T19:16:52.617Z",
+      "at": "2026-11-21T19:16:54.404Z",
       "fingerprint": [
         "jogo",
         "espatulas",
@@ -7634,7 +7634,8 @@
       "receipt": {
         "captionHash": "6786b67214a84cf47c1a70acdacfce9423d9a154c7396411f7a4e0ee1149d964",
         "affiliateLink": "https://s.shopee.com.br/5fqSKWWPxS"
-      }
+      },
+      "messageId": 539
     }
   },
   "slots": {

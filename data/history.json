@@ -6950,9 +6950,9 @@
       "messageId": 511
     },
     "1841876322:47511399823": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:10:45",
-      "at": "2026-11-21T13:46:56.220Z",
+      "at": "2026-11-21T13:46:58.685Z",
       "fingerprint": [
         "almofadas",
         "silicone",
@@ -6971,7 +6971,8 @@
       "receipt": {
         "captionHash": "fabb4b9e39ebbdb3895646aebf4a638471bdfd9ea825dbbfe2a5feb0690adb81",
         "affiliateLink": "https://s.shopee.com.br/4VeVklSuqr"
-      }
+      },
+      "messageId": 512
     }
   },
   "slots": {

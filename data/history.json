@@ -6702,9 +6702,9 @@
       "messageId": 502
     },
     "338537405:9511754133": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:08:15",
-      "at": "2026-11-21T11:16:20.655Z",
+      "at": "2026-11-21T11:16:22.481Z",
       "fingerprint": [
         "creatina",
         "max",
@@ -6718,7 +6718,8 @@
       "receipt": {
         "captionHash": "8258d3dd1304c261afed8fcebf9961ce396b8d0d87b152e576f3594f8333c526",
         "affiliateLink": "https://s.shopee.com.br/5AuB1DS71k"
-      }
+      },
+      "messageId": 503
     }
   },
   "slots": {

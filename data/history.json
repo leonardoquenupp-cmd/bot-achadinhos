@@ -7001,6 +7001,28 @@
         "affiliateLink": "https://s.shopee.com.br/4B1h1A20Yx"
       },
       "messageId": 513
+    },
+    "1381191494:23698337900": {
+      "status": "pending",
+      "slot": "2026-11-21:11:10",
+      "at": "2026-11-21T14:12:36.217Z",
+      "fingerprint": [
+        "coleira",
+        "cachorro",
+        "fecho",
+        "reforcado",
+        "regulador",
+        "tamanho",
+        "variados",
+        "portes"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mv66wm31mlmoe9",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "edd887897c846d1a486f25cfcedac349429151ef8f9b0cfa0ef83375fe6482f9",
+        "affiliateLink": "https://s.shopee.com.br/2qWGLqZdOs"
+      }
     }
   },
   "slots": {
@@ -7342,7 +7364,8 @@
     "2026-11-21:10:15": "260477274:22298228200",
     "2026-11-21:10:30": "378486098:23293903335",
     "2026-11-21:10:45": "1841876322:47511399823",
-    "2026-11-21:11:00": "1534000949:58268797399"
+    "2026-11-21:11:00": "1534000949:58268797399",
+    "2026-11-21:11:10": "1381191494:23698337900"
   },
-  "cursor": 1
+  "cursor": 3
 }

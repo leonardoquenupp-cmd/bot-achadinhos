@@ -7450,6 +7450,30 @@
         "affiliateLink": "https://s.shopee.com.br/20x9gBpa32"
       },
       "messageId": 531
+    },
+    "1258878023:21497683409": {
+      "status": "pending",
+      "slot": "2026-11-21:14:55",
+      "at": "2026-11-21T17:57:10.159Z",
+      "fingerprint": [
+        "mop",
+        "giratorio",
+        "cabo",
+        "140",
+        "cesto",
+        "inox",
+        "balde",
+        "centrifuga",
+        "refil",
+        "bnvt"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m54amsm7zicy1b",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "26f4b14c37f4381980f0e80d7028c6f38d17664a366ea675c05325658c9b78f0",
+        "affiliateLink": "https://s.shopee.com.br/4B1hA91SpF"
+      }
     }
   },
   "slots": {
@@ -7809,7 +7833,8 @@
     "2026-11-21:14:05": "1579353989:58206209035",
     "2026-11-21:14:15": "1506463215:58201437433",
     "2026-11-21:14:25": "389185931:9546689239",
-    "2026-11-21:14:45": "391739739:22791523448"
+    "2026-11-21:14:45": "391739739:22791523448",
+    "2026-11-21:14:55": "1258878023:21497683409"
   },
-  "cursor": 11
+  "cursor": 15
 }

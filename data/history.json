@@ -6508,9 +6508,9 @@
       "messageId": 494
     },
     "698978884:23799348135": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:21:25",
-      "at": "2026-11-21T00:27:24.405Z",
+      "at": "2026-11-21T00:27:27.081Z",
       "fingerprint": [
         "logomarca",
         "mdf",
@@ -6530,7 +6530,8 @@
       "receipt": {
         "captionHash": "a818135f8a83a8c47b1ad905050b5631778597d784bd1cb00af7ad41fad4063e",
         "affiliateLink": "https://s.shopee.com.br/1qdlEqFMMv"
-      }
+      },
+      "messageId": 495
     }
   },
   "slots": {

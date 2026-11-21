@@ -6603,6 +6603,29 @@
         "affiliateLink": "https://s.shopee.com.br/6VPa8RLInI"
       },
       "messageId": 498
+    },
+    "451371260:22897389357": {
+      "status": "pending",
+      "slot": "2026-11-20:22:30",
+      "at": "2026-11-21T01:31:30.473Z",
+      "fingerprint": [
+        "projetor",
+        "luzes",
+        "natalino",
+        "enfeites",
+        "padroes",
+        "tema",
+        "natal",
+        "movimento",
+        "quarto"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mg22l1lf864k12",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "c1d0cdd66e90eee505b22bd3fceaff5131efa8bda0fe82815dbf427d969aef4c",
+        "affiliateLink": "https://s.shopee.com.br/60TI0mBHDg"
+      }
     }
   },
   "slots": {
@@ -6928,7 +6951,8 @@
     "2026-11-20:21:25": "698978884:23799348135",
     "2026-11-20:21:45": "1472427018:21899851088",
     "2026-11-20:22:00": "328666563:11720146857",
-    "2026-11-20:22:15": "526625785:58253993587"
+    "2026-11-20:22:15": "526625785:58253993587",
+    "2026-11-20:22:30": "451371260:22897389357"
   },
-  "cursor": 6
+  "cursor": 7
 }

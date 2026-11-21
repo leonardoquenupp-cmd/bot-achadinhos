@@ -7178,9 +7178,9 @@
       "messageId": 520
     },
     "1022538008:20297921812": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:12:40",
-      "at": "2026-11-21T15:41:55.450Z",
+      "at": "2026-11-21T15:41:57.528Z",
       "fingerprint": [
         "original",
         "carregador",
@@ -7197,7 +7197,8 @@
       "receipt": {
         "captionHash": "ba5aa99fe703e5362e1d037b583d199d84eb65924401cf3bdef7e66e483a5da8",
         "affiliateLink": "https://s.shopee.com.br/gRlfiD8Xh"
-      }
+      },
+      "messageId": 521
     }
   },
   "slots": {

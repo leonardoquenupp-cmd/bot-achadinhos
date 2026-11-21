@@ -8011,9 +8011,9 @@
       "messageId": 554
     },
     "1032838083:58268649472": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:20:00",
-      "at": "2026-11-21T23:01:31.484Z",
+      "at": "2026-11-21T23:01:34.080Z",
       "fingerprint": [
         "colchonete",
         "academia",
@@ -8030,7 +8030,8 @@
       "receipt": {
         "captionHash": "baa67860e415137e257d64b2fad5a0e4e20303b2d583e22ba591d3be30546fc3",
         "affiliateLink": "https://s.shopee.com.br/5AuB9TJHLd"
-      }
+      },
+      "messageId": 555
     }
   },
   "slots": {

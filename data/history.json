@@ -6534,9 +6534,9 @@
       "messageId": 495
     },
     "1472427018:21899851088": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-20:21:45",
-      "at": "2026-11-21T00:46:19.261Z",
+      "at": "2026-11-21T00:46:21.793Z",
       "fingerprint": [
         "unidades",
         "bebedouros",
@@ -6551,7 +6551,8 @@
       "receipt": {
         "captionHash": "a52b5bd802291b9c7cf2dbbf009c65beb6f2b2aab2b10d6ba532689db9471015",
         "affiliateLink": "https://s.shopee.com.br/2VtQLFbqLi"
-      }
+      },
+      "messageId": 496
     }
   },
   "slots": {

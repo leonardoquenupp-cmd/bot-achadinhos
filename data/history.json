@@ -9188,9 +9188,9 @@
       "messageId": 600
     },
     "1507917624:22894764211": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:15:30",
-      "at": "2026-11-22T18:31:49.108Z",
+      "at": "2026-11-22T18:31:51.020Z",
       "fingerprint": [
         "pecas",
         "tampa",
@@ -9214,7 +9214,8 @@
       "receipt": {
         "captionHash": "44df82d77bf321b86e3106fceec9098a6453f8ad99f395fbf5b12677d8e4925d",
         "affiliateLink": "https://s.shopee.com.br/9fMb5syqNR"
-      }
+      },
+      "messageId": 601
     }
   },
   "slots": {

@@ -9110,9 +9110,9 @@
       "messageId": 597
     },
     "775523919:22694210678": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:14:50",
-      "at": "2026-11-22T17:51:43.221Z",
+      "at": "2026-11-22T17:51:44.959Z",
       "fingerprint": [
         "chinelo",
         "asuna",
@@ -9133,7 +9133,8 @@
       "receipt": {
         "captionHash": "608c10e0725c65a58ac2deeeb8479378f368f48585ea28a615bad86b955b861d",
         "affiliateLink": "https://s.shopee.com.br/6q2U5DaBOK"
-      }
+      },
+      "messageId": 598
     }
   },
   "slots": {

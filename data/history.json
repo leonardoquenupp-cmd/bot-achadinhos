@@ -8741,6 +8741,31 @@
         "affiliateLink": "https://s.shopee.com.br/9V3CL7npZA"
       },
       "messageId": 582
+    },
+    "391739739:23195818961": {
+      "status": "pending",
+      "slot": "2026-11-22:11:30",
+      "at": "2026-11-22T14:31:21.618Z",
+      "fingerprint": [
+        "carregador",
+        "chaveiro",
+        "portatil",
+        "1500mah",
+        "ultra",
+        "compacto",
+        "mini",
+        "pacote",
+        "bateria",
+        "carregamento",
+        "rapido"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbn0-lozfabuz0tmm4b",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "da08cc724952297b751fc6fde768dd12465ef23c028a116e45482e058ed54712",
+        "affiliateLink": "https://s.shopee.com.br/3g5S9N97V9"
+      }
     }
   },
   "slots": {
@@ -9151,7 +9176,8 @@
     "2026-11-22:10:30": "1547311235:58202579218",
     "2026-11-22:10:40": "1855335442:58220506165",
     "2026-11-22:11:00": "1771091495:58212573737",
-    "2026-11-22:11:15": "1925520561:26395644271"
+    "2026-11-22:11:15": "1925520561:26395644271",
+    "2026-11-22:11:30": "391739739:23195818961"
   },
-  "cursor": 6
+  "cursor": 7
 }

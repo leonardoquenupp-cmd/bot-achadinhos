@@ -9669,6 +9669,30 @@
         "affiliateLink": "https://s.shopee.com.br/70Lqwl4U6H"
       },
       "messageId": 619
+    },
+    "883941882:21799205940": {
+      "status": "pending",
+      "slot": "2026-11-22:20:15",
+      "at": "2026-11-22T23:16:09.646Z",
+      "fingerprint": [
+        "radio",
+        "retro",
+        "bluetooth",
+        "entrada",
+        "usb",
+        "microsd",
+        "lanterna",
+        "sainda",
+        "auxiliar",
+        "3199"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lsaboe9axueza5",
+      "family": "radio-retro",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "39d6b3a348eeac955077227848bd67ad816a3c655df712f044a40965ed443778",
+        "affiliateLink": "https://s.shopee.com.br/9AQOYCveZp"
+      }
     }
   },
   "slots": {
@@ -10116,7 +10140,8 @@
     "2026-11-22:19:15": "612187100:42768969688",
     "2026-11-22:19:30": "293435711:18599728212",
     "2026-11-22:19:45": "418414346:23099248194",
-    "2026-11-22:20:00": "1032290308:58219263055"
+    "2026-11-22:20:00": "1032290308:58219263055",
+    "2026-11-22:20:15": "883941882:21799205940"
   },
-  "cursor": 9
+  "cursor": 10
 }

@@ -8872,9 +8872,9 @@
       "messageId": 587
     },
     "1662566477:57567630087": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:12:45",
-      "at": "2026-11-22T15:46:37.326Z",
+      "at": "2026-11-22T15:46:39.076Z",
       "fingerprint": [
         "depilador",
         "eletrico",
@@ -8894,7 +8894,8 @@
       "receipt": {
         "captionHash": "1e2f8ebc9ec4a09fcec74d3503b0a36bd4ee270515459d1b371e144306df11a9",
         "affiliateLink": "https://s.shopee.com.br/5fqS1s6Gk1"
-      }
+      },
+      "messageId": 588
     }
   },
   "slots": {

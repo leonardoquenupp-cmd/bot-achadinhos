@@ -8989,6 +8989,26 @@
         "affiliateLink": "https://s.shopee.com.br/70LuFk9aT5"
       },
       "messageId": 592
+    },
+    "545033859:58204629137": {
+      "status": "pending",
+      "slot": "2026-11-22:13:40",
+      "at": "2026-11-22T16:42:15.500Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "unissex",
+        "solado",
+        "antiderrapante",
+        "conforto"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mkb2dr2tyhvk0f",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "4d2557a274f7297702914bba6740538c2f2abb23783ab85fa5ebb0e829f514f7",
+        "affiliateLink": "https://s.shopee.com.br/30plHQX9Vv"
+      }
     }
   },
   "slots": {
@@ -9409,7 +9429,8 @@
     "2026-11-22:13:00": "1515741369:23394300857",
     "2026-11-22:13:15": "1259086167:43754234043",
     "2026-11-22:13:20": "1093062766:58218113340",
-    "2026-11-22:13:30": "883941882:20497723525"
+    "2026-11-22:13:30": "883941882:20497723525",
+    "2026-11-22:13:40": "545033859:58204629137"
   },
-  "cursor": 10
+  "cursor": 14
 }

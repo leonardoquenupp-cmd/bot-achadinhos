@@ -8917,6 +8917,28 @@
         "affiliateLink": "https://s.shopee.com.br/5LDg9Tu7Ml"
       },
       "messageId": 589
+    },
+    "1259086167:43754234043": {
+      "status": "pending",
+      "slot": "2026-11-22:13:15",
+      "at": "2026-11-22T16:16:29.224Z",
+      "fingerprint": [
+        "medidor",
+        "pressao",
+        "digital",
+        "pulso",
+        "voz",
+        "monitor",
+        "inteligente",
+        "aparelho"
+      ],
+      "imageIdentity": "/file/cn-11134207-7ras8-mawkl7entdq114",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "d120b4cd447ae035afddf423e7ef7ed5c0227e7f4870d8913594b1758c34db35",
+        "affiliateLink": "https://s.shopee.com.br/8VAi1Tubn5"
+      }
     }
   },
   "slots": {
@@ -9334,7 +9356,8 @@
     "2026-11-22:12:10": "1229184591:22495207201",
     "2026-11-22:12:30": "1441157744:25946709329",
     "2026-11-22:12:45": "1662566477:57567630087",
-    "2026-11-22:13:00": "1515741369:23394300857"
+    "2026-11-22:13:00": "1515741369:23394300857",
+    "2026-11-22:13:15": "1259086167:43754234043"
   },
-  "cursor": 3
+  "cursor": 5
 }

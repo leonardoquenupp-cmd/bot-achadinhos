@@ -9010,6 +9010,31 @@
         "affiliateLink": "https://s.shopee.com.br/30plHQX9Vv"
       },
       "messageId": 593
+    },
+    "204026219:58218310200": {
+      "status": "pending",
+      "slot": "2026-11-22:14:00",
+      "at": "2026-11-22T17:01:14.224Z",
+      "fingerprint": [
+        "pares",
+        "palmilha",
+        "gel",
+        "ortopedica",
+        "original",
+        "anatomica",
+        "varias",
+        "horas",
+        "trabalho",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258r-mt8esqmp0tu0d0",
+      "family": "pares-palmilha",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "47a7088408532a8730d5bbfcb8ef2deffcd8cb1b1187c5548277746c21f84193",
+        "affiliateLink": "https://s.shopee.com.br/60TIoEI21a"
+      }
     }
   },
   "slots": {
@@ -9431,7 +9456,8 @@
     "2026-11-22:13:15": "1259086167:43754234043",
     "2026-11-22:13:20": "1093062766:58218113340",
     "2026-11-22:13:30": "883941882:20497723525",
-    "2026-11-22:13:40": "545033859:58204629137"
+    "2026-11-22:13:40": "545033859:58204629137",
+    "2026-11-22:14:00": "204026219:58218310200"
   },
-  "cursor": 14
+  "cursor": 15
 }

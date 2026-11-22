@@ -9532,6 +9532,31 @@
         "affiliateLink": "https://s.shopee.com.br/AKcMZV1708"
       },
       "messageId": 614
+    },
+    "976285267:23399043568": {
+      "status": "pending",
+      "slot": "2026-11-22:19:00",
+      "at": "2026-11-22T22:01:30.392Z",
+      "fingerprint": [
+        "fone",
+        "bluetooth",
+        "pro5",
+        "premium",
+        "imersao",
+        "total",
+        "cancelamento",
+        "ruido",
+        "qualidade",
+        "superior",
+        "iphoneandroid"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mg4gj8nwxkw7e0",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "4d68a9cdc77725fc1adb0fa5f84876eca970d71b440c7ab216d51c44e3675c80",
+        "affiliateLink": "https://s.shopee.com.br/7KykeM8JnB"
+      }
     }
   },
   "slots": {
@@ -9974,7 +9999,8 @@
     "2026-11-22:18:00": "1010974641:23692240341",
     "2026-11-22:18:15": "821481586:41979352674",
     "2026-11-22:18:30": "1036760565:58252212178",
-    "2026-11-22:18:45": "1671173223:58215593539"
+    "2026-11-22:18:45": "1671173223:58215593539",
+    "2026-11-22:19:00": "976285267:23399043568"
   },
-  "cursor": 2
+  "cursor": 4
 }

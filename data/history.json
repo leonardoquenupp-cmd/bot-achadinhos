@@ -9386,6 +9386,34 @@
         "affiliateLink": "https://s.shopee.com.br/gRqqP6SuR"
       },
       "messageId": 608
+    },
+    "1550553757:58204705030": {
+      "status": "pending",
+      "slot": "2026-11-22:17:25",
+      "at": "2026-11-22T20:27:26.285Z",
+      "fingerprint": [
+        "colirio",
+        "cineraria",
+        "maritima",
+        "provets",
+        "10ml",
+        "homeopatico",
+        "veterinario",
+        "caes",
+        "gatos",
+        "uso",
+        "ocular",
+        "catarata",
+        "opacidade",
+        "original"
+      ],
+      "imageIdentity": "/file/br-11134207-820mh-mvhg4ub2m803c3",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "35699bc268feb8b4f244ef25ed77a4433cf7c2acbfb64051e395603a9fc5d340",
+        "affiliateLink": "https://s.shopee.com.br/AAIvjjHwBy"
+      }
     }
   },
   "slots": {
@@ -9822,7 +9850,8 @@
     "2026-11-22:16:30": "638380156:21599608599",
     "2026-11-22:16:45": "1445968934:58260750328",
     "2026-11-22:17:00": "883941882:23795161847",
-    "2026-11-22:17:10": "775523919:21698104778"
+    "2026-11-22:17:10": "775523919:21698104778",
+    "2026-11-22:17:25": "1550553757:58204705030"
   },
-  "cursor": 10
+  "cursor": 12
 }

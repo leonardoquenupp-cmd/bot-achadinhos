@@ -9108,6 +9108,32 @@
         "affiliateLink": "https://s.shopee.com.br/1BO7HzvzRT"
       },
       "messageId": 597
+    },
+    "775523919:22694210678": {
+      "status": "pending",
+      "slot": "2026-11-22:14:50",
+      "at": "2026-11-22T17:51:43.221Z",
+      "fingerprint": [
+        "chinelo",
+        "asuna",
+        "esport",
+        "lancamentos",
+        "chinela",
+        "asuno",
+        "slide",
+        "nuvem",
+        "dia",
+        "feminino",
+        "masculino",
+        "unisex"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mbwq8yjl7qufe0",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "608c10e0725c65a58ac2deeeb8479378f368f48585ea28a615bad86b955b861d",
+        "affiliateLink": "https://s.shopee.com.br/6q2U5DaBOK"
+      }
     }
   },
   "slots": {
@@ -9533,7 +9559,8 @@
     "2026-11-22:14:00": "204026219:58218310200",
     "2026-11-22:14:15": "1603521991:58214709722",
     "2026-11-22:14:25": "698978884:22794225996",
-    "2026-11-22:14:45": "1101259582:23898775410"
+    "2026-11-22:14:45": "1101259582:23898775410",
+    "2026-11-22:14:50": "775523919:22694210678"
   },
-  "cursor": 3
+  "cursor": 7
 }

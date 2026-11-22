@@ -9285,6 +9285,27 @@
         "affiliateLink": "https://s.shopee.com.br/1qdoHILLYU"
       },
       "messageId": 604
+    },
+    "638380156:21599608599": {
+      "status": "pending",
+      "slot": "2026-11-22:16:30",
+      "at": "2026-11-22T19:31:27.815Z",
+      "fingerprint": [
+        "faixas",
+        "elastica",
+        "resistencia",
+        "yoga",
+        "pilates",
+        "treino",
+        "academia"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m6invln2xnpjeb",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "ebacff7d2daeb939e074d5ff68d8a958d72080322e55ee4ed33751e607eed520",
+        "affiliateLink": "https://s.shopee.com.br/4B1eboOnfe"
+      }
     }
   },
   "slots": {
@@ -9717,7 +9738,8 @@
     "2026-11-22:15:30": "1507917624:22894764211",
     "2026-11-22:15:45": "1912049882:58266385053",
     "2026-11-22:15:55": "1649530709:58255461660",
-    "2026-11-22:16:10": "1550553757:23198951046"
+    "2026-11-22:16:10": "1550553757:23198951046",
+    "2026-11-22:16:30": "638380156:21599608599"
   },
-  "cursor": 3
+  "cursor": 4
 }

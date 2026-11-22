@@ -9388,9 +9388,9 @@
       "messageId": 608
     },
     "1550553757:58204705030": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:17:25",
-      "at": "2026-11-22T20:27:26.285Z",
+      "at": "2026-11-22T20:27:28.831Z",
       "fingerprint": [
         "colirio",
         "cineraria",
@@ -9413,7 +9413,8 @@
       "receipt": {
         "captionHash": "35699bc268feb8b4f244ef25ed77a4433cf7c2acbfb64051e395603a9fc5d340",
         "affiliateLink": "https://s.shopee.com.br/AAIvjjHwBy"
-      }
+      },
+      "messageId": 609
     }
   },
   "slots": {

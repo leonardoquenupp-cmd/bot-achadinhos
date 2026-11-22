@@ -8821,6 +8821,28 @@
         "affiliateLink": "https://s.shopee.com.br/4qHPZEf7lC"
       },
       "messageId": 585
+    },
+    "1229184591:22495207201": {
+      "status": "pending",
+      "slot": "2026-11-22:12:10",
+      "at": "2026-11-22T15:12:12.715Z",
+      "fingerprint": [
+        "chinelo",
+        "masculino",
+        "adulto",
+        "confortavel",
+        "atiderrapante",
+        "calce",
+        "facil",
+        "lancamento"
+      ],
+      "imageIdentity": "/file/br-11134207-820ld-mnu07vaq7toi71",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "7b626bfae3abf68da1d647ea6b9c441e248ea47fc7336ccaeca35eada89e3cd3",
+        "affiliateLink": "https://s.shopee.com.br/114gtkelZD"
+      }
     }
   },
   "slots": {
@@ -9234,7 +9256,8 @@
     "2026-11-22:11:15": "1925520561:26395644271",
     "2026-11-22:11:30": "391739739:23195818961",
     "2026-11-22:11:45": "778552006:25918706932",
-    "2026-11-22:11:55": "451914614:58253314221"
+    "2026-11-22:11:55": "451914614:58253314221",
+    "2026-11-22:12:10": "1229184591:22495207201"
   },
-  "cursor": 10
+  "cursor": 14
 }

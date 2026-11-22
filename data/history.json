@@ -8140,9 +8140,9 @@
       "messageId": 559
     },
     "390307022:20899252383": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:21:15",
-      "at": "2026-11-22T00:16:26.291Z",
+      "at": "2026-11-22T00:16:28.967Z",
       "fingerprint": [
         "lanterna",
         "led",
@@ -8164,7 +8164,8 @@
       "receipt": {
         "captionHash": "263b176eafc0b2d1867039b5f3ca7b85a94d0b29d0736c4f8d4241992931d098",
         "affiliateLink": "https://s.shopee.com.br/4fxuYYLBMY"
-      }
+      },
+      "messageId": 560
     }
   },
   "slots": {

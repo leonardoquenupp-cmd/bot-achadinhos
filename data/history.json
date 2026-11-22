@@ -8244,9 +8244,9 @@
       "messageId": 563
     },
     "969214632:19877223428": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:22:20",
-      "at": "2026-11-22T01:22:01.406Z",
+      "at": "2026-11-22T01:22:03.940Z",
       "fingerprint": [
         "acessorios",
         "carro",
@@ -8265,7 +8265,8 @@
       "receipt": {
         "captionHash": "89f9b91c14fa8b874b2ffff5c7b037a03628a3714bfe89e90f8c0a14f65bdc3f",
         "affiliateLink": "https://s.shopee.com.br/70LsrYQ22t"
-      }
+      },
+      "messageId": 564
     }
   },
   "slots": {

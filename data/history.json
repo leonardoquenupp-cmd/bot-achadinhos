@@ -8767,6 +8767,34 @@
         "affiliateLink": "https://s.shopee.com.br/3g5S9N97V9"
       },
       "messageId": 583
+    },
+    "778552006:25918706932": {
+      "status": "pending",
+      "slot": "2026-11-22:11:45",
+      "at": "2026-11-22T14:46:23.237Z",
+      "fingerprint": [
+        "lentes",
+        "contato",
+        "grau",
+        "prescricao",
+        "14mm",
+        "transparentes",
+        "2pcs",
+        "meses",
+        "usar",
+        "lente",
+        "ultra",
+        "fina",
+        "estojo",
+        "gratuito"
+      ],
+      "imageIdentity": "/file/cn-11134207-7r98o-lst9ogdaellp6c",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "15457d0162e8dea742fcfc436765025813f191560f2f7eada600dd53db2f7ef5",
+        "affiliateLink": "https://s.shopee.com.br/5fqTMJ9Ynt"
+      }
     }
   },
   "slots": {
@@ -9178,7 +9206,8 @@
     "2026-11-22:10:40": "1855335442:58220506165",
     "2026-11-22:11:00": "1771091495:58212573737",
     "2026-11-22:11:15": "1925520561:26395644271",
-    "2026-11-22:11:30": "391739739:23195818961"
+    "2026-11-22:11:30": "391739739:23195818961",
+    "2026-11-22:11:45": "778552006:25918706932"
   },
-  "cursor": 7
+  "cursor": 8
 }

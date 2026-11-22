@@ -8242,6 +8242,30 @@
         "affiliateLink": "https://s.shopee.com.br/8AXoEUxcZE"
       },
       "messageId": 563
+    },
+    "969214632:19877223428": {
+      "status": "pending",
+      "slot": "2026-11-21:22:20",
+      "at": "2026-11-22T01:22:01.406Z",
+      "fingerprint": [
+        "acessorios",
+        "carro",
+        "modificacao",
+        "logotipo",
+        "autocolantes",
+        "cartas",
+        "ingles",
+        "palavras",
+        "estereoscopico",
+        "diy"
+      ],
+      "imageIdentity": "/file/br-11134201-820lf-mqxdzh8jjuh3cc",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "89f9b91c14fa8b874b2ffff5c7b037a03628a3714bfe89e90f8c0a14f65bdc3f",
+        "affiliateLink": "https://s.shopee.com.br/70LsrYQ22t"
+      }
     }
   },
   "slots": {
@@ -8633,7 +8657,8 @@
     "2026-11-21:21:15": "390307022:20899252383",
     "2026-11-21:21:45": "1446748153:23998110265",
     "2026-11-21:22:00": "811034337:18599202928",
-    "2026-11-21:22:10": "1931654496:58268321308"
+    "2026-11-21:22:10": "1931654496:58268321308",
+    "2026-11-21:22:20": "969214632:19877223428"
   },
-  "cursor": 14
+  "cursor": 1
 }

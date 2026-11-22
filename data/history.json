@@ -8576,6 +8576,28 @@
         "affiliateLink": "https://s.shopee.com.br/7VIAcGPZgc"
       },
       "messageId": 576
+    },
+    "1921399168:58269277355": {
+      "status": "pending",
+      "slot": "2026-11-22:10:15",
+      "at": "2026-11-22T13:16:05.895Z",
+      "fingerprint": [
+        "aspirador",
+        "usb",
+        "portatil",
+        "completo",
+        "premium",
+        "carro",
+        "casa",
+        "2000mah"
+      ],
+      "imageIdentity": "/file/sg-11134201-82593-mtpkqnksszr7a1",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "d8043bb5a30a4d98e46f15434213531d6fd76de8b9094035b8cbda8e8057f299",
+        "affiliateLink": "https://s.shopee.com.br/5VX6ATdXRn"
+      }
     }
   },
   "slots": {
@@ -8980,7 +9002,8 @@
     "2026-11-22:09:15": "1235950339:58207133504",
     "2026-11-22:09:25": "1393541641:58267142471",
     "2026-11-22:09:45": "375201738:58254975674",
-    "2026-11-22:10:00": "1619184761:23498890450"
+    "2026-11-22:10:00": "1619184761:23498890450",
+    "2026-11-22:10:15": "1921399168:58269277355"
   },
-  "cursor": 9
+  "cursor": 10
 }

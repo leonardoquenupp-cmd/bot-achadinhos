@@ -9558,6 +9558,35 @@
         "affiliateLink": "https://s.shopee.com.br/7KykeM8JnB"
       },
       "messageId": 615
+    },
+    "612187100:42768969688": {
+      "status": "pending",
+      "slot": "2026-11-22:19:15",
+      "at": "2026-11-22T22:16:39.918Z",
+      "fingerprint": [
+        "roupas",
+        "ano",
+        "novo",
+        "animais",
+        "estimacao",
+        "gato",
+        "natal",
+        "caes",
+        "linda",
+        "camisa",
+        "sem",
+        "mangas",
+        "padrao",
+        "desenho",
+        "animado"
+      ],
+      "imageIdentity": "/file/sg-11134201-824i5-memvqfcztb0l68",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "64aed25aa389da4047a55263bc8490777c1a8067abeec20ffa2c4e632f319e7c",
+        "affiliateLink": "https://s.shopee.com.br/7VIAgMx1Fb"
+      }
     }
   },
   "slots": {
@@ -10001,7 +10030,8 @@
     "2026-11-22:18:15": "821481586:41979352674",
     "2026-11-22:18:30": "1036760565:58252212178",
     "2026-11-22:18:45": "1671173223:58215593539",
-    "2026-11-22:19:00": "976285267:23399043568"
+    "2026-11-22:19:00": "976285267:23399043568",
+    "2026-11-22:19:15": "612187100:42768969688"
   },
-  "cursor": 4
+  "cursor": 6
 }

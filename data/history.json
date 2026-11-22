@@ -8743,9 +8743,9 @@
       "messageId": 582
     },
     "391739739:23195818961": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:11:30",
-      "at": "2026-11-22T14:31:21.618Z",
+      "at": "2026-11-22T14:31:24.067Z",
       "fingerprint": [
         "carregador",
         "chaveiro",
@@ -8765,7 +8765,8 @@
       "receipt": {
         "captionHash": "da08cc724952297b751fc6fde768dd12465ef23c028a116e45482e058ed54712",
         "affiliateLink": "https://s.shopee.com.br/3g5S9N97V9"
-      }
+      },
+      "messageId": 583
     }
   },
   "slots": {

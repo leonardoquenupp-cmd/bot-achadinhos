@@ -8218,6 +8218,29 @@
         "affiliateLink": "https://s.shopee.com.br/5LDb7KkcJ9"
       },
       "messageId": 562
+    },
+    "1931654496:58268321308": {
+      "status": "pending",
+      "slot": "2026-11-21:22:10",
+      "at": "2026-11-22T01:12:19.714Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "nuvem",
+        "confortavel",
+        "macio",
+        "moda",
+        "verao",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259m-mt8f9w5njtoie1",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "d25a0a5f2f2c4763e669a9e9be8c73f84670376f8ebfeaa5b35ba138209ff364",
+        "affiliateLink": "https://s.shopee.com.br/8AXoEUxcZE"
+      }
     }
   },
   "slots": {
@@ -8608,7 +8631,8 @@
     "2026-11-21:20:55": "1790727424:22594959280",
     "2026-11-21:21:15": "390307022:20899252383",
     "2026-11-21:21:45": "1446748153:23998110265",
-    "2026-11-21:22:00": "811034337:18599202928"
+    "2026-11-21:22:00": "811034337:18599202928",
+    "2026-11-21:22:10": "1931654496:58268321308"
   },
-  "cursor": 10
+  "cursor": 14
 }

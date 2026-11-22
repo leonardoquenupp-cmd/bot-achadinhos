@@ -8421,6 +8421,36 @@
         "affiliateLink": "https://s.shopee.com.br/qlBwQ7kTa"
       },
       "messageId": 570
+    },
+    "1738590340:58158722329": {
+      "status": "pending",
+      "slot": "2026-11-22:08:50",
+      "at": "2026-11-22T11:52:11.914Z",
+      "fingerprint": [
+        "pcs",
+        "isca",
+        "pesca",
+        "wobbler",
+        "spinner",
+        "iscas",
+        "mini",
+        "colheres",
+        "artificial",
+        "baixo",
+        "duro",
+        "lantejoulas",
+        "metal",
+        "aco",
+        "gancho",
+        "enfrentar"
+      ],
+      "imageIdentity": "/file/sg-11134201-81zwv-mmzqsnyyiv4232",
+      "family": "pcs-isca",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "c38c285730a1d1689fc6e80352c6c1d7cddb92f2d8fc0b2d5cc2b4d47733e807",
+        "affiliateLink": "https://s.shopee.com.br/W8LYByuVn"
+      }
     }
   },
   "slots": {
@@ -8819,7 +8849,8 @@
     "2026-11-22:08:00": "838651758:46000817813",
     "2026-11-22:08:10": "1587626705:58219871754",
     "2026-11-22:08:30": "1191606375:23792858001",
-    "2026-11-22:08:45": "1457230584:58265470589"
+    "2026-11-22:08:45": "1457230584:58265470589",
+    "2026-11-22:08:50": "1738590340:58158722329"
   },
-  "cursor": 13
+  "cursor": 15
 }

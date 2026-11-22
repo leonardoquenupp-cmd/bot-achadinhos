@@ -9216,6 +9216,31 @@
         "affiliateLink": "https://s.shopee.com.br/9fMb5syqNR"
       },
       "messageId": 601
+    },
+    "1912049882:58266385053": {
+      "status": "pending",
+      "slot": "2026-11-22:15:45",
+      "at": "2026-11-22T18:46:34.938Z",
+      "fingerprint": [
+        "led",
+        "luminaria",
+        "unhas",
+        "clipe",
+        "haste",
+        "flexivel",
+        "secador",
+        "esmalte",
+        "gel",
+        "manicure",
+        "profissional"
+      ],
+      "imageIdentity": "/file/br-11134207-820l4-ms4603vjjo5i03",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "b4800618bd820f23774549b41a1c4c0959735af123cf801db0e80c309148077a",
+        "affiliateLink": "https://s.shopee.com.br/2BGeXvzEMK"
+      }
     }
   },
   "slots": {
@@ -9645,7 +9670,8 @@
     "2026-11-22:14:50": "775523919:22694210678",
     "2026-11-22:15:00": "451332066:23793414141",
     "2026-11-22:15:15": "1441157744:41557489268",
-    "2026-11-22:15:30": "1507917624:22894764211"
+    "2026-11-22:15:30": "1507917624:22894764211",
+    "2026-11-22:15:45": "1912049882:58266385053"
   },
-  "cursor": 10
+  "cursor": 12
 }

@@ -9336,9 +9336,9 @@
       "messageId": 606
     },
     "883941882:23795161847": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:17:00",
-      "at": "2026-11-22T20:01:45.104Z",
+      "at": "2026-11-22T20:01:46.810Z",
       "fingerprint": [
         "cabo",
         "multifuncional",
@@ -9359,7 +9359,8 @@
       "receipt": {
         "captionHash": "699aa038f0caece714278de2ebf1f2466346ad7c105a8a27e43d44d433e14ceb",
         "affiliateLink": "https://s.shopee.com.br/7VIB55h0hM"
-      }
+      },
+      "messageId": 607
     }
   },
   "slots": {

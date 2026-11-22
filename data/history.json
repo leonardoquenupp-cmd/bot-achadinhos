@@ -8896,6 +8896,26 @@
         "affiliateLink": "https://s.shopee.com.br/5fqS1s6Gk1"
       },
       "messageId": 588
+    },
+    "1515741369:23394300857": {
+      "status": "pending",
+      "slot": "2026-11-22:13:00",
+      "at": "2026-11-22T16:01:38.764Z",
+      "fingerprint": [
+        "bebedouro",
+        "bomba",
+        "eletrica",
+        "galao",
+        "agua",
+        "recarregavel"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mh9856gxy96sd5",
+      "family": "bebes",
+      "department": "bebes",
+      "receipt": {
+        "captionHash": "0c0306f07dc55a67bbe936cdb3250e32990ae4bbff01ea74a6c7ae1ad589ae2f",
+        "affiliateLink": "https://s.shopee.com.br/5LDg9Tu7Ml"
+      }
     }
   },
   "slots": {
@@ -9312,7 +9332,8 @@
     "2026-11-22:11:55": "451914614:58253314221",
     "2026-11-22:12:10": "1229184591:22495207201",
     "2026-11-22:12:30": "1441157744:25946709329",
-    "2026-11-22:12:45": "1662566477:57567630087"
+    "2026-11-22:12:45": "1662566477:57567630087",
+    "2026-11-22:13:00": "1515741369:23394300857"
   },
-  "cursor": 2
+  "cursor": 3
 }

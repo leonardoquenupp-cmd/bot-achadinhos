@@ -8710,6 +8710,36 @@
         "affiliateLink": "https://s.shopee.com.br/6Amn5vSuFx"
       },
       "messageId": 581
+    },
+    "1925520561:26395644271": {
+      "status": "pending",
+      "slot": "2026-11-22:11:15",
+      "at": "2026-11-22T14:16:16.050Z",
+      "fingerprint": [
+        "dupla",
+        "face",
+        "rasp",
+        "duro",
+        "arquivo",
+        "pele",
+        "morta",
+        "calos",
+        "removedor",
+        "cuidados",
+        "pes",
+        "pedicure",
+        "ferramentas",
+        "moagem",
+        "aco",
+        "inoxid"
+      ],
+      "imageIdentity": "/file/sg-11134201-825ad-mrzktpcfz7k6dd",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "97ba22583043d6f104aff1221cc9013d7d9014ccb5b09b9ea6333d1322182553",
+        "affiliateLink": "https://s.shopee.com.br/9V3CL7npZA"
+      }
     }
   },
   "slots": {
@@ -9119,7 +9149,8 @@
     "2026-11-22:10:20": "504210070:22092337248",
     "2026-11-22:10:30": "1547311235:58202579218",
     "2026-11-22:10:40": "1855335442:58220506165",
-    "2026-11-22:11:00": "1771091495:58212573737"
+    "2026-11-22:11:00": "1771091495:58212573737",
+    "2026-11-22:11:15": "1925520561:26395644271"
   },
-  "cursor": 4
+  "cursor": 6
 }

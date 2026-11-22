@@ -9720,9 +9720,9 @@
       "messageId": 621
     },
     "722849813:21797990606": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:20:45",
-      "at": "2026-11-22T23:46:25.601Z",
+      "at": "2026-11-22T23:46:28.595Z",
       "fingerprint": [
         "unid",
         "necessaire",
@@ -9740,7 +9740,8 @@
       "receipt": {
         "captionHash": "f7bc4ed50b52adc9e6c1540d9a48ad5950aaa5dec522aa033ccfe7595368662d",
         "affiliateLink": "https://s.shopee.com.br/2La24OhSln"
-      }
+      },
+      "messageId": 622
     }
   },
   "slots": {

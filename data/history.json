@@ -8919,9 +8919,9 @@
       "messageId": 589
     },
     "1259086167:43754234043": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:13:15",
-      "at": "2026-11-22T16:16:29.224Z",
+      "at": "2026-11-22T16:16:31.570Z",
       "fingerprint": [
         "medidor",
         "pressao",
@@ -8938,7 +8938,8 @@
       "receipt": {
         "captionHash": "d120b4cd447ae035afddf423e7ef7ed5c0227e7f4870d8913594b1758c34db35",
         "affiliateLink": "https://s.shopee.com.br/8VAi1Tubn5"
-      }
+      },
+      "messageId": 590
     }
   },
   "slots": {

@@ -9218,9 +9218,9 @@
       "messageId": 601
     },
     "1912049882:58266385053": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:15:45",
-      "at": "2026-11-22T18:46:34.938Z",
+      "at": "2026-11-22T18:46:37.477Z",
       "fingerprint": [
         "led",
         "luminaria",
@@ -9240,7 +9240,8 @@
       "receipt": {
         "captionHash": "b4800618bd820f23774549b41a1c4c0959735af123cf801db0e80c309148077a",
         "affiliateLink": "https://s.shopee.com.br/2BGeXvzEMK"
-      }
+      },
+      "messageId": 602
     }
   },
   "slots": {

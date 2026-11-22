@@ -9506,6 +9506,31 @@
         "affiliateLink": "https://s.shopee.com.br/3Vm1y6aHs5"
       },
       "messageId": 613
+    },
+    "1671173223:58215593539": {
+      "status": "pending",
+      "slot": "2026-11-22:18:45",
+      "at": "2026-11-22T21:46:21.542Z",
+      "fingerprint": [
+        "nao",
+        "enrola",
+        "shorts",
+        "cinta",
+        "modeladora",
+        "com4",
+        "barbatanas",
+        "zero",
+        "transparencia",
+        "alta",
+        "compressao"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259x-mrhs9upcej2c6e",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "a722314160d8c300fd9af05fa95530b815ecc60eaa8c0ba60466a98c16a616e0",
+        "affiliateLink": "https://s.shopee.com.br/AKcMZV1708"
+      }
     }
   },
   "slots": {
@@ -9947,7 +9972,8 @@
     "2026-11-22:17:45": "346868212:18797675878",
     "2026-11-22:18:00": "1010974641:23692240341",
     "2026-11-22:18:15": "821481586:41979352674",
-    "2026-11-22:18:30": "1036760565:58252212178"
+    "2026-11-22:18:30": "1036760565:58252212178",
+    "2026-11-22:18:45": "1671173223:58215593539"
   },
-  "cursor": 1
+  "cursor": 2
 }

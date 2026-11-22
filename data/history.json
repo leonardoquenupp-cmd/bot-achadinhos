@@ -8397,6 +8397,29 @@
         "affiliateLink": "https://s.shopee.com.br/2qWGCtVB6H"
       },
       "messageId": 569
+    },
+    "1457230584:58265470589": {
+      "status": "pending",
+      "slot": "2026-11-22:08:45",
+      "at": "2026-11-22T11:46:20.782Z",
+      "fingerprint": [
+        "cartao",
+        "memoria",
+        "microsd",
+        "classe",
+        "ultra",
+        "ate",
+        "1tb",
+        "monitoramento",
+        "adaptador"
+      ],
+      "imageIdentity": "/file/br-11134207-820l5-mrf9i4da6j2c0d",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "feda7c414dc26c80e0eca2d2438cc06f52fa38ef29e3696bc0021a11d6369ca6",
+        "affiliateLink": "https://s.shopee.com.br/qlBwQ7kTa"
+      }
     }
   },
   "slots": {
@@ -8794,7 +8817,8 @@
     "2026-11-21:22:45": "375602651:20699833741",
     "2026-11-22:08:00": "838651758:46000817813",
     "2026-11-22:08:10": "1587626705:58219871754",
-    "2026-11-22:08:30": "1191606375:23792858001"
+    "2026-11-22:08:30": "1191606375:23792858001",
+    "2026-11-22:08:45": "1457230584:58265470589"
   },
-  "cursor": 12
+  "cursor": 13
 }

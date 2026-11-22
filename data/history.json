@@ -8505,6 +8505,26 @@
         "affiliateLink": "https://s.shopee.com.br/70LpV9rME7"
       },
       "messageId": 573
+    },
+    "1393541641:58267142471": {
+      "status": "pending",
+      "slot": "2026-11-22:09:25",
+      "at": "2026-11-22T12:26:30.143Z",
+      "fingerprint": [
+        "sandalia",
+        "masculina",
+        "original",
+        "style",
+        "confortavel",
+        "antiderrapante"
+      ],
+      "imageIdentity": "/file/br-11134207-820l6-mt4g5eds5jwna2",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "34ea4ccf8033ce1a47c6328903783bf77536b206090e7d6315e21e7e55ac52f3",
+        "affiliateLink": "https://s.shopee.com.br/7VIAVQKzq5"
+      }
     }
   },
   "slots": {
@@ -8906,7 +8926,8 @@
     "2026-11-22:08:45": "1457230584:58265470589",
     "2026-11-22:08:50": "1738590340:58158722329",
     "2026-11-22:09:05": "1429781525:19499566910",
-    "2026-11-22:09:15": "1235950339:58207133504"
+    "2026-11-22:09:15": "1235950339:58207133504",
+    "2026-11-22:09:25": "1393541641:58267142471"
   },
-  "cursor": 2
+  "cursor": 6
 }

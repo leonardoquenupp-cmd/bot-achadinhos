@@ -8195,6 +8195,28 @@
         "affiliateLink": "https://s.shopee.com.br/5AuBS0dWcx"
       },
       "messageId": 561
+    },
+    "811034337:18599202928": {
+      "status": "pending",
+      "slot": "2026-11-21:22:00",
+      "at": "2026-11-22T01:01:40.639Z",
+      "fingerprint": [
+        "bebedouro",
+        "philco",
+        "10l",
+        "20l",
+        "natural",
+        "gelada",
+        "bivolt",
+        "pbe14"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259i-mudidfcbv8jo72",
+      "family": "bebes",
+      "department": "bebes",
+      "receipt": {
+        "captionHash": "1ffdb350ffd5a097407742168a59f1cc4ede7a37bb00a64c712b5ed9644d62e3",
+        "affiliateLink": "https://s.shopee.com.br/5LDb7KkcJ9"
+      }
     }
   },
   "slots": {
@@ -8584,7 +8606,8 @@
     "2026-11-21:20:40": "1381191494:23798375208",
     "2026-11-21:20:55": "1790727424:22594959280",
     "2026-11-21:21:15": "390307022:20899252383",
-    "2026-11-21:21:45": "1446748153:23998110265"
+    "2026-11-21:21:45": "1446748153:23998110265",
+    "2026-11-21:22:00": "811034337:18599202928"
   },
-  "cursor": 8
+  "cursor": 10
 }

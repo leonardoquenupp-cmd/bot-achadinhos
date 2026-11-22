@@ -9481,9 +9481,9 @@
       "messageId": 612
     },
     "1036760565:58252212178": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:18:30",
-      "at": "2026-11-22T21:31:22.140Z",
+      "at": "2026-11-22T21:31:24.423Z",
       "fingerprint": [
         "litro",
         "triturador",
@@ -9504,7 +9504,8 @@
       "receipt": {
         "captionHash": "9d2cd0f7a7eecb108285ad0f74727c8587431794a60638fb2c53e1b0ba6abe5d",
         "affiliateLink": "https://s.shopee.com.br/3Vm1y6aHs5"
-      }
+      },
+      "messageId": 613
     }
   },
   "slots": {

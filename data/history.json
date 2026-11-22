@@ -9415,6 +9415,24 @@
         "affiliateLink": "https://s.shopee.com.br/AAIvjjHwBy"
       },
       "messageId": 609
+    },
+    "346868212:18797675878": {
+      "status": "pending",
+      "slot": "2026-11-22:17:45",
+      "at": "2026-11-22T20:46:14.712Z",
+      "fingerprint": [
+        "tapete",
+        "higienico",
+        "caes",
+        "lavavel"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lul0t68yfamsdb",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "302bee339956e0f73e2ea22a4e632eaa4f01966494787c0d81fcc37c6abf5042",
+        "affiliateLink": "https://s.shopee.com.br/1gKO06leXf"
+      }
     }
   },
   "slots": {
@@ -9852,7 +9870,8 @@
     "2026-11-22:16:45": "1445968934:58260750328",
     "2026-11-22:17:00": "883941882:23795161847",
     "2026-11-22:17:10": "775523919:21698104778",
-    "2026-11-22:17:25": "1550553757:58204705030"
+    "2026-11-22:17:25": "1550553757:58204705030",
+    "2026-11-22:17:45": "346868212:18797675878"
   },
-  "cursor": 12
+  "cursor": 13
 }

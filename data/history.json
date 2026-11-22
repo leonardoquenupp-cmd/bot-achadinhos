@@ -9060,6 +9060,29 @@
         "affiliateLink": "https://s.shopee.com.br/30plXSw3fj"
       },
       "messageId": 595
+    },
+    "698978884:22794225996": {
+      "status": "pending",
+      "slot": "2026-11-22:14:25",
+      "at": "2026-11-22T17:26:55.393Z",
+      "fingerprint": [
+        "palavras",
+        "frases",
+        "nome",
+        "decorativo",
+        "acrilico",
+        "3mm",
+        "8cm",
+        "altura",
+        "personalizadas"
+      ],
+      "imageIdentity": "/file/br-11134207-820lp-mp8fg0ceg6py19",
+      "family": "palavras-frases",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "9459a4ccee3b222760e52252d9d4e67a05b4d84fc7912d1c65ecb78630ff308e",
+        "affiliateLink": "https://s.shopee.com.br/1W0uqEGd2t"
+      }
     }
   },
   "slots": {
@@ -9483,7 +9506,8 @@
     "2026-11-22:13:30": "883941882:20497723525",
     "2026-11-22:13:40": "545033859:58204629137",
     "2026-11-22:14:00": "204026219:58218310200",
-    "2026-11-22:14:15": "1603521991:58214709722"
+    "2026-11-22:14:15": "1603521991:58214709722",
+    "2026-11-22:14:25": "698978884:22794225996"
   },
-  "cursor": 0
+  "cursor": 1
 }

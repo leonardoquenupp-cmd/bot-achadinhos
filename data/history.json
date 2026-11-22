@@ -8769,9 +8769,9 @@
       "messageId": 583
     },
     "778552006:25918706932": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:11:45",
-      "at": "2026-11-22T14:46:23.237Z",
+      "at": "2026-11-22T14:46:25.411Z",
       "fingerprint": [
         "lentes",
         "contato",
@@ -8794,7 +8794,8 @@
       "receipt": {
         "captionHash": "15457d0162e8dea742fcfc436765025813f191560f2f7eada600dd53db2f7ef5",
         "affiliateLink": "https://s.shopee.com.br/5fqTMJ9Ynt"
-      }
+      },
+      "messageId": 584
     }
   },
   "slots": {

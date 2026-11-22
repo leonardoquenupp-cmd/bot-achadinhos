@@ -9135,6 +9135,29 @@
         "affiliateLink": "https://s.shopee.com.br/6q2U5DaBOK"
       },
       "messageId": 598
+    },
+    "451332066:23793414141": {
+      "status": "pending",
+      "slot": "2026-11-22:15:00",
+      "at": "2026-11-22T18:01:30.893Z",
+      "fingerprint": [
+        "coleira",
+        "peitoral",
+        "cachorro",
+        "pequenos",
+        "medios",
+        "guia",
+        "pet",
+        "colete",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m16zhf1ljn7yae",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "3bfe45707afe5d56e2f309b3a33c15ae1a3d8291c42c4424010e9bb84e81b835",
+        "affiliateLink": "https://s.shopee.com.br/2qWL7nEmi4"
+      }
     }
   },
   "slots": {
@@ -9561,7 +9584,8 @@
     "2026-11-22:14:15": "1603521991:58214709722",
     "2026-11-22:14:25": "698978884:22794225996",
     "2026-11-22:14:45": "1101259582:23898775410",
-    "2026-11-22:14:50": "775523919:22694210678"
+    "2026-11-22:14:50": "775523919:22694210678",
+    "2026-11-22:15:00": "451332066:23793414141"
   },
-  "cursor": 7
+  "cursor": 8
 }

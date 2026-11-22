@@ -8197,9 +8197,9 @@
       "messageId": 561
     },
     "811034337:18599202928": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-21:22:00",
-      "at": "2026-11-22T01:01:40.639Z",
+      "at": "2026-11-22T01:01:42.576Z",
       "fingerprint": [
         "bebedouro",
         "philco",
@@ -8216,7 +8216,8 @@
       "receipt": {
         "captionHash": "1ffdb350ffd5a097407742168a59f1cc4ede7a37bb00a64c712b5ed9644d62e3",
         "affiliateLink": "https://s.shopee.com.br/5LDb7KkcJ9"
-      }
+      },
+      "messageId": 562
     }
   },
   "slots": {

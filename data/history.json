@@ -9694,6 +9694,29 @@
         "affiliateLink": "https://s.shopee.com.br/9AQOYCveZp"
       },
       "messageId": 620
+    },
+    "386512962:23594203666": {
+      "status": "pending",
+      "slot": "2026-11-22:20:30",
+      "at": "2026-11-22T23:31:48.856Z",
+      "fingerprint": [
+        "brinquedo",
+        "inteligente",
+        "gatos",
+        "bola",
+        "automatica",
+        "cauda",
+        "falsa",
+        "recarregavel",
+        "eletrico"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdw8-mbsekebslq9ld8",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "84b7904486cc7c4a1765500da0d926c2672caf3a3788d4b10b06edd7c91eed77",
+        "affiliateLink": "https://s.shopee.com.br/3Vm2Hglnzc"
+      }
     }
   },
   "slots": {
@@ -10142,7 +10165,8 @@
     "2026-11-22:19:30": "293435711:18599728212",
     "2026-11-22:19:45": "418414346:23099248194",
     "2026-11-22:20:00": "1032290308:58219263055",
-    "2026-11-22:20:15": "883941882:21799205940"
+    "2026-11-22:20:15": "883941882:21799205940",
+    "2026-11-22:20:30": "386512962:23594203666"
   },
-  "cursor": 10
+  "cursor": 11
 }

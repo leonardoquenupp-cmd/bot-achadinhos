@@ -9648,9 +9648,9 @@
       "messageId": 618
     },
     "1032290308:58219263055": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:20:00",
-      "at": "2026-11-22T23:01:34.780Z",
+      "at": "2026-11-22T23:01:37.402Z",
       "fingerprint": [
         "whey",
         "protein",
@@ -9667,7 +9667,8 @@
       "receipt": {
         "captionHash": "e7f26acb47c945fb847c7b54f6c6e847b89f4ca25f9d75b74277cba055491397",
         "affiliateLink": "https://s.shopee.com.br/70Lqwl4U6H"
-      }
+      },
+      "messageId": 619
     }
   },
   "slots": {

@@ -8321,6 +8321,34 @@
         "affiliateLink": "https://s.shopee.com.br/2gCqSMHgpg"
       },
       "messageId": 566
+    },
+    "838651758:46000817813": {
+      "status": "pending",
+      "slot": "2026-11-22:08:00",
+      "at": "2026-11-22T11:01:32.072Z",
+      "fingerprint": [
+        "senbenbao",
+        "pro",
+        "tws",
+        "fones",
+        "ouvido",
+        "sem",
+        "fio",
+        "bluetooth",
+        "microfone",
+        "esportivos",
+        "estereo",
+        "intra",
+        "auriculares",
+        "jogos"
+      ],
+      "imageIdentity": "/file/sg-11134201-821gc-mgnkge4rc3kbb3",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "1274ee8316cd62d1f0287e9bc7634a1a5563c9e4b9ee87ecffcb9588013269c1",
+        "affiliateLink": "https://s.shopee.com.br/4LL3xZxUti"
+      }
     }
   },
   "slots": {
@@ -8715,7 +8743,8 @@
     "2026-11-21:22:10": "1931654496:58268321308",
     "2026-11-21:22:20": "969214632:19877223428",
     "2026-11-21:22:30": "319873298:43629261688",
-    "2026-11-21:22:45": "375602651:20699833741"
+    "2026-11-21:22:45": "375602651:20699833741",
+    "2026-11-22:08:00": "838651758:46000817813"
   },
-  "cursor": 4
+  "cursor": 6
 }

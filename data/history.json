@@ -8870,6 +8870,31 @@
         "affiliateLink": "https://s.shopee.com.br/5VX1kS2xon"
       },
       "messageId": 587
+    },
+    "1662566477:57567630087": {
+      "status": "pending",
+      "slot": "2026-11-22:12:45",
+      "at": "2026-11-22T15:46:37.326Z",
+      "fingerprint": [
+        "depilador",
+        "eletrico",
+        "feminino",
+        "barbeador",
+        "remocao",
+        "pelos",
+        "corpo",
+        "nariz",
+        "axilas",
+        "barba",
+        "reca"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mtn8a67aisqybd",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "1e2f8ebc9ec4a09fcec74d3503b0a36bd4ee270515459d1b371e144306df11a9",
+        "affiliateLink": "https://s.shopee.com.br/5fqS1s6Gk1"
+      }
     }
   },
   "slots": {
@@ -9285,7 +9310,8 @@
     "2026-11-22:11:45": "778552006:25918706932",
     "2026-11-22:11:55": "451914614:58253314221",
     "2026-11-22:12:10": "1229184591:22495207201",
-    "2026-11-22:12:30": "1441157744:25946709329"
+    "2026-11-22:12:30": "1441157744:25946709329",
+    "2026-11-22:12:45": "1662566477:57567630087"
   },
-  "cursor": 15
+  "cursor": 2
 }

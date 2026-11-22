@@ -9508,9 +9508,9 @@
       "messageId": 613
     },
     "1671173223:58215593539": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:18:45",
-      "at": "2026-11-22T21:46:21.542Z",
+      "at": "2026-11-22T21:46:23.678Z",
       "fingerprint": [
         "nao",
         "enrola",
@@ -9530,7 +9530,8 @@
       "receipt": {
         "captionHash": "a722314160d8c300fd9af05fa95530b815ecc60eaa8c0ba60466a98c16a616e0",
         "affiliateLink": "https://s.shopee.com.br/AKcMZV1708"
-      }
+      },
+      "messageId": 614
     }
   },
   "slots": {

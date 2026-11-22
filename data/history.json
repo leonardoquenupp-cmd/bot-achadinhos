@@ -9617,9 +9617,9 @@
       "messageId": 617
     },
     "418414346:23099248194": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:19:45",
-      "at": "2026-11-22T22:47:27.450Z",
+      "at": "2026-11-22T22:47:30.103Z",
       "fingerprint": [
         "pelicula",
         "ceramica",
@@ -9644,7 +9644,8 @@
       "receipt": {
         "captionHash": "a9a8ce6263f66c996d6047081488fa8145937106fd68ce98d93579122b12038e",
         "affiliateLink": "https://s.shopee.com.br/114hG0g9RV"
-      }
+      },
+      "messageId": 618
     }
   },
   "slots": {

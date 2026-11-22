@@ -9718,6 +9718,29 @@
         "affiliateLink": "https://s.shopee.com.br/3Vm2Hglnzc"
       },
       "messageId": 621
+    },
+    "722849813:21797990606": {
+      "status": "pending",
+      "slot": "2026-11-22:20:45",
+      "at": "2026-11-22T23:46:25.601Z",
+      "fingerprint": [
+        "unid",
+        "necessaire",
+        "box",
+        "personalizada",
+        "inicial",
+        "organizador",
+        "maquiagem",
+        "bolsinhas",
+        "necesser"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-md2h6cdl0boyeb",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "f7bc4ed50b52adc9e6c1540d9a48ad5950aaa5dec522aa033ccfe7595368662d",
+        "affiliateLink": "https://s.shopee.com.br/2La24OhSln"
+      }
     }
   },
   "slots": {
@@ -10167,7 +10190,8 @@
     "2026-11-22:19:45": "418414346:23099248194",
     "2026-11-22:20:00": "1032290308:58219263055",
     "2026-11-22:20:15": "883941882:21799205940",
-    "2026-11-22:20:30": "386512962:23594203666"
+    "2026-11-22:20:30": "386512962:23594203666",
+    "2026-11-22:20:45": "722849813:21797990606"
   },
-  "cursor": 11
+  "cursor": 12
 }

@@ -8526,6 +8526,31 @@
         "affiliateLink": "https://s.shopee.com.br/7VIAVQKzq5"
       },
       "messageId": 574
+    },
+    "375201738:58254975674": {
+      "status": "pending",
+      "slot": "2026-11-22:09:45",
+      "at": "2026-11-22T12:46:10.865Z",
+      "fingerprint": [
+        "lapis",
+        "sobrancelha",
+        "liquido",
+        "prova",
+        "agua",
+        "longa",
+        "duracao",
+        "definicao",
+        "natural",
+        "maquiagem",
+        "acessivel"
+      ],
+      "imageIdentity": "/file/sg-11134201-82620-mkjr5fqpg26e40",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "c28abfefdb8de4039a206d4166604d3b6dac9eb2926ec36053214a5682948862",
+        "affiliateLink": "https://s.shopee.com.br/4VeVjjJV9L"
+      }
     }
   },
   "slots": {
@@ -8928,7 +8953,8 @@
     "2026-11-22:08:50": "1738590340:58158722329",
     "2026-11-22:09:05": "1429781525:19499566910",
     "2026-11-22:09:15": "1235950339:58207133504",
-    "2026-11-22:09:25": "1393541641:58267142471"
+    "2026-11-22:09:25": "1393541641:58267142471",
+    "2026-11-22:09:45": "375201738:58254975674"
   },
-  "cursor": 6
+  "cursor": 7
 }

@@ -8480,9 +8480,9 @@
       "messageId": 572
     },
     "1235950339:58207133504": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:09:15",
-      "at": "2026-11-22T12:16:28.880Z",
+      "at": "2026-11-22T12:16:31.572Z",
       "fingerprint": [
         "caixa",
         "som",
@@ -8503,7 +8503,8 @@
       "receipt": {
         "captionHash": "dc60a2566a7ed1a659c25e6cb5b222382fa1c9c2e224da90f6af27347598759d",
         "affiliateLink": "https://s.shopee.com.br/70LpV9rME7"
-      }
+      },
+      "messageId": 573
     }
   },
   "slots": {

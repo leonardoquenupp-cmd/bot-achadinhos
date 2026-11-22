@@ -9262,6 +9262,28 @@
         "affiliateLink": "https://s.shopee.com.br/2gCvE343i8"
       },
       "messageId": 603
+    },
+    "1550553757:23198951046": {
+      "status": "pending",
+      "slot": "2026-11-22:16:10",
+      "at": "2026-11-22T19:12:14.119Z",
+      "fingerprint": [
+        "biodex",
+        "biofarm",
+        "comprimidos",
+        "caes",
+        "gatos",
+        "anti",
+        "inflamatorio",
+        "antialergico"
+      ],
+      "imageIdentity": "/file/br-11134207-820mh-mucsfo0n8um819",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "cc8cc643494b3d120518de8383e2e7c798f5a5de1017ce1423d44cf12fcdeed6",
+        "affiliateLink": "https://s.shopee.com.br/1qdoHILLYU"
+      }
     }
   },
   "slots": {
@@ -9693,7 +9715,8 @@
     "2026-11-22:15:15": "1441157744:41557489268",
     "2026-11-22:15:30": "1507917624:22894764211",
     "2026-11-22:15:45": "1912049882:58266385053",
-    "2026-11-22:15:55": "1649530709:58255461660"
+    "2026-11-22:15:55": "1649530709:58255461660",
+    "2026-11-22:16:10": "1550553757:23198951046"
   },
-  "cursor": 0
+  "cursor": 3
 }

@@ -8323,9 +8323,9 @@
       "messageId": 566
     },
     "838651758:46000817813": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:08:00",
-      "at": "2026-11-22T11:01:32.072Z",
+      "at": "2026-11-22T11:01:34.656Z",
       "fingerprint": [
         "senbenbao",
         "pro",
@@ -8348,7 +8348,8 @@
       "receipt": {
         "captionHash": "1274ee8316cd62d1f0287e9bc7634a1a5563c9e4b9ee87ecffcb9588013269c1",
         "affiliateLink": "https://s.shopee.com.br/4LL3xZxUti"
-      }
+      },
+      "messageId": 567
     }
   },
   "slots": {

@@ -8371,6 +8371,31 @@
         "affiliateLink": "https://s.shopee.com.br/3LSYx5qluo"
       },
       "messageId": 568
+    },
+    "1191606375:23792858001": {
+      "status": "pending",
+      "slot": "2026-11-22:08:30",
+      "at": "2026-11-22T11:31:17.332Z",
+      "fingerprint": [
+        "lapis",
+        "olhos",
+        "delineador",
+        "prova",
+        "agua",
+        "carbon",
+        "black",
+        "preto",
+        "ruby",
+        "rose",
+        "hb050"
+      ],
+      "imageIdentity": "/file/br-11134201-820lh-mqy99jft3u2s24",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "cce853daafc334980d9a40fd0004899cc7e6209c3d31a94012b92d149997bbf5",
+        "affiliateLink": "https://s.shopee.com.br/2qWGCtVB6H"
+      }
     }
   },
   "slots": {
@@ -8767,7 +8792,8 @@
     "2026-11-21:22:30": "319873298:43629261688",
     "2026-11-21:22:45": "375602651:20699833741",
     "2026-11-22:08:00": "838651758:46000817813",
-    "2026-11-22:08:10": "1587626705:58219871754"
+    "2026-11-22:08:10": "1587626705:58219871754",
+    "2026-11-22:08:30": "1191606375:23792858001"
   },
-  "cursor": 10
+  "cursor": 12
 }

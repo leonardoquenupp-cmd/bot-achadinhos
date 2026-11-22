@@ -8599,6 +8599,33 @@
         "affiliateLink": "https://s.shopee.com.br/5VX6ATdXRn"
       },
       "messageId": 577
+    },
+    "504210070:22092337248": {
+      "status": "pending",
+      "slot": "2026-11-22:10:20",
+      "at": "2026-11-22T13:22:18.112Z",
+      "fingerprint": [
+        "1pcs",
+        "5cm",
+        "pesca",
+        "atracoes",
+        "plasticas",
+        "macias",
+        "suaves",
+        "truta",
+        "robalo",
+        "minhocas",
+        "isca",
+        "agua",
+        "doce"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbkz-lla70dvi8g8kbb",
+      "family": "1pcs-5cm",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "b6b6a978ca4a76993182882c092202f54faa5912a3a844ac125531450985ad86",
+        "affiliateLink": "https://s.shopee.com.br/30pgnEZgXt"
+      }
     }
   },
   "slots": {
@@ -9004,7 +9031,8 @@
     "2026-11-22:09:25": "1393541641:58267142471",
     "2026-11-22:09:45": "375201738:58254975674",
     "2026-11-22:10:00": "1619184761:23498890450",
-    "2026-11-22:10:15": "1921399168:58269277355"
+    "2026-11-22:10:15": "1921399168:58269277355",
+    "2026-11-22:10:20": "504210070:22092337248"
   },
-  "cursor": 10
+  "cursor": 13
 }

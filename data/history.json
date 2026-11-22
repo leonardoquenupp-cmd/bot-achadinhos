@@ -9036,6 +9036,29 @@
         "affiliateLink": "https://s.shopee.com.br/60TIoEI21a"
       },
       "messageId": 594
+    },
+    "1603521991:58214709722": {
+      "status": "pending",
+      "slot": "2026-11-22:14:15",
+      "at": "2026-11-22T17:16:34.194Z",
+      "fingerprint": [
+        "suporte",
+        "cabo",
+        "clipe",
+        "universal",
+        "involucro",
+        "cord",
+        "organizador",
+        "cabos",
+        "armazenamento"
+      ],
+      "imageIdentity": "/file/br-11134207-820m7-mqxsuo18zll2f0",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "ab6bb848f6cd3fcdfd79573a01ce89a97de6891216492909e673c0bac965eb84",
+        "affiliateLink": "https://s.shopee.com.br/30plXSw3fj"
+      }
     }
   },
   "slots": {
@@ -9458,7 +9481,8 @@
     "2026-11-22:13:20": "1093062766:58218113340",
     "2026-11-22:13:30": "883941882:20497723525",
     "2026-11-22:13:40": "545033859:58204629137",
-    "2026-11-22:14:00": "204026219:58218310200"
+    "2026-11-22:14:00": "204026219:58218310200",
+    "2026-11-22:14:15": "1603521991:58214709722"
   },
-  "cursor": 15
+  "cursor": 0
 }

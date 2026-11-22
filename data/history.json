@@ -8898,9 +8898,9 @@
       "messageId": 588
     },
     "1515741369:23394300857": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:13:00",
-      "at": "2026-11-22T16:01:38.764Z",
+      "at": "2026-11-22T16:01:41.234Z",
       "fingerprint": [
         "bebedouro",
         "bomba",
@@ -8915,7 +8915,8 @@
       "receipt": {
         "captionHash": "0c0306f07dc55a67bbe936cdb3250e32990ae4bbff01ea74a6c7ae1ad589ae2f",
         "affiliateLink": "https://s.shopee.com.br/5LDg9Tu7Ml"
-      }
+      },
+      "messageId": 589
     }
   },
   "slots": {

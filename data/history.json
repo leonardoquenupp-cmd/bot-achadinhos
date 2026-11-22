@@ -8578,9 +8578,9 @@
       "messageId": 576
     },
     "1921399168:58269277355": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:10:15",
-      "at": "2026-11-22T13:16:05.895Z",
+      "at": "2026-11-22T13:16:08.562Z",
       "fingerprint": [
         "aspirador",
         "usb",
@@ -8597,7 +8597,8 @@
       "receipt": {
         "captionHash": "d8043bb5a30a4d98e46f15434213531d6fd76de8b9094035b8cbda8e8057f299",
         "affiliateLink": "https://s.shopee.com.br/5VX6ATdXRn"
-      }
+      },
+      "messageId": 577
     }
   },
   "slots": {

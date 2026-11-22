@@ -8963,6 +8963,31 @@
         "affiliateLink": "https://s.shopee.com.br/4VeZGakRPP"
       },
       "messageId": 591
+    },
+    "883941882:20497723525": {
+      "status": "pending",
+      "slot": "2026-11-22:13:30",
+      "at": "2026-11-22T16:31:16.135Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "earcuffs",
+        "conducao",
+        "ossos",
+        "sem",
+        "fio",
+        "bluetooth",
+        "auriculares",
+        "tws",
+        "earbuds"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lyz7v0ak0ev5a6",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "5a46aa43730b8a54fb5e52b33d9ad997884a4ab694128fe5ddf2b718d61820e8",
+        "affiliateLink": "https://s.shopee.com.br/70LuFk9aT5"
+      }
     }
   },
   "slots": {
@@ -9382,7 +9407,8 @@
     "2026-11-22:12:45": "1662566477:57567630087",
     "2026-11-22:13:00": "1515741369:23394300857",
     "2026-11-22:13:15": "1259086167:43754234043",
-    "2026-11-22:13:20": "1093062766:58218113340"
+    "2026-11-22:13:20": "1093062766:58218113340",
+    "2026-11-22:13:30": "883941882:20497723525"
   },
-  "cursor": 8
+  "cursor": 10
 }

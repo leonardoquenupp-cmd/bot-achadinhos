@@ -9696,9 +9696,9 @@
       "messageId": 620
     },
     "386512962:23594203666": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:20:30",
-      "at": "2026-11-22T23:31:48.856Z",
+      "at": "2026-11-22T23:31:50.758Z",
       "fingerprint": [
         "brinquedo",
         "inteligente",
@@ -9716,7 +9716,8 @@
       "receipt": {
         "captionHash": "84b7904486cc7c4a1765500da0d926c2672caf3a3788d4b10b06edd7c91eed77",
         "affiliateLink": "https://s.shopee.com.br/3Vm2Hglnzc"
-      }
+      },
+      "messageId": 621
     }
   },
   "slots": {

@@ -9434,6 +9434,26 @@
         "affiliateLink": "https://s.shopee.com.br/1gKO06leXf"
       },
       "messageId": 610
+    },
+    "1010974641:23692240341": {
+      "status": "pending",
+      "slot": "2026-11-22:18:00",
+      "at": "2026-11-22T21:01:34.885Z",
+      "fingerprint": [
+        "alicate",
+        "cuticula",
+        "mundial",
+        "522c",
+        "precisao",
+        "durabilidade"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbk0-lktyq6753ip22a",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "c824f3d5126a5a410c3cb334162f85de8bed594d88b3bf53afd5d306242f515a",
+        "affiliateLink": "https://s.shopee.com.br/1LhXcXIGUM"
+      }
     }
   },
   "slots": {
@@ -9872,7 +9892,8 @@
     "2026-11-22:17:00": "883941882:23795161847",
     "2026-11-22:17:10": "775523919:21698104778",
     "2026-11-22:17:25": "1550553757:58204705030",
-    "2026-11-22:17:45": "346868212:18797675878"
+    "2026-11-22:17:45": "346868212:18797675878",
+    "2026-11-22:18:00": "1010974641:23692240341"
   },
-  "cursor": 13
+  "cursor": 14
 }

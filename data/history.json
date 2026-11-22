@@ -8846,9 +8846,9 @@
       "messageId": 586
     },
     "1441157744:25946709329": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:12:30",
-      "at": "2026-11-22T15:32:43.720Z",
+      "at": "2026-11-22T15:32:45.463Z",
       "fingerprint": [
         "ultra",
         "hidratacao",
@@ -8868,7 +8868,8 @@
       "receipt": {
         "captionHash": "8ce1abe2bcd0ed270cb0da926020c30565cb7b080ccf0d6c7064c565092927ad",
         "affiliateLink": "https://s.shopee.com.br/5VX1kS2xon"
-      }
+      },
+      "messageId": 587
     }
   },
   "slots": {

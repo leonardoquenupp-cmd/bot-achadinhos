@@ -8798,9 +8798,9 @@
       "messageId": 584
     },
     "451914614:58253314221": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:11:55",
-      "at": "2026-11-22T14:56:51.754Z",
+      "at": "2026-11-22T14:56:53.673Z",
       "fingerprint": [
         "coberdrom",
         "pet",
@@ -8819,7 +8819,8 @@
       "receipt": {
         "captionHash": "c09a129509677bed2af1a2af3e3a7190b693fc7c1c8a47807be75090490d4034",
         "affiliateLink": "https://s.shopee.com.br/4qHPZEf7lC"
-      }
+      },
+      "messageId": 585
     }
   },
   "slots": {

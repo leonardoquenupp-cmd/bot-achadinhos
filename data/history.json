@@ -9159,6 +9159,32 @@
         "affiliateLink": "https://s.shopee.com.br/2qWL7nEmi4"
       },
       "messageId": 599
+    },
+    "1441157744:41557489268": {
+      "status": "pending",
+      "slot": "2026-11-22:15:15",
+      "at": "2026-11-22T18:16:16.632Z",
+      "fingerprint": [
+        "mega",
+        "hidratacao",
+        "ouro",
+        "marroquino",
+        "efeito",
+        "teia",
+        "antifrizz",
+        "oleos",
+        "milagrosos",
+        "fina",
+        "maria",
+        "professional"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259h-mvrwlketvcw589",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "54bc5887d79a1d61ca6c192956a28acdbc9973cfa57db9c7c47edb2fed858638",
+        "affiliateLink": "https://s.shopee.com.br/W8Qd0LRB3"
+      }
     }
   },
   "slots": {
@@ -9586,7 +9612,8 @@
     "2026-11-22:14:25": "698978884:22794225996",
     "2026-11-22:14:45": "1101259582:23898775410",
     "2026-11-22:14:50": "775523919:22694210678",
-    "2026-11-22:15:00": "451332066:23793414141"
+    "2026-11-22:15:00": "451332066:23793414141",
+    "2026-11-22:15:15": "1441157744:41557489268"
   },
-  "cursor": 8
+  "cursor": 9
 }

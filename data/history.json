@@ -9455,6 +9455,29 @@
         "affiliateLink": "https://s.shopee.com.br/1LhXcXIGUM"
       },
       "messageId": 611
+    },
+    "821481586:41979352674": {
+      "status": "pending",
+      "slot": "2026-11-22:18:15",
+      "at": "2026-11-22T21:17:50.788Z",
+      "fingerprint": [
+        "palmilha",
+        "ortopedica",
+        "gel",
+        "dor",
+        "esporao",
+        "fascite",
+        "confortavel",
+        "dia",
+        "todo"
+      ],
+      "imageIdentity": "/file/br-11134207-820mb-mvcbsf2pid4y48",
+      "family": "palmilha-ortopedica",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "429179299ce01d2a46cbab5301b808a4da978198ac7abf75175c9744150f02bf",
+        "affiliateLink": "https://s.shopee.com.br/3g5SPuv2oj"
+      }
     }
   },
   "slots": {
@@ -9894,7 +9917,8 @@
     "2026-11-22:17:10": "775523919:21698104778",
     "2026-11-22:17:25": "1550553757:58204705030",
     "2026-11-22:17:45": "346868212:18797675878",
-    "2026-11-22:18:00": "1010974641:23692240341"
+    "2026-11-22:18:00": "1010974641:23692240341",
+    "2026-11-22:18:15": "821481586:41979352674"
   },
-  "cursor": 14
+  "cursor": 0
 }

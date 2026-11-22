@@ -9161,9 +9161,9 @@
       "messageId": 599
     },
     "1441157744:41557489268": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:15:15",
-      "at": "2026-11-22T18:16:16.632Z",
+      "at": "2026-11-22T18:16:19.224Z",
       "fingerprint": [
         "mega",
         "hidratacao",
@@ -9184,7 +9184,8 @@
       "receipt": {
         "captionHash": "54bc5887d79a1d61ca6c192956a28acdbc9973cfa57db9c7c47edb2fed858638",
         "affiliateLink": "https://s.shopee.com.br/W8Qd0LRB3"
-      }
+      },
+      "messageId": 600
     }
   },
   "slots": {

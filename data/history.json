@@ -8166,6 +8166,34 @@
         "affiliateLink": "https://s.shopee.com.br/4fxuYYLBMY"
       },
       "messageId": 560
+    },
+    "1446748153:23998110265": {
+      "status": "pending",
+      "slot": "2026-11-21:21:45",
+      "at": "2026-11-22T00:46:29.658Z",
+      "fingerprint": [
+        "par",
+        "espelho",
+        "retrovisor",
+        "carro",
+        "moto",
+        "convexo",
+        "fixo",
+        "movel",
+        "auxiliar",
+        "externo",
+        "pontos",
+        "cegos",
+        "5cm",
+        "universal"
+      ],
+      "imageIdentity": "/file/sg-11134201-7ra3x-m4urcba52h5a70",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "fda3543b5fbbd66a4a049cbf09e4516f010437bde8424778b037d44e6ed8b0b0",
+        "affiliateLink": "https://s.shopee.com.br/5AuBS0dWcx"
+      }
     }
   },
   "slots": {
@@ -8554,7 +8582,8 @@
     "2026-11-21:20:30": "407523450:23598387814",
     "2026-11-21:20:40": "1381191494:23798375208",
     "2026-11-21:20:55": "1790727424:22594959280",
-    "2026-11-21:21:15": "390307022:20899252383"
+    "2026-11-21:21:15": "390307022:20899252383",
+    "2026-11-21:21:45": "1446748153:23998110265"
   },
-  "cursor": 6
+  "cursor": 8
 }

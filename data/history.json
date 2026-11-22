@@ -9436,9 +9436,9 @@
       "messageId": 610
     },
     "1010974641:23692240341": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:18:00",
-      "at": "2026-11-22T21:01:34.885Z",
+      "at": "2026-11-22T21:01:37.284Z",
       "fingerprint": [
         "alicate",
         "cuticula",
@@ -9453,7 +9453,8 @@
       "receipt": {
         "captionHash": "c824f3d5126a5a410c3cb334162f85de8bed594d88b3bf53afd5d306242f515a",
         "affiliateLink": "https://s.shopee.com.br/1LhXcXIGUM"
-      }
+      },
+      "messageId": 611
     }
   },
   "slots": {

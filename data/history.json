@@ -9863,6 +9863,34 @@
         "affiliateLink": "https://s.shopee.com.br/5LDgoO86p3"
       },
       "messageId": 627
+    },
+    "1467811745:58208944738": {
+      "status": "pending",
+      "slot": "2026-11-22:22:00",
+      "at": "2026-11-23T01:01:31.837Z",
+      "fingerprint": [
+        "sapatilha",
+        "nautica",
+        "sola",
+        "anti",
+        "derrapante",
+        "meia",
+        "neoprene",
+        "tenis",
+        "hibrido",
+        "praia",
+        "canoagem",
+        "pesca",
+        "rio",
+        "jet"
+      ],
+      "imageIdentity": "/file/br-11134207-820m5-mtz77x28chkzfc",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "1fa2bda45d1a19e54be8ba94c84048dcedc429d71131014c45560803de1d512c",
+        "affiliateLink": "https://s.shopee.com.br/70LuBjrNyl"
+      }
     }
   },
   "slots": {
@@ -10318,7 +10346,8 @@
     "2026-11-22:21:15": "372103398:18899305822",
     "2026-11-22:21:20": "504210070:23384819739",
     "2026-11-22:21:30": "974102638:58202319126",
-    "2026-11-22:21:40": "1381191494:23298453629"
+    "2026-11-22:21:40": "1381191494:23298453629",
+    "2026-11-22:22:00": "1467811745:58208944738"
   },
-  "cursor": 8
+  "cursor": 9
 }

@@ -10226,9 +10226,9 @@
       "messageId": 641
     },
     "1045085918:20997654582": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:10:30",
-      "at": "2026-11-23T13:31:26.648Z",
+      "at": "2026-11-23T13:31:29.451Z",
       "fingerprint": [
         "hidratante",
         "labial",
@@ -10250,7 +10250,8 @@
       "receipt": {
         "captionHash": "5d1dd816889696e86c4c163b173921b4690f91cfaf8142e62661d1cabbc599f7",
         "affiliateLink": "https://s.shopee.com.br/4B1ie9xrI7"
-      }
+      },
+      "messageId": 642
     }
   },
   "slots": {

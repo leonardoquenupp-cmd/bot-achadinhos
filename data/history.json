@@ -11223,6 +11223,26 @@
         "affiliateLink": "https://s.shopee.com.br/8fU7xINxIV"
       },
       "messageId": 680
+    },
+    "290073877:18397642746": {
+      "status": "pending",
+      "slot": "2026-11-23:20:00",
+      "at": "2026-11-23T23:01:20.780Z",
+      "fingerprint": [
+        "ivercanis",
+        "3mg",
+        "caes",
+        "15kg",
+        "blister",
+        "comprimidos"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mbd568xg86fjce",
+      "family": "ivercanis-3mg",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "4cd0855e4415b50f14e9082f5364fa1267510eef7646f7e1438a36ba38c275c5",
+        "affiliateLink": "https://s.shopee.com.br/1CBDG2plU"
+      }
     }
   },
   "slots": {
@@ -11731,7 +11751,8 @@
     "2026-11-23:19:00": "469998490:20597603526",
     "2026-11-23:19:15": "1502069336:58267301442",
     "2026-11-23:19:30": "1802326087:58266496440",
-    "2026-11-23:19:45": "1397809275:58204807527"
+    "2026-11-23:19:45": "1397809275:58204807527",
+    "2026-11-23:20:00": "290073877:18397642746"
   },
-  "cursor": 3
+  "cursor": 5
 }

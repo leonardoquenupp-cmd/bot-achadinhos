@@ -9941,9 +9941,9 @@
       "messageId": 630
     },
     "1433163764:23393902918": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:22:45",
-      "at": "2026-11-23T01:46:41.305Z",
+      "at": "2026-11-23T01:46:43.872Z",
       "fingerprint": [
         "fetal",
         "doppler",
@@ -9963,7 +9963,8 @@
       "receipt": {
         "captionHash": "6ebb5acaadabf64d62bd5bdedfb52649e9e1ad5aba6b64d4f1ddda308a8494a0",
         "affiliateLink": "https://s.shopee.com.br/8VAejVym3g"
-      }
+      },
+      "messageId": 631
     }
   },
   "slots": {

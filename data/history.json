@@ -10486,6 +10486,32 @@
         "affiliateLink": "https://s.shopee.com.br/3qOsCPgM60"
       },
       "messageId": 651
+    },
+    "710045240:47619302176": {
+      "status": "pending",
+      "slot": "2026-11-23:13:00",
+      "at": "2026-11-23T16:01:29.580Z",
+      "fingerprint": [
+        "tapete",
+        "pet",
+        "xixi",
+        "caes",
+        "filhotes",
+        "60x60",
+        "absorcao",
+        "gel",
+        "treino",
+        "sanitario",
+        "100",
+        "unidades"
+      ],
+      "imageIdentity": "/file/br-11134207-820ll-mvm174c861a85f",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "cffb5582e0b7eb1de91383a279fe44ec422e68c6b60e2c4f4d810a2e26d627ab",
+        "affiliateLink": "https://s.shopee.com.br/2qWMaSs30n"
+      }
     }
   },
   "slots": {
@@ -10965,7 +10991,8 @@
     "2026-11-23:12:00": "1385382926:23398006332",
     "2026-11-23:12:15": "207474891:45604311031",
     "2026-11-23:12:30": "1398532513:48068310634",
-    "2026-11-23:12:45": "287296555:23300932279"
+    "2026-11-23:12:45": "287296555:23300932279",
+    "2026-11-23:13:00": "710045240:47619302176"
   },
-  "cursor": 10
+  "cursor": 11
 }

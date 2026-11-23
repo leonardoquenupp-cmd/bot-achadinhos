@@ -11150,6 +11150,29 @@
         "affiliateLink": "https://s.shopee.com.br/6q2VvrKklv"
       },
       "messageId": 677
+    },
+    "1502069336:58267301442": {
+      "status": "pending",
+      "slot": "2026-11-23:19:15",
+      "at": "2026-11-23T22:16:30.591Z",
+      "fingerprint": [
+        "mini",
+        "ferro",
+        "passar",
+        "roupa",
+        "cabe",
+        "mala",
+        "bolsa",
+        "viagem",
+        "bivolt"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258t-msk9f4e14tmqd9",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "9dcfb9dbc7d89a09433b9cf7e79fbf970de98df8a2ec809105e3a218a163a042",
+        "affiliateLink": "https://s.shopee.com.br/1W0xP7slZf"
+      }
     }
   },
   "slots": {
@@ -11655,7 +11678,8 @@
     "2026-11-23:18:15": "1415640710:58252263348",
     "2026-11-23:18:30": "1618104873:22594653765",
     "2026-11-23:18:45": "1293439067:23699004642",
-    "2026-11-23:19:00": "469998490:20597603526"
+    "2026-11-23:19:00": "469998490:20597603526",
+    "2026-11-23:19:15": "1502069336:58267301442"
   },
-  "cursor": 15
+  "cursor": 0
 }

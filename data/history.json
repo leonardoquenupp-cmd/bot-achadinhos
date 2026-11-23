@@ -10918,9 +10918,9 @@
       "messageId": 668
     },
     "332038931:23221213430": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:16:55",
-      "at": "2026-11-23T19:56:55.948Z",
+      "at": "2026-11-23T19:56:58.259Z",
       "fingerprint": [
         "cumbuca",
         "tintura",
@@ -10933,7 +10933,8 @@
       "receipt": {
         "captionHash": "759966378465bafa8dff4236a6066430dbdfba2326e168b7ade98f01c041bbf2",
         "affiliateLink": "https://s.shopee.com.br/1BO72CmKzO"
-      }
+      },
+      "messageId": 669
     }
   },
   "slots": {

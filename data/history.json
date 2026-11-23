@@ -10121,6 +10121,29 @@
         "affiliateLink": "https://s.shopee.com.br/3LSdCPQI99"
       },
       "messageId": 637
+    },
+    "1459511958:22199198026": {
+      "status": "pending",
+      "slot": "2026-11-23:09:30",
+      "at": "2026-11-23T12:31:41.252Z",
+      "fingerprint": [
+        "grampos",
+        "presilhas",
+        "automotivas",
+        "100",
+        "pecas",
+        "estojo",
+        "organizador",
+        "universal",
+        "reforcado"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mgz8isbs2yo794",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "743f2bdc45ead29f604c074cf402e0839254d3b3f797e24b73df480662749327",
+        "affiliateLink": "https://s.shopee.com.br/AUvjBZaA8T"
+      }
     }
   },
   "slots": {
@@ -10586,7 +10609,8 @@
     "2026-11-23:08:30": "439461570:58267004569",
     "2026-11-23:08:45": "717396632:20997608223",
     "2026-11-23:09:00": "1738162237:58257149767",
-    "2026-11-23:09:15": "1890365208:58265207293"
+    "2026-11-23:09:15": "1890365208:58265207293",
+    "2026-11-23:09:30": "1459511958:22199198026"
   },
-  "cursor": 5
+  "cursor": 7
 }

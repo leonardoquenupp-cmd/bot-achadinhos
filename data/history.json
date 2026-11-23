@@ -10738,6 +10738,31 @@
         "affiliateLink": "https://s.shopee.com.br/3B9DOnFzGX"
       },
       "messageId": 661
+    },
+    "790605924:46315852771": {
+      "status": "pending",
+      "slot": "2026-11-23:15:25",
+      "at": "2026-11-23T18:27:01.284Z",
+      "fingerprint": [
+        "bowls",
+        "preto",
+        "1000ml",
+        "tampa",
+        "potes",
+        "kaziva",
+        "reforcados",
+        "cozinha",
+        "alimentos",
+        "marmitas",
+        "congelador"
+      ],
+      "imageIdentity": "/file/sg-11134201-825aq-mrrlj030bp5336",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "98552ab700890f74a1a7e4334750456a24546e26640ef39e6837614bfb241601",
+        "affiliateLink": "https://s.shopee.com.br/2qWN0wtbYg"
+      }
     }
   },
   "slots": {
@@ -11227,7 +11252,8 @@
     "2026-11-23:14:30": "1588652179:22998840922",
     "2026-11-23:14:45": "1528421129:18799858576",
     "2026-11-23:15:00": "883941882:21497804431",
-    "2026-11-23:15:15": "1242044379:22392993399"
+    "2026-11-23:15:15": "1242044379:22392993399",
+    "2026-11-23:15:25": "790605924:46315852771"
   },
-  "cursor": 8
+  "cursor": 12
 }

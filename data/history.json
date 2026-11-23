@@ -10353,6 +10353,30 @@
         "affiliateLink": "https://s.shopee.com.br/5LDeMEYi7z"
       },
       "messageId": 646
+    },
+    "1103918873:22295189209": {
+      "status": "pending",
+      "slot": "2026-11-23:11:45",
+      "at": "2026-11-23T14:46:39.302Z",
+      "fingerprint": [
+        "short",
+        "fitness",
+        "canelado",
+        "feminino",
+        "sem",
+        "costura",
+        "zero",
+        "trasnparencia",
+        "academia",
+        "premium"
+      ],
+      "imageIdentity": "/file/br-11134207-820m0-mrtiq43gmuit3e",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "c6d34e3afda3c3ae946f6b5234ba097c912371ce187f156b9990deb2e0833dd5",
+        "affiliateLink": "https://s.shopee.com.br/9V3FAKhrtw"
+      }
     }
   },
   "slots": {
@@ -10827,7 +10851,8 @@
     "2026-11-23:10:40": "386938697:8716065733",
     "2026-11-23:11:00": "998773037:58210207545",
     "2026-11-23:11:15": "831272734:57252461095",
-    "2026-11-23:11:30": "1454188932:22993711209"
+    "2026-11-23:11:30": "1454188932:22993711209",
+    "2026-11-23:11:45": "1103918873:22295189209"
   },
-  "cursor": 4
+  "cursor": 5
 }

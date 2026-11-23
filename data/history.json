@@ -10378,6 +10378,31 @@
         "affiliateLink": "https://s.shopee.com.br/9V3FAKhrtw"
       },
       "messageId": 647
+    },
+    "1385382926:23398006332": {
+      "status": "pending",
+      "slot": "2026-11-23:12:00",
+      "at": "2026-11-23T15:01:24.147Z",
+      "fingerprint": [
+        "new",
+        "novo",
+        "tenis",
+        "incrivel",
+        "modelo",
+        "reveillon",
+        "todo",
+        "branco",
+        "lindo",
+        "direto",
+        "fabrica"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m243asxzex8xf3",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "ec27be1a52bfeae62f26357f0dac0963b6817c8fd922b76522eab27a08a308fe",
+        "affiliateLink": "https://s.shopee.com.br/4VeZPPx4zP"
+      }
     }
   },
   "slots": {
@@ -10853,7 +10878,8 @@
     "2026-11-23:11:00": "998773037:58210207545",
     "2026-11-23:11:15": "831272734:57252461095",
     "2026-11-23:11:30": "1454188932:22993711209",
-    "2026-11-23:11:45": "1103918873:22295189209"
+    "2026-11-23:11:45": "1103918873:22295189209",
+    "2026-11-23:12:00": "1385382926:23398006332"
   },
-  "cursor": 5
+  "cursor": 6
 }

@@ -10199,9 +10199,9 @@
       "messageId": 640
     },
     "1569849623:22799013294": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:10:15",
-      "at": "2026-11-23T13:16:48.305Z",
+      "at": "2026-11-23T13:16:50.992Z",
       "fingerprint": [
         "leds",
         "solar",
@@ -10222,7 +10222,8 @@
       "receipt": {
         "captionHash": "35decc2a8743d173557c3acd44775f1dd52c0ce12738c268ee7f76eecb3c4db7",
         "affiliateLink": "https://s.shopee.com.br/1LhVasnwEZ"
-      }
+      },
+      "messageId": 641
     }
   },
   "slots": {

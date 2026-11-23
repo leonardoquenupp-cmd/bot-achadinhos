@@ -10687,6 +10687,28 @@
         "affiliateLink": "https://s.shopee.com.br/qlH2hJMh0"
       },
       "messageId": 659
+    },
+    "883941882:21497804431": {
+      "status": "pending",
+      "slot": "2026-11-23:15:00",
+      "at": "2026-11-23T18:01:30.289Z",
+      "fingerprint": [
+        "carregador",
+        "turbo",
+        "50w",
+        "rapido",
+        "super",
+        "acompanha",
+        "cabo",
+        "usb"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lzox24bojuwxc5",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "01f452eb8ba3c528a7bae7a49358d85d2a5a0808f2d42835b81f3d6470f6d0e8",
+        "affiliateLink": "https://s.shopee.com.br/5LDhxk7GHy"
+      }
     }
   },
   "slots": {
@@ -11174,7 +11196,8 @@
     "2026-11-23:14:00": "849204018:52854153396",
     "2026-11-23:14:15": "846887038:49917838751",
     "2026-11-23:14:30": "1588652179:22998840922",
-    "2026-11-23:14:45": "1528421129:18799858576"
+    "2026-11-23:14:45": "1528421129:18799858576",
+    "2026-11-23:15:00": "883941882:21497804431"
   },
-  "cursor": 6
+  "cursor": 7
 }

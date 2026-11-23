@@ -10565,9 +10565,9 @@
       "messageId": 654
     },
     "574679875:58268269653": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:13:45",
-      "at": "2026-11-23T16:46:31.407Z",
+      "at": "2026-11-23T16:46:34.068Z",
       "fingerprint": [
         "secador",
         "roupas",
@@ -10585,7 +10585,8 @@
       "receipt": {
         "captionHash": "cf2ecdf8cd2626d014c18bef6c1bc843e4bbf2ead6bf4b376d21e841f75ce94a",
         "affiliateLink": "https://s.shopee.com.br/9pg5PXeaJU"
-      }
+      },
+      "messageId": 655
     }
   },
   "slots": {

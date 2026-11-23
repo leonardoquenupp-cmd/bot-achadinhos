@@ -10513,6 +10513,32 @@
         "affiliateLink": "https://s.shopee.com.br/2qWMaSs30n"
       },
       "messageId": 652
+    },
+    "1818552967:58217471964": {
+      "status": "pending",
+      "slot": "2026-11-23:13:10",
+      "at": "2026-11-23T16:12:14.225Z",
+      "fingerprint": [
+        "sandalia",
+        "masculina",
+        "eva",
+        "tira",
+        "ajustavel",
+        "antiderrapante",
+        "leve",
+        "macia",
+        "confortavel",
+        "trabalho",
+        "dia",
+        "praia"
+      ],
+      "imageIdentity": "/file/br-11134207-820lo-msnuroyhd1xibb",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "4eec9c7a1493555f973caa4a9f21318dc8434458476ffdb90467119458919d60",
+        "affiliateLink": "https://s.shopee.com.br/7fbbAv1yHs"
+      }
     }
   },
   "slots": {
@@ -10993,7 +11019,8 @@
     "2026-11-23:12:15": "207474891:45604311031",
     "2026-11-23:12:30": "1398532513:48068310634",
     "2026-11-23:12:45": "287296555:23300932279",
-    "2026-11-23:13:00": "710045240:47619302176"
+    "2026-11-23:13:00": "710045240:47619302176",
+    "2026-11-23:13:10": "1818552967:58217471964"
   },
-  "cursor": 11
+  "cursor": 15
 }

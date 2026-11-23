@@ -10789,9 +10789,9 @@
       "messageId": 663
     },
     "1197125737:23398115760": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:15:45",
-      "at": "2026-11-23T18:46:15.522Z",
+      "at": "2026-11-23T18:46:17.867Z",
       "fingerprint": [
         "bomba",
         "submersa",
@@ -10810,7 +10810,8 @@
       "receipt": {
         "captionHash": "04cba886d5f0072ab48d2a860016faa047c89259890d543f771b79d67d4b1c20",
         "affiliateLink": "https://s.shopee.com.br/2BGesZWXsw"
-      }
+      },
+      "messageId": 664
     }
   },
   "slots": {

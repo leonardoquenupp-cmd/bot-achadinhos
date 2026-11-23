@@ -10279,9 +10279,9 @@
       "messageId": 643
     },
     "998773037:58210207545": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:11:00",
-      "at": "2026-11-23T14:01:25.101Z",
+      "at": "2026-11-23T14:01:27.315Z",
       "fingerprint": [
         "tomada",
         "parede",
@@ -10301,7 +10301,8 @@
       "receipt": {
         "captionHash": "6c3fe6a8db9b549fce2958f4f538aa1cae625a85ac0b3f213a86e5f710d1a877",
         "affiliateLink": "https://s.shopee.com.br/40iISp0n9u"
-      }
+      },
+      "messageId": 644
     }
   },
   "slots": {

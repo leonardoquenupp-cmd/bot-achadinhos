@@ -10277,6 +10277,31 @@
         "affiliateLink": "https://s.shopee.com.br/5AuGSoOwgY"
       },
       "messageId": 643
+    },
+    "998773037:58210207545": {
+      "status": "pending",
+      "slot": "2026-11-23:11:00",
+      "at": "2026-11-23T14:01:25.101Z",
+      "fingerprint": [
+        "tomada",
+        "parede",
+        "dupla",
+        "usb",
+        "carregador",
+        "rapido",
+        "bivolt",
+        "110v",
+        "220v",
+        "10a",
+        "branco"
+      ],
+      "imageIdentity": "/file/br-11134207-820lx-mnx0ab6re1vl57",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "6c3fe6a8db9b549fce2958f4f538aa1cae625a85ac0b3f213a86e5f710d1a877",
+        "affiliateLink": "https://s.shopee.com.br/40iISp0n9u"
+      }
     }
   },
   "slots": {
@@ -10748,7 +10773,8 @@
     "2026-11-23:10:00": "1553752047:23594857544",
     "2026-11-23:10:15": "1569849623:22799013294",
     "2026-11-23:10:30": "1045085918:20997654582",
-    "2026-11-23:10:40": "386938697:8716065733"
+    "2026-11-23:10:40": "386938697:8716065733",
+    "2026-11-23:11:00": "998773037:58210207545"
   },
-  "cursor": 1
+  "cursor": 2
 }

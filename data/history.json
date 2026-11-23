@@ -10868,6 +10868,28 @@
         "affiliateLink": "https://s.shopee.com.br/9zzVxXkT5v"
       },
       "messageId": 666
+    },
+    "331720585:27881066513": {
+      "status": "pending",
+      "slot": "2026-11-23:16:30",
+      "at": "2026-11-23T19:31:33.044Z",
+      "fingerprint": [
+        "suporte",
+        "articulado",
+        "monitor",
+        "ate",
+        "polegadas",
+        "led",
+        "lcd",
+        "plasma"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfyfxtickw7be2",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "ec5785d3f770293c6623129aa41b2bf52810ddfed81f95b700506e37d29c398b",
+        "affiliateLink": "https://s.shopee.com.br/4qHPYYVDAD"
+      }
     }
   },
   "slots": {
@@ -11362,7 +11384,8 @@
     "2026-11-23:15:35": "340407910:23828302748",
     "2026-11-23:15:45": "1197125737:23398115760",
     "2026-11-23:16:00": "777798362:43461643565",
-    "2026-11-23:16:15": "482637109:58215611300"
+    "2026-11-23:16:15": "482637109:58215611300",
+    "2026-11-23:16:30": "331720585:27881066513"
   },
-  "cursor": 2
+  "cursor": 3
 }

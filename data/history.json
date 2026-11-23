@@ -10147,9 +10147,9 @@
       "messageId": 638
     },
     "1362240140:58253145740": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:09:45",
-      "at": "2026-11-23T12:46:26.024Z",
+      "at": "2026-11-23T12:46:28.772Z",
       "fingerprint": [
         "picador",
         "alimentos",
@@ -10170,7 +10170,8 @@
       "receipt": {
         "captionHash": "cfbea2c46294c0e36d408907887d485240f09d22cc9ad8a6f084f75f2c8b9fea",
         "affiliateLink": "https://s.shopee.com.br/4qHPNFg4nz"
-      }
+      },
+      "messageId": 639
     }
   },
   "slots": {

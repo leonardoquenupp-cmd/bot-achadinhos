@@ -10986,6 +10986,33 @@
         "affiliateLink": "https://s.shopee.com.br/9zzX7c5VwC"
       },
       "messageId": 671
+    },
+    "1855095856:58262774075": {
+      "status": "pending",
+      "slot": "2026-11-23:17:30",
+      "at": "2026-11-23T20:31:15.957Z",
+      "fingerprint": [
+        "leave",
+        "serum",
+        "capilar",
+        "cabelos",
+        "finos",
+        "injecao",
+        "massa",
+        "aumenta",
+        "volume",
+        "elseve",
+        "collagen",
+        "lifter",
+        "100ml"
+      ],
+      "imageIdentity": "/file/br-11134207-820ly-mpmhu2skuq6905",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "f34c363f79c723f5a73a7cff0bac915f9b5996dc5bae32e9848cab6489a4ed7e",
+        "affiliateLink": "https://s.shopee.com.br/3B9BnuBHmK"
+      }
     }
   },
   "slots": {
@@ -11485,7 +11512,8 @@
     "2026-11-23:16:45": "1058688207:23599260319",
     "2026-11-23:16:55": "332038931:23221213430",
     "2026-11-23:17:00": "1158022763:46716892371",
-    "2026-11-23:17:15": "1101963744:41772720401"
+    "2026-11-23:17:15": "1101963744:41772720401",
+    "2026-11-23:17:30": "1855095856:58262774075"
   },
-  "cursor": 7
+  "cursor": 9
 }

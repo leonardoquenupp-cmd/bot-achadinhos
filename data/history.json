@@ -10712,9 +10712,9 @@
       "messageId": 660
     },
     "1242044379:22392993399": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:15:15",
-      "at": "2026-11-23T18:16:35.881Z",
+      "at": "2026-11-23T18:16:38.731Z",
       "fingerprint": [
         "hipercalorico",
         "dark",
@@ -10736,7 +10736,8 @@
       "receipt": {
         "captionHash": "ab94332c92e88f3ea668d7453ac0566d106e1e90642b91c444a9fc46233d8fdd",
         "affiliateLink": "https://s.shopee.com.br/3B9DOnFzGX"
-      }
+      },
+      "messageId": 661
     }
   },
   "slots": {

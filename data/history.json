@@ -9892,6 +9892,28 @@
         "affiliateLink": "https://s.shopee.com.br/70LuBjrNyl"
       },
       "messageId": 628
+    },
+    "711418084:13494334390": {
+      "status": "pending",
+      "slot": "2026-11-22:22:15",
+      "at": "2026-11-23T01:16:11.289Z",
+      "fingerprint": [
+        "cilios",
+        "fadvan",
+        "extensao",
+        "alongamento",
+        "novidade",
+        "volume",
+        "hibrido",
+        "maquiagem"
+      ],
+      "imageIdentity": "/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "16c0dc1a27ecfa9153cccc491c215bdad3bee33a14e75b17d8b6b443f7bfb1fb",
+        "affiliateLink": "https://s.shopee.com.br/AAIvnBb17g"
+      }
     }
   },
   "slots": {
@@ -10348,7 +10370,8 @@
     "2026-11-22:21:20": "504210070:23384819739",
     "2026-11-22:21:30": "974102638:58202319126",
     "2026-11-22:21:40": "1381191494:23298453629",
-    "2026-11-22:22:00": "1467811745:58208944738"
+    "2026-11-22:22:00": "1467811745:58208944738",
+    "2026-11-22:22:15": "711418084:13494334390"
   },
-  "cursor": 9
+  "cursor": 11
 }

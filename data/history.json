@@ -10663,9 +10663,9 @@
       "messageId": 658
     },
     "1528421129:18799858576": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:14:45",
-      "at": "2026-11-23T17:46:18.276Z",
+      "at": "2026-11-23T17:46:20.901Z",
       "fingerprint": [
         "pares",
         "cadarcos",
@@ -10685,7 +10685,8 @@
       "receipt": {
         "captionHash": "0c705b74627fc66b24cc5c907de82223265952e2a6fcd5c74ccceca6dd1b5d6a",
         "affiliateLink": "https://s.shopee.com.br/qlH2hJMh0"
-      }
+      },
+      "messageId": 659
     }
   },
   "slots": {

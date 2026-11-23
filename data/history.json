@@ -10960,6 +10960,31 @@
         "affiliateLink": "https://s.shopee.com.br/Lp1xS2f2V"
       },
       "messageId": 670
+    },
+    "1101963744:41772720401": {
+      "status": "pending",
+      "slot": "2026-11-23:17:15",
+      "at": "2026-11-23T20:16:22.005Z",
+      "fingerprint": [
+        "top",
+        "academia",
+        "fitness",
+        "duplo",
+        "poliamida",
+        "suplex",
+        "premium",
+        "alca",
+        "grossa",
+        "sustentacao",
+        "fit"
+      ],
+      "imageIdentity": "/file/sg-11134201-824jc-mfd8ajf14d1l01",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "44ef07640c695e159727ee2c2dea074e2a76a2bde655cc2c46aede4a2c218aef",
+        "affiliateLink": "https://s.shopee.com.br/9zzX7c5VwC"
+      }
     }
   },
   "slots": {
@@ -11458,7 +11483,8 @@
     "2026-11-23:16:30": "331720585:27881066513",
     "2026-11-23:16:45": "1058688207:23599260319",
     "2026-11-23:16:55": "332038931:23221213430",
-    "2026-11-23:17:00": "1158022763:46716892371"
+    "2026-11-23:17:00": "1158022763:46716892371",
+    "2026-11-23:17:15": "1101963744:41772720401"
   },
-  "cursor": 6
+  "cursor": 7
 }

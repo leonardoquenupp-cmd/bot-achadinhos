@@ -9989,6 +9989,33 @@
         "affiliateLink": "https://s.shopee.com.br/6L6CJRO2y6"
       },
       "messageId": 632
+    },
+    "1408367819:23498780349": {
+      "status": "pending",
+      "slot": "2026-11-23:08:15",
+      "at": "2026-11-23T11:16:11.049Z",
+      "fingerprint": [
+        "ventilador",
+        "80w",
+        "teto",
+        "silencioso",
+        "led",
+        "cores",
+        "bulbo",
+        "12w",
+        "controle",
+        "bivolt",
+        "pas",
+        "branco",
+        "potente"
+      ],
+      "imageIdentity": "/file/br-11134207-820m7-mv7mtxakt3pf62",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "5031730ad28efb7e8441e6b7289a701d0bb0ddfa54212002d697a0da6a384071",
+        "affiliateLink": "https://s.shopee.com.br/6VPdMJZjPt"
+      }
     }
   },
   "slots": {
@@ -10449,7 +10476,8 @@
     "2026-11-22:22:15": "711418084:13494334390",
     "2026-11-22:22:30": "390307022:22997182283",
     "2026-11-22:22:45": "1433163764:23393902918",
-    "2026-11-23:08:00": "451263202:19098752815"
+    "2026-11-23:08:00": "451263202:19098752815",
+    "2026-11-23:08:15": "1408367819:23498780349"
   },
-  "cursor": 14
+  "cursor": 15
 }

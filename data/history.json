@@ -9939,6 +9939,31 @@
         "affiliateLink": "https://s.shopee.com.br/gRqrOhQ7T"
       },
       "messageId": 630
+    },
+    "1433163764:23393902918": {
+      "status": "pending",
+      "slot": "2026-11-22:22:45",
+      "at": "2026-11-23T01:46:41.305Z",
+      "fingerprint": [
+        "fetal",
+        "doppler",
+        "ultrassom",
+        "ouvir",
+        "batimentos",
+        "bebe",
+        "gel",
+        "pilhas",
+        "envio",
+        "ate",
+        "horas"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mb4c188fc8hlec",
+      "family": "bebes",
+      "department": "bebes",
+      "receipt": {
+        "captionHash": "6ebb5acaadabf64d62bd5bdedfb52649e9e1ad5aba6b64d4f1ddda308a8494a0",
+        "affiliateLink": "https://s.shopee.com.br/8VAejVym3g"
+      }
     }
   },
   "slots": {
@@ -10397,7 +10422,8 @@
     "2026-11-22:21:40": "1381191494:23298453629",
     "2026-11-22:22:00": "1467811745:58208944738",
     "2026-11-22:22:15": "711418084:13494334390",
-    "2026-11-22:22:30": "390307022:22997182283"
+    "2026-11-22:22:30": "390307022:22997182283",
+    "2026-11-22:22:45": "1433163764:23393902918"
   },
-  "cursor": 12
+  "cursor": 13
 }

@@ -10456,6 +10456,35 @@
         "affiliateLink": "https://s.shopee.com.br/AUvnwvurXi"
       },
       "messageId": 650
+    },
+    "287296555:23300932279": {
+      "status": "pending",
+      "slot": "2026-11-23:12:45",
+      "at": "2026-11-23T15:46:31.013Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "bluetooth",
+        "amplificada",
+        "potente",
+        "led",
+        "rgb",
+        "usb",
+        "radio",
+        "mp3",
+        "celular",
+        "note",
+        "tablet",
+        "conexao",
+        "tws"
+      ],
+      "imageIdentity": "/file/sg-11134201-7ratx-ma1h9d9oo1ape0",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "937beb6356f7aeebc771aa060842c9e9b9ca2020f64900a2bd27aa1f4304cc6e",
+        "affiliateLink": "https://s.shopee.com.br/3qOsCPgM60"
+      }
     }
   },
   "slots": {
@@ -10934,7 +10963,8 @@
     "2026-11-23:11:45": "1103918873:22295189209",
     "2026-11-23:12:00": "1385382926:23398006332",
     "2026-11-23:12:15": "207474891:45604311031",
-    "2026-11-23:12:30": "1398532513:48068310634"
+    "2026-11-23:12:30": "1398532513:48068310634",
+    "2026-11-23:12:45": "287296555:23300932279"
   },
-  "cursor": 9
+  "cursor": 10
 }

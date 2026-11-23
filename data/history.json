@@ -10197,6 +10197,32 @@
         "affiliateLink": "https://s.shopee.com.br/W8QEHt2rY"
       },
       "messageId": 640
+    },
+    "1569849623:22799013294": {
+      "status": "pending",
+      "slot": "2026-11-23:10:15",
+      "at": "2026-11-23T13:16:48.305Z",
+      "fingerprint": [
+        "leds",
+        "solar",
+        "10m",
+        "uso",
+        "externo",
+        "natal",
+        "fixo",
+        "funcoes",
+        "prova",
+        "agua",
+        "cordao",
+        "luzes"
+      ],
+      "imageIdentity": "/file/sg-11134201-821d3-mhbmbsdt6xhre9",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "35decc2a8743d173557c3acd44775f1dd52c0ce12738c268ee7f76eecb3c4db7",
+        "affiliateLink": "https://s.shopee.com.br/1LhVasnwEZ"
+      }
     }
   },
   "slots": {
@@ -10665,7 +10691,8 @@
     "2026-11-23:09:15": "1890365208:58265207293",
     "2026-11-23:09:30": "1459511958:22199198026",
     "2026-11-23:09:45": "1362240140:58253145740",
-    "2026-11-23:10:00": "1553752047:23594857544"
+    "2026-11-23:10:00": "1553752047:23594857544",
+    "2026-11-23:10:15": "1569849623:22799013294"
   },
-  "cursor": 10
+  "cursor": 12
 }

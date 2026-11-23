@@ -10916,6 +10916,24 @@
         "affiliateLink": "https://s.shopee.com.br/5VX6ocJVoJ"
       },
       "messageId": 668
+    },
+    "332038931:23221213430": {
+      "status": "pending",
+      "slot": "2026-11-23:16:55",
+      "at": "2026-11-23T19:56:55.948Z",
+      "fingerprint": [
+        "cumbuca",
+        "tintura",
+        "espatula",
+        "pincel"
+      ],
+      "imageIdentity": "/file/br-11134201-23020-h75z7mfwzxnv79",
+      "family": "cumbuca-tintura",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "759966378465bafa8dff4236a6066430dbdfba2326e168b7ade98f01c041bbf2",
+        "affiliateLink": "https://s.shopee.com.br/1BO72CmKzO"
+      }
     }
   },
   "slots": {
@@ -11412,7 +11430,8 @@
     "2026-11-23:16:00": "777798362:43461643565",
     "2026-11-23:16:15": "482637109:58215611300",
     "2026-11-23:16:30": "331720585:27881066513",
-    "2026-11-23:16:45": "1058688207:23599260319"
+    "2026-11-23:16:45": "1058688207:23599260319",
+    "2026-11-23:16:55": "332038931:23221213430"
   },
-  "cursor": 4
+  "cursor": 5
 }

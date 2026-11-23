@@ -11225,9 +11225,9 @@
       "messageId": 680
     },
     "290073877:18397642746": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:20:00",
-      "at": "2026-11-23T23:01:20.780Z",
+      "at": "2026-11-23T23:01:23.020Z",
       "fingerprint": [
         "ivercanis",
         "3mg",
@@ -11242,7 +11242,8 @@
       "receipt": {
         "captionHash": "4cd0855e4415b50f14e9082f5364fa1267510eef7646f7e1438a36ba38c275c5",
         "affiliateLink": "https://s.shopee.com.br/1CBDG2plU"
-      }
+      },
+      "messageId": 681
     }
   },
   "slots": {

@@ -11016,9 +11016,9 @@
       "messageId": 672
     },
     "1494273370:58262895607": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:17:45",
-      "at": "2026-11-23T20:46:41.619Z",
+      "at": "2026-11-23T20:46:43.798Z",
       "fingerprint": [
         "smartwatch",
         "wl23",
@@ -11040,7 +11040,8 @@
       "receipt": {
         "captionHash": "4f385581b1ec50ba86fe88a12c4ebaa2a237c39554a6fdf2eb0b3219bddb6e64",
         "affiliateLink": "https://s.shopee.com.br/8AXtR9hKn6"
-      }
+      },
+      "messageId": 673
     }
   },
   "slots": {

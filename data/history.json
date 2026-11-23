@@ -10563,6 +10563,29 @@
         "affiliateLink": "https://s.shopee.com.br/1LhXdcHSg3"
       },
       "messageId": 654
+    },
+    "574679875:58268269653": {
+      "status": "pending",
+      "slot": "2026-11-23:13:45",
+      "at": "2026-11-23T16:46:31.407Z",
+      "fingerprint": [
+        "secador",
+        "roupas",
+        "110v",
+        "220v",
+        "secadora",
+        "eletrica",
+        "600w",
+        "secagem",
+        "rapida"
+      ],
+      "imageIdentity": "/file/sg-11134201-825b7-mt6vx0crwf7k1d",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "cf2ecdf8cd2626d014c18bef6c1bc843e4bbf2ead6bf4b376d21e841f75ce94a",
+        "affiliateLink": "https://s.shopee.com.br/9pg5PXeaJU"
+      }
     }
   },
   "slots": {
@@ -11045,7 +11068,8 @@
     "2026-11-23:12:45": "287296555:23300932279",
     "2026-11-23:13:00": "710045240:47619302176",
     "2026-11-23:13:10": "1818552967:58217471964",
-    "2026-11-23:13:30": "1546442406:22798710702"
+    "2026-11-23:13:30": "1546442406:22798710702",
+    "2026-11-23:13:45": "574679875:58268269653"
   },
-  "cursor": 1
+  "cursor": 2
 }

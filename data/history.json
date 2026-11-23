@@ -11068,6 +11068,32 @@
         "affiliateLink": "https://s.shopee.com.br/40iKKFR9md"
       },
       "messageId": 674
+    },
+    "1618104873:22594653765": {
+      "status": "pending",
+      "slot": "2026-11-23:18:30",
+      "at": "2026-11-23T21:31:23.955Z",
+      "fingerprint": [
+        "62cm",
+        "tapete",
+        "higienico",
+        "gato",
+        "super",
+        "espesso",
+        "resistente",
+        "eva",
+        "varios",
+        "tamanhos",
+        "coletor",
+        "areia"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mh7xepst3wg06f",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "350fe40ebeb25e520eab4294ab56d17ec84eb2841a0d1ce51edc2c11b8ada884",
+        "affiliateLink": "https://s.shopee.com.br/4B1kG1iSLi"
+      }
     }
   },
   "slots": {
@@ -11570,7 +11596,8 @@
     "2026-11-23:17:15": "1101963744:41772720401",
     "2026-11-23:17:30": "1855095856:58262774075",
     "2026-11-23:17:45": "1494273370:58262895607",
-    "2026-11-23:18:15": "1415640710:58252263348"
+    "2026-11-23:18:15": "1415640710:58252263348",
+    "2026-11-23:18:30": "1618104873:22594653765"
   },
-  "cursor": 11
+  "cursor": 12
 }

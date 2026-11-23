@@ -9865,9 +9865,9 @@
       "messageId": 627
     },
     "1467811745:58208944738": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:22:00",
-      "at": "2026-11-23T01:01:31.837Z",
+      "at": "2026-11-23T01:01:34.348Z",
       "fingerprint": [
         "sapatilha",
         "nautica",
@@ -9890,7 +9890,8 @@
       "receipt": {
         "captionHash": "1fa2bda45d1a19e54be8ba94c84048dcedc429d71131014c45560803de1d512c",
         "affiliateLink": "https://s.shopee.com.br/70LuBjrNyl"
-      }
+      },
+      "messageId": 628
     }
   },
   "slots": {

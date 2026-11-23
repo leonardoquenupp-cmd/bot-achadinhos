@@ -11198,6 +11198,30 @@
         "affiliateLink": "https://s.shopee.com.br/1BO8qpYw22"
       },
       "messageId": 679
+    },
+    "1397809275:58204807527": {
+      "status": "pending",
+      "slot": "2026-11-23:19:45",
+      "at": "2026-11-23T22:46:18.996Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "rgb",
+        "gamer",
+        "luz",
+        "respiracao",
+        "fria",
+        "alto",
+        "falante",
+        "potente"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mke0zrzzo2yq68",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "8dd3b8591219d5783722c40badd3311060e26639508ff4ee7b4db8f0f0fbe4f0",
+        "affiliateLink": "https://s.shopee.com.br/8fU7xINxIV"
+      }
     }
   },
   "slots": {
@@ -11705,7 +11729,8 @@
     "2026-11-23:18:45": "1293439067:23699004642",
     "2026-11-23:19:00": "469998490:20597603526",
     "2026-11-23:19:15": "1502069336:58267301442",
-    "2026-11-23:19:30": "1802326087:58266496440"
+    "2026-11-23:19:30": "1802326087:58266496440",
+    "2026-11-23:19:45": "1397809275:58204807527"
   },
-  "cursor": 1
+  "cursor": 3
 }

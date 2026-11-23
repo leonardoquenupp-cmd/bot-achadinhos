@@ -9894,9 +9894,9 @@
       "messageId": 628
     },
     "711418084:13494334390": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:22:15",
-      "at": "2026-11-23T01:16:11.289Z",
+      "at": "2026-11-23T01:16:13.927Z",
       "fingerprint": [
         "cilios",
         "fadvan",
@@ -9913,7 +9913,8 @@
       "receipt": {
         "captionHash": "16c0dc1a27ecfa9153cccc491c215bdad3bee33a14e75b17d8b6b443f7bfb1fb",
         "affiliateLink": "https://s.shopee.com.br/AAIvnBb17g"
-      }
+      },
+      "messageId": 629
     }
   },
   "slots": {

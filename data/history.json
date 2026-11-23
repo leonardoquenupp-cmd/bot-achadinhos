@@ -10515,9 +10515,9 @@
       "messageId": 652
     },
     "1818552967:58217471964": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:13:10",
-      "at": "2026-11-23T16:12:14.225Z",
+      "at": "2026-11-23T16:12:17.001Z",
       "fingerprint": [
         "sandalia",
         "masculina",
@@ -10538,7 +10538,8 @@
       "receipt": {
         "captionHash": "4eec9c7a1493555f973caa4a9f21318dc8434458476ffdb90467119458919d60",
         "affiliateLink": "https://s.shopee.com.br/7fbbAv1yHs"
-      }
+      },
+      "messageId": 653
     }
   },
   "slots": {

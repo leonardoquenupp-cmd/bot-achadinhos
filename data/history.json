@@ -10096,6 +10096,30 @@
         "affiliateLink": "https://s.shopee.com.br/4fy0loPoke"
       },
       "messageId": 636
+    },
+    "1890365208:58265207293": {
+      "status": "pending",
+      "slot": "2026-11-23:09:15",
+      "at": "2026-11-23T12:16:24.826Z",
+      "fingerprint": [
+        "ferramentas",
+        "cabelo",
+        "opcoes",
+        "pecas",
+        "pente",
+        "borrifador",
+        "ferramenta",
+        "tranca",
+        "clipes",
+        "scrunchies"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-mulygq6ied4yaa",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "c1e31f67b80f8c76bb55e5964d2c3072fb9ea7325975996c570b8ed9e97dd4b8",
+        "affiliateLink": "https://s.shopee.com.br/3LSdCPQI99"
+      }
     }
   },
   "slots": {
@@ -10560,7 +10584,8 @@
     "2026-11-23:08:15": "1408367819:23498780349",
     "2026-11-23:08:30": "439461570:58267004569",
     "2026-11-23:08:45": "717396632:20997608223",
-    "2026-11-23:09:00": "1738162237:58257149767"
+    "2026-11-23:09:00": "1738162237:58257149767",
+    "2026-11-23:09:15": "1890365208:58265207293"
   },
-  "cursor": 3
+  "cursor": 5
 }

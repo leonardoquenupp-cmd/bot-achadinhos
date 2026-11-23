@@ -10787,6 +10787,30 @@
         "affiliateLink": "https://s.shopee.com.br/3Vm3ol2mlJ"
       },
       "messageId": 663
+    },
+    "1197125737:23398115760": {
+      "status": "pending",
+      "slot": "2026-11-23:15:45",
+      "at": "2026-11-23T18:46:15.522Z",
+      "fingerprint": [
+        "bomba",
+        "submersa",
+        "bombinha",
+        "motor",
+        "aquario",
+        "fonte",
+        "agua",
+        "bebedouro",
+        "pet",
+        "mangueira"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mja7iwsudn2bef",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "04cba886d5f0072ab48d2a860016faa047c89259890d543f771b79d67d4b1c20",
+        "affiliateLink": "https://s.shopee.com.br/2BGesZWXsw"
+      }
     }
   },
   "slots": {
@@ -11278,7 +11302,8 @@
     "2026-11-23:15:00": "883941882:21497804431",
     "2026-11-23:15:15": "1242044379:22392993399",
     "2026-11-23:15:25": "790605924:46315852771",
-    "2026-11-23:15:35": "340407910:23828302748"
+    "2026-11-23:15:35": "340407910:23828302748",
+    "2026-11-23:15:45": "1197125737:23398115760"
   },
-  "cursor": 13
+  "cursor": 14
 }

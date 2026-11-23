@@ -10812,6 +10812,34 @@
         "affiliateLink": "https://s.shopee.com.br/2BGesZWXsw"
       },
       "messageId": 664
+    },
+    "777798362:43461643565": {
+      "status": "pending",
+      "slot": "2026-11-23:16:00",
+      "at": "2026-11-23T19:02:41.932Z",
+      "fingerprint": [
+        "blusa",
+        "plus",
+        "size",
+        "camiseta",
+        "dry",
+        "fit",
+        "roupa",
+        "academia",
+        "feminina",
+        "long",
+        "line",
+        "tapa",
+        "bumbum",
+        "curvy"
+      ],
+      "imageIdentity": "/file/br-11134207-820m3-mtlkn2jieygwaa",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "170c90f792983fbb4d735a79d91cf5accc9df381a7a319c6667a67cd45f235d7",
+        "affiliateLink": "https://s.shopee.com.br/80ESjwD7zc"
+      }
     }
   },
   "slots": {
@@ -11304,7 +11332,8 @@
     "2026-11-23:15:15": "1242044379:22392993399",
     "2026-11-23:15:25": "790605924:46315852771",
     "2026-11-23:15:35": "340407910:23828302748",
-    "2026-11-23:15:45": "1197125737:23398115760"
+    "2026-11-23:15:45": "1197125737:23398115760",
+    "2026-11-23:16:00": "777798362:43461643565"
   },
-  "cursor": 14
+  "cursor": 0
 }

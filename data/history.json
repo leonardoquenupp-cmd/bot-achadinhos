@@ -9817,9 +9817,9 @@
       "messageId": 625
     },
     "974102638:58202319126": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:21:30",
-      "at": "2026-11-23T00:31:19.494Z",
+      "at": "2026-11-23T00:31:22.343Z",
       "fingerprint": [
         "monitor",
         "oximetro",
@@ -9836,7 +9836,8 @@
       "receipt": {
         "captionHash": "fd3de796337e120ac4a20a7de2ee049693bfa4bc9eada4548072605c1bbee45d",
         "affiliateLink": "https://s.shopee.com.br/4B1ilJH2ET"
-      }
+      },
+      "messageId": 626
     }
   },
   "slots": {

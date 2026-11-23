@@ -9791,6 +9791,29 @@
         "affiliateLink": "https://s.shopee.com.br/9zzWLAZRpO"
       },
       "messageId": 624
+    },
+    "504210070:23384819739": {
+      "status": "pending",
+      "slot": "2026-11-22:21:20",
+      "at": "2026-11-23T00:22:09.734Z",
+      "fingerprint": [
+        "1pcs",
+        "iscas",
+        "pesca",
+        "macias",
+        "camarao",
+        "8cm",
+        "12cm",
+        "borracha",
+        "peixes"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rblq-lnckx9d39t1v8b",
+      "family": "1pcs-iscas",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "9c6d4315603e74f33530102a9489904cf8a5c82f8b81daf124461f848e36deda",
+        "affiliateLink": "https://s.shopee.com.br/30pm0iBeVH"
+      }
     }
   },
   "slots": {
@@ -10243,7 +10266,8 @@
     "2026-11-22:20:30": "386512962:23594203666",
     "2026-11-22:20:45": "722849813:21797990606",
     "2026-11-22:21:00": "616222685:12782096688",
-    "2026-11-22:21:15": "372103398:18899305822"
+    "2026-11-22:21:15": "372103398:18899305822",
+    "2026-11-22:21:20": "504210070:23384819739"
   },
-  "cursor": 0
+  "cursor": 3
 }

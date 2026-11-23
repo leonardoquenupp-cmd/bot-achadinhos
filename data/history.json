@@ -11174,6 +11174,29 @@
         "affiliateLink": "https://s.shopee.com.br/1W0xP7slZf"
       },
       "messageId": 678
+    },
+    "1802326087:58266496440": {
+      "status": "pending",
+      "slot": "2026-11-23:19:30",
+      "at": "2026-11-23T22:31:21.061Z",
+      "fingerprint": [
+        "short",
+        "alfaiataria",
+        "feminino",
+        "cinto",
+        "forrado",
+        "cintura",
+        "alta",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-820m1-ms2sepcfdsee0e",
+      "family": "short-alfaiataria",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "a3e867e0f5e7b80ee6ddddb94aabeaff8409a1ec925b8bf58dc223024f93cc5d",
+        "affiliateLink": "https://s.shopee.com.br/1BO8qpYw22"
+      }
     }
   },
   "slots": {
@@ -11680,7 +11703,8 @@
     "2026-11-23:18:30": "1618104873:22594653765",
     "2026-11-23:18:45": "1293439067:23699004642",
     "2026-11-23:19:00": "469998490:20597603526",
-    "2026-11-23:19:15": "1502069336:58267301442"
+    "2026-11-23:19:15": "1502069336:58267301442",
+    "2026-11-23:19:30": "1802326087:58266496440"
   },
-  "cursor": 0
+  "cursor": 1
 }

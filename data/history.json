@@ -11296,6 +11296,31 @@
         "affiliateLink": "https://s.shopee.com.br/6AmoxH45bD"
       },
       "messageId": 683
+    },
+    "792086383:51302420127": {
+      "status": "pending",
+      "slot": "2026-11-23:20:45",
+      "at": "2026-11-23T23:46:09.922Z",
+      "fingerprint": [
+        "placas",
+        "protetor",
+        "bucal",
+        "moldavel",
+        "par",
+        "estojo",
+        "moldeira",
+        "molde",
+        "silicone",
+        "bruxismo",
+        "caseiro"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mhqphwgx12irfb",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "76d9f844d3ac0324bcde537bd1a8c0764d717c3eee8318a706b2b3b649c43207",
+        "affiliateLink": "https://s.shopee.com.br/9V3GwQrsQB"
+      }
     }
   },
   "slots": {
@@ -11807,7 +11832,8 @@
     "2026-11-23:19:45": "1397809275:58204807527",
     "2026-11-23:20:00": "290073877:18397642746",
     "2026-11-23:20:15": "1634839138:58216416663",
-    "2026-11-23:20:30": "391739739:23694530565"
+    "2026-11-23:20:30": "391739739:23694530565",
+    "2026-11-23:20:45": "792086383:51302420127"
   },
-  "cursor": 7
+  "cursor": 8
 }

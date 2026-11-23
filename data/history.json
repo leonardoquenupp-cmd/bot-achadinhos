@@ -10224,6 +10224,33 @@
         "affiliateLink": "https://s.shopee.com.br/1LhVasnwEZ"
       },
       "messageId": 641
+    },
+    "1045085918:20997654582": {
+      "status": "pending",
+      "slot": "2026-11-23:10:30",
+      "at": "2026-11-23T13:31:26.648Z",
+      "fingerprint": [
+        "hidratante",
+        "labial",
+        "carmed",
+        "crystal",
+        "pink",
+        "rose",
+        "gold",
+        "dentadura",
+        "beijo",
+        "banana",
+        "beijinho",
+        "rosa",
+        "glitter"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m0ejjwwjyv1c68",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "5d1dd816889696e86c4c163b173921b4690f91cfaf8142e62661d1cabbc599f7",
+        "affiliateLink": "https://s.shopee.com.br/4B1ie9xrI7"
+      }
     }
   },
   "slots": {
@@ -10693,7 +10720,8 @@
     "2026-11-23:09:30": "1459511958:22199198026",
     "2026-11-23:09:45": "1362240140:58253145740",
     "2026-11-23:10:00": "1553752047:23594857544",
-    "2026-11-23:10:15": "1569849623:22799013294"
+    "2026-11-23:10:15": "1569849623:22799013294",
+    "2026-11-23:10:30": "1045085918:20997654582"
   },
-  "cursor": 12
+  "cursor": 13
 }

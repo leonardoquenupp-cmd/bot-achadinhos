@@ -10017,6 +10017,32 @@
         "affiliateLink": "https://s.shopee.com.br/6VPdMJZjPt"
       },
       "messageId": 633
+    },
+    "439461570:58267004569": {
+      "status": "pending",
+      "slot": "2026-11-23:08:30",
+      "at": "2026-11-23T11:31:30.929Z",
+      "fingerprint": [
+        "cinta",
+        "elastique",
+        "feminina",
+        "modeladora",
+        "redutor",
+        "afina",
+        "cintura",
+        "mulher",
+        "fitness",
+        "abdominal",
+        "tecido",
+        "eleastico"
+      ],
+      "imageIdentity": "/file/sg-11134201-825b9-msd4ithgf2tj3a",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "9f3ea5a0f31f3545cb4eacf0198cd66fe8ca65b85cacd66d63a81e047d3729d3",
+        "affiliateLink": "https://s.shopee.com.br/2gCvRPUIZ1"
+      }
     }
   },
   "slots": {
@@ -10478,7 +10504,8 @@
     "2026-11-22:22:30": "390307022:22997182283",
     "2026-11-22:22:45": "1433163764:23393902918",
     "2026-11-23:08:00": "451263202:19098752815",
-    "2026-11-23:08:15": "1408367819:23498780349"
+    "2026-11-23:08:15": "1408367819:23498780349",
+    "2026-11-23:08:30": "439461570:58267004569"
   },
-  "cursor": 15
+  "cursor": 0
 }

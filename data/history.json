@@ -10841,6 +10841,32 @@
         "affiliateLink": "https://s.shopee.com.br/80ESjwD7zc"
       },
       "messageId": 665
+    },
+    "482637109:58215611300": {
+      "status": "pending",
+      "slot": "2026-11-23:16:15",
+      "at": "2026-11-23T19:16:10.094Z",
+      "fingerprint": [
+        "tres",
+        "pares",
+        "chinelo",
+        "brasil",
+        "bandeirinha",
+        "masculino",
+        "feminino",
+        "sandalia",
+        "dedo",
+        "confortavel",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-820lf-mrhd0l6z5ekn4f",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "807a042d324a17a4a9d8793482145c60c8daf1cb33fa4c4d13b84e193b517c9d",
+        "affiliateLink": "https://s.shopee.com.br/9zzVxXkT5v"
+      }
     }
   },
   "slots": {
@@ -11334,7 +11360,8 @@
     "2026-11-23:15:25": "790605924:46315852771",
     "2026-11-23:15:35": "340407910:23828302748",
     "2026-11-23:15:45": "1197125737:23398115760",
-    "2026-11-23:16:00": "777798362:43461643565"
+    "2026-11-23:16:00": "777798362:43461643565",
+    "2026-11-23:16:15": "482637109:58215611300"
   },
-  "cursor": 0
+  "cursor": 2
 }

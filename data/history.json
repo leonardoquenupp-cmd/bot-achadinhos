@@ -10172,6 +10172,30 @@
         "affiliateLink": "https://s.shopee.com.br/4qHPNFg4nz"
       },
       "messageId": 639
+    },
+    "1553752047:23594857544": {
+      "status": "pending",
+      "slot": "2026-11-23:10:00",
+      "at": "2026-11-23T13:01:27.451Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "original",
+        "alaxe",
+        "echo",
+        "dot",
+        "geracao",
+        "envio",
+        "imediato",
+        "dibea"
+      ],
+      "imageIdentity": "/file/br-11134207-820lt-mmjl8k5lfy80e7",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "041fab8c5d4cce236ce548b70ccfb7ff54f7f23ebd98d1f5d1b1bd524d4f3838",
+        "affiliateLink": "https://s.shopee.com.br/W8QEHt2rY"
+      }
     }
   },
   "slots": {
@@ -10639,7 +10663,8 @@
     "2026-11-23:09:00": "1738162237:58257149767",
     "2026-11-23:09:15": "1890365208:58265207293",
     "2026-11-23:09:30": "1459511958:22199198026",
-    "2026-11-23:09:45": "1362240140:58253145740"
+    "2026-11-23:09:45": "1362240140:58253145740",
+    "2026-11-23:10:00": "1553752047:23594857544"
   },
-  "cursor": 9
+  "cursor": 10
 }

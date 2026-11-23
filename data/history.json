@@ -10988,9 +10988,9 @@
       "messageId": 671
     },
     "1855095856:58262774075": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:17:30",
-      "at": "2026-11-23T20:31:15.957Z",
+      "at": "2026-11-23T20:31:18.685Z",
       "fingerprint": [
         "leave",
         "serum",
@@ -11012,7 +11012,8 @@
       "receipt": {
         "captionHash": "f34c363f79c723f5a73a7cff0bac915f9b5996dc5bae32e9848cab6489a4ed7e",
         "affiliateLink": "https://s.shopee.com.br/3B9BnuBHmK"
-      }
+      },
+      "messageId": 672
     }
   },
   "slots": {

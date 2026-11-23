@@ -10710,6 +10710,33 @@
         "affiliateLink": "https://s.shopee.com.br/5LDhxk7GHy"
       },
       "messageId": 660
+    },
+    "1242044379:22392993399": {
+      "status": "pending",
+      "slot": "2026-11-23:15:15",
+      "at": "2026-11-23T18:16:35.881Z",
+      "fingerprint": [
+        "hipercalorico",
+        "dark",
+        "mass",
+        "3kg",
+        "lab",
+        "whey",
+        "protein",
+        "creatina",
+        "bcaa",
+        "waxy",
+        "maize",
+        "premium",
+        "gainer"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lzawnmo1qj3970",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "ab94332c92e88f3ea668d7453ac0566d106e1e90642b91c444a9fc46233d8fdd",
+        "affiliateLink": "https://s.shopee.com.br/3B9DOnFzGX"
+      }
     }
   },
   "slots": {
@@ -11198,7 +11225,8 @@
     "2026-11-23:14:15": "846887038:49917838751",
     "2026-11-23:14:30": "1588652179:22998840922",
     "2026-11-23:14:45": "1528421129:18799858576",
-    "2026-11-23:15:00": "883941882:21497804431"
+    "2026-11-23:15:00": "883941882:21497804431",
+    "2026-11-23:15:15": "1242044379:22392993399"
   },
-  "cursor": 7
+  "cursor": 8
 }

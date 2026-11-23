@@ -10609,6 +10609,33 @@
         "affiliateLink": "https://s.shopee.com.br/40iHIj6oZr"
       },
       "messageId": 656
+    },
+    "846887038:49917838751": {
+      "status": "pending",
+      "slot": "2026-11-23:14:15",
+      "at": "2026-11-23T17:17:07.564Z",
+      "fingerprint": [
+        "arvore",
+        "natal",
+        "mdf",
+        "decoracao",
+        "natalina",
+        "mesa",
+        "enfeite",
+        "decorativo",
+        "papai",
+        "noel",
+        "feliz",
+        "base",
+        "24x17"
+      ],
+      "imageIdentity": "/file/sg-11134201-825aa-mt3vx5pni8si78",
+      "family": "arvore-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "6f10fc4ca2bdf7d89219e718d1498ade953149e5d8081e7485b0fd43fcc0e0db",
+        "affiliateLink": "https://s.shopee.com.br/W8RyTGL2r"
+      }
     }
   },
   "slots": {
@@ -11093,7 +11120,8 @@
     "2026-11-23:13:10": "1818552967:58217471964",
     "2026-11-23:13:30": "1546442406:22798710702",
     "2026-11-23:13:45": "574679875:58268269653",
-    "2026-11-23:14:00": "849204018:52854153396"
+    "2026-11-23:14:00": "849204018:52854153396",
+    "2026-11-23:14:15": "846887038:49917838751"
   },
-  "cursor": 3
+  "cursor": 4
 }

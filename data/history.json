@@ -10303,6 +10303,33 @@
         "affiliateLink": "https://s.shopee.com.br/40iISp0n9u"
       },
       "messageId": 644
+    },
+    "831272734:57252461095": {
+      "status": "pending",
+      "slot": "2026-11-23:11:15",
+      "at": "2026-11-23T14:16:30.327Z",
+      "fingerprint": [
+        "short",
+        "feminino",
+        "anagua",
+        "segunda",
+        "pele",
+        "segura",
+        "barriga",
+        "nao",
+        "marca",
+        "indicado",
+        "roupa",
+        "roupas",
+        "adulto"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m7sgvi5gxjtgaf",
+      "family": "short-feminino",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "10d0c38f3c9235b82bb7ff19ad15f286b1b59f80bfa8c8b9401f4bd686ff860d",
+        "affiliateLink": "https://s.shopee.com.br/30piMiE4Tj"
+      }
     }
   },
   "slots": {
@@ -10775,7 +10802,8 @@
     "2026-11-23:10:15": "1569849623:22799013294",
     "2026-11-23:10:30": "1045085918:20997654582",
     "2026-11-23:10:40": "386938697:8716065733",
-    "2026-11-23:11:00": "998773037:58210207545"
+    "2026-11-23:11:00": "998773037:58210207545",
+    "2026-11-23:11:15": "831272734:57252461095"
   },
-  "cursor": 2
+  "cursor": 3
 }

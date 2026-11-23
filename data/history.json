@@ -11152,9 +11152,9 @@
       "messageId": 677
     },
     "1502069336:58267301442": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:19:15",
-      "at": "2026-11-23T22:16:30.591Z",
+      "at": "2026-11-23T22:16:33.034Z",
       "fingerprint": [
         "mini",
         "ferro",
@@ -11172,7 +11172,8 @@
       "receipt": {
         "captionHash": "9dcfb9dbc7d89a09433b9cf7e79fbf970de98df8a2ec809105e3a218a163a042",
         "affiliateLink": "https://s.shopee.com.br/1W0xP7slZf"
-      }
+      },
+      "messageId": 678
     }
   },
   "slots": {

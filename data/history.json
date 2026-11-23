@@ -10406,9 +10406,9 @@
       "messageId": 648
     },
     "207474891:45604311031": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:12:15",
-      "at": "2026-11-23T15:16:28.450Z",
+      "at": "2026-11-23T15:16:31.692Z",
       "fingerprint": [
         "almofadas",
         "reducao",
@@ -10430,7 +10430,8 @@
       "receipt": {
         "captionHash": "53606250ff1790c9d52860a7d395b2a609f5f179dc9a22f14a896efd4d3861e2",
         "affiliateLink": "https://s.shopee.com.br/1BO7XV3uR4"
-      }
+      },
+      "messageId": 649
     }
   },
   "slots": {

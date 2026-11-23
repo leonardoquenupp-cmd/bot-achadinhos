@@ -10071,6 +10071,30 @@
         "affiliateLink": "https://s.shopee.com.br/7VIAycxjX3"
       },
       "messageId": 635
+    },
+    "1738162237:58257149767": {
+      "status": "pending",
+      "slot": "2026-11-23:09:00",
+      "at": "2026-11-23T12:01:42.826Z",
+      "fingerprint": [
+        "biquini",
+        "cortininha",
+        "amarracao",
+        "calcinha",
+        "fio",
+        "duplo",
+        "moda",
+        "praia",
+        "bojo",
+        "removivel"
+      ],
+      "imageIdentity": "/file/br-11134207-820m8-mselxppbftvr45",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "7eca589e5244d7c8f05f6e75d911018688a7da0bab3b5ec58936f6839e7208da",
+        "affiliateLink": "https://s.shopee.com.br/4fy0loPoke"
+      }
     }
   },
   "slots": {
@@ -10534,7 +10558,8 @@
     "2026-11-23:08:00": "451263202:19098752815",
     "2026-11-23:08:15": "1408367819:23498780349",
     "2026-11-23:08:30": "439461570:58267004569",
-    "2026-11-23:08:45": "717396632:20997608223"
+    "2026-11-23:08:45": "717396632:20997608223",
+    "2026-11-23:09:00": "1738162237:58257149767"
   },
-  "cursor": 2
+  "cursor": 3
 }

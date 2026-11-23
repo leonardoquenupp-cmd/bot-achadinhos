@@ -10098,9 +10098,9 @@
       "messageId": 636
     },
     "1890365208:58265207293": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:09:15",
-      "at": "2026-11-23T12:16:24.826Z",
+      "at": "2026-11-23T12:16:27.246Z",
       "fingerprint": [
         "ferramentas",
         "cabelo",
@@ -10119,7 +10119,8 @@
       "receipt": {
         "captionHash": "c1e31f67b80f8c76bb55e5964d2c3072fb9ea7325975996c570b8ed9e97dd4b8",
         "affiliateLink": "https://s.shopee.com.br/3LSdCPQI99"
-      }
+      },
+      "messageId": 637
     }
   },
   "slots": {

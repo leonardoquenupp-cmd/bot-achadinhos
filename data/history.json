@@ -10145,6 +10145,32 @@
         "affiliateLink": "https://s.shopee.com.br/AUvjBZaA8T"
       },
       "messageId": 638
+    },
+    "1362240140:58253145740": {
+      "status": "pending",
+      "slot": "2026-11-23:09:45",
+      "at": "2026-11-23T12:46:26.024Z",
+      "fingerprint": [
+        "picador",
+        "alimentos",
+        "moedor",
+        "carne",
+        "mixer",
+        "eletrica",
+        "processador",
+        "cozinha",
+        "casa",
+        "alho",
+        "110v",
+        "220v"
+      ],
+      "imageIdentity": "/file/sg-11134201-8262e-mjejrub4w35z78",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "cfbea2c46294c0e36d408907887d485240f09d22cc9ad8a6f084f75f2c8b9fea",
+        "affiliateLink": "https://s.shopee.com.br/4qHPNFg4nz"
+      }
     }
   },
   "slots": {
@@ -10611,7 +10637,8 @@
     "2026-11-23:08:45": "717396632:20997608223",
     "2026-11-23:09:00": "1738162237:58257149767",
     "2026-11-23:09:15": "1890365208:58265207293",
-    "2026-11-23:09:30": "1459511958:22199198026"
+    "2026-11-23:09:30": "1459511958:22199198026",
+    "2026-11-23:09:45": "1362240140:58253145740"
   },
-  "cursor": 7
+  "cursor": 9
 }

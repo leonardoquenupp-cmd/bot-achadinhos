@@ -11246,9 +11246,9 @@
       "messageId": 681
     },
     "1634839138:58216416663": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:20:15",
-      "at": "2026-11-23T23:16:40.555Z",
+      "at": "2026-11-23T23:16:43.244Z",
       "fingerprint": [
         "cola",
         "sapatos",
@@ -11269,7 +11269,8 @@
       "receipt": {
         "captionHash": "f25fa3f89da61ebababebad58da4d045835e82187b47585faf2b7f2622627e91",
         "affiliateLink": "https://s.shopee.com.br/7VIAyvletc"
-      }
+      },
+      "messageId": 682
     }
   },
   "slots": {

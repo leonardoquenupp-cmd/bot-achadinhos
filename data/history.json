@@ -9744,9 +9744,9 @@
       "messageId": 622
     },
     "616222685:12782096688": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-22:21:00",
-      "at": "2026-11-23T00:01:35.262Z",
+      "at": "2026-11-23T00:01:37.489Z",
       "fingerprint": [
         "hidratacao",
         "oleo",
@@ -9763,7 +9763,8 @@
       "receipt": {
         "captionHash": "d4733720ea7ffd84c6f92135dfbf0e1b4a3a3df4144fca24920bc58357167240",
         "affiliateLink": "https://s.shopee.com.br/30plEvyhif"
-      }
+      },
+      "messageId": 623
     }
   },
   "slots": {

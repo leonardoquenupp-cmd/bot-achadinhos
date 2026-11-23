@@ -10814,9 +10814,9 @@
       "messageId": 664
     },
     "777798362:43461643565": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:16:00",
-      "at": "2026-11-23T19:02:41.932Z",
+      "at": "2026-11-23T19:02:44.723Z",
       "fingerprint": [
         "blusa",
         "plus",
@@ -10839,7 +10839,8 @@
       "receipt": {
         "captionHash": "170c90f792983fbb4d735a79d91cf5accc9df381a7a319c6667a67cd45f235d7",
         "affiliateLink": "https://s.shopee.com.br/80ESjwD7zc"
-      }
+      },
+      "messageId": 665
     }
   },
   "slots": {

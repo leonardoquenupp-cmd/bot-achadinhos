@@ -10661,6 +10661,31 @@
         "affiliateLink": "https://s.shopee.com.br/7pv1BGoDHy"
       },
       "messageId": 658
+    },
+    "1528421129:18799858576": {
+      "status": "pending",
+      "slot": "2026-11-23:14:45",
+      "at": "2026-11-23T17:46:18.276Z",
+      "fingerprint": [
+        "pares",
+        "cadarcos",
+        "chato",
+        "casual",
+        "tenis",
+        "120cm",
+        "atacador",
+        "moderno",
+        "estilo",
+        "qualidade",
+        "seu"
+      ],
+      "imageIdentity": "/file/br-11134207-820m2-mlsqpcvey7ev88",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "0c705b74627fc66b24cc5c907de82223265952e2a6fcd5c74ccceca6dd1b5d6a",
+        "affiliateLink": "https://s.shopee.com.br/qlH2hJMh0"
+      }
     }
   },
   "slots": {
@@ -11147,7 +11172,8 @@
     "2026-11-23:13:45": "574679875:58268269653",
     "2026-11-23:14:00": "849204018:52854153396",
     "2026-11-23:14:15": "846887038:49917838751",
-    "2026-11-23:14:30": "1588652179:22998840922"
+    "2026-11-23:14:30": "1588652179:22998840922",
+    "2026-11-23:14:45": "1528421129:18799858576"
   },
-  "cursor": 5
+  "cursor": 6
 }

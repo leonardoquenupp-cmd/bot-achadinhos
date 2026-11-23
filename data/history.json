@@ -9742,6 +9742,28 @@
         "affiliateLink": "https://s.shopee.com.br/2La24OhSln"
       },
       "messageId": 622
+    },
+    "616222685:12782096688": {
+      "status": "pending",
+      "slot": "2026-11-22:21:00",
+      "at": "2026-11-23T00:01:35.262Z",
+      "fingerprint": [
+        "hidratacao",
+        "oleo",
+        "ricino",
+        "shampoo",
+        "condicionador",
+        "litrao",
+        "salon",
+        "line"
+      ],
+      "imageIdentity": "/file/br-11134207-820l9-mq80n6l4qkub32",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "d4733720ea7ffd84c6f92135dfbf0e1b4a3a3df4144fca24920bc58357167240",
+        "affiliateLink": "https://s.shopee.com.br/30plEvyhif"
+      }
     }
   },
   "slots": {
@@ -10192,7 +10214,8 @@
     "2026-11-22:20:00": "1032290308:58219263055",
     "2026-11-22:20:15": "883941882:21799205940",
     "2026-11-22:20:30": "386512962:23594203666",
-    "2026-11-22:20:45": "722849813:21797990606"
+    "2026-11-22:20:45": "722849813:21797990606",
+    "2026-11-22:21:00": "616222685:12782096688"
   },
-  "cursor": 12
+  "cursor": 15
 }

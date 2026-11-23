@@ -10331,6 +10331,27 @@
         "affiliateLink": "https://s.shopee.com.br/30piMiE4Tj"
       },
       "messageId": 645
+    },
+    "1454188932:22993711209": {
+      "status": "pending",
+      "slot": "2026-11-23:11:30",
+      "at": "2026-11-23T14:32:08.103Z",
+      "fingerprint": [
+        "arranjo",
+        "trepadeira",
+        "folha",
+        "hera",
+        "vaso",
+        "trancado",
+        "marrom"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-md3o52t872giaa",
+      "family": "jardim",
+      "department": "jardim",
+      "receipt": {
+        "captionHash": "6a49d6d7c73310113c27eae2f32499cfbdf5dac99d50eaf17def4073a57e0ccf",
+        "affiliateLink": "https://s.shopee.com.br/5LDeMEYi7z"
+      }
     }
   },
   "slots": {
@@ -10804,7 +10825,8 @@
     "2026-11-23:10:30": "1045085918:20997654582",
     "2026-11-23:10:40": "386938697:8716065733",
     "2026-11-23:11:00": "998773037:58210207545",
-    "2026-11-23:11:15": "831272734:57252461095"
+    "2026-11-23:11:15": "831272734:57252461095",
+    "2026-11-23:11:30": "1454188932:22993711209"
   },
-  "cursor": 3
+  "cursor": 4
 }

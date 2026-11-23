@@ -10764,6 +10764,28 @@
         "affiliateLink": "https://s.shopee.com.br/2qWN0wtbYg"
       },
       "messageId": 662
+    },
+    "340407910:23828302748": {
+      "status": "pending",
+      "slot": "2026-11-23:15:35",
+      "at": "2026-11-23T18:36:54.096Z",
+      "fingerprint": [
+        "conector",
+        "cabo",
+        "fiacao",
+        "rapida",
+        "rapido",
+        "bloco",
+        "terminal",
+        "fio"
+      ],
+      "imageIdentity": "/file/my-11134201-23030-6emxnoyxe5nve1",
+      "family": "conector-cabo",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "b8885ba9e6813d40fdc4ddcfb863c96ad466c6cf4e8e73d88c9f413162bf179e",
+        "affiliateLink": "https://s.shopee.com.br/3Vm3ol2mlJ"
+      }
     }
   },
   "slots": {
@@ -11254,7 +11276,8 @@
     "2026-11-23:14:45": "1528421129:18799858576",
     "2026-11-23:15:00": "883941882:21497804431",
     "2026-11-23:15:15": "1242044379:22392993399",
-    "2026-11-23:15:25": "790605924:46315852771"
+    "2026-11-23:15:25": "790605924:46315852771",
+    "2026-11-23:15:35": "340407910:23828302748"
   },
-  "cursor": 12
+  "cursor": 13
 }

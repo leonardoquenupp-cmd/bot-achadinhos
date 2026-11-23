@@ -10962,9 +10962,9 @@
       "messageId": 670
     },
     "1101963744:41772720401": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:17:15",
-      "at": "2026-11-23T20:16:22.005Z",
+      "at": "2026-11-23T20:16:24.609Z",
       "fingerprint": [
         "top",
         "academia",
@@ -10984,7 +10984,8 @@
       "receipt": {
         "captionHash": "44ef07640c695e159727ee2c2dea074e2a76a2bde655cc2c46aede4a2c218aef",
         "affiliateLink": "https://s.shopee.com.br/9zzX7c5VwC"
-      }
+      },
+      "messageId": 671
     }
   },
   "slots": {

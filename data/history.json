@@ -11097,9 +11097,9 @@
       "messageId": 675
     },
     "1293439067:23699004642": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:18:45",
-      "at": "2026-11-23T21:46:18.634Z",
+      "at": "2026-11-23T21:46:20.720Z",
       "fingerprint": [
         "shorts",
         "marmorizado",
@@ -11121,7 +11121,8 @@
       "receipt": {
         "captionHash": "fa56cb8692b1b2b7724418973b4e4cdc6385214f6551d4106b94cb6e992e2335",
         "affiliateLink": "https://s.shopee.com.br/2BGfnDZKpR"
-      }
+      },
+      "messageId": 676
     }
   },
   "slots": {

@@ -10019,9 +10019,9 @@
       "messageId": 633
     },
     "439461570:58267004569": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:08:30",
-      "at": "2026-11-23T11:31:30.929Z",
+      "at": "2026-11-23T11:31:33.326Z",
       "fingerprint": [
         "cinta",
         "elastique",
@@ -10042,7 +10042,8 @@
       "receipt": {
         "captionHash": "9f3ea5a0f31f3545cb4eacf0198cd66fe8ca65b85cacd66d63a81e047d3729d3",
         "affiliateLink": "https://s.shopee.com.br/2gCvRPUIZ1"
-      }
+      },
+      "messageId": 634
     }
   },
   "slots": {

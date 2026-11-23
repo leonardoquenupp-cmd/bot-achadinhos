@@ -11271,6 +11271,30 @@
         "affiliateLink": "https://s.shopee.com.br/7VIAyvletc"
       },
       "messageId": 682
+    },
+    "391739739:23694530565": {
+      "status": "pending",
+      "slot": "2026-11-23:20:30",
+      "at": "2026-11-23T23:31:43.170Z",
+      "fingerprint": [
+        "tablet",
+        "teclado",
+        "mouse",
+        "6gb",
+        "ram",
+        "128gb",
+        "android",
+        "camera",
+        "50mp",
+        "anjgg"
+      ],
+      "imageIdentity": "/file/sg-11134201-821fe-mgy362sxj7ynf3",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "18dcb7ea508c0941b916b2ca81952fbb6154d88eef0ada49e45118f9e4bbef55",
+        "affiliateLink": "https://s.shopee.com.br/6AmoxH45bD"
+      }
     }
   },
   "slots": {
@@ -11781,7 +11805,8 @@
     "2026-11-23:19:30": "1802326087:58266496440",
     "2026-11-23:19:45": "1397809275:58204807527",
     "2026-11-23:20:00": "290073877:18397642746",
-    "2026-11-23:20:15": "1634839138:58216416663"
+    "2026-11-23:20:15": "1634839138:58216416663",
+    "2026-11-23:20:30": "391739739:23694530565"
   },
-  "cursor": 6
+  "cursor": 7
 }

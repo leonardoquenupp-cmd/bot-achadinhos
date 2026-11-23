@@ -10254,9 +10254,9 @@
       "messageId": 642
     },
     "386938697:8716065733": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:10:40",
-      "at": "2026-11-23T13:41:58.350Z",
+      "at": "2026-11-23T13:42:01.029Z",
       "fingerprint": [
         "jogo",
         "ferramentas",
@@ -10275,7 +10275,8 @@
       "receipt": {
         "captionHash": "9ca97a4541b6f3ab49ab8c9fef49bd5d5a550c153ff90b181e2c7b18cc7b6107",
         "affiliateLink": "https://s.shopee.com.br/5AuGSoOwgY"
-      }
+      },
+      "messageId": 643
     }
   },
   "slots": {

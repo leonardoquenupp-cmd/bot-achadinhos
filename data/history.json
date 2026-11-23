@@ -10404,6 +10404,33 @@
         "affiliateLink": "https://s.shopee.com.br/4VeZPPx4zP"
       },
       "messageId": 648
+    },
+    "207474891:45604311031": {
+      "status": "pending",
+      "slot": "2026-11-23:12:15",
+      "at": "2026-11-23T15:16:28.450Z",
+      "fingerprint": [
+        "almofadas",
+        "reducao",
+        "ruido",
+        "porta",
+        "carro",
+        "antivibracao",
+        "silicone",
+        "ajuste",
+        "seguro",
+        "suporte",
+        "adesivo",
+        "facil",
+        "ins"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260t-mj6cmplsb28283",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "53606250ff1790c9d52860a7d395b2a609f5f179dc9a22f14a896efd4d3861e2",
+        "affiliateLink": "https://s.shopee.com.br/1BO7XV3uR4"
+      }
     }
   },
   "slots": {
@@ -10880,7 +10907,8 @@
     "2026-11-23:11:15": "831272734:57252461095",
     "2026-11-23:11:30": "1454188932:22993711209",
     "2026-11-23:11:45": "1103918873:22295189209",
-    "2026-11-23:12:00": "1385382926:23398006332"
+    "2026-11-23:12:00": "1385382926:23398006332",
+    "2026-11-23:12:15": "207474891:45604311031"
   },
-  "cursor": 6
+  "cursor": 8
 }

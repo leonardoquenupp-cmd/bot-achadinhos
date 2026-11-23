@@ -10937,9 +10937,9 @@
       "messageId": 669
     },
     "1158022763:46716892371": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:17:00",
-      "at": "2026-11-23T20:04:48.219Z",
+      "at": "2026-11-23T20:04:51.048Z",
       "fingerprint": [
         "flores",
         "natal",
@@ -10958,7 +10958,8 @@
       "receipt": {
         "captionHash": "bab07a334f019afd7dd8cfdf7910b7cff294948f3c207b46408d2b0517711084",
         "affiliateLink": "https://s.shopee.com.br/Lp1xS2f2V"
-      }
+      },
+      "messageId": 670
     }
   },
   "slots": {

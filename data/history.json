@@ -11125,9 +11125,9 @@
       "messageId": 676
     },
     "469998490:20597603526": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:19:00",
-      "at": "2026-11-23T22:01:52.375Z",
+      "at": "2026-11-23T22:01:54.889Z",
       "fingerprint": [
         "mega",
         "cartela",
@@ -11148,7 +11148,8 @@
       "receipt": {
         "captionHash": "f1763b8c8d3aa87dc05f96088a57f7c215ce2943ba2dfd1af582e1da3ee69e74",
         "affiliateLink": "https://s.shopee.com.br/6q2VvrKklv"
-      }
+      },
+      "messageId": 677
     }
   },
   "slots": {

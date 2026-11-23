@@ -10488,9 +10488,9 @@
       "messageId": 651
     },
     "710045240:47619302176": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:13:00",
-      "at": "2026-11-23T16:01:29.580Z",
+      "at": "2026-11-23T16:01:32.084Z",
       "fingerprint": [
         "tapete",
         "pet",
@@ -10511,7 +10511,8 @@
       "receipt": {
         "captionHash": "cffb5582e0b7eb1de91383a279fe44ec422e68c6b60e2c4f4d810a2e26d627ab",
         "affiliateLink": "https://s.shopee.com.br/2qWMaSs30n"
-      }
+      },
+      "messageId": 652
     }
   },
   "slots": {

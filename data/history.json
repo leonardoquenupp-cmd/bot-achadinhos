@@ -10935,6 +10935,30 @@
         "affiliateLink": "https://s.shopee.com.br/1BO72CmKzO"
       },
       "messageId": 669
+    },
+    "1158022763:46716892371": {
+      "status": "pending",
+      "slot": "2026-11-23:17:00",
+      "at": "2026-11-23T20:04:48.219Z",
+      "fingerprint": [
+        "flores",
+        "natal",
+        "premium",
+        "arvore",
+        "artificial",
+        "decoracao",
+        "enfeites",
+        "brilhante",
+        "luxo",
+        "pick"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258x-msejixjr1ukke1",
+      "family": "arvore-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "bab07a334f019afd7dd8cfdf7910b7cff294948f3c207b46408d2b0517711084",
+        "affiliateLink": "https://s.shopee.com.br/Lp1xS2f2V"
+      }
     }
   },
   "slots": {
@@ -11432,7 +11456,8 @@
     "2026-11-23:16:15": "482637109:58215611300",
     "2026-11-23:16:30": "331720585:27881066513",
     "2026-11-23:16:45": "1058688207:23599260319",
-    "2026-11-23:16:55": "332038931:23221213430"
+    "2026-11-23:16:55": "332038931:23221213430",
+    "2026-11-23:17:00": "1158022763:46716892371"
   },
-  "cursor": 5
+  "cursor": 6
 }

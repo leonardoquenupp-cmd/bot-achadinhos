@@ -9991,9 +9991,9 @@
       "messageId": 632
     },
     "1408367819:23498780349": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:08:15",
-      "at": "2026-11-23T11:16:11.049Z",
+      "at": "2026-11-23T11:16:13.280Z",
       "fingerprint": [
         "ventilador",
         "80w",
@@ -10015,7 +10015,8 @@
       "receipt": {
         "captionHash": "5031730ad28efb7e8441e6b7289a701d0bb0ddfa54212002d697a0da6a384071",
         "affiliateLink": "https://s.shopee.com.br/6VPdMJZjPt"
-      }
+      },
+      "messageId": 633
     }
   },
   "slots": {

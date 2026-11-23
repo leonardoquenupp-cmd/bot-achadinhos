@@ -11244,6 +11244,32 @@
         "affiliateLink": "https://s.shopee.com.br/1CBDG2plU"
       },
       "messageId": 681
+    },
+    "1634839138:58216416663": {
+      "status": "pending",
+      "slot": "2026-11-23:20:15",
+      "at": "2026-11-23T23:16:40.555Z",
+      "fingerprint": [
+        "cola",
+        "sapatos",
+        "premium",
+        "alta",
+        "resistencia",
+        "60ml",
+        "adesivo",
+        "reparacao",
+        "calcado",
+        "couro",
+        "sapatilhas",
+        "desportivas"
+      ],
+      "imageIdentity": "/file/br-11134207-820l6-mrqsvdpgac5h0f",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "f25fa3f89da61ebababebad58da4d045835e82187b47585faf2b7f2622627e91",
+        "affiliateLink": "https://s.shopee.com.br/7VIAyvletc"
+      }
     }
   },
   "slots": {
@@ -11753,7 +11779,8 @@
     "2026-11-23:19:15": "1502069336:58267301442",
     "2026-11-23:19:30": "1802326087:58266496440",
     "2026-11-23:19:45": "1397809275:58204807527",
-    "2026-11-23:20:00": "290073877:18397642746"
+    "2026-11-23:20:00": "290073877:18397642746",
+    "2026-11-23:20:15": "1634839138:58216416663"
   },
-  "cursor": 5
+  "cursor": 6
 }

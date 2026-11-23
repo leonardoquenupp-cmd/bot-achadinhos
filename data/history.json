@@ -10174,9 +10174,9 @@
       "messageId": 639
     },
     "1553752047:23594857544": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:10:00",
-      "at": "2026-11-23T13:01:27.451Z",
+      "at": "2026-11-23T13:01:29.941Z",
       "fingerprint": [
         "caixa",
         "som",
@@ -10195,7 +10195,8 @@
       "receipt": {
         "captionHash": "041fab8c5d4cce236ce548b70ccfb7ff54f7f23ebd98d1f5d1b1bd524d4f3838",
         "affiliateLink": "https://s.shopee.com.br/W8QEHt2rY"
-      }
+      },
+      "messageId": 640
     }
   },
   "slots": {

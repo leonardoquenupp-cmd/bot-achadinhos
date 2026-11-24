@@ -11621,6 +11621,30 @@
         "affiliateLink": "https://s.shopee.com.br/BVbQacLZC"
       },
       "messageId": 696
+    },
+    "396855381:9181789718": {
+      "status": "pending",
+      "slot": "2026-11-24:08:45",
+      "at": "2026-11-24T11:46:32.549Z",
+      "fingerprint": [
+        "espelho",
+        "retrovisor",
+        "interno",
+        "universal",
+        "panoramico",
+        "automotivo",
+        "carros",
+        "ponto",
+        "cego",
+        "300mm"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-ltl9aup593qhfb",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "437d40e4418966906b6c7f191e8489d6da7a9eaabd505eff2559e3c7407e0751",
+        "affiliateLink": "https://s.shopee.com.br/3g5TsUjWw5"
+      }
     }
   },
   "slots": {
@@ -12145,7 +12169,8 @@
     "2026-11-23:22:45": "1101178064:44001553177",
     "2026-11-24:08:00": "1077139873:44451988896",
     "2026-11-24:08:15": "1046010418:58257776035",
-    "2026-11-24:08:30": "1347713109:55309317500"
+    "2026-11-24:08:30": "1347713109:55309317500",
+    "2026-11-24:08:45": "396855381:9181789718"
   },
-  "cursor": 15
+  "cursor": 0
 }

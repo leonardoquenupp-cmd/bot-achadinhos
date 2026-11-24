@@ -11373,9 +11373,9 @@
       "messageId": 686
     },
     "1459307687:40624794433": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:21:30",
-      "at": "2026-11-24T00:31:41.424Z",
+      "at": "2026-11-24T00:31:43.731Z",
       "fingerprint": [
         "escova",
         "secador",
@@ -11393,7 +11393,8 @@
       "receipt": {
         "captionHash": "7608860c3fb4659006c8b3ca1c2315109eeababaf965b226e2cd38dea2bacfac",
         "affiliateLink": "https://s.shopee.com.br/W8SBqTBHS"
-      }
+      },
+      "messageId": 687
     }
   },
   "slots": {

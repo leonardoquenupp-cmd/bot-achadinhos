@@ -12171,6 +12171,31 @@
         "affiliateLink": "https://s.shopee.com.br/3B9BYSB1Vy"
       },
       "messageId": 718
+    },
+    "1321463020:23693891395": {
+      "status": "pending",
+      "slot": "2026-11-24:14:45",
+      "at": "2026-11-24T17:46:11.986Z",
+      "fingerprint": [
+        "placas",
+        "bruxismo",
+        "moldeira",
+        "silicone",
+        "molde",
+        "caseiro",
+        "aparelho",
+        "protetor",
+        "inferior",
+        "superior",
+        "estojo"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rene-m8ihmls4nidcd6",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "0a474c686b3e2a98f4766d39137ebb93a5e6b1e416aa9e3f2b2f9c8d5ea31e07",
+        "affiliateLink": "https://s.shopee.com.br/4VeanuHhhz"
+      }
     }
   },
   "slots": {
@@ -12717,7 +12742,8 @@
     "2026-11-24:13:45": "771750144:21797631048",
     "2026-11-24:14:00": "904620355:50167601809",
     "2026-11-24:14:15": "1173732382:18599610839",
-    "2026-11-24:14:30": "1856353080:58215621120"
+    "2026-11-24:14:30": "1856353080:58215621120",
+    "2026-11-24:14:45": "1321463020:23693891395"
   },
-  "cursor": 1
+  "cursor": 3
 }

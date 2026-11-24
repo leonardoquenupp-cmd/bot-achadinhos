@@ -12590,9 +12590,9 @@
       "messageId": 734
     },
     "1526836548:23294017921": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:18:45",
-      "at": "2026-11-24T21:46:35.155Z",
+      "at": "2026-11-24T21:46:37.421Z",
       "fingerprint": [
         "maquina",
         "lavar",
@@ -12613,7 +12613,8 @@
       "receipt": {
         "captionHash": "1b80a20820eea102e6d865d642d482bdbf3e744ec8abf66afb096b5c83f7ba33",
         "affiliateLink": "https://s.shopee.com.br/30pnCWbwvr"
-      }
+      },
+      "messageId": 735
     }
   },
   "slots": {

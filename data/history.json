@@ -12411,9 +12411,9 @@
       "messageId": 727
     },
     "264979861:57004268445": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:17:00",
-      "at": "2026-11-24T20:01:18.237Z",
+      "at": "2026-11-24T20:01:20.398Z",
       "fingerprint": [
         "almofada",
         "anti",
@@ -12435,7 +12435,8 @@
       "receipt": {
         "captionHash": "7779d952d7a4ad62ca6e063e5f833b4c4b32c3e221772d4dbe410c66d7b16b11",
         "affiliateLink": "https://s.shopee.com.br/BVcG2qU0U"
-      }
+      },
+      "messageId": 728
     }
   },
   "slots": {

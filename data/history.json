@@ -11571,9 +11571,9 @@
       "messageId": 694
     },
     "1046010418:58257776035": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:08:15",
-      "at": "2026-11-24T11:16:20.073Z",
+      "at": "2026-11-24T11:16:22.372Z",
       "fingerprint": [
         "espuma",
         "spray",
@@ -11595,7 +11595,8 @@
       "receipt": {
         "captionHash": "4a498292c0b2904f98c0daffe8aea2c671fc357355e26ad357212350bd53ec94",
         "affiliateLink": "https://s.shopee.com.br/5AuHX2yZZZ"
-      }
+      },
+      "messageId": 695
     }
   },
   "slots": {

@@ -11524,9 +11524,9 @@
       "messageId": 692
     },
     "1101178064:44001553177": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:22:45",
-      "at": "2026-11-24T01:46:19.591Z",
+      "at": "2026-11-24T01:46:22.017Z",
       "fingerprint": [
         "tapete",
         "higienico",
@@ -11547,7 +11547,8 @@
       "receipt": {
         "captionHash": "254c8a2ca9ad7a66ed26f6d31ce03f313509ec44bd748c0d65697181a457a925",
         "affiliateLink": "https://s.shopee.com.br/4qHQ3TMOSh"
-      }
+      },
+      "messageId": 693
     }
   },
   "slots": {

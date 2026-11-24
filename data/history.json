@@ -12615,6 +12615,25 @@
         "affiliateLink": "https://s.shopee.com.br/30pnCWbwvr"
       },
       "messageId": 735
+    },
+    "304357487:10964824524": {
+      "status": "pending",
+      "slot": "2026-11-24:19:00",
+      "at": "2026-11-24T22:01:20.309Z",
+      "fingerprint": [
+        "wide",
+        "leg",
+        "jeans",
+        "feminina",
+        "premium"
+      ],
+      "imageIdentity": "/file/br-11134207-820l4-mul93nhlowlf88",
+      "family": "wide-leg",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "092f14cc7451d557ea1fdfb8a16c459a76090d500eea9b23753d5e4c8841645c",
+        "affiliateLink": "https://s.shopee.com.br/gRsWNORHj"
+      }
     }
   },
   "slots": {
@@ -13178,7 +13197,8 @@
     "2026-11-24:18:00": "476953308:22494314914",
     "2026-11-24:18:15": "1807822255:58211578706",
     "2026-11-24:18:30": "1803524453:58215621878",
-    "2026-11-24:18:45": "1526836548:23294017921"
+    "2026-11-24:18:45": "1526836548:23294017921",
+    "2026-11-24:19:00": "304357487:10964824524"
   },
-  "cursor": 9
+  "cursor": 11
 }

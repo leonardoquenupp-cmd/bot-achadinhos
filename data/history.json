@@ -12537,6 +12537,30 @@
         "affiliateLink": "https://s.shopee.com.br/50aqAd1ROm"
       },
       "messageId": 732
+    },
+    "1807822255:58211578706": {
+      "status": "pending",
+      "slot": "2026-11-24:18:15",
+      "at": "2026-11-24T21:16:07.921Z",
+      "fingerprint": [
+        "pcs",
+        "pentes",
+        "ferramentas",
+        "penteados",
+        "escovas",
+        "clipe",
+        "bico",
+        "pato",
+        "ferramenta",
+        "tranca"
+      ],
+      "imageIdentity": "/file/br-11134207-820m9-mosjfvni36yt07",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "ec3d20c11ba2cfa3a0c96a69af35c03b9d92dc2454ff329f1918959c5df19a21",
+        "affiliateLink": "https://s.shopee.com.br/6VPfbKlU2d"
+      }
     }
   },
   "slots": {
@@ -13097,7 +13121,8 @@
     "2026-11-24:17:15": "1108411379:58200404935",
     "2026-11-24:17:30": "430046270:20699893256",
     "2026-11-24:17:45": "669626175:58269228792",
-    "2026-11-24:18:00": "476953308:22494314914"
+    "2026-11-24:18:00": "476953308:22494314914",
+    "2026-11-24:18:15": "1807822255:58211578706"
   },
-  "cursor": 4
+  "cursor": 6
 }

@@ -11850,6 +11850,27 @@
         "affiliateLink": "https://s.shopee.com.br/9zzX7dQlTU"
       },
       "messageId": 705
+    },
+    "447393034:22698661742": {
+      "status": "pending",
+      "slot": "2026-11-24:11:15",
+      "at": "2026-11-24T14:16:44.614Z",
+      "fingerprint": [
+        "escova",
+        "profissional",
+        "termica",
+        "cerdas",
+        "duplas",
+        "base",
+        "ceramica"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mb84a6m4ltkp26",
+      "family": "escova-profissional",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "3e5a4721f879d4b0c5e43b49314a10a5093dea5457cd273cf48a3e00cea4b83e",
+        "affiliateLink": "https://s.shopee.com.br/1LhYojXuCJ"
+      }
     }
   },
   "slots": {
@@ -12383,7 +12404,8 @@
     "2026-11-24:10:15": "987393610:22397182247",
     "2026-11-24:10:30": "347988064:22497186627",
     "2026-11-24:10:45": "452150155:22795028666",
-    "2026-11-24:11:00": "462357424:58200512845"
+    "2026-11-24:11:00": "462357424:58200512845",
+    "2026-11-24:11:15": "447393034:22698661742"
   },
-  "cursor": 10
+  "cursor": 11
 }

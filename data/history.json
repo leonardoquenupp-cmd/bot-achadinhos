@@ -12710,9 +12710,9 @@
       "messageId": 739
     },
     "391739739:20797995919": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:20:00",
-      "at": "2026-11-24T23:01:59.673Z",
+      "at": "2026-11-24T23:02:02.335Z",
       "fingerprint": [
         "tablet",
         "teclado",
@@ -12729,7 +12729,8 @@
       "receipt": {
         "captionHash": "41c482dfca0f4379f11d1b4783236e2fc14ec35e7007f17f09fa9af5730c1764",
         "affiliateLink": "https://s.shopee.com.br/2gCy4B5nhI"
-      }
+      },
+      "messageId": 740
     }
   },
   "slots": {

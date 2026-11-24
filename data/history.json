@@ -12074,9 +12074,9 @@
       "messageId": 714
     },
     "771750144:21797631048": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:13:45",
-      "at": "2026-11-24T16:47:19.028Z",
+      "at": "2026-11-24T16:47:21.149Z",
       "fingerprint": [
         "sapateira",
         "andares",
@@ -12093,7 +12093,8 @@
       "receipt": {
         "captionHash": "f274184f7ea3d4454542795b733954df67b1e546048868160721a1fe8c2bd603",
         "affiliateLink": "https://s.shopee.com.br/AUvmhhxYVJ"
-      }
+      },
+      "messageId": 715
     }
   },
   "slots": {

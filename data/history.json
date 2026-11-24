@@ -12271,6 +12271,33 @@
         "affiliateLink": "https://s.shopee.com.br/8fU8XMnTx7"
       },
       "messageId": 722
+    },
+    "447393034:18498281829": {
+      "status": "pending",
+      "slot": "2026-11-24:15:45",
+      "at": "2026-11-24T18:46:39.347Z",
+      "fingerprint": [
+        "rastreador",
+        "airtag",
+        "smart",
+        "tag",
+        "localizador",
+        "gps",
+        "mala",
+        "automoveis",
+        "pet",
+        "crianca",
+        "sem",
+        "limite",
+        "distancia"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mavc0e502q6145",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "86e18b3c43fdec806a26e3f6303755765261c2310bc2c942519c3bf67f0f7994",
+        "affiliateLink": "https://s.shopee.com.br/8AXrVdrzMO"
+      }
     }
   },
   "slots": {
@@ -12821,7 +12848,8 @@
     "2026-11-24:14:45": "1321463020:23693891395",
     "2026-11-24:15:00": "717396632:23999245522",
     "2026-11-24:15:15": "1225348063:19999598253",
-    "2026-11-24:15:30": "290908815:58213966289"
+    "2026-11-24:15:30": "290908815:58213966289",
+    "2026-11-24:15:45": "447393034:18498281829"
   },
-  "cursor": 10
+  "cursor": 11
 }

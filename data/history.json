@@ -11948,9 +11948,9 @@
       "messageId": 709
     },
     "1403214375:22098708423": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:12:15",
-      "at": "2026-11-24T15:16:46.048Z",
+      "at": "2026-11-24T15:16:47.912Z",
       "fingerprint": [
         "sutia",
         "alcinha",
@@ -11968,7 +11968,8 @@
       "receipt": {
         "captionHash": "5ff406711df3a6a1aa62f9fdfd58509646f768c2d2683d8b2dd4b16b617f1b84",
         "affiliateLink": "https://s.shopee.com.br/7fbcrExn4f"
-      }
+      },
+      "messageId": 710
     }
   },
   "slots": {

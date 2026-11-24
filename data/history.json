@@ -11464,6 +11464,38 @@
         "affiliateLink": "https://s.shopee.com.br/5AuG3M7IXz"
       },
       "messageId": 690
+    },
+    "1297274641:52456506098": {
+      "status": "pending",
+      "slot": "2026-11-23:22:20",
+      "at": "2026-11-24T01:22:14.667Z",
+      "fingerprint": [
+        "kingston",
+        "hyperx",
+        "fury",
+        "ddr4",
+        "branco",
+        "16gb",
+        "8gb",
+        "4gb",
+        "3200mhz",
+        "2666mhz",
+        "2400mhz",
+        "2133mhz",
+        "pc4",
+        "memoria",
+        "ram",
+        "desktop",
+        "288",
+        "pinos"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260c-ml6ltb7wn5lba5",
+      "family": "kingston-hyperx",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "48893a74eb8c2560f916ba4801283816ebdda6cb46e4019432e0a4ec1c9c2dcd",
+        "affiliateLink": "https://s.shopee.com.br/8pna44QTqf"
+      }
     }
   },
   "slots": {
@@ -11982,7 +12014,8 @@
     "2026-11-23:21:30": "1459307687:40624794433",
     "2026-11-23:21:45": "1485077747:58252016104",
     "2026-11-23:22:00": "1024858829:58258030129",
-    "2026-11-23:22:15": "1242044379:23197485445"
+    "2026-11-23:22:15": "1242044379:23197485445",
+    "2026-11-23:22:20": "1297274641:52456506098"
   },
-  "cursor": 2
+  "cursor": 6
 }

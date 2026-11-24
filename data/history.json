@@ -11972,9 +11972,9 @@
       "messageId": 710
     },
     "1837772410:58216025165": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:12:30",
-      "at": "2026-11-24T15:31:36.229Z",
+      "at": "2026-11-24T15:31:38.678Z",
       "fingerprint": [
         "pares",
         "manga",
@@ -11998,7 +11998,8 @@
       "receipt": {
         "captionHash": "969ff2e72a56f4884f581fc015fa8a98b485d2565d7dd39e5780ed8df24a3cc6",
         "affiliateLink": "https://s.shopee.com.br/5VX9KFBJLp"
-      }
+      },
+      "messageId": 711
     }
   },
   "slots": {

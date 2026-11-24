@@ -12173,9 +12173,9 @@
       "messageId": 718
     },
     "1321463020:23693891395": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:14:45",
-      "at": "2026-11-24T17:46:11.986Z",
+      "at": "2026-11-24T17:46:14.133Z",
       "fingerprint": [
         "placas",
         "bruxismo",
@@ -12195,7 +12195,8 @@
       "receipt": {
         "captionHash": "0a474c686b3e2a98f4766d39137ebb93a5e6b1e416aa9e3f2b2f9c8d5ea31e07",
         "affiliateLink": "https://s.shopee.com.br/4VeanuHhhz"
-      }
+      },
+      "messageId": 719
     }
   },
   "slots": {

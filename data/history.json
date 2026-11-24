@@ -12684,6 +12684,29 @@
         "affiliateLink": "https://s.shopee.com.br/1LhYoiPqzz"
       },
       "messageId": 738
+    },
+    "1874544643:58264498842": {
+      "status": "pending",
+      "slot": "2026-11-24:19:45",
+      "at": "2026-11-24T22:46:28.802Z",
+      "fingerprint": [
+        "pares",
+        "palmilha",
+        "anatomica",
+        "ortopedica",
+        "gel",
+        "macia",
+        "todos",
+        "tipos",
+        "calcados"
+      ],
+      "imageIdentity": "/file/br-11134207-820lj-mvw3kk3x04jkeb",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "fc4d8fb752ba14ffd95544d747a2e776487b6774b9d7996cf5bee53c044cd5c8",
+        "affiliateLink": "https://s.shopee.com.br/4qHPo348aP"
+      }
     }
   },
   "slots": {
@@ -13250,7 +13273,8 @@
     "2026-11-24:18:45": "1526836548:23294017921",
     "2026-11-24:19:00": "304357487:10964824524",
     "2026-11-24:19:15": "698887220:58215327443",
-    "2026-11-24:19:30": "407952755:22597349492"
+    "2026-11-24:19:30": "407952755:22597349492",
+    "2026-11-24:19:45": "1874544643:58264498842"
   },
-  "cursor": 14
+  "cursor": 0
 }

@@ -12002,9 +12002,9 @@
       "messageId": 711
     },
     "1365685668:27819896650": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:12:45",
-      "at": "2026-11-24T15:46:39.054Z",
+      "at": "2026-11-24T15:46:42.073Z",
       "fingerprint": [
         "xiusuzaki",
         "cilios",
@@ -12022,7 +12022,8 @@
       "receipt": {
         "captionHash": "749b0bbd8f261e88a14e5617da185a7ef775a49ff1f5170883372046c4a55de1",
         "affiliateLink": "https://s.shopee.com.br/1qdnrs6k1t"
-      }
+      },
+      "messageId": 712
     }
   },
   "slots": {

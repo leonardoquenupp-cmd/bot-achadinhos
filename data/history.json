@@ -12733,9 +12733,9 @@
       "messageId": 740
     },
     "1371273333:23799156338": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:20:15",
-      "at": "2026-11-24T23:16:40.073Z",
+      "at": "2026-11-24T23:16:42.443Z",
       "fingerprint": [
         "shorts",
         "feminino",
@@ -12755,7 +12755,8 @@
       "receipt": {
         "captionHash": "d826f023c5bb80d08f5af5664752186765c56cc70b4173abc46191ec0a4c5b61",
         "affiliateLink": "https://s.shopee.com.br/5q9yPPHAZO"
-      }
+      },
+      "messageId": 741
     }
   },
   "slots": {

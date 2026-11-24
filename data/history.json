@@ -12465,6 +12465,27 @@
         "affiliateLink": "https://s.shopee.com.br/8VAlIOu57Y"
       },
       "messageId": 729
+    },
+    "430046270:20699893256": {
+      "status": "pending",
+      "slot": "2026-11-24:17:30",
+      "at": "2026-11-24T20:31:32.733Z",
+      "fingerprint": [
+        "legging",
+        "suplex",
+        "fitness",
+        "pronta",
+        "entrega",
+        "zero",
+        "transparencia"
+      ],
+      "imageIdentity": "/file/f6f75b5192f765859036093f8c6086e8",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "acaa27150dbb48b794b95f6cb168343998f3f8eddbc1d72f445bdf0f47c1a0e3",
+        "affiliateLink": "https://s.shopee.com.br/6fj5OwDzsf"
+      }
     }
   },
   "slots": {
@@ -13022,7 +13043,8 @@
     "2026-11-24:16:30": "1580145778:22099285853",
     "2026-11-24:16:45": "1930167691:58218141043",
     "2026-11-24:17:00": "264979861:57004268445",
-    "2026-11-24:17:15": "1108411379:58200404935"
+    "2026-11-24:17:15": "1108411379:58200404935",
+    "2026-11-24:17:30": "430046270:20699893256"
   },
-  "cursor": 1
+  "cursor": 2
 }

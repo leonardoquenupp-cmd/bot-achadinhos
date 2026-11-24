@@ -11970,6 +11970,35 @@
         "affiliateLink": "https://s.shopee.com.br/7fbcrExn4f"
       },
       "messageId": 710
+    },
+    "1837772410:58216025165": {
+      "status": "pending",
+      "slot": "2026-11-24:12:30",
+      "at": "2026-11-24T15:31:36.229Z",
+      "fingerprint": [
+        "pares",
+        "manga",
+        "manguito",
+        "fresco",
+        "verao",
+        "respiravel",
+        "fino",
+        "macio",
+        "elastico",
+        "moto",
+        "volei",
+        "corrida",
+        "ciclismo",
+        "pesca",
+        "livre"
+      ],
+      "imageIdentity": "/file/br-11134207-820lq-ms8wy5jbpfyccc",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "969ff2e72a56f4884f581fc015fa8a98b485d2565d7dd39e5780ed8df24a3cc6",
+        "affiliateLink": "https://s.shopee.com.br/5VX9KFBJLp"
+      }
     }
   },
   "slots": {
@@ -12508,7 +12537,8 @@
     "2026-11-24:11:30": "1351295150:25439532535",
     "2026-11-24:11:45": "1229058076:47557115822",
     "2026-11-24:12:00": "309446737:58213605237",
-    "2026-11-24:12:15": "1403214375:22098708423"
+    "2026-11-24:12:15": "1403214375:22098708423",
+    "2026-11-24:12:30": "1837772410:58216025165"
   },
-  "cursor": 4
+  "cursor": 5
 }

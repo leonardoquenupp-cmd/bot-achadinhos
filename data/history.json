@@ -12637,9 +12637,9 @@
       "messageId": 736
     },
     "698887220:58215327443": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:19:15",
-      "at": "2026-11-24T22:16:12.482Z",
+      "at": "2026-11-24T22:16:14.762Z",
       "fingerprint": [
         "eletricista",
         "chave",
@@ -12657,7 +12657,8 @@
       "receipt": {
         "captionHash": "35dc2a8efbf5b125163c7c7c0cab97560e03f19445a1576e49bb6a309cdda8f3",
         "affiliateLink": "https://s.shopee.com.br/3Vm3jGqbcG"
-      }
+      },
+      "messageId": 737
     }
   },
   "slots": {

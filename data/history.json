@@ -11569,6 +11569,33 @@
         "affiliateLink": "https://s.shopee.com.br/7fbbObBGPs"
       },
       "messageId": 694
+    },
+    "1046010418:58257776035": {
+      "status": "pending",
+      "slot": "2026-11-24:08:15",
+      "at": "2026-11-24T11:16:20.073Z",
+      "fingerprint": [
+        "espuma",
+        "spray",
+        "zip",
+        "clean",
+        "300ml",
+        "limpa",
+        "seco",
+        "sofa",
+        "estofado",
+        "banco",
+        "carro",
+        "limpeza",
+        "profunda"
+      ],
+      "imageIdentity": "/file/br-11134224-820l9-mmc2f4x0rx1j08",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "4a498292c0b2904f98c0daffe8aea2c671fc357355e26ad357212350bd53ec94",
+        "affiliateLink": "https://s.shopee.com.br/5AuHX2yZZZ"
+      }
     }
   },
   "slots": {
@@ -12091,7 +12118,8 @@
     "2026-11-23:22:20": "1297274641:52456506098",
     "2026-11-23:22:30": "397374716:22094981741",
     "2026-11-23:22:45": "1101178064:44001553177",
-    "2026-11-24:08:00": "1077139873:44451988896"
+    "2026-11-24:08:00": "1077139873:44451988896",
+    "2026-11-24:08:15": "1046010418:58257776035"
   },
-  "cursor": 12
+  "cursor": 14
 }

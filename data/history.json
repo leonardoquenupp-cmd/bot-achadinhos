@@ -12024,6 +12024,30 @@
         "affiliateLink": "https://s.shopee.com.br/1qdnrs6k1t"
       },
       "messageId": 712
+    },
+    "1511719344:52902916381": {
+      "status": "pending",
+      "slot": "2026-11-24:13:15",
+      "at": "2026-11-24T16:16:11.952Z",
+      "fingerprint": [
+        "lentes",
+        "contato",
+        "coloridas",
+        "2pcs",
+        "contatos",
+        "coloridos",
+        "maquiagem",
+        "cosmeticos",
+        "brown",
+        "eyes"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mi3yffbhj40267",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "21bc7d9731d2a0860a76ed7a4e78a3a37d7394120b0f57bfdb15e0fd1ec8292e",
+        "affiliateLink": "https://s.shopee.com.br/2BGg1cQaRp"
+      }
     }
   },
   "slots": {
@@ -12564,7 +12588,8 @@
     "2026-11-24:12:00": "309446737:58213605237",
     "2026-11-24:12:15": "1403214375:22098708423",
     "2026-11-24:12:30": "1837772410:58216025165",
-    "2026-11-24:12:45": "1365685668:27819896650"
+    "2026-11-24:12:45": "1365685668:27819896650",
+    "2026-11-24:13:15": "1511719344:52902916381"
   },
-  "cursor": 7
+  "cursor": 8
 }

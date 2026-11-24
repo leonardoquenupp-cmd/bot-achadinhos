@@ -11421,9 +11421,9 @@
       "messageId": 688
     },
     "1024858829:58258030129": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:22:00",
-      "at": "2026-11-24T01:01:43.978Z",
+      "at": "2026-11-24T01:01:46.677Z",
       "fingerprint": [
         "pelicula",
         "protetora",
@@ -11440,7 +11440,8 @@
       "receipt": {
         "captionHash": "58e64d5ad93a398a0e211b9b254d37b0b5d7c1d858b9af50c582f471efc3ccc9",
         "affiliateLink": "https://s.shopee.com.br/3B9BpzXu2a"
-      }
+      },
+      "messageId": 689
     }
   },
   "slots": {

@@ -11324,9 +11324,9 @@
       "messageId": 684
     },
     "388898696:58211654507": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:21:00",
-      "at": "2026-11-24T00:01:31.551Z",
+      "at": "2026-11-24T00:01:33.986Z",
       "fingerprint": [
         "tecido",
         "tnt",
@@ -11345,7 +11345,8 @@
       "receipt": {
         "captionHash": "ebcade1861449baf7f007889b6dd563522305f9fda1bbc448eb7e3883f7fe1a7",
         "affiliateLink": "https://s.shopee.com.br/7pv1auAd4v"
-      }
+      },
+      "messageId": 685
     }
   },
   "slots": {

@@ -12301,9 +12301,9 @@
       "messageId": 723
     },
     "1511724455:41902300606": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:16:00",
-      "at": "2026-11-24T19:01:38.396Z",
+      "at": "2026-11-24T19:01:40.610Z",
       "fingerprint": [
         "escova",
         "dental",
@@ -12327,7 +12327,8 @@
       "receipt": {
         "captionHash": "67ae311b60521be2de94b7920f2e31798c44c9c21aa947c924c49a883ebd69f0",
         "affiliateLink": "https://s.shopee.com.br/Lp3aQ7m5F"
-      }
+      },
+      "messageId": 724
     }
   },
   "slots": {

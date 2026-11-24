@@ -11852,9 +11852,9 @@
       "messageId": 705
     },
     "447393034:22698661742": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:11:15",
-      "at": "2026-11-24T14:16:44.614Z",
+      "at": "2026-11-24T14:16:47.680Z",
       "fingerprint": [
         "escova",
         "profissional",
@@ -11870,7 +11870,8 @@
       "receipt": {
         "captionHash": "3e5a4721f879d4b0c5e43b49314a10a5093dea5457cd273cf48a3e00cea4b83e",
         "affiliateLink": "https://s.shopee.com.br/1LhYojXuCJ"
-      }
+      },
+      "messageId": 706
     }
   },
   "slots": {

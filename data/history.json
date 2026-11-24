@@ -11946,6 +11946,29 @@
         "affiliateLink": "https://s.shopee.com.br/2VtXz6RvFW"
       },
       "messageId": 709
+    },
+    "1403214375:22098708423": {
+      "status": "pending",
+      "slot": "2026-11-24:12:15",
+      "at": "2026-11-24T15:16:46.048Z",
+      "fingerprint": [
+        "sutia",
+        "alcinha",
+        "alta",
+        "sustentacao",
+        "bojo",
+        "removivel",
+        "conforto",
+        "import",
+        "afil"
+      ],
+      "imageIdentity": "/file/sg-11134201-7ra1e-mbidohr1jqdydd",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "5ff406711df3a6a1aa62f9fdfd58509646f768c2d2683d8b2dd4b16b617f1b84",
+        "affiliateLink": "https://s.shopee.com.br/7fbcrExn4f"
+      }
     }
   },
   "slots": {
@@ -12483,7 +12506,8 @@
     "2026-11-24:11:15": "447393034:22698661742",
     "2026-11-24:11:30": "1351295150:25439532535",
     "2026-11-24:11:45": "1229058076:47557115822",
-    "2026-11-24:12:00": "309446737:58213605237"
+    "2026-11-24:12:00": "309446737:58213605237",
+    "2026-11-24:12:15": "1403214375:22098708423"
   },
-  "cursor": 1
+  "cursor": 4
 }

@@ -12564,9 +12564,9 @@
       "messageId": 733
     },
     "1803524453:58215621878": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:18:30",
-      "at": "2026-11-24T21:31:13.732Z",
+      "at": "2026-11-24T21:31:15.973Z",
       "fingerprint": [
         "cabo",
         "carregador",
@@ -12586,7 +12586,8 @@
       "receipt": {
         "captionHash": "eec8bf74eee8fd97fec1befe6cf43b829dcbb5656a3fead1e9acea4970379d0c",
         "affiliateLink": "https://s.shopee.com.br/2gCuxXCvWr"
-      }
+      },
+      "messageId": 734
     }
   },
   "slots": {

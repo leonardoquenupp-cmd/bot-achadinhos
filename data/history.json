@@ -12782,6 +12782,28 @@
         "affiliateLink": "https://s.shopee.com.br/6VPfImfBX8"
       },
       "messageId": 742
+    },
+    "1067971921:22698516620": {
+      "status": "pending",
+      "slot": "2026-11-24:20:45",
+      "at": "2026-11-24T23:46:23.627Z",
+      "fingerprint": [
+        "faixas",
+        "elasticas",
+        "tecido",
+        "treino",
+        "yoga",
+        "resistentes",
+        "confortaveis",
+        "antideslizantes"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mm21sqywbx1j39",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "182a8bcc0df4b83b417abf4875f3bb656e9bac87916f2f81253f92c67b9b69cc",
+        "affiliateLink": "https://s.shopee.com.br/9Kjoy1iVEv"
+      }
     }
   },
   "slots": {
@@ -13352,7 +13374,8 @@
     "2026-11-24:19:45": "1874544643:58264498842",
     "2026-11-24:20:00": "391739739:20797995919",
     "2026-11-24:20:15": "1371273333:23799156338",
-    "2026-11-24:20:30": "967211054:22698990344"
+    "2026-11-24:20:30": "967211054:22698990344",
+    "2026-11-24:20:45": "1067971921:22698516620"
   },
-  "cursor": 4
+  "cursor": 5
 }

@@ -11896,6 +11896,31 @@
         "affiliateLink": "https://s.shopee.com.br/5VX6EaXBkI"
       },
       "messageId": 707
+    },
+    "1229058076:47557115822": {
+      "status": "pending",
+      "slot": "2026-11-24:11:45",
+      "at": "2026-11-24T14:46:16.339Z",
+      "fingerprint": [
+        "correia",
+        "guia",
+        "celular",
+        "corda",
+        "seguranca",
+        "anti",
+        "queda",
+        "retratil",
+        "telefone",
+        "cordao",
+        "roubo"
+      ],
+      "imageIdentity": "/file/sg-11134201-820le-mnsl638kvsw268",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "80868ce0ecab8f609d435a7210939e49adcc0bc47d7023d7de669e0cd99114c8",
+        "affiliateLink": "https://s.shopee.com.br/9zzVyY7tBO"
+      }
     }
   },
   "slots": {
@@ -12431,7 +12456,8 @@
     "2026-11-24:10:45": "452150155:22795028666",
     "2026-11-24:11:00": "462357424:58200512845",
     "2026-11-24:11:15": "447393034:22698661742",
-    "2026-11-24:11:30": "1351295150:25439532535"
+    "2026-11-24:11:30": "1351295150:25439532535",
+    "2026-11-24:11:45": "1229058076:47557115822"
   },
-  "cursor": 13
+  "cursor": 15
 }

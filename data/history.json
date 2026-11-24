@@ -12146,6 +12146,30 @@
         "affiliateLink": "https://s.shopee.com.br/9zzVarG3br"
       },
       "messageId": 717
+    },
+    "1856353080:58215621120": {
+      "status": "pending",
+      "slot": "2026-11-24:14:30",
+      "at": "2026-11-24T17:31:42.421Z",
+      "fingerprint": [
+        "capa",
+        "capinha",
+        "carregador",
+        "sem",
+        "fio",
+        "transparente",
+        "compativel",
+        "iphone",
+        "pro",
+        "max"
+      ],
+      "imageIdentity": "/file/br-11134207-820ln-mrjpkktqyv45dc",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "532358a91b6a726b73343f3899439ec5c271220d2fd73528e1e3971f50c9f32c",
+        "affiliateLink": "https://s.shopee.com.br/3B9BYSB1Vy"
+      }
     }
   },
   "slots": {
@@ -12691,7 +12715,8 @@
     "2026-11-24:13:30": "1630928956:18598350302",
     "2026-11-24:13:45": "771750144:21797631048",
     "2026-11-24:14:00": "904620355:50167601809",
-    "2026-11-24:14:15": "1173732382:18599610839"
+    "2026-11-24:14:15": "1173732382:18599610839",
+    "2026-11-24:14:30": "1856353080:58215621120"
   },
-  "cursor": 15
+  "cursor": 1
 }

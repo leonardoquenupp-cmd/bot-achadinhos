@@ -12072,6 +12072,28 @@
         "affiliateLink": "https://s.shopee.com.br/2BGeUrRzGf"
       },
       "messageId": 714
+    },
+    "771750144:21797631048": {
+      "status": "pending",
+      "slot": "2026-11-24:13:45",
+      "at": "2026-11-24T16:47:19.028Z",
+      "fingerprint": [
+        "sapateira",
+        "andares",
+        "multiuso",
+        "desmontavel",
+        "organizadora",
+        "sapatos",
+        "livros",
+        "brinquedos"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m275pnv5hbnq94",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "f274184f7ea3d4454542795b733954df67b1e546048868160721a1fe8c2bd603",
+        "affiliateLink": "https://s.shopee.com.br/AUvmhhxYVJ"
+      }
     }
   },
   "slots": {
@@ -12614,7 +12636,8 @@
     "2026-11-24:12:30": "1837772410:58216025165",
     "2026-11-24:12:45": "1365685668:27819896650",
     "2026-11-24:13:15": "1511719344:52902916381",
-    "2026-11-24:13:30": "1630928956:18598350302"
+    "2026-11-24:13:30": "1630928956:18598350302",
+    "2026-11-24:13:45": "771750144:21797631048"
   },
-  "cursor": 9
+  "cursor": 11
 }

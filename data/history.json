@@ -12359,9 +12359,9 @@
       "messageId": 725
     },
     "1580145778:22099285853": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:16:30",
-      "at": "2026-11-24T19:31:43.424Z",
+      "at": "2026-11-24T19:31:45.858Z",
       "fingerprint": [
         "bola",
         "brinquedos",
@@ -12380,7 +12380,8 @@
       "receipt": {
         "captionHash": "f609bba685419ee059c1ce8488610772d4e6efdea95778d3090ccff43c3a1091",
         "affiliateLink": "https://s.shopee.com.br/7VIE9fhBA6"
-      }
+      },
+      "messageId": 726
     }
   },
   "slots": {

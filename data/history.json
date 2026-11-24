@@ -11693,6 +11693,35 @@
         "affiliateLink": "https://s.shopee.com.br/2gCuyZHns6"
       },
       "messageId": 699
+    },
+    "602179893:41278843530": {
+      "status": "pending",
+      "slot": "2026-11-24:09:45",
+      "at": "2026-11-24T12:46:12.805Z",
+      "fingerprint": [
+        "bone",
+        "masculino",
+        "five",
+        "panel",
+        "bordado",
+        "malha",
+        "feminino",
+        "praia",
+        "corrida",
+        "ciclismo",
+        "estilo",
+        "moda",
+        "uso",
+        "diario",
+        "chapeu"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260i-ml307tm5a5ms48",
+      "family": "bone-masculino",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "6f14fef8f8bfd432e89426f212f2ba639a8cb27422fb0d42e16929878bfe8a96",
+        "affiliateLink": "https://s.shopee.com.br/5q9y9xLNOV"
+      }
     }
   },
   "slots": {
@@ -12220,7 +12249,8 @@
     "2026-11-24:08:30": "1347713109:55309317500",
     "2026-11-24:08:45": "396855381:9181789718",
     "2026-11-24:09:00": "1597390149:58202782220",
-    "2026-11-24:09:15": "1045085918:23798710869"
+    "2026-11-24:09:15": "1045085918:23798710869",
+    "2026-11-24:09:45": "602179893:41278843530"
   },
-  "cursor": 4
+  "cursor": 5
 }

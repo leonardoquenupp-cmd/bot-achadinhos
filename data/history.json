@@ -12437,6 +12437,33 @@
         "affiliateLink": "https://s.shopee.com.br/BVcG2qU0U"
       },
       "messageId": 728
+    },
+    "1108411379:58200404935": {
+      "status": "pending",
+      "slot": "2026-11-24:17:15",
+      "at": "2026-11-24T20:16:16.059Z",
+      "fingerprint": [
+        "picador",
+        "alimentos",
+        "moedor",
+        "eletrico",
+        "triturador",
+        "potente",
+        "carne",
+        "legumes",
+        "temperos",
+        "inox",
+        "110v",
+        "pronta",
+        "entrega"
+      ],
+      "imageIdentity": "/file/sg-11134201-820nt-mneai9gt93pf5c",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "dff7958210b44247e0fc37dca13bad3e2c8a9bef579247c0cb5e9ec36fe6ca3a",
+        "affiliateLink": "https://s.shopee.com.br/8VAlIOu57Y"
+      }
     }
   },
   "slots": {
@@ -12993,7 +13020,8 @@
     "2026-11-24:16:15": "490260747:29692387416",
     "2026-11-24:16:30": "1580145778:22099285853",
     "2026-11-24:16:45": "1930167691:58218141043",
-    "2026-11-24:17:00": "264979861:57004268445"
+    "2026-11-24:17:00": "264979861:57004268445",
+    "2026-11-24:17:15": "1108411379:58200404935"
   },
-  "cursor": 0
+  "cursor": 1
 }

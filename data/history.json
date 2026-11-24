@@ -11695,9 +11695,9 @@
       "messageId": 699
     },
     "602179893:41278843530": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:09:45",
-      "at": "2026-11-24T12:46:12.805Z",
+      "at": "2026-11-24T12:46:15.315Z",
       "fingerprint": [
         "bone",
         "masculino",
@@ -11721,7 +11721,8 @@
       "receipt": {
         "captionHash": "6f14fef8f8bfd432e89426f212f2ba639a8cb27422fb0d42e16929878bfe8a96",
         "affiliateLink": "https://s.shopee.com.br/5q9y9xLNOV"
-      }
+      },
+      "messageId": 700
     }
   },
   "slots": {

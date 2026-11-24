@@ -11597,6 +11597,29 @@
         "affiliateLink": "https://s.shopee.com.br/5AuHX2yZZZ"
       },
       "messageId": 695
+    },
+    "1347713109:55309317500": {
+      "status": "pending",
+      "slot": "2026-11-24:08:30",
+      "at": "2026-11-24T11:32:22.759Z",
+      "fingerprint": [
+        "oleo",
+        "vegetal",
+        "cachos",
+        "60ml",
+        "umectacao",
+        "definicao",
+        "capilar",
+        "protect",
+        "hair"
+      ],
+      "imageIdentity": "/file/sg-11134201-825aw-mr6bgq0vuryf07",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "cb481a5c16e58a6e134e9bd0206669421f2cf5a66b8196c0e8708bcd2f67b886",
+        "affiliateLink": "https://s.shopee.com.br/BVbQacLZC"
+      }
     }
   },
   "slots": {
@@ -12120,7 +12143,8 @@
     "2026-11-23:22:30": "397374716:22094981741",
     "2026-11-23:22:45": "1101178064:44001553177",
     "2026-11-24:08:00": "1077139873:44451988896",
-    "2026-11-24:08:15": "1046010418:58257776035"
+    "2026-11-24:08:15": "1046010418:58257776035",
+    "2026-11-24:08:30": "1347713109:55309317500"
   },
-  "cursor": 14
+  "cursor": 15
 }

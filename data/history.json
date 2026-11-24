@@ -12517,9 +12517,9 @@
       "messageId": 731
     },
     "476953308:22494314914": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:18:00",
-      "at": "2026-11-24T21:01:26.700Z",
+      "at": "2026-11-24T21:01:28.810Z",
       "fingerprint": [
         "tenis",
         "meia",
@@ -12535,7 +12535,8 @@
       "receipt": {
         "captionHash": "b2eb764c1d51bcee4278217c2fcee702ea45bf5858b78c5c5d12833d1818b3a7",
         "affiliateLink": "https://s.shopee.com.br/50aqAd1ROm"
-      }
+      },
+      "messageId": 732
     }
   },
   "slots": {

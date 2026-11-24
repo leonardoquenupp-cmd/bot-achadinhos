@@ -11922,6 +11922,29 @@
         "affiliateLink": "https://s.shopee.com.br/9zzVyY7tBO"
       },
       "messageId": 708
+    },
+    "309446737:58213605237": {
+      "status": "pending",
+      "slot": "2026-11-24:12:00",
+      "at": "2026-11-24T15:01:43.489Z",
+      "fingerprint": [
+        "porta",
+        "ampolas",
+        "emagrecimento",
+        "organizador",
+        "medicamento",
+        "estojo",
+        "unidades",
+        "case",
+        "injecao"
+      ],
+      "imageIdentity": "/file/br-11134207-820mg-mq6ncsgg2pz53c",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "d7d8741fd6bca90fa1a59911a91b97f1e247edf02b4b9169984537adef984434",
+        "affiliateLink": "https://s.shopee.com.br/2VtXz6RvFW"
+      }
     }
   },
   "slots": {
@@ -12458,7 +12481,8 @@
     "2026-11-24:11:00": "462357424:58200512845",
     "2026-11-24:11:15": "447393034:22698661742",
     "2026-11-24:11:30": "1351295150:25439532535",
-    "2026-11-24:11:45": "1229058076:47557115822"
+    "2026-11-24:11:45": "1229058076:47557115822",
+    "2026-11-24:12:00": "309446737:58213605237"
   },
-  "cursor": 15
+  "cursor": 1
 }

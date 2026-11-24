@@ -11774,6 +11774,32 @@
         "affiliateLink": "https://s.shopee.com.br/80ERJKschN"
       },
       "messageId": 702
+    },
+    "347988064:22497186627": {
+      "status": "pending",
+      "slot": "2026-11-24:10:30",
+      "at": "2026-11-24T13:31:21.697Z",
+      "fingerprint": [
+        "pre",
+        "treino",
+        "evolution",
+        "300g",
+        "soldiers",
+        "nutrition",
+        "workout",
+        "termogenico",
+        "energia",
+        "foco",
+        "resistencia",
+        "academia"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mcarsxyap52j9f",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "7deea745c4aad26a7fbe6df52ff57ec138f7ed933caeff07c40c10e80c361ff6",
+        "affiliateLink": "https://s.shopee.com.br/1qdo5EJzJf"
+      }
     }
   },
   "slots": {
@@ -12304,7 +12330,8 @@
     "2026-11-24:09:15": "1045085918:23798710869",
     "2026-11-24:09:45": "602179893:41278843530",
     "2026-11-24:10:00": "1924155344:58219211255",
-    "2026-11-24:10:15": "987393610:22397182247"
+    "2026-11-24:10:15": "987393610:22397182247",
+    "2026-11-24:10:30": "347988064:22497186627"
   },
-  "cursor": 7
+  "cursor": 8
 }

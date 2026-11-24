@@ -11466,9 +11466,9 @@
       "messageId": 690
     },
     "1297274641:52456506098": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-23:22:20",
-      "at": "2026-11-24T01:22:14.667Z",
+      "at": "2026-11-24T01:22:16.544Z",
       "fingerprint": [
         "kingston",
         "hyperx",
@@ -11495,7 +11495,8 @@
       "receipt": {
         "captionHash": "48893a74eb8c2560f916ba4801283816ebdda6cb46e4019432e0a4ec1c9c2dcd",
         "affiliateLink": "https://s.shopee.com.br/8pna44QTqf"
-      }
+      },
+      "messageId": 691
     }
   },
   "slots": {

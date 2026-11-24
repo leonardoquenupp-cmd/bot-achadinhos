@@ -12487,6 +12487,33 @@
         "affiliateLink": "https://s.shopee.com.br/6fj5OwDzsf"
       },
       "messageId": 730
+    },
+    "669626175:58269228792": {
+      "status": "pending",
+      "slot": "2026-11-24:17:45",
+      "at": "2026-11-24T20:46:43.897Z",
+      "fingerprint": [
+        "cortina",
+        "luz",
+        "led",
+        "natal",
+        "pisca",
+        "cascata",
+        "148",
+        "leds",
+        "decoracao",
+        "natalina",
+        "janela",
+        "porta",
+        "parede"
+      ],
+      "imageIdentity": "/file/br-11134207-820ld-mtp0rmc3egw2f1",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "6d89c899590c8c124915e26e82038ff6e6e349c81ef64fcd61033b5ba6666abd",
+        "affiliateLink": "https://s.shopee.com.br/8AXupPlgUR"
+      }
     }
   },
   "slots": {
@@ -13045,7 +13072,8 @@
     "2026-11-24:16:45": "1930167691:58218141043",
     "2026-11-24:17:00": "264979861:57004268445",
     "2026-11-24:17:15": "1108411379:58200404935",
-    "2026-11-24:17:30": "430046270:20699893256"
+    "2026-11-24:17:30": "430046270:20699893256",
+    "2026-11-24:17:45": "669626175:58269228792"
   },
-  "cursor": 2
+  "cursor": 3
 }

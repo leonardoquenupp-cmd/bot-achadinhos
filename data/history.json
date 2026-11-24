@@ -12382,6 +12382,32 @@
         "affiliateLink": "https://s.shopee.com.br/7VIE9fhBA6"
       },
       "messageId": 726
+    },
+    "1930167691:58218141043": {
+      "status": "pending",
+      "slot": "2026-11-24:16:45",
+      "at": "2026-11-24T19:46:11.265Z",
+      "fingerprint": [
+        "maca",
+        "power",
+        "completo",
+        "produtos",
+        "cronograma",
+        "capilar",
+        "mascara",
+        "500g",
+        "shampoo",
+        "condicionador",
+        "reparador",
+        "50ml"
+      ],
+      "imageIdentity": "/file/br-11134207-820lk-mv4ofecbjd372a",
+      "family": "maca-power",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "7c43efdc69024135d525f16b7c0687793101aa1453c98b2d5cae91aab71f75cf",
+        "affiliateLink": "https://s.shopee.com.br/2VtUf64Cfx"
+      }
     }
   },
   "slots": {
@@ -12936,7 +12962,8 @@
     "2026-11-24:15:45": "447393034:18498281829",
     "2026-11-24:16:00": "1511724455:41902300606",
     "2026-11-24:16:15": "490260747:29692387416",
-    "2026-11-24:16:30": "1580145778:22099285853"
+    "2026-11-24:16:30": "1580145778:22099285853",
+    "2026-11-24:16:45": "1930167691:58218141043"
   },
-  "cursor": 14
+  "cursor": 15
 }

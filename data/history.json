@@ -11723,6 +11723,32 @@
         "affiliateLink": "https://s.shopee.com.br/5q9y9xLNOV"
       },
       "messageId": 700
+    },
+    "1924155344:58219211255": {
+      "status": "pending",
+      "slot": "2026-11-24:10:00",
+      "at": "2026-11-24T13:02:14.752Z",
+      "fingerprint": [
+        "capa",
+        "sapatos",
+        "bota",
+        "galocha",
+        "impermeavel",
+        "motoqueiro",
+        "chuva",
+        "antiderrapante",
+        "polaina",
+        "unissex",
+        "protetor",
+        "calcado"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258x-mtoomyqm43d0ad",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "4719e6833e2b03c2719ba7c10e516c71a7558b33ad7a43e0b65058279eae1266",
+        "affiliateLink": "https://s.shopee.com.br/3g5TVsiETZ"
+      }
     }
   },
   "slots": {
@@ -12251,7 +12277,8 @@
     "2026-11-24:08:45": "396855381:9181789718",
     "2026-11-24:09:00": "1597390149:58202782220",
     "2026-11-24:09:15": "1045085918:23798710869",
-    "2026-11-24:09:45": "602179893:41278843530"
+    "2026-11-24:09:45": "602179893:41278843530",
+    "2026-11-24:10:00": "1924155344:58219211255"
   },
-  "cursor": 5
+  "cursor": 6
 }

@@ -12409,6 +12409,33 @@
         "affiliateLink": "https://s.shopee.com.br/2VtUf64Cfx"
       },
       "messageId": 727
+    },
+    "264979861:57004268445": {
+      "status": "pending",
+      "slot": "2026-11-24:17:00",
+      "at": "2026-11-24T20:01:18.237Z",
+      "fingerprint": [
+        "almofada",
+        "anti",
+        "choque",
+        "porta",
+        "carro",
+        "silicone",
+        "protetor",
+        "fechadura",
+        "capa",
+        "amortecedor",
+        "reducao",
+        "ruido",
+        "absorca"
+      ],
+      "imageIdentity": "/file/sg-11134201-8261w-mj6cbuyjkm4l00",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "7779d952d7a4ad62ca6e063e5f833b4c4b32c3e221772d4dbe410c66d7b16b11",
+        "affiliateLink": "https://s.shopee.com.br/BVcG2qU0U"
+      }
     }
   },
   "slots": {
@@ -12964,7 +12991,8 @@
     "2026-11-24:16:00": "1511724455:41902300606",
     "2026-11-24:16:15": "490260747:29692387416",
     "2026-11-24:16:30": "1580145778:22099285853",
-    "2026-11-24:16:45": "1930167691:58218141043"
+    "2026-11-24:16:45": "1930167691:58218141043",
+    "2026-11-24:17:00": "264979861:57004268445"
   },
-  "cursor": 15
+  "cursor": 0
 }

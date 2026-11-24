@@ -12197,6 +12197,29 @@
         "affiliateLink": "https://s.shopee.com.br/4VeanuHhhz"
       },
       "messageId": 719
+    },
+    "717396632:23999245522": {
+      "status": "pending",
+      "slot": "2026-11-24:15:00",
+      "at": "2026-11-24T18:01:44.288Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "bluetooth",
+        "potente",
+        "alto",
+        "falantes",
+        "30w",
+        "soundbar",
+        "notebook"
+      ],
+      "imageIdentity": "/file/sg-11134201-81zwx-mj1p0o2qi48x51",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "494780fee1a9ce82a156558d81ccada9570e877d1593ad1d02754117bbb75334",
+        "affiliateLink": "https://s.shopee.com.br/qlKCOstJG"
+      }
     }
   },
   "slots": {
@@ -12744,7 +12767,8 @@
     "2026-11-24:14:00": "904620355:50167601809",
     "2026-11-24:14:15": "1173732382:18599610839",
     "2026-11-24:14:30": "1856353080:58215621120",
-    "2026-11-24:14:45": "1321463020:23693891395"
+    "2026-11-24:14:45": "1321463020:23693891395",
+    "2026-11-24:15:00": "717396632:23999245522"
   },
-  "cursor": 3
+  "cursor": 5
 }

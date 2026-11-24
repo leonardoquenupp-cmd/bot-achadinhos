@@ -12148,9 +12148,9 @@
       "messageId": 717
     },
     "1856353080:58215621120": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:14:30",
-      "at": "2026-11-24T17:31:42.421Z",
+      "at": "2026-11-24T17:31:45.427Z",
       "fingerprint": [
         "capa",
         "capinha",
@@ -12169,7 +12169,8 @@
       "receipt": {
         "captionHash": "532358a91b6a726b73343f3899439ec5c271220d2fd73528e1e3971f50c9f32c",
         "affiliateLink": "https://s.shopee.com.br/3B9BYSB1Vy"
-      }
+      },
+      "messageId": 718
     }
   },
   "slots": {

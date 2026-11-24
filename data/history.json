@@ -12357,6 +12357,30 @@
         "affiliateLink": "https://s.shopee.com.br/8AXuZDqsCv"
       },
       "messageId": 725
+    },
+    "1580145778:22099285853": {
+      "status": "pending",
+      "slot": "2026-11-24:16:30",
+      "at": "2026-11-24T19:31:43.424Z",
+      "fingerprint": [
+        "bola",
+        "brinquedos",
+        "rolamento",
+        "automatico",
+        "cauda",
+        "falso",
+        "recarregavel",
+        "inteligente",
+        "gato",
+        "interativo"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mio4meb5vj7q60",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "f609bba685419ee059c1ce8488610772d4e6efdea95778d3090ccff43c3a1091",
+        "affiliateLink": "https://s.shopee.com.br/7VIE9fhBA6"
+      }
     }
   },
   "slots": {
@@ -12910,7 +12934,8 @@
     "2026-11-24:15:30": "290908815:58213966289",
     "2026-11-24:15:45": "447393034:18498281829",
     "2026-11-24:16:00": "1511724455:41902300606",
-    "2026-11-24:16:15": "490260747:29692387416"
+    "2026-11-24:16:15": "490260747:29692387416",
+    "2026-11-24:16:30": "1580145778:22099285853"
   },
-  "cursor": 13
+  "cursor": 14
 }

@@ -11752,9 +11752,9 @@
       "messageId": 701
     },
     "987393610:22397182247": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:10:15",
-      "at": "2026-11-24T13:16:45.015Z",
+      "at": "2026-11-24T13:16:47.021Z",
       "fingerprint": [
         "carregador",
         "iphone",
@@ -11772,7 +11772,8 @@
       "receipt": {
         "captionHash": "f025296cd261f4903ecb894440e38d0e3a28f45aad0cf28d451d1227ded35f7c",
         "affiliateLink": "https://s.shopee.com.br/80ERJKschN"
-      }
+      },
+      "messageId": 702
     }
   },
   "slots": {

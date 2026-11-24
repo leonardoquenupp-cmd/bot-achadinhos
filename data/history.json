@@ -11776,9 +11776,9 @@
       "messageId": 702
     },
     "347988064:22497186627": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:10:30",
-      "at": "2026-11-24T13:31:21.697Z",
+      "at": "2026-11-24T13:31:24.403Z",
       "fingerprint": [
         "pre",
         "treino",
@@ -11799,7 +11799,8 @@
       "receipt": {
         "captionHash": "7deea745c4aad26a7fbe6df52ff57ec138f7ed933caeff07c40c10e80c361ff6",
         "affiliateLink": "https://s.shopee.com.br/1qdo5EJzJf"
-      }
+      },
+      "messageId": 703
     }
   },
   "slots": {

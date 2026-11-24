@@ -11347,6 +11347,29 @@
         "affiliateLink": "https://s.shopee.com.br/7pv1auAd4v"
       },
       "messageId": 685
+    },
+    "1931620863:58218378540": {
+      "status": "pending",
+      "slot": "2026-11-23:21:15",
+      "at": "2026-11-24T00:16:38.061Z",
+      "fingerprint": [
+        "capa",
+        "porta",
+        "painel",
+        "mesa",
+        "decoracao",
+        "natal",
+        "papai",
+        "noel",
+        "natalina"
+      ],
+      "imageIdentity": "/file/br-11134207-820lx-ms4h9vh6zbph48",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "bb8dcfcbbb4b8ddd20c495292af3268f6fc4ee4b3905adf31715d8801229d76a",
+        "affiliateLink": "https://s.shopee.com.br/1gKPpROvuz"
+      }
     }
   },
   "slots": {
@@ -11860,7 +11883,8 @@
     "2026-11-23:20:15": "1634839138:58216416663",
     "2026-11-23:20:30": "391739739:23694530565",
     "2026-11-23:20:45": "792086383:51302420127",
-    "2026-11-23:21:00": "388898696:58211654507"
+    "2026-11-23:21:00": "388898696:58211654507",
+    "2026-11-23:21:15": "1931620863:58218378540"
   },
-  "cursor": 10
+  "cursor": 12
 }

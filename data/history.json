@@ -12635,6 +12635,29 @@
         "affiliateLink": "https://s.shopee.com.br/gRsWNORHj"
       },
       "messageId": 736
+    },
+    "698887220:58215327443": {
+      "status": "pending",
+      "slot": "2026-11-24:19:15",
+      "at": "2026-11-24T22:16:12.482Z",
+      "fingerprint": [
+        "eletricista",
+        "chave",
+        "fenda",
+        "magnetica",
+        "inducao",
+        "tensao",
+        "teste",
+        "caneta",
+        "eletricistas"
+      ],
+      "imageIdentity": "/file/sg-11134201-825ai-mraj1eowzoqo5e",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "35dc2a8efbf5b125163c7c7c0cab97560e03f19445a1576e49bb6a309cdda8f3",
+        "affiliateLink": "https://s.shopee.com.br/3Vm3jGqbcG"
+      }
     }
   },
   "slots": {
@@ -13199,7 +13222,8 @@
     "2026-11-24:18:15": "1807822255:58211578706",
     "2026-11-24:18:30": "1803524453:58215621878",
     "2026-11-24:18:45": "1526836548:23294017921",
-    "2026-11-24:19:00": "304357487:10964824524"
+    "2026-11-24:19:00": "304357487:10964824524",
+    "2026-11-24:19:15": "698887220:58215327443"
   },
-  "cursor": 11
+  "cursor": 13
 }

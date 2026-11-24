@@ -11823,6 +11823,32 @@
         "affiliateLink": "https://s.shopee.com.br/2BGhQCDiOT"
       },
       "messageId": 704
+    },
+    "462357424:58200512845": {
+      "status": "pending",
+      "slot": "2026-11-24:11:00",
+      "at": "2026-11-24T14:01:37.892Z",
+      "fingerprint": [
+        "comedouro",
+        "gato",
+        "cachorro",
+        "caes",
+        "pet",
+        "duplo",
+        "madeira",
+        "tigelas",
+        "aluminio",
+        "400ml",
+        "resistente",
+        "agua"
+      ],
+      "imageIdentity": "/file/br-11134207-820lg-mvm29ay53403dd",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "97557228873461c69c00102839ac19c61c655dc69f8d6fc7c4a8fd2e451503e7",
+        "affiliateLink": "https://s.shopee.com.br/9zzX7dQlTU"
+      }
     }
   },
   "slots": {
@@ -12355,7 +12381,8 @@
     "2026-11-24:10:00": "1924155344:58219211255",
     "2026-11-24:10:15": "987393610:22397182247",
     "2026-11-24:10:30": "347988064:22497186627",
-    "2026-11-24:10:45": "452150155:22795028666"
+    "2026-11-24:10:45": "452150155:22795028666",
+    "2026-11-24:11:00": "462357424:58200512845"
   },
-  "cursor": 9
+  "cursor": 10
 }

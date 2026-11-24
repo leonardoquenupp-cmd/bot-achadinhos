@@ -11803,9 +11803,9 @@
       "messageId": 703
     },
     "452150155:22795028666": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:10:45",
-      "at": "2026-11-24T13:46:17.964Z",
+      "at": "2026-11-24T13:46:21.077Z",
       "fingerprint": [
         "cabo",
         "hdmi",
@@ -11821,7 +11821,8 @@
       "receipt": {
         "captionHash": "5608f33c28e71c4a7051a20163c06e568ce1be4658e244e7cf3dddcf7f07251d",
         "affiliateLink": "https://s.shopee.com.br/2BGhQCDiOT"
-      }
+      },
+      "messageId": 704
     }
   },
   "slots": {

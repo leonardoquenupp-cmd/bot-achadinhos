@@ -11924,9 +11924,9 @@
       "messageId": 708
     },
     "309446737:58213605237": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:12:00",
-      "at": "2026-11-24T15:01:43.489Z",
+      "at": "2026-11-24T15:01:45.431Z",
       "fingerprint": [
         "porta",
         "ampolas",
@@ -11944,7 +11944,8 @@
       "receipt": {
         "captionHash": "d7d8741fd6bca90fa1a59911a91b97f1e247edf02b4b9169984537adef984434",
         "affiliateLink": "https://s.shopee.com.br/2VtXz6RvFW"
-      }
+      },
+      "messageId": 709
     }
   },
   "slots": {

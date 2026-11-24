@@ -12515,6 +12515,27 @@
         "affiliateLink": "https://s.shopee.com.br/8AXupPlgUR"
       },
       "messageId": 731
+    },
+    "476953308:22494314914": {
+      "status": "pending",
+      "slot": "2026-11-24:18:00",
+      "at": "2026-11-24T21:01:26.700Z",
+      "fingerprint": [
+        "tenis",
+        "meia",
+        "adulto",
+        "unissex",
+        "ideal",
+        "caminhada",
+        "dia"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mddthnih4dmpa3",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "b2eb764c1d51bcee4278217c2fcee702ea45bf5858b78c5c5d12833d1818b3a7",
+        "affiliateLink": "https://s.shopee.com.br/50aqAd1ROm"
+      }
     }
   },
   "slots": {
@@ -13074,7 +13095,8 @@
     "2026-11-24:17:00": "264979861:57004268445",
     "2026-11-24:17:15": "1108411379:58200404935",
     "2026-11-24:17:30": "430046270:20699893256",
-    "2026-11-24:17:45": "669626175:58269228792"
+    "2026-11-24:17:45": "669626175:58269228792",
+    "2026-11-24:18:00": "476953308:22494314914"
   },
-  "cursor": 3
+  "cursor": 4
 }

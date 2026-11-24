@@ -11750,6 +11750,29 @@
         "affiliateLink": "https://s.shopee.com.br/3g5TVsiETZ"
       },
       "messageId": 701
+    },
+    "987393610:22397182247": {
+      "status": "pending",
+      "slot": "2026-11-24:10:15",
+      "at": "2026-11-24T13:16:45.015Z",
+      "fingerprint": [
+        "carregador",
+        "iphone",
+        "turbo",
+        "tipo",
+        "20w",
+        "cabo",
+        "lightining",
+        "carga",
+        "rapida"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbkw-lpcg9rytbas79a",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "f025296cd261f4903ecb894440e38d0e3a28f45aad0cf28d451d1227ded35f7c",
+        "affiliateLink": "https://s.shopee.com.br/80ERJKschN"
+      }
     }
   },
   "slots": {
@@ -12279,7 +12302,8 @@
     "2026-11-24:09:00": "1597390149:58202782220",
     "2026-11-24:09:15": "1045085918:23798710869",
     "2026-11-24:09:45": "602179893:41278843530",
-    "2026-11-24:10:00": "1924155344:58219211255"
+    "2026-11-24:10:00": "1924155344:58219211255",
+    "2026-11-24:10:15": "987393610:22397182247"
   },
-  "cursor": 6
+  "cursor": 7
 }

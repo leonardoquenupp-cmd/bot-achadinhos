@@ -11872,6 +11872,29 @@
         "affiliateLink": "https://s.shopee.com.br/1LhYojXuCJ"
       },
       "messageId": 706
+    },
+    "1351295150:25439532535": {
+      "status": "pending",
+      "slot": "2026-11-24:11:30",
+      "at": "2026-11-24T14:31:36.159Z",
+      "fingerprint": [
+        "palmilha",
+        "par",
+        "ortopedica",
+        "alivio",
+        "imediato",
+        "esporao",
+        "calcaneo",
+        "fascite",
+        "plantar"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mvvhh8hhvvuwb9",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "5d5d386944c4752c4deecd2357d0d9137a33002fecf51c2aef97cd2f91f935fb",
+        "affiliateLink": "https://s.shopee.com.br/5VX6EaXBkI"
+      }
     }
   },
   "slots": {
@@ -12406,7 +12429,8 @@
     "2026-11-24:10:30": "347988064:22497186627",
     "2026-11-24:10:45": "452150155:22795028666",
     "2026-11-24:11:00": "462357424:58200512845",
-    "2026-11-24:11:15": "447393034:22698661742"
+    "2026-11-24:11:15": "447393034:22698661742",
+    "2026-11-24:11:30": "1351295150:25439532535"
   },
-  "cursor": 11
+  "cursor": 13
 }

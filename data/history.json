@@ -12299,6 +12299,35 @@
         "affiliateLink": "https://s.shopee.com.br/8AXrVdrzMO"
       },
       "messageId": 723
+    },
+    "1511724455:41902300606": {
+      "status": "pending",
+      "slot": "2026-11-24:16:00",
+      "at": "2026-11-24T19:01:38.396Z",
+      "fingerprint": [
+        "escova",
+        "dental",
+        "eletrica",
+        "ultra",
+        "sonica",
+        "criancas",
+        "acustica",
+        "onda",
+        "fofa",
+        "cabelos",
+        "suaves",
+        "dupla",
+        "face",
+        "limpa",
+        "cuidados"
+      ],
+      "imageIdentity": "/file/cn-11134207-7ras8-ma9kphg4qn5y70",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "67ae311b60521be2de94b7920f2e31798c44c9c21aa947c924c49a883ebd69f0",
+        "affiliateLink": "https://s.shopee.com.br/Lp3aQ7m5F"
+      }
     }
   },
   "slots": {
@@ -12850,7 +12879,8 @@
     "2026-11-24:15:00": "717396632:23999245522",
     "2026-11-24:15:15": "1225348063:19999598253",
     "2026-11-24:15:30": "290908815:58213966289",
-    "2026-11-24:15:45": "447393034:18498281829"
+    "2026-11-24:15:45": "447393034:18498281829",
+    "2026-11-24:16:00": "1511724455:41902300606"
   },
-  "cursor": 11
+  "cursor": 12
 }

@@ -12000,6 +12000,29 @@
         "affiliateLink": "https://s.shopee.com.br/5VX9KFBJLp"
       },
       "messageId": 711
+    },
+    "1365685668:27819896650": {
+      "status": "pending",
+      "slot": "2026-11-24:12:45",
+      "at": "2026-11-24T15:46:39.054Z",
+      "fingerprint": [
+        "xiusuzaki",
+        "cilios",
+        "floracao",
+        "automatica",
+        "premade",
+        "volume",
+        "brasileiro",
+        "naturais",
+        "extensao"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mu2znzzjxa14e5",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "749b0bbd8f261e88a14e5617da185a7ef775a49ff1f5170883372046c4a55de1",
+        "affiliateLink": "https://s.shopee.com.br/1qdnrs6k1t"
+      }
     }
   },
   "slots": {
@@ -12539,7 +12562,8 @@
     "2026-11-24:11:45": "1229058076:47557115822",
     "2026-11-24:12:00": "309446737:58213605237",
     "2026-11-24:12:15": "1403214375:22098708423",
-    "2026-11-24:12:30": "1837772410:58216025165"
+    "2026-11-24:12:30": "1837772410:58216025165",
+    "2026-11-24:12:45": "1365685668:27819896650"
   },
-  "cursor": 5
+  "cursor": 7
 }

@@ -12329,6 +12329,33 @@
         "affiliateLink": "https://s.shopee.com.br/Lp3aQ7m5F"
       },
       "messageId": 724
+    },
+    "490260747:29692387416": {
+      "status": "pending",
+      "slot": "2026-11-24:16:15",
+      "at": "2026-11-24T19:16:30.753Z",
+      "fingerprint": [
+        "senbenbao",
+        "mini",
+        "x55max",
+        "invisivel",
+        "sono",
+        "fones",
+        "ouvido",
+        "sem",
+        "fio",
+        "esporte",
+        "bluetooth",
+        "estereo",
+        "carregamento"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mf7mwikaayoc99",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "59fee17ef0cc7d05e9bfb9c6f0a269e6959849c95cd130f8f567524e21878315",
+        "affiliateLink": "https://s.shopee.com.br/8AXuZDqsCv"
+      }
     }
   },
   "slots": {
@@ -12881,7 +12908,8 @@
     "2026-11-24:15:15": "1225348063:19999598253",
     "2026-11-24:15:30": "290908815:58213966289",
     "2026-11-24:15:45": "447393034:18498281829",
-    "2026-11-24:16:00": "1511724455:41902300606"
+    "2026-11-24:16:00": "1511724455:41902300606",
+    "2026-11-24:16:15": "490260747:29692387416"
   },
-  "cursor": 12
+  "cursor": 13
 }

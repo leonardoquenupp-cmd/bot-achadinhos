@@ -12247,6 +12247,29 @@
         "affiliateLink": "https://s.shopee.com.br/9KjsL2aCR9"
       },
       "messageId": 721
+    },
+    "290908815:58213966289": {
+      "status": "pending",
+      "slot": "2026-11-24:15:30",
+      "at": "2026-11-24T18:31:42.134Z",
+      "fingerprint": [
+        "canivete",
+        "aco",
+        "preto",
+        "faca",
+        "cozinha",
+        "frutas",
+        "pesca",
+        "camping",
+        "sobrevivencia"
+      ],
+      "imageIdentity": "/file/br-11134207-820m7-mtx74e4ylce836",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "fcb759a64d53e7b8bbb15f975831e175b5ad2b396ab926b0e6c558c474e033ba",
+        "affiliateLink": "https://s.shopee.com.br/8fU8XMnTx7"
+      }
     }
   },
   "slots": {
@@ -12796,7 +12819,8 @@
     "2026-11-24:14:30": "1856353080:58215621120",
     "2026-11-24:14:45": "1321463020:23693891395",
     "2026-11-24:15:00": "717396632:23999245522",
-    "2026-11-24:15:15": "1225348063:19999598253"
+    "2026-11-24:15:15": "1225348063:19999598253",
+    "2026-11-24:15:30": "290908815:58213966289"
   },
-  "cursor": 7
+  "cursor": 10
 }

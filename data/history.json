@@ -12221,6 +12221,31 @@
         "affiliateLink": "https://s.shopee.com.br/qlKCOstJG"
       },
       "messageId": 720
+    },
+    "1225348063:19999598253": {
+      "status": "pending",
+      "slot": "2026-11-24:15:15",
+      "at": "2026-11-24T18:16:35.876Z",
+      "fingerprint": [
+        "tapete",
+        "higienico",
+        "caixa",
+        "areia",
+        "gatos",
+        "anti",
+        "sujeira",
+        "coletor",
+        "eva",
+        "70x100",
+        "petliz"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mgf5deizhcefd3",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "0d9b5e0de7b02637a441a16cf5eb2412bd91f58a9f46953242b9559401746c69",
+        "affiliateLink": "https://s.shopee.com.br/9KjsL2aCR9"
+      }
     }
   },
   "slots": {
@@ -12769,7 +12794,8 @@
     "2026-11-24:14:15": "1173732382:18599610839",
     "2026-11-24:14:30": "1856353080:58215621120",
     "2026-11-24:14:45": "1321463020:23693891395",
-    "2026-11-24:15:00": "717396632:23999245522"
+    "2026-11-24:15:00": "717396632:23999245522",
+    "2026-11-24:15:15": "1225348063:19999598253"
   },
-  "cursor": 5
+  "cursor": 7
 }

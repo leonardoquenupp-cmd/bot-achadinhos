@@ -12273,9 +12273,9 @@
       "messageId": 722
     },
     "447393034:18498281829": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:15:45",
-      "at": "2026-11-24T18:46:39.347Z",
+      "at": "2026-11-24T18:46:41.554Z",
       "fingerprint": [
         "rastreador",
         "airtag",
@@ -12297,7 +12297,8 @@
       "receipt": {
         "captionHash": "86e18b3c43fdec806a26e3f6303755765261c2310bc2c942519c3bf67f0f7994",
         "affiliateLink": "https://s.shopee.com.br/8AXrVdrzMO"
-      }
+      },
+      "messageId": 723
     }
   },
   "slots": {

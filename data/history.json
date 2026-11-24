@@ -11599,9 +11599,9 @@
       "messageId": 695
     },
     "1347713109:55309317500": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:08:30",
-      "at": "2026-11-24T11:32:22.759Z",
+      "at": "2026-11-24T11:32:26.746Z",
       "fingerprint": [
         "oleo",
         "vegetal",
@@ -11619,7 +11619,8 @@
       "receipt": {
         "captionHash": "cb481a5c16e58a6e134e9bd0206669421f2cf5a66b8196c0e8708bcd2f67b886",
         "affiliateLink": "https://s.shopee.com.br/BVbQacLZC"
-      }
+      },
+      "messageId": 696
     }
   },
   "slots": {

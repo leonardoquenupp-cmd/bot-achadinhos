@@ -11801,6 +11801,27 @@
         "affiliateLink": "https://s.shopee.com.br/1qdo5EJzJf"
       },
       "messageId": 703
+    },
+    "452150155:22795028666": {
+      "status": "pending",
+      "slot": "2026-11-24:10:45",
+      "at": "2026-11-24T13:46:17.964Z",
+      "fingerprint": [
+        "cabo",
+        "hdmi",
+        "metro",
+        "full",
+        "monitor",
+        "1080p",
+        "qualidade"
+      ],
+      "imageIdentity": "/file/br-11134207-820l7-mp9wipll8u85a3",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "5608f33c28e71c4a7051a20163c06e568ce1be4658e244e7cf3dddcf7f07251d",
+        "affiliateLink": "https://s.shopee.com.br/2BGhQCDiOT"
+      }
     }
   },
   "slots": {
@@ -12332,7 +12353,8 @@
     "2026-11-24:09:45": "602179893:41278843530",
     "2026-11-24:10:00": "1924155344:58219211255",
     "2026-11-24:10:15": "987393610:22397182247",
-    "2026-11-24:10:30": "347988064:22497186627"
+    "2026-11-24:10:30": "347988064:22497186627",
+    "2026-11-24:10:45": "452150155:22795028666"
   },
-  "cursor": 8
+  "cursor": 9
 }

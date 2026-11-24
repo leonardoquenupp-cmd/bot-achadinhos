@@ -11673,6 +11673,25 @@
         "affiliateLink": "https://s.shopee.com.br/6VPdo7LDH2"
       },
       "messageId": 698
+    },
+    "1045085918:23798710869": {
+      "status": "pending",
+      "slot": "2026-11-24:09:15",
+      "at": "2026-11-24T12:16:14.658Z",
+      "fingerprint": [
+        "lavitan",
+        "cabelos",
+        "unhas",
+        "comprimidos",
+        "cimed"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mdz4bsq0i29s68",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "5d2e76a5661320aa03ffe377c6c8fdeb8391bd8b487b33e34aae5b15a47ad07d",
+        "affiliateLink": "https://s.shopee.com.br/2gCuyZHns6"
+      }
     }
   },
   "slots": {
@@ -12199,7 +12218,8 @@
     "2026-11-24:08:15": "1046010418:58257776035",
     "2026-11-24:08:30": "1347713109:55309317500",
     "2026-11-24:08:45": "396855381:9181789718",
-    "2026-11-24:09:00": "1597390149:58202782220"
+    "2026-11-24:09:00": "1597390149:58202782220",
+    "2026-11-24:09:15": "1045085918:23798710869"
   },
-  "cursor": 2
+  "cursor": 4
 }

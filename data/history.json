@@ -11675,9 +11675,9 @@
       "messageId": 698
     },
     "1045085918:23798710869": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:09:15",
-      "at": "2026-11-24T12:16:14.658Z",
+      "at": "2026-11-24T12:16:17.421Z",
       "fingerprint": [
         "lavitan",
         "cabelos",
@@ -11691,7 +11691,8 @@
       "receipt": {
         "captionHash": "5d2e76a5661320aa03ffe377c6c8fdeb8391bd8b487b33e34aae5b15a47ad07d",
         "affiliateLink": "https://s.shopee.com.br/2gCuyZHns6"
-      }
+      },
+      "messageId": 699
     }
   },
   "slots": {

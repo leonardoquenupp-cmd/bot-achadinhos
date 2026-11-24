@@ -11623,9 +11623,9 @@
       "messageId": 696
     },
     "396855381:9181789718": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:08:45",
-      "at": "2026-11-24T11:46:32.549Z",
+      "at": "2026-11-24T11:46:35.225Z",
       "fingerprint": [
         "espelho",
         "retrovisor",
@@ -11644,7 +11644,8 @@
       "receipt": {
         "captionHash": "437d40e4418966906b6c7f191e8489d6da7a9eaabd505eff2559e3c7407e0751",
         "affiliateLink": "https://s.shopee.com.br/3g5TsUjWw5"
-      }
+      },
+      "messageId": 697
     }
   },
   "slots": {

@@ -12708,6 +12708,28 @@
         "affiliateLink": "https://s.shopee.com.br/4qHPo348aP"
       },
       "messageId": 739
+    },
+    "391739739:20797995919": {
+      "status": "pending",
+      "slot": "2026-11-24:20:00",
+      "at": "2026-11-24T23:01:59.673Z",
+      "fingerprint": [
+        "tablet",
+        "teclado",
+        "bluetooth",
+        "capa",
+        "wifi",
+        "android",
+        "tela",
+        "grande"
+      ],
+      "imageIdentity": "/file/sg-11134201-8262s-ml1b3e2t40eae5",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "41c482dfca0f4379f11d1b4783236e2fc14ec35e7007f17f09fa9af5730c1764",
+        "affiliateLink": "https://s.shopee.com.br/2gCy4B5nhI"
+      }
     }
   },
   "slots": {
@@ -13275,7 +13297,8 @@
     "2026-11-24:19:00": "304357487:10964824524",
     "2026-11-24:19:15": "698887220:58215327443",
     "2026-11-24:19:30": "407952755:22597349492",
-    "2026-11-24:19:45": "1874544643:58264498842"
+    "2026-11-24:19:45": "1874544643:58264498842",
+    "2026-11-24:20:00": "391739739:20797995919"
   },
-  "cursor": 0
+  "cursor": 2
 }

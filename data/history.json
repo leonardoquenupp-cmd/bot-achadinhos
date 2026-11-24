@@ -12467,9 +12467,9 @@
       "messageId": 729
     },
     "430046270:20699893256": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:17:30",
-      "at": "2026-11-24T20:31:32.733Z",
+      "at": "2026-11-24T20:31:34.900Z",
       "fingerprint": [
         "legging",
         "suplex",
@@ -12485,7 +12485,8 @@
       "receipt": {
         "captionHash": "acaa27150dbb48b794b95f6cb168343998f3f8eddbc1d72f445bdf0f47c1a0e3",
         "affiliateLink": "https://s.shopee.com.br/6fj5OwDzsf"
-      }
+      },
+      "messageId": 730
     }
   },
   "slots": {

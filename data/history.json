@@ -11419,6 +11419,28 @@
         "affiliateLink": "https://s.shopee.com.br/7KymWmIql4"
       },
       "messageId": 688
+    },
+    "1024858829:58258030129": {
+      "status": "pending",
+      "slot": "2026-11-23:22:00",
+      "at": "2026-11-24T01:01:43.978Z",
+      "fingerprint": [
+        "pelicula",
+        "protetora",
+        "lentes",
+        "camera",
+        "iphone11",
+        "promax",
+        "protetor",
+        "metal"
+      ],
+      "imageIdentity": "/file/br-11134207-820lb-mmiuv10pixok0b",
+      "family": "pelicula-protetora",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "58e64d5ad93a398a0e211b9b254d37b0b5d7c1d858b9af50c582f471efc3ccc9",
+        "affiliateLink": "https://s.shopee.com.br/3B9BpzXu2a"
+      }
     }
   },
   "slots": {
@@ -11935,7 +11957,8 @@
     "2026-11-23:21:00": "388898696:58211654507",
     "2026-11-23:21:15": "1931620863:58218378540",
     "2026-11-23:21:30": "1459307687:40624794433",
-    "2026-11-23:21:45": "1485077747:58252016104"
+    "2026-11-23:21:45": "1485077747:58252016104",
+    "2026-11-23:22:00": "1024858829:58258030129"
   },
-  "cursor": 14
+  "cursor": 0
 }

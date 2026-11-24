@@ -11825,9 +11825,9 @@
       "messageId": 704
     },
     "462357424:58200512845": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:11:00",
-      "at": "2026-11-24T14:01:37.892Z",
+      "at": "2026-11-24T14:01:40.400Z",
       "fingerprint": [
         "comedouro",
         "gato",
@@ -11848,7 +11848,8 @@
       "receipt": {
         "captionHash": "97557228873461c69c00102839ac19c61c655dc69f8d6fc7c4a8fd2e451503e7",
         "affiliateLink": "https://s.shopee.com.br/9zzX7dQlTU"
-      }
+      },
+      "messageId": 705
     }
   },
   "slots": {

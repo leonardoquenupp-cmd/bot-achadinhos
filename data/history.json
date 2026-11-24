@@ -12095,6 +12095,35 @@
         "affiliateLink": "https://s.shopee.com.br/AUvmhhxYVJ"
       },
       "messageId": 715
+    },
+    "904620355:50167601809": {
+      "status": "pending",
+      "slot": "2026-11-24:14:00",
+      "at": "2026-11-24T17:01:45.093Z",
+      "fingerprint": [
+        "conjunto",
+        "fitness",
+        "feminino",
+        "yoga",
+        "top",
+        "frente",
+        "unica",
+        "shorts",
+        "modelador",
+        "cintura",
+        "alta",
+        "bolso",
+        "fit",
+        "power",
+        "academia"
+      ],
+      "imageIdentity": "/file/br-11134207-820lf-mtsdfy218r294f",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "e72ec6affe92e9b329e33fc53d1f69d9c8fa6b6c3c07f8c3bf2ee6b335f0692d",
+        "affiliateLink": "https://s.shopee.com.br/6fj49gv61K"
+      }
     }
   },
   "slots": {
@@ -12638,7 +12667,8 @@
     "2026-11-24:12:45": "1365685668:27819896650",
     "2026-11-24:13:15": "1511719344:52902916381",
     "2026-11-24:13:30": "1630928956:18598350302",
-    "2026-11-24:13:45": "771750144:21797631048"
+    "2026-11-24:13:45": "771750144:21797631048",
+    "2026-11-24:14:00": "904620355:50167601809"
   },
-  "cursor": 11
+  "cursor": 13
 }

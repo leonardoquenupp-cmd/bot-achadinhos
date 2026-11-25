@@ -14183,6 +14183,24 @@
         "affiliateLink": "https://s.shopee.com.br/50atA3d1qv"
       },
       "messageId": 799
+    },
+    "290073877:18898150507": {
+      "status": "pending",
+      "slot": "2026-11-25:20:00",
+      "at": "2026-11-25T23:01:47.093Z",
+      "fingerprint": [
+        "avitrin",
+        "coveli",
+        "todos",
+        "modelos"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rfgj-m9m78u1l8u1h95",
+      "family": "avitrin-coveli",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "8930f07f85820f4aec3daacd714f2b0ad961e27661ac2c9a096a51a2f854716c",
+        "affiliateLink": "https://s.shopee.com.br/80EWf1nIZI"
+      }
     }
   },
   "slots": {
@@ -14810,7 +14828,8 @@
     "2026-11-25:19:00": "378486098:20546850828",
     "2026-11-25:19:15": "1398532513:58202180351",
     "2026-11-25:19:30": "1824003005:58221067210",
-    "2026-11-25:19:45": "717396632:21766450556"
+    "2026-11-25:19:45": "717396632:21766450556",
+    "2026-11-25:20:00": "290073877:18898150507"
   },
-  "cursor": 0
+  "cursor": 1
 }

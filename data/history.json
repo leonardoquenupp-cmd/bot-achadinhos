@@ -13765,6 +13765,29 @@
         "affiliateLink": "https://s.shopee.com.br/70Lz3QKeYM"
       },
       "messageId": 782
+    },
+    "604019486:40033573494": {
+      "status": "pending",
+      "slot": "2026-11-25:15:30",
+      "at": "2026-11-25T18:31:27.636Z",
+      "fingerprint": [
+        "lentes",
+        "contato",
+        "prescricao",
+        "visao",
+        "proxima",
+        "maquiagem",
+        "anual",
+        "natural",
+        "par"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mrwelnyvz7k58c",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "293e59c14d186702d2ca0e6ac1db742228d3d78cac270ddb1b1df49c2bee1bd4",
+        "affiliateLink": "https://s.shopee.com.br/7AfOu7bk2e"
+      }
     }
   },
   "slots": {
@@ -14375,7 +14398,8 @@
     "2026-11-25:14:35": "1055868793:22794534397",
     "2026-11-25:14:45": "1655509891:58268396667",
     "2026-11-25:15:00": "1598184222:58268749880",
-    "2026-11-25:15:15": "1600125401:58256632141"
+    "2026-11-25:15:15": "1600125401:58256632141",
+    "2026-11-25:15:30": "604019486:40033573494"
   },
-  "cursor": 7
+  "cursor": 9
 }

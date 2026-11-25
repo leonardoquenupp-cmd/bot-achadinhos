@@ -13136,6 +13136,29 @@
         "affiliateLink": "https://s.shopee.com.br/1gKO2F2esX"
       },
       "messageId": 757
+    },
+    "1454172785:23194052410": {
+      "status": "pending",
+      "slot": "2026-11-25:09:45",
+      "at": "2026-11-25T12:46:26.016Z",
+      "fingerprint": [
+        "controles",
+        "remoto",
+        "compativel",
+        "433mhz",
+        "portao",
+        "electronico",
+        "garagem",
+        "botoes",
+        "residencial"
+      ],
+      "imageIdentity": "/file/sg-11134201-82593-mvh4fmonxrex72",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "36945eecc87ddc474659f70320641875d1bfe35bb6bf5e3bb8ab5f01499c7bcb",
+        "affiliateLink": "https://s.shopee.com.br/9V3GwTDCki"
+      }
     }
   },
   "slots": {
@@ -13721,7 +13744,8 @@
     "2026-11-25:08:30": "1082831143:57806397165",
     "2026-11-25:08:45": "1132754268:58219797761",
     "2026-11-25:09:15": "1241281618:18797740426",
-    "2026-11-25:09:30": "821481586:53207391064"
+    "2026-11-25:09:30": "821481586:53207391064",
+    "2026-11-25:09:45": "1454172785:23194052410"
   },
-  "cursor": 10
+  "cursor": 11
 }

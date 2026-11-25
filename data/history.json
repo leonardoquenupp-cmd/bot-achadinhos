@@ -13600,6 +13600,37 @@
         "affiliateLink": "https://s.shopee.com.br/Lp4qiVhNn"
       },
       "messageId": 776
+    },
+    "872424585:58260388123": {
+      "status": "pending",
+      "slot": "2026-11-25:14:15",
+      "at": "2026-11-25T17:16:08.240Z",
+      "fingerprint": [
+        "fones",
+        "ouvido",
+        "cor",
+        "preta",
+        "mini",
+        "sem",
+        "fio",
+        "bluetooth",
+        "toque",
+        "som",
+        "estereo",
+        "unico",
+        "fone",
+        "esportes",
+        "prova",
+        "dwaterproof",
+        "agua"
+      ],
+      "imageIdentity": "/file/sg-11134201-820n0-mo0ul5dmbmdg4c",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "1373cc185c2b362a37bbe5880bfb6f3fd72e370ef799883ac500595493d9c190",
+        "affiliateLink": "https://s.shopee.com.br/2La7cVD53W"
+      }
     }
   },
   "slots": {
@@ -14204,7 +14235,8 @@
     "2026-11-25:13:30": "807226951:22193196979",
     "2026-11-25:13:45": "1856353080:58267043375",
     "2026-11-25:13:55": "516799172:58268871523",
-    "2026-11-25:14:00": "359168917:8020679826"
+    "2026-11-25:14:00": "359168917:8020679826",
+    "2026-11-25:14:15": "872424585:58260388123"
   },
-  "cursor": 13
+  "cursor": 14
 }

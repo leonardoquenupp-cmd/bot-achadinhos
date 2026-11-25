@@ -12921,6 +12921,24 @@
         "affiliateLink": "https://s.shopee.com.br/1W0z57sblS"
       },
       "messageId": 748
+    },
+    "488948242:22293678055": {
+      "status": "pending",
+      "slot": "2026-11-24:22:15",
+      "at": "2026-11-25T01:16:14.119Z",
+      "fingerprint": [
+        "hydra",
+        "lipgloss",
+        "kiko",
+        "milano"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m5fu59n5bpe8b4",
+      "family": "hydra-lipgloss",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "0f94df64c45f6fd626b8a38cc71a96ca67d098de68e8b971d31d2ffd46e4cd71",
+        "affiliateLink": "https://s.shopee.com.br/9V3GXk2occ"
+      }
     }
   },
   "slots": {
@@ -13497,7 +13515,8 @@
     "2026-11-24:21:15": "1738289506:58255620498",
     "2026-11-24:21:30": "1620547545:23194874710",
     "2026-11-24:21:40": "1022739284:20299032787",
-    "2026-11-24:22:00": "829646892:57102955994"
+    "2026-11-24:22:00": "829646892:57102955994",
+    "2026-11-24:22:15": "488948242:22293678055"
   },
-  "cursor": 13
+  "cursor": 14
 }

@@ -12826,6 +12826,31 @@
         "affiliateLink": "https://s.shopee.com.br/6AmoUTYiOp"
       },
       "messageId": 744
+    },
+    "1738289506:58255620498": {
+      "status": "pending",
+      "slot": "2026-11-24:21:15",
+      "at": "2026-11-25T00:16:48.458Z",
+      "fingerprint": [
+        "suporte",
+        "magnetico",
+        "360",
+        "celular",
+        "carro",
+        "base",
+        "vacuo",
+        "ajustavel",
+        "dobravel",
+        "universal",
+        "seguro"
+      ],
+      "imageIdentity": "/file/sg-11134201-820mz-mnio684xxb7ld5",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "46e65ab8a8763593f82a1121127c8d200bacf67b7b3711f3788b17ac102dfebe",
+        "affiliateLink": "https://s.shopee.com.br/5q9yerqDWw"
+      }
     }
   },
   "slots": {
@@ -13398,7 +13423,8 @@
     "2026-11-24:20:15": "1371273333:23799156338",
     "2026-11-24:20:30": "967211054:22698990344",
     "2026-11-24:20:45": "1067971921:22698516620",
-    "2026-11-24:21:00": "951501035:46053271039"
+    "2026-11-24:21:00": "951501035:46053271039",
+    "2026-11-24:21:15": "1738289506:58255620498"
   },
-  "cursor": 6
+  "cursor": 7
 }

@@ -13634,9 +13634,9 @@
       "messageId": 777
     },
     "1820556389:58220436747": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:14:20",
-      "at": "2026-11-25T17:22:33.618Z",
+      "at": "2026-11-25T17:22:37.095Z",
       "fingerprint": [
         "pelicula",
         "protecao",
@@ -13655,7 +13655,8 @@
       "receipt": {
         "captionHash": "51d61080ec7f882a8129249e4461563fd2f88879e0e4949999263300ffb2eaba",
         "affiliateLink": "https://s.shopee.com.br/4VeZSruA1W"
-      }
+      },
+      "messageId": 778
     }
   },
   "slots": {

@@ -13789,6 +13789,26 @@
         "affiliateLink": "https://s.shopee.com.br/7AfOu7bk2e"
       },
       "messageId": 783
+    },
+    "1382762078:58214888909": {
+      "status": "pending",
+      "slot": "2026-11-25:15:45",
+      "at": "2026-11-25T18:46:18.801Z",
+      "fingerprint": [
+        "bico",
+        "alta",
+        "pressao",
+        "mangueira",
+        "conector",
+        "top"
+      ],
+      "imageIdentity": "/file/br-11134207-820lw-mr11vj3l5jpj85",
+      "family": "jardim",
+      "department": "jardim",
+      "receipt": {
+        "captionHash": "ba7b00b6716bfb34c59fc03c690216b6c193cc58718f67c8e0559b453390303f",
+        "affiliateLink": "https://s.shopee.com.br/7AfPNy7bL1"
+      }
     }
   },
   "slots": {
@@ -14400,7 +14420,8 @@
     "2026-11-25:14:45": "1655509891:58268396667",
     "2026-11-25:15:00": "1598184222:58268749880",
     "2026-11-25:15:15": "1600125401:58256632141",
-    "2026-11-25:15:30": "604019486:40033573494"
+    "2026-11-25:15:30": "604019486:40033573494",
+    "2026-11-25:15:45": "1382762078:58214888909"
   },
-  "cursor": 9
+  "cursor": 10
 }

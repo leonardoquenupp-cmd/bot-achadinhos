@@ -13435,9 +13435,9 @@
       "messageId": 769
     },
     "832040275:23995790130": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:12:30",
-      "at": "2026-11-25T15:31:35.906Z",
+      "at": "2026-11-25T15:31:38.765Z",
       "fingerprint": [
         "pcs",
         "capa",
@@ -13459,7 +13459,8 @@
       "receipt": {
         "captionHash": "0dbc1006ca045c818ae87bccfe08678605c8a8b502a50808287748cb6bbb1e96",
         "affiliateLink": "https://s.shopee.com.br/Lp525WpSG"
-      }
+      },
+      "messageId": 770
     }
   },
   "slots": {

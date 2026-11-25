@@ -12983,6 +12983,29 @@
         "affiliateLink": "https://s.shopee.com.br/3B9DOpbJas"
       },
       "messageId": 751
+    },
+    "502619181:21699850579": {
+      "status": "pending",
+      "slot": "2026-11-25:08:00",
+      "at": "2026-11-25T11:01:30.207Z",
+      "fingerprint": [
+        "nivea",
+        "locao",
+        "hidratante",
+        "milk",
+        "pele",
+        "seca",
+        "extrasseca",
+        "400ml",
+        "unidades"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfmtgifiz28707",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "d4037995fd7587d41f96d64dedb822594832d96e61274fc3074ea86e3c5bce61",
+        "affiliateLink": "https://s.shopee.com.br/AKcNturkKR"
+      }
     }
   },
   "slots": {
@@ -13562,7 +13585,8 @@
     "2026-11-24:22:00": "829646892:57102955994",
     "2026-11-24:22:15": "488948242:22293678055",
     "2026-11-24:22:30": "1209650911:20999580796",
-    "2026-11-24:22:45": "1630938913:58212490237"
+    "2026-11-24:22:45": "1630938913:58212490237",
+    "2026-11-25:08:00": "502619181:21699850579"
   },
-  "cursor": 0
+  "cursor": 2
 }

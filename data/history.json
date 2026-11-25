@@ -13383,9 +13383,9 @@
       "messageId": 767
     },
     "372103398:23997135175": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:12:00",
-      "at": "2026-11-25T15:01:46.047Z",
+      "at": "2026-11-25T15:01:49.586Z",
       "fingerprint": [
         "escova",
         "barba",
@@ -13404,7 +13404,8 @@
       "receipt": {
         "captionHash": "f3ad02163a81362fe7e78bbe4a6c122078971dc7868251d87f9c71083b788230",
         "affiliateLink": "https://s.shopee.com.br/2La9CJIaMM"
-      }
+      },
+      "messageId": 768
     }
   },
   "slots": {

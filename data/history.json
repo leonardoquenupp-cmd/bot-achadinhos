@@ -13333,6 +13333,30 @@
         "affiliateLink": "https://s.shopee.com.br/7fbfhPcs6s"
       },
       "messageId": 765
+    },
+    "1512090652:58209560674": {
+      "status": "pending",
+      "slot": "2026-11-25:11:40",
+      "at": "2026-11-25T14:42:01.933Z",
+      "fingerprint": [
+        "macaquinho",
+        "poliamida",
+        "fitness",
+        "casual",
+        "versatil",
+        "atividades",
+        "fisica",
+        "academia",
+        "alta",
+        "elasticidade"
+      ],
+      "imageIdentity": "/file/br-11134207-820ly-mnggpkdygkxu63",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "31a71eeebbfd533a7ef1b0b7188a31a87d6ea9492d73386a6d7331b2f1dcf578",
+        "affiliateLink": "https://s.shopee.com.br/9070GOYNWX"
+      }
     }
   },
   "slots": {
@@ -13926,7 +13950,8 @@
     "2026-11-25:10:45": "1441157744:57568964332",
     "2026-11-25:11:00": "1265262682:58219197388",
     "2026-11-25:11:15": "389800143:23698909800",
-    "2026-11-25:11:30": "370144413:23799421883"
+    "2026-11-25:11:30": "370144413:23799421883",
+    "2026-11-25:11:40": "1512090652:58209560674"
   },
-  "cursor": 7
+  "cursor": 11
 }

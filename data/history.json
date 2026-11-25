@@ -12805,6 +12805,26 @@
         "affiliateLink": "https://s.shopee.com.br/9Kjoy1iVEv"
       },
       "messageId": 743
+    },
+    "951501035:46053271039": {
+      "status": "pending",
+      "slot": "2026-11-24:21:00",
+      "at": "2026-11-25T00:01:24.806Z",
+      "fingerprint": [
+        "babuche",
+        "masculino",
+        "farol",
+        "que",
+        "ascende",
+        "verdade"
+      ],
+      "imageIdentity": "/file/br-11134207-820m6-muazcsibt7uq43",
+      "family": "babuche-masculino",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "eb8792fa985bbfbfcca22f36eae34d712261ddd56dad4ada565ad1cebea8f5c3",
+        "affiliateLink": "https://s.shopee.com.br/6AmoUTYiOp"
+      }
     }
   },
   "slots": {
@@ -13376,7 +13396,8 @@
     "2026-11-24:20:00": "391739739:20797995919",
     "2026-11-24:20:15": "1371273333:23799156338",
     "2026-11-24:20:30": "967211054:22698990344",
-    "2026-11-24:20:45": "1067971921:22698516620"
+    "2026-11-24:20:45": "1067971921:22698516620",
+    "2026-11-24:21:00": "951501035:46053271039"
   },
-  "cursor": 5
+  "cursor": 6
 }

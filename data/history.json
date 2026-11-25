@@ -13810,6 +13810,27 @@
         "affiliateLink": "https://s.shopee.com.br/7AfPNy7bL1"
       },
       "messageId": 784
+    },
+    "293152127:55407567868": {
+      "status": "pending",
+      "slot": "2026-11-25:16:00",
+      "at": "2026-11-25T19:01:32.867Z",
+      "fingerprint": [
+        "snack",
+        "cremoso",
+        "gatos",
+        "nutrisco",
+        "sabores",
+        "variados",
+        "pestisco"
+      ],
+      "imageIdentity": "/file/br-11134207-820m3-mm5yjk2o0weccb",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "47d858804f0a7343bbaefc18b73d3ab0b85db01d0af7363126b1c903dc972a28",
+        "affiliateLink": "https://s.shopee.com.br/4LLASKhp0j"
+      }
     }
   },
   "slots": {
@@ -14422,7 +14443,8 @@
     "2026-11-25:15:00": "1598184222:58268749880",
     "2026-11-25:15:15": "1600125401:58256632141",
     "2026-11-25:15:30": "604019486:40033573494",
-    "2026-11-25:15:45": "1382762078:58214888909"
+    "2026-11-25:15:45": "1382762078:58214888909",
+    "2026-11-25:16:00": "293152127:55407567868"
   },
-  "cursor": 10
+  "cursor": 12
 }

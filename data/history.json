@@ -13360,9 +13360,9 @@
       "messageId": 766
     },
     "1486046321:21099702664": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:11:50",
-      "at": "2026-11-25T14:52:07.522Z",
+      "at": "2026-11-25T14:52:10.160Z",
       "fingerprint": [
         "carregador",
         "rapido",
@@ -13379,7 +13379,8 @@
       "receipt": {
         "captionHash": "d99ed17e5524923fd6b8da42c3154596e9a093439b2fd2a3b183d02d6bec92e5",
         "affiliateLink": "https://s.shopee.com.br/1W0zt1RZaT"
-      }
+      },
+      "messageId": 767
     }
   },
   "slots": {

@@ -13512,9 +13512,9 @@
       "reconciliation": "verified_public_telegram_post"
     },
     "807226951:22193196979": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:13:30",
-      "at": "2026-11-25T16:31:39.831Z",
+      "at": "2026-11-25T16:31:42.233Z",
       "fingerprint": [
         "palmilha",
         "gel",
@@ -13528,7 +13528,8 @@
       "receipt": {
         "captionHash": "1c5f21011d6a9bebe136bf2afdb93216d2abf86f407d2249d3d875ab98059388",
         "affiliateLink": "https://s.shopee.com.br/6L6DanyQXZ"
-      }
+      },
+      "messageId": 773
     }
   },
   "slots": {

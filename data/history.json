@@ -13881,6 +13881,30 @@
         "affiliateLink": "https://s.shopee.com.br/3g5XGdrMPt"
       },
       "messageId": 787
+    },
+    "1064041485:23398195585": {
+      "status": "pending",
+      "slot": "2026-11-25:16:45",
+      "at": "2026-11-25T19:46:07.976Z",
+      "fingerprint": [
+        "ventilador",
+        "teto",
+        "luz",
+        "led",
+        "60w",
+        "helices",
+        "tipos",
+        "bivolt",
+        "controle",
+        "remoto"
+      ],
+      "imageIdentity": "/file/sg-11134201-8260f-mj9nbmk9zojpac",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "b75ffc0034b923959f1c318a16cee793ced7b3eb235318caefbd9a0c9aa07156",
+        "affiliateLink": "https://s.shopee.com.br/W8VVrUMMT"
+      }
     }
   },
   "slots": {
@@ -14496,7 +14520,8 @@
     "2026-11-25:15:45": "1382762078:58214888909",
     "2026-11-25:16:00": "293152127:55407567868",
     "2026-11-25:16:15": "1525402104:58269946715",
-    "2026-11-25:16:30": "1485077747:58200879255"
+    "2026-11-25:16:30": "1485077747:58200879255",
+    "2026-11-25:16:45": "1064041485:23398195585"
   },
-  "cursor": 14
+  "cursor": 0
 }

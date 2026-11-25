@@ -13580,6 +13580,25 @@
         "affiliateLink": "https://s.shopee.com.br/5q9y7DbFZ7"
       },
       "messageId": 775
+    },
+    "359168917:8020679826": {
+      "status": "pending",
+      "slot": "2026-11-25:14:00",
+      "at": "2026-11-25T17:01:41.805Z",
+      "fingerprint": [
+        "liquidificador",
+        "mondial",
+        "turbo",
+        "550",
+        "velocidades"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mc83lzgst4gw71",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "5a477f5280ca30ad4ae1d89588807d0c1b891acc9f181517f64fae3af41a5f67",
+        "affiliateLink": "https://s.shopee.com.br/Lp4qiVhNn"
+      }
     }
   },
   "slots": {
@@ -14183,7 +14202,8 @@
     "2026-11-25:13:00": "1541410012:58267811082",
     "2026-11-25:13:30": "807226951:22193196979",
     "2026-11-25:13:45": "1856353080:58267043375",
-    "2026-11-25:13:55": "516799172:58268871523"
+    "2026-11-25:13:55": "516799172:58268871523",
+    "2026-11-25:14:00": "359168917:8020679826"
   },
-  "cursor": 11
+  "cursor": 13
 }

@@ -13086,9 +13086,9 @@
       "messageId": 755
     },
     "1241281618:18797740426": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:09:15",
-      "at": "2026-11-25T12:16:19.779Z",
+      "at": "2026-11-25T12:16:22.437Z",
       "fingerprint": [
         "necessaire",
         "viagem",
@@ -13108,7 +13108,8 @@
       "receipt": {
         "captionHash": "de5556d356ffbd538b726ae8d0f37a3e1872b564a9270b5934f3e6a8d2811e06",
         "affiliateLink": "https://s.shopee.com.br/5VX892A98u"
-      }
+      },
+      "messageId": 756
     }
   },
   "slots": {

@@ -13582,9 +13582,9 @@
       "messageId": 775
     },
     "359168917:8020679826": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:14:00",
-      "at": "2026-11-25T17:01:41.805Z",
+      "at": "2026-11-25T17:01:45.000Z",
       "fingerprint": [
         "liquidificador",
         "mondial",
@@ -13598,7 +13598,8 @@
       "receipt": {
         "captionHash": "5a477f5280ca30ad4ae1d89588807d0c1b891acc9f181517f64fae3af41a5f67",
         "affiliateLink": "https://s.shopee.com.br/Lp4qiVhNn"
-      }
+      },
+      "messageId": 776
     }
   },
   "slots": {

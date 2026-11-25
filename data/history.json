@@ -14137,6 +14137,29 @@
         "affiliateLink": "https://s.shopee.com.br/5LDlR48gaK"
       },
       "messageId": 797
+    },
+    "1824003005:58221067210": {
+      "status": "pending",
+      "slot": "2026-11-25:19:30",
+      "at": "2026-11-25T22:31:14.785Z",
+      "fingerprint": [
+        "multiprocessador",
+        "alimentos",
+        "eletrico",
+        "triturador",
+        "picador",
+        "ralador",
+        "inox",
+        "cozinha",
+        "pratico"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258e-mulgtb1scf7kef",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "2a2a4e9dcab129667c6fa5580f2f2129664db86492ae45a14366a2259e9897a4",
+        "affiliateLink": "https://s.shopee.com.br/9fMh8mCZPn"
+      }
     }
   },
   "slots": {
@@ -14762,7 +14785,8 @@
     "2026-11-25:18:30": "989926234:20197726295",
     "2026-11-25:18:45": "983290979:22393669273",
     "2026-11-25:19:00": "378486098:20546850828",
-    "2026-11-25:19:15": "1398532513:58202180351"
+    "2026-11-25:19:15": "1398532513:58202180351",
+    "2026-11-25:19:30": "1824003005:58221067210"
   },
-  "cursor": 13
+  "cursor": 15
 }

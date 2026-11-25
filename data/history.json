@@ -14161,6 +14161,27 @@
         "affiliateLink": "https://s.shopee.com.br/9fMh8mCZPn"
       },
       "messageId": 798
+    },
+    "717396632:21766450556": {
+      "status": "pending",
+      "slot": "2026-11-25:19:45",
+      "at": "2026-11-25T22:46:28.947Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "estereo",
+        "computador",
+        "notebook",
+        "xdg",
+        "1001"
+      ],
+      "imageIdentity": "/file/br-11134201-22120-pbb6ru2tqlkv6e",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "9dde3902eb7e1891c59043fc607981b45b82fbca71968818e10d44ad83be5b23",
+        "affiliateLink": "https://s.shopee.com.br/50atA3d1qv"
+      }
     }
   },
   "slots": {
@@ -14787,7 +14808,8 @@
     "2026-11-25:18:45": "983290979:22393669273",
     "2026-11-25:19:00": "378486098:20546850828",
     "2026-11-25:19:15": "1398532513:58202180351",
-    "2026-11-25:19:30": "1824003005:58221067210"
+    "2026-11-25:19:30": "1824003005:58221067210",
+    "2026-11-25:19:45": "717396632:21766450556"
   },
-  "cursor": 15
+  "cursor": 0
 }

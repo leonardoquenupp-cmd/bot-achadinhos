@@ -13009,9 +13009,9 @@
       "messageId": 752
     },
     "1883680202:58219554613": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:08:15",
-      "at": "2026-11-25T11:16:15.411Z",
+      "at": "2026-11-25T11:16:18.306Z",
       "fingerprint": [
         "ventosa",
         "silicone",
@@ -13030,7 +13030,8 @@
       "receipt": {
         "captionHash": "3eaa8a49fdf6fa4d1f89ab8cf809371d35b5ce76e3db9cae240bb8cf6beffaa0",
         "affiliateLink": "https://s.shopee.com.br/40iMT5hY97"
-      }
+      },
+      "messageId": 753
     }
   },
   "slots": {

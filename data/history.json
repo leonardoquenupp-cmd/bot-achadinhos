@@ -12854,9 +12854,9 @@
       "messageId": 745
     },
     "1620547545:23194874710": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:21:30",
-      "at": "2026-11-25T00:31:34.062Z",
+      "at": "2026-11-25T00:31:37.044Z",
       "fingerprint": [
         "protetor",
         "auricular",
@@ -12875,7 +12875,8 @@
       "receipt": {
         "captionHash": "155557d95b29dc5a23a6cfd949c31e82f1b25c07fded2ae43aa19ea00cf3d76a",
         "affiliateLink": "https://s.shopee.com.br/9fMh8jrF5A"
-      }
+      },
+      "messageId": 746
     }
   },
   "slots": {

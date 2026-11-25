@@ -13733,6 +13733,37 @@
         "affiliateLink": "https://s.shopee.com.br/3LSglt1LJs"
       },
       "messageId": 781
+    },
+    "1600125401:58256632141": {
+      "status": "pending",
+      "slot": "2026-11-25:15:15",
+      "at": "2026-11-25T18:16:19.540Z",
+      "fingerprint": [
+        "2026",
+        "tablet",
+        "t17",
+        "pro",
+        "max",
+        "amx",
+        "mouse",
+        "teclado",
+        "12gb",
+        "ram",
+        "512gb",
+        "rom",
+        "android14",
+        "case",
+        "polegadas",
+        "camera",
+        "32mp"
+      ],
+      "imageIdentity": "/file/br-11134207-820ll-mlndfltxhq8487",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "c3b6b01af9b3c4106f0b747c4e333f77ae518755ee5ee3e204471772c07cf016",
+        "affiliateLink": "https://s.shopee.com.br/70Lz3QKeYM"
+      }
     }
   },
   "slots": {
@@ -14342,7 +14373,8 @@
     "2026-11-25:14:20": "1820556389:58220436747",
     "2026-11-25:14:35": "1055868793:22794534397",
     "2026-11-25:14:45": "1655509891:58268396667",
-    "2026-11-25:15:00": "1598184222:58268749880"
+    "2026-11-25:15:00": "1598184222:58268749880",
+    "2026-11-25:15:15": "1600125401:58256632141"
   },
-  "cursor": 5
+  "cursor": 7
 }

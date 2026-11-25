@@ -12828,9 +12828,9 @@
       "messageId": 744
     },
     "1738289506:58255620498": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:21:15",
-      "at": "2026-11-25T00:16:48.458Z",
+      "at": "2026-11-25T00:16:50.282Z",
       "fingerprint": [
         "suporte",
         "magnetico",
@@ -12850,7 +12850,8 @@
       "receipt": {
         "captionHash": "46e65ab8a8763593f82a1121127c8d200bacf67b7b3711f3788b17ac102dfebe",
         "affiliateLink": "https://s.shopee.com.br/5q9yerqDWw"
-      }
+      },
+      "messageId": 745
     }
   },
   "slots": {

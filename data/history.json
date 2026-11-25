@@ -13484,9 +13484,9 @@
       "messageId": 771
     },
     "1541410012:58267811082": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:13:00",
-      "at": "2026-11-25T16:01:35.410Z",
+      "at": "2026-11-25T16:01:38.000Z",
       "fingerprint": [
         "fita",
         "led",
@@ -13507,7 +13507,9 @@
       "receipt": {
         "captionHash": "17c3ee012c1601bc4196546b8207d0b301bfd20ba524ec04f6589288d690a81a",
         "affiliateLink": "https://s.shopee.com.br/5AuKp0bz0q"
-      }
+      },
+      "messageId": 772,
+      "reconciliation": "verified_public_telegram_post"
     }
   },
   "slots": {

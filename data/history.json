@@ -13632,6 +13632,30 @@
         "affiliateLink": "https://s.shopee.com.br/2La7cVD53W"
       },
       "messageId": 777
+    },
+    "1820556389:58220436747": {
+      "status": "pending",
+      "slot": "2026-11-25:14:20",
+      "at": "2026-11-25T17:22:33.618Z",
+      "fingerprint": [
+        "pelicula",
+        "protecao",
+        "camera",
+        "transparente",
+        "iphone",
+        "air",
+        "pro",
+        "max",
+        "linha",
+        "premium"
+      ],
+      "imageIdentity": "/file/sg-11134201-825ax-muatjuftn9c887",
+      "family": "pelicula-protecao",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "51d61080ec7f882a8129249e4461563fd2f88879e0e4949999263300ffb2eaba",
+        "affiliateLink": "https://s.shopee.com.br/4VeZSruA1W"
+      }
     }
   },
   "slots": {
@@ -14237,7 +14261,8 @@
     "2026-11-25:13:45": "1856353080:58267043375",
     "2026-11-25:13:55": "516799172:58268871523",
     "2026-11-25:14:00": "359168917:8020679826",
-    "2026-11-25:14:15": "872424585:58260388123"
+    "2026-11-25:14:15": "872424585:58260388123",
+    "2026-11-25:14:20": "1820556389:58220436747"
   },
-  "cursor": 14
+  "cursor": 0
 }

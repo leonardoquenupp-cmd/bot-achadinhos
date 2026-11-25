@@ -14204,9 +14204,9 @@
       "messageId": 800
     },
     "1588652179:21399839116": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:20:15",
-      "at": "2026-11-25T23:16:17.048Z",
+      "at": "2026-11-25T23:16:18.938Z",
       "fingerprint": [
         "lampiao",
         "luminaria",
@@ -14223,7 +14223,8 @@
       "receipt": {
         "captionHash": "e8c30958f6bc7e3b4935dc162e7883384131a4f947d76fb80dfa7fd3a255f15e",
         "affiliateLink": "https://s.shopee.com.br/8VAn5fIjBi"
-      }
+      },
+      "messageId": 801
     }
   },
   "slots": {

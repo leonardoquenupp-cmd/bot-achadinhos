@@ -13032,6 +13032,28 @@
         "affiliateLink": "https://s.shopee.com.br/40iMT5hY97"
       },
       "messageId": 753
+    },
+    "1082831143:57806397165": {
+      "status": "pending",
+      "slot": "2026-11-25:08:30",
+      "at": "2026-11-25T11:31:32.871Z",
+      "fingerprint": [
+        "pote",
+        "colageno",
+        "acido",
+        "hialuronico",
+        "216g",
+        "mega",
+        "frete",
+        "gratis"
+      ],
+      "imageIdentity": "/file/br-11134207-820l7-mldztnc41kw6ae",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "ac25917dbba937e04b78d02e8b93f15270be057a1cc6d559d23246381c46d590",
+        "affiliateLink": "https://s.shopee.com.br/2gCyMhytLz"
+      }
     }
   },
   "slots": {
@@ -13613,7 +13635,8 @@
     "2026-11-24:22:30": "1209650911:20999580796",
     "2026-11-24:22:45": "1630938913:58212490237",
     "2026-11-25:08:00": "502619181:21699850579",
-    "2026-11-25:08:15": "1883680202:58219554613"
+    "2026-11-25:08:15": "1883680202:58219554613",
+    "2026-11-25:08:30": "1082831143:57806397165"
   },
-  "cursor": 4
+  "cursor": 5
 }

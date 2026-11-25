@@ -14139,9 +14139,9 @@
       "messageId": 797
     },
     "1824003005:58221067210": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:19:30",
-      "at": "2026-11-25T22:31:14.785Z",
+      "at": "2026-11-25T22:31:17.053Z",
       "fingerprint": [
         "multiprocessador",
         "alimentos",
@@ -14159,7 +14159,8 @@
       "receipt": {
         "captionHash": "2a2a4e9dcab129667c6fa5580f2f2129664db86492ae45a14366a2259e9897a4",
         "affiliateLink": "https://s.shopee.com.br/9fMh8mCZPn"
-      }
+      },
+      "messageId": 798
     }
   },
   "slots": {

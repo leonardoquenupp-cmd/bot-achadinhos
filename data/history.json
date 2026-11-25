@@ -13282,9 +13282,9 @@
       "messageId": 763
     },
     "389800143:23698909800": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:11:15",
-      "at": "2026-11-25T14:16:29.237Z",
+      "at": "2026-11-25T14:16:32.247Z",
       "fingerprint": [
         "projetor",
         "led",
@@ -13304,7 +13304,8 @@
       "receipt": {
         "captionHash": "59d2636fb803515ee9764342f50cf9e4d5ceb68737213e7007f116a7af2eaba4",
         "affiliateLink": "https://s.shopee.com.br/3qOuC3YmF4"
-      }
+      },
+      "messageId": 764
     }
   },
   "slots": {

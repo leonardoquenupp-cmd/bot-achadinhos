@@ -13683,9 +13683,9 @@
       "messageId": 779
     },
     "1655509891:58268396667": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:14:45",
-      "at": "2026-11-25T17:46:34.663Z",
+      "at": "2026-11-25T17:46:38.370Z",
       "fingerprint": [
         "shorts",
         "masculino",
@@ -13705,7 +13705,8 @@
       "receipt": {
         "captionHash": "d6dfb8b2de3af85e3f505bb10460ea30c124031d785afadbb9a66338c8811c5a",
         "affiliateLink": "https://s.shopee.com.br/1qdpOaoHCW"
-      }
+      },
+      "messageId": 780
     }
   },
   "slots": {

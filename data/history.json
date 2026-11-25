@@ -14225,6 +14225,33 @@
         "affiliateLink": "https://s.shopee.com.br/8VAn5fIjBi"
       },
       "messageId": 801
+    },
+    "1662955195:58203876363": {
+      "status": "pending",
+      "slot": "2026-11-25:20:45",
+      "at": "2026-11-25T23:46:12.918Z",
+      "fingerprint": [
+        "ventilador",
+        "teto",
+        "52cm",
+        "80w",
+        "lampada",
+        "cores",
+        "e27",
+        "silencioso",
+        "bivolt",
+        "controle",
+        "remoto",
+        "premium",
+        "branco"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mrzxqgpw0iyv6b",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "f0382d3b00a6f2020c9518f4c04b99ef4d3b83feae2d1302029d3bc4c80ef876",
+        "affiliateLink": "https://s.shopee.com.br/4VeeSXv4U0"
+      }
     }
   },
   "slots": {
@@ -14854,7 +14881,8 @@
     "2026-11-25:19:30": "1824003005:58221067210",
     "2026-11-25:19:45": "717396632:21766450556",
     "2026-11-25:20:00": "290073877:18898150507",
-    "2026-11-25:20:15": "1588652179:21399839116"
+    "2026-11-25:20:15": "1588652179:21399839116",
+    "2026-11-25:20:45": "1662955195:58203876363"
   },
-  "cursor": 3
+  "cursor": 4
 }

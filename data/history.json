@@ -14185,9 +14185,9 @@
       "messageId": 799
     },
     "290073877:18898150507": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:20:00",
-      "at": "2026-11-25T23:01:47.093Z",
+      "at": "2026-11-25T23:01:49.382Z",
       "fingerprint": [
         "avitrin",
         "coveli",
@@ -14200,7 +14200,8 @@
       "receipt": {
         "captionHash": "8930f07f85820f4aec3daacd714f2b0ad961e27661ac2c9a096a51a2f854716c",
         "affiliateLink": "https://s.shopee.com.br/80EWf1nIZI"
-      }
+      },
+      "messageId": 800
     }
   },
   "slots": {

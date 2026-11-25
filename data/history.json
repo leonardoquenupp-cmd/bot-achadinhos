@@ -13984,6 +13984,30 @@
         "affiliateLink": "https://s.shopee.com.br/9zzXy7F33j"
       },
       "messageId": 791
+    },
+    "935991633:40761616665": {
+      "status": "pending",
+      "slot": "2026-11-25:18:00",
+      "at": "2026-11-25T21:01:20.653Z",
+      "fingerprint": [
+        "suporte",
+        "telefone",
+        "cabeca",
+        "alca",
+        "montagem",
+        "ajustavel",
+        "multifuncional",
+        "tiro",
+        "vivo",
+        "clipe"
+      ],
+      "imageIdentity": "/file/sg-11134301-7reo9-m8vck44ich0533",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "097e845a28f1f5e1c783f10fe299b2ce9369d1fdf7a1d75f7d816e316fced374",
+        "affiliateLink": "https://s.shopee.com.br/2La9gBwR81"
+      }
     }
   },
   "slots": {
@@ -14603,7 +14627,8 @@
     "2026-11-25:16:45": "1064041485:23398195585",
     "2026-11-25:17:10": "389185931:11864857354",
     "2026-11-25:17:30": "430146238:23297745234",
-    "2026-11-25:17:45": "1367489513:22898322610"
+    "2026-11-25:17:45": "1367489513:22898322610",
+    "2026-11-25:18:00": "935991633:40761616665"
   },
-  "cursor": 4
+  "cursor": 6
 }

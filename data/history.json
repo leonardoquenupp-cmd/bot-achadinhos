@@ -12877,6 +12877,26 @@
         "affiliateLink": "https://s.shopee.com.br/9fMh8jrF5A"
       },
       "messageId": 746
+    },
+    "1022739284:20299032787": {
+      "status": "pending",
+      "slot": "2026-11-24:21:40",
+      "at": "2026-11-25T00:42:34.292Z",
+      "fingerprint": [
+        "tenis",
+        "esportivo",
+        "confortavel",
+        "academia",
+        "corrida",
+        "fittshoes"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mj97qt8vbcoy58",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "c5b93652c3800e26eb7e56f3910ad47ef74199d50c5fe4a4bd385c09505534cb",
+        "affiliateLink": "https://s.shopee.com.br/3g5UT0JKBa"
+      }
     }
   },
   "slots": {
@@ -13451,7 +13471,8 @@
     "2026-11-24:20:45": "1067971921:22698516620",
     "2026-11-24:21:00": "951501035:46053271039",
     "2026-11-24:21:15": "1738289506:58255620498",
-    "2026-11-24:21:30": "1620547545:23194874710"
+    "2026-11-24:21:30": "1620547545:23194874710",
+    "2026-11-24:21:40": "1022739284:20299032787"
   },
-  "cursor": 8
+  "cursor": 12
 }

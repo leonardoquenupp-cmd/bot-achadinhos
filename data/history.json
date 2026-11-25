@@ -13280,6 +13280,31 @@
         "affiliateLink": "https://s.shopee.com.br/8KrMSa42YZ"
       },
       "messageId": 763
+    },
+    "389800143:23698909800": {
+      "status": "pending",
+      "slot": "2026-11-25:11:15",
+      "at": "2026-11-25T14:16:29.237Z",
+      "fingerprint": [
+        "projetor",
+        "led",
+        "natal",
+        "laser",
+        "desenhos",
+        "giratorio",
+        "jardim",
+        "refletor",
+        "luz",
+        "festa",
+        "bivolt"
+      ],
+      "imageIdentity": "/file/sg-11134201-824h1-mesx7vyl7itg0e",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "59d2636fb803515ee9764342f50cf9e4d5ceb68737213e7007f116a7af2eaba4",
+        "affiliateLink": "https://s.shopee.com.br/3qOuC3YmF4"
+      }
     }
   },
   "slots": {
@@ -13871,7 +13896,8 @@
     "2026-11-25:10:15": "883941882:22797599385",
     "2026-11-25:10:30": "1510608042:57706744671",
     "2026-11-25:10:45": "1441157744:57568964332",
-    "2026-11-25:11:00": "1265262682:58219197388"
+    "2026-11-25:11:00": "1265262682:58219197388",
+    "2026-11-25:11:15": "389800143:23698909800"
   },
-  "cursor": 3
+  "cursor": 5
 }

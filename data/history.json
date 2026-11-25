@@ -14009,6 +14009,29 @@
         "affiliateLink": "https://s.shopee.com.br/2La9gBwR81"
       },
       "messageId": 792
+    },
+    "1355920851:22094069643": {
+      "status": "pending",
+      "slot": "2026-11-25:18:15",
+      "at": "2026-11-25T21:16:16.199Z",
+      "fingerprint": [
+        "vestido",
+        "midi",
+        "100",
+        "algodao",
+        "bolsos",
+        "confortavel",
+        "casual",
+        "dia",
+        "versatil"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mabc3ibg01vd7b",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "623e10a93d557ab2d3438e89a543252786d41b431a886e49d6e25444030f0562",
+        "affiliateLink": "https://s.shopee.com.br/7KykzxhnNT"
+      }
     }
   },
   "slots": {
@@ -14629,7 +14652,8 @@
     "2026-11-25:17:10": "389185931:11864857354",
     "2026-11-25:17:30": "430146238:23297745234",
     "2026-11-25:17:45": "1367489513:22898322610",
-    "2026-11-25:18:00": "935991633:40761616665"
+    "2026-11-25:18:00": "935991633:40761616665",
+    "2026-11-25:18:15": "1355920851:22094069643"
   },
-  "cursor": 6
+  "cursor": 7
 }

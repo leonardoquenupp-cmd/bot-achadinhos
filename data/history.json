@@ -13055,6 +13055,34 @@
         "affiliateLink": "https://s.shopee.com.br/2gCyMhytLz"
       },
       "messageId": 754
+    },
+    "1132754268:58219797761": {
+      "status": "pending",
+      "slot": "2026-11-25:08:45",
+      "at": "2026-11-25T11:46:38.880Z",
+      "fingerprint": [
+        "regata",
+        "feminina",
+        "antonella",
+        "top",
+        "halter",
+        "ajustado",
+        "decote",
+        "frente",
+        "unica",
+        "costa",
+        "nua",
+        "casual",
+        "moda",
+        "verao"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259w-mtygvemvaxoj8f",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "4b613363cd4265cb6a7fb716d26c91be64ba1798d696eefdaf58969a21d847f8",
+        "affiliateLink": "https://s.shopee.com.br/7VIFJmjtZY"
+      }
     }
   },
   "slots": {
@@ -13637,7 +13665,8 @@
     "2026-11-24:22:45": "1630938913:58212490237",
     "2026-11-25:08:00": "502619181:21699850579",
     "2026-11-25:08:15": "1883680202:58219554613",
-    "2026-11-25:08:30": "1082831143:57806397165"
+    "2026-11-25:08:30": "1082831143:57806397165",
+    "2026-11-25:08:45": "1132754268:58219797761"
   },
-  "cursor": 5
+  "cursor": 7
 }

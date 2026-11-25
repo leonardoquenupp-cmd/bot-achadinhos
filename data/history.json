@@ -13110,6 +13110,31 @@
         "affiliateLink": "https://s.shopee.com.br/5VX892A98u"
       },
       "messageId": 756
+    },
+    "821481586:53207391064": {
+      "status": "pending",
+      "slot": "2026-11-25:09:30",
+      "at": "2026-11-25T12:31:32.566Z",
+      "fingerprint": [
+        "palmilha",
+        "ortopedica",
+        "gel",
+        "confortavel",
+        "varias",
+        "horas",
+        "trabalho",
+        "alivia",
+        "dores",
+        "nos",
+        "pes"
+      ],
+      "imageIdentity": "/file/br-11134207-820li-mvdud4m5tvyaba",
+      "family": "palmilha-ortopedica",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "18a1134e0cb939931c6411a1e078c91613a2f23e5c7c7558e84a42f1b24a4ac2",
+        "affiliateLink": "https://s.shopee.com.br/1gKO2F2esX"
+      }
     }
   },
   "slots": {
@@ -13694,7 +13719,8 @@
     "2026-11-25:08:15": "1883680202:58219554613",
     "2026-11-25:08:30": "1082831143:57806397165",
     "2026-11-25:08:45": "1132754268:58219797761",
-    "2026-11-25:09:15": "1241281618:18797740426"
+    "2026-11-25:09:15": "1241281618:18797740426",
+    "2026-11-25:09:30": "821481586:53207391064"
   },
-  "cursor": 8
+  "cursor": 10
 }

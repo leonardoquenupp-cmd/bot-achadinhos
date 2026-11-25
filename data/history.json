@@ -13183,6 +13183,31 @@
         "affiliateLink": "https://s.shopee.com.br/6L6FGn2rmH"
       },
       "messageId": 759
+    },
+    "883941882:22797599385": {
+      "status": "pending",
+      "slot": "2026-11-25:10:15",
+      "at": "2026-11-25T13:16:17.444Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "bluetooth",
+        "tws",
+        "e6s",
+        "a6s",
+        "sem",
+        "fio",
+        "intra",
+        "auricular",
+        "microfone"
+      ],
+      "imageIdentity": "/file/br-11134207-820mh-mofsfdh6t79c91",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "55eb0df1dc72d4f622280cef4305673cb6ffad61969eef61c3e365daa4b571db",
+        "affiliateLink": "https://s.shopee.com.br/6fj6mSwaFk"
+      }
     }
   },
   "slots": {
@@ -13770,7 +13795,8 @@
     "2026-11-25:09:15": "1241281618:18797740426",
     "2026-11-25:09:30": "821481586:53207391064",
     "2026-11-25:09:45": "1454172785:23194052410",
-    "2026-11-25:10:00": "1654794100:23099161094"
+    "2026-11-25:10:00": "1654794100:23099161094",
+    "2026-11-25:10:15": "883941882:22797599385"
   },
-  "cursor": 12
+  "cursor": 14
 }

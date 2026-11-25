@@ -13007,6 +13007,30 @@
         "affiliateLink": "https://s.shopee.com.br/AKcNturkKR"
       },
       "messageId": 752
+    },
+    "1883680202:58219554613": {
+      "status": "pending",
+      "slot": "2026-11-25:08:15",
+      "at": "2026-11-25T11:16:15.411Z",
+      "fingerprint": [
+        "ventosa",
+        "silicone",
+        "celular",
+        "adesivo",
+        "dupla",
+        "face",
+        "suporte",
+        "videos",
+        "espelhos",
+        "pecas"
+      ],
+      "imageIdentity": "/file/br-11134201-820m1-mtt02n1gllhf97",
+      "family": "espelho",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "3eaa8a49fdf6fa4d1f89ab8cf809371d35b5ce76e3db9cae240bb8cf6beffaa0",
+        "affiliateLink": "https://s.shopee.com.br/40iMT5hY97"
+      }
     }
   },
   "slots": {
@@ -13587,7 +13611,8 @@
     "2026-11-24:22:15": "488948242:22293678055",
     "2026-11-24:22:30": "1209650911:20999580796",
     "2026-11-24:22:45": "1630938913:58212490237",
-    "2026-11-25:08:00": "502619181:21699850579"
+    "2026-11-25:08:00": "502619181:21699850579",
+    "2026-11-25:08:15": "1883680202:58219554613"
   },
-  "cursor": 2
+  "cursor": 4
 }

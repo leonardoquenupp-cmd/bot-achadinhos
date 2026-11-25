@@ -14253,6 +14253,30 @@
         "affiliateLink": "https://s.shopee.com.br/4VeeSXv4U0"
       },
       "messageId": 802
+    },
+    "318621368:14910433557": {
+      "status": "pending",
+      "slot": "2026-11-25:20:50",
+      "at": "2026-11-25T23:52:10.519Z",
+      "fingerprint": [
+        "potes",
+        "hermeticos",
+        "porta",
+        "mantimentos",
+        "acrilico",
+        "empilhaveis",
+        "quadrado",
+        "resistente",
+        "cozinha",
+        "dispensa"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m9rdlxmqva61f6",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "5bae7179ae0cc63ff55b4b4a1005e8228db58d704cbf755c596fd7c67ba88fbc",
+        "affiliateLink": "https://s.shopee.com.br/80EWQLlnNV"
+      }
     }
   },
   "slots": {
@@ -14883,7 +14907,8 @@
     "2026-11-25:19:45": "717396632:21766450556",
     "2026-11-25:20:00": "290073877:18898150507",
     "2026-11-25:20:15": "1588652179:21399839116",
-    "2026-11-25:20:45": "1662955195:58203876363"
+    "2026-11-25:20:45": "1662955195:58203876363",
+    "2026-11-25:20:50": "318621368:14910433557"
   },
-  "cursor": 4
+  "cursor": 8
 }

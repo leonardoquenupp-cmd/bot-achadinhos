@@ -12923,9 +12923,9 @@
       "messageId": 748
     },
     "488948242:22293678055": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:22:15",
-      "at": "2026-11-25T01:16:14.119Z",
+      "at": "2026-11-25T01:16:16.250Z",
       "fingerprint": [
         "hydra",
         "lipgloss",
@@ -12938,7 +12938,8 @@
       "receipt": {
         "captionHash": "0f94df64c45f6fd626b8a38cc71a96ca67d098de68e8b971d31d2ffd46e4cd71",
         "affiliateLink": "https://s.shopee.com.br/9V3GXk2occ"
-      }
+      },
+      "messageId": 749
     }
   },
   "slots": {

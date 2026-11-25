@@ -13433,6 +13433,33 @@
         "affiliateLink": "https://s.shopee.com.br/9pg7VN9Kgj"
       },
       "messageId": 769
+    },
+    "832040275:23995790130": {
+      "status": "pending",
+      "slot": "2026-11-25:12:30",
+      "at": "2026-11-25T15:31:35.906Z",
+      "fingerprint": [
+        "pcs",
+        "capa",
+        "celular",
+        "bolsa",
+        "case",
+        "prova",
+        "agua",
+        "transparente",
+        "cor",
+        "universal",
+        "praia",
+        "piscina",
+        "viajar"
+      ],
+      "imageIdentity": "/file/sg-11134201-82598-mtbzagotnri807",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "0dbc1006ca045c818ae87bccfe08678605c8a8b502a50808287748cb6bbb1e96",
+        "affiliateLink": "https://s.shopee.com.br/Lp525WpSG"
+      }
     }
   },
   "slots": {
@@ -14030,7 +14057,8 @@
     "2026-11-25:11:40": "1512090652:58209560674",
     "2026-11-25:11:50": "1486046321:21099702664",
     "2026-11-25:12:00": "372103398:23997135175",
-    "2026-11-25:12:15": "1833054169:58216127291"
+    "2026-11-25:12:15": "1833054169:58216127291",
+    "2026-11-25:12:30": "832040275:23995790130"
   },
-  "cursor": 1
+  "cursor": 3
 }

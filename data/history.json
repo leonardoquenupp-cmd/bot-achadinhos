@@ -12807,9 +12807,9 @@
       "messageId": 743
     },
     "951501035:46053271039": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-24:21:00",
-      "at": "2026-11-25T00:01:24.806Z",
+      "at": "2026-11-25T00:01:27.393Z",
       "fingerprint": [
         "babuche",
         "masculino",
@@ -12824,7 +12824,8 @@
       "receipt": {
         "captionHash": "eb8792fa985bbfbfcca22f36eae34d712261ddd56dad4ada565ad1cebea8f5c3",
         "affiliateLink": "https://s.shopee.com.br/6AmoUTYiOp"
-      }
+      },
+      "messageId": 744
     }
   },
   "slots": {

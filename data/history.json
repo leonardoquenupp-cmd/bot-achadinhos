@@ -13960,6 +13960,29 @@
         "affiliateLink": "https://s.shopee.com.br/4qHQy6cr6o"
       },
       "messageId": 790
+    },
+    "1367489513:22898322610": {
+      "status": "pending",
+      "slot": "2026-11-25:17:45",
+      "at": "2026-11-25T20:46:45.916Z",
+      "fingerprint": [
+        "par",
+        "palhetas",
+        "limpador",
+        "parabrisa",
+        "silicone",
+        "chuva",
+        "universal",
+        "alta",
+        "durabilidade"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m7hv7kkh7qrw86",
+      "family": "par-palhetas",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "92c0ec7c3a2a0959e9cc955c71c5c7e02f75a6f731779f3369ddc6b2f540aa45",
+        "affiliateLink": "https://s.shopee.com.br/9zzXy7F33j"
+      }
     }
   },
   "slots": {
@@ -14578,7 +14601,8 @@
     "2026-11-25:16:30": "1485077747:58200879255",
     "2026-11-25:16:45": "1064041485:23398195585",
     "2026-11-25:17:10": "389185931:11864857354",
-    "2026-11-25:17:30": "430146238:23297745234"
+    "2026-11-25:17:30": "430146238:23297745234",
+    "2026-11-25:17:45": "1367489513:22898322610"
   },
-  "cursor": 3
+  "cursor": 4
 }

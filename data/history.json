@@ -14063,9 +14063,9 @@
       "messageId": 794
     },
     "983290979:22393669273": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:18:45",
-      "at": "2026-11-25T21:46:33.508Z",
+      "at": "2026-11-25T21:46:36.323Z",
       "fingerprint": [
         "corda",
         "pular",
@@ -14083,7 +14083,8 @@
       "receipt": {
         "captionHash": "af9ae3e7ebaf0f45d752fcb65c2b5a407f62c893805025ec0d8655a99225e580",
         "affiliateLink": "https://s.shopee.com.br/8KrMnBBd33"
-      }
+      },
+      "messageId": 795
     }
   },
   "slots": {

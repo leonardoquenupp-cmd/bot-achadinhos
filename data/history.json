@@ -12940,6 +12940,29 @@
         "affiliateLink": "https://s.shopee.com.br/9V3GXk2occ"
       },
       "messageId": 749
+    },
+    "1209650911:20999580796": {
+      "status": "pending",
+      "slot": "2026-11-24:22:30",
+      "at": "2026-11-25T01:31:34.717Z",
+      "fingerprint": [
+        "carregador",
+        "carro",
+        "retratil",
+        "luz",
+        "led",
+        "rapido",
+        "120",
+        "iphone",
+        "android"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mdmsrbntex15d7",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "636c183511b1f4ee667f4b438c8e9f10669fdf2e4abb3fec99b4107773c2668a",
+        "affiliateLink": "https://s.shopee.com.br/3B9BvAwINe"
+      }
     }
   },
   "slots": {
@@ -13517,7 +13540,8 @@
     "2026-11-24:21:30": "1620547545:23194874710",
     "2026-11-24:21:40": "1022739284:20299032787",
     "2026-11-24:22:00": "829646892:57102955994",
-    "2026-11-24:22:15": "488948242:22293678055"
+    "2026-11-24:22:15": "488948242:22293678055",
+    "2026-11-24:22:30": "1209650911:20999580796"
   },
-  "cursor": 14
+  "cursor": 15
 }

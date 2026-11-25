@@ -13854,6 +13854,32 @@
         "affiliateLink": "https://s.shopee.com.br/1BOCH0rX5w"
       },
       "messageId": 786
+    },
+    "1485077747:58200879255": {
+      "status": "pending",
+      "slot": "2026-11-25:16:30",
+      "at": "2026-11-25T19:31:45.839Z",
+      "fingerprint": [
+        "carregador",
+        "carregamento",
+        "turbo",
+        "30w",
+        "fonte",
+        "torre",
+        "carregar",
+        "celular",
+        "tipo",
+        "cabo",
+        "lightning",
+        "ios"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-mpfk4paqdm9v32",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "21132161b8d60efdae96d4d207ca658240b61bf579305782fb4e5e1953410c1a",
+        "affiliateLink": "https://s.shopee.com.br/3g5XGdrMPt"
+      }
     }
   },
   "slots": {
@@ -14468,7 +14494,8 @@
     "2026-11-25:15:30": "604019486:40033573494",
     "2026-11-25:15:45": "1382762078:58214888909",
     "2026-11-25:16:00": "293152127:55407567868",
-    "2026-11-25:16:15": "1525402104:58269946715"
+    "2026-11-25:16:15": "1525402104:58269946715",
+    "2026-11-25:16:30": "1485077747:58200879255"
   },
-  "cursor": 13
+  "cursor": 14
 }

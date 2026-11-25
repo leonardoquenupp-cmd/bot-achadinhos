@@ -13034,9 +13034,9 @@
       "messageId": 753
     },
     "1082831143:57806397165": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:08:30",
-      "at": "2026-11-25T11:31:32.871Z",
+      "at": "2026-11-25T11:31:36.757Z",
       "fingerprint": [
         "pote",
         "colageno",
@@ -13053,7 +13053,8 @@
       "receipt": {
         "captionHash": "ac25917dbba937e04b78d02e8b93f15270be057a1cc6d559d23246381c46d590",
         "affiliateLink": "https://s.shopee.com.br/2gCyMhytLz"
-      }
+      },
+      "messageId": 754
     }
   },
   "slots": {

@@ -13335,9 +13335,9 @@
       "messageId": 765
     },
     "1512090652:58209560674": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:11:40",
-      "at": "2026-11-25T14:42:01.933Z",
+      "at": "2026-11-25T14:42:04.993Z",
       "fingerprint": [
         "macaquinho",
         "poliamida",
@@ -13356,7 +13356,8 @@
       "receipt": {
         "captionHash": "31a71eeebbfd533a7ef1b0b7188a31a87d6ea9492d73386a6d7331b2f1dcf578",
         "affiliateLink": "https://s.shopee.com.br/9070GOYNWX"
-      }
+      },
+      "messageId": 766
     }
   },
   "slots": {

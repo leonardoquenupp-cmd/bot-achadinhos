@@ -13160,6 +13160,28 @@
         "affiliateLink": "https://s.shopee.com.br/9V3GwTDCki"
       },
       "messageId": 758
+    },
+    "1654794100:23099161094": {
+      "status": "pending",
+      "slot": "2026-11-25:10:00",
+      "at": "2026-11-25T13:01:42.383Z",
+      "fingerprint": [
+        "sutia",
+        "rolo",
+        "adesivo",
+        "levanta",
+        "peito",
+        "seio",
+        "fita",
+        "invisivel"
+      ],
+      "imageIdentity": "/file/sg-11134201-821fn-mgploqdzgy6k98",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "217076604e86d299a8abb3a95da8341b2a52fc216a215e8a9823d945a354ca1a",
+        "affiliateLink": "https://s.shopee.com.br/6L6FGn2rmH"
+      }
     }
   },
   "slots": {
@@ -13746,7 +13768,8 @@
     "2026-11-25:08:45": "1132754268:58219797761",
     "2026-11-25:09:15": "1241281618:18797740426",
     "2026-11-25:09:30": "821481586:53207391064",
-    "2026-11-25:09:45": "1454172785:23194052410"
+    "2026-11-25:09:45": "1454172785:23194052410",
+    "2026-11-25:10:00": "1654794100:23099161094"
   },
-  "cursor": 11
+  "cursor": 12
 }

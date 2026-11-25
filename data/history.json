@@ -13933,9 +13933,9 @@
       "messageId": 789
     },
     "430146238:23297745234": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:17:30",
-      "at": "2026-11-25T20:31:35.126Z",
+      "at": "2026-11-25T20:31:37.336Z",
       "fingerprint": [
         "lanterna",
         "tatica",
@@ -13958,7 +13958,8 @@
       "receipt": {
         "captionHash": "957f8459176d82fde6cd7df74931c4223e27ef1e7f8e728b661070912ff6d2f4",
         "affiliateLink": "https://s.shopee.com.br/4qHQy6cr6o"
-      }
+      },
+      "messageId": 790
     }
   },
   "slots": {

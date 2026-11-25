@@ -13482,6 +13482,32 @@
         "affiliateLink": "https://s.shopee.com.br/1qdqHdQIuZ"
       },
       "messageId": 771
+    },
+    "1541410012:58267811082": {
+      "status": "pending",
+      "slot": "2026-11-25:13:00",
+      "at": "2026-11-25T16:01:35.410Z",
+      "fingerprint": [
+        "fita",
+        "led",
+        "fio",
+        "pilha",
+        "autocolante",
+        "120",
+        "leds",
+        "cordao",
+        "mangueira",
+        "decoracao",
+        "casa",
+        "movel"
+      ],
+      "imageIdentity": "/file/br-11134207-820m8-mswvadqb8lxjf2",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "17c3ee012c1601bc4196546b8207d0b301bfd20ba524ec04f6589288d690a81a",
+        "affiliateLink": "https://s.shopee.com.br/5AuKp0bz0q"
+      }
     }
   },
   "slots": {
@@ -14081,7 +14107,8 @@
     "2026-11-25:12:00": "372103398:23997135175",
     "2026-11-25:12:15": "1833054169:58216127291",
     "2026-11-25:12:30": "832040275:23995790130",
-    "2026-11-25:12:40": "352108512:22397737339"
+    "2026-11-25:12:40": "352108512:22397737339",
+    "2026-11-25:13:00": "1541410012:58267811082"
   },
-  "cursor": 7
+  "cursor": 8
 }

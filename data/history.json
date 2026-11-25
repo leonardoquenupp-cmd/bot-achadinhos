@@ -13057,9 +13057,9 @@
       "messageId": 754
     },
     "1132754268:58219797761": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:08:45",
-      "at": "2026-11-25T11:46:38.880Z",
+      "at": "2026-11-25T11:46:41.855Z",
       "fingerprint": [
         "regata",
         "feminina",
@@ -13082,7 +13082,8 @@
       "receipt": {
         "captionHash": "4b613363cd4265cb6a7fb716d26c91be64ba1798d696eefdaf58969a21d847f8",
         "affiliateLink": "https://s.shopee.com.br/7VIFJmjtZY"
-      }
+      },
+      "messageId": 755
     }
   },
   "slots": {

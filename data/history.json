@@ -13560,6 +13560,25 @@
         "affiliateLink": "https://s.shopee.com.br/4LLDc5Bjh9"
       },
       "messageId": 774
+    },
+    "516799172:58268871523": {
+      "status": "pending",
+      "slot": "2026-11-25:13:55",
+      "at": "2026-11-25T16:56:25.614Z",
+      "fingerprint": [
+        "ecopads",
+        "croche",
+        "unidade",
+        "sem",
+        "anel"
+      ],
+      "imageIdentity": "/file/br-11134201-820lh-mtkfewttov0h2f",
+      "family": "ecopads-croche",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "618761c5380f8327d14c4ffb55636426128ed67ff74943474c364bb69688cf12",
+        "affiliateLink": "https://s.shopee.com.br/5q9y7DbFZ7"
+      }
     }
   },
   "slots": {
@@ -14162,7 +14181,8 @@
     "2026-11-25:12:40": "352108512:22397737339",
     "2026-11-25:13:00": "1541410012:58267811082",
     "2026-11-25:13:30": "807226951:22193196979",
-    "2026-11-25:13:45": "1856353080:58267043375"
+    "2026-11-25:13:45": "1856353080:58267043375",
+    "2026-11-25:13:55": "516799172:58268871523"
   },
-  "cursor": 10
+  "cursor": 11
 }

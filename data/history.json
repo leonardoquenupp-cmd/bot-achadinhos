@@ -14085,6 +14085,30 @@
         "affiliateLink": "https://s.shopee.com.br/8KrMnBBd33"
       },
       "messageId": 795
+    },
+    "378486098:20546850828": {
+      "status": "pending",
+      "slot": "2026-11-25:19:00",
+      "at": "2026-11-25T22:01:22.764Z",
+      "fingerprint": [
+        "prancha",
+        "alisadora",
+        "cabelo",
+        "nano",
+        "titanium",
+        "450f",
+        "azul",
+        "bivolt",
+        "110",
+        "220v"
+      ],
+      "imageIdentity": "/file/sg-11134201-22100-8e4s5jis89iv69",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "3ee91016c6be5a4f4290709de936aead0f272481d999d5dd43279121eb645a4f",
+        "affiliateLink": "https://s.shopee.com.br/2gD03n2bca"
+      }
     }
   },
   "slots": {
@@ -14708,7 +14732,8 @@
     "2026-11-25:18:00": "935991633:40761616665",
     "2026-11-25:18:15": "1355920851:22094069643",
     "2026-11-25:18:30": "989926234:20197726295",
-    "2026-11-25:18:45": "983290979:22393669273"
+    "2026-11-25:18:45": "983290979:22393669273",
+    "2026-11-25:19:00": "378486098:20546850828"
   },
-  "cursor": 9
+  "cursor": 11
 }

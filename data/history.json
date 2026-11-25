@@ -13406,6 +13406,32 @@
         "affiliateLink": "https://s.shopee.com.br/2La9CJIaMM"
       },
       "messageId": 768
+    },
+    "1833054169:58216127291": {
+      "status": "pending",
+      "slot": "2026-11-25:12:15",
+      "at": "2026-11-25T15:16:35.418Z",
+      "fingerprint": [
+        "alicate",
+        "removedor",
+        "travas",
+        "fixadoras",
+        "grampos",
+        "forracao",
+        "clips",
+        "forro",
+        "teto",
+        "portas",
+        "assoalho",
+        "carro"
+      ],
+      "imageIdentity": "/file/br-11134207-820lb-mrvax416tn2d59",
+      "family": "ferramentas",
+      "department": "ferramentas",
+      "receipt": {
+        "captionHash": "4dbaed2c07e1a4cc928a911873362262c69659e059b991f03d066ade33fd2cc8",
+        "affiliateLink": "https://s.shopee.com.br/9pg7VN9Kgj"
+      }
     }
   },
   "slots": {
@@ -14002,7 +14028,8 @@
     "2026-11-25:11:30": "370144413:23799421883",
     "2026-11-25:11:40": "1512090652:58209560674",
     "2026-11-25:11:50": "1486046321:21099702664",
-    "2026-11-25:12:00": "372103398:23997135175"
+    "2026-11-25:12:00": "372103398:23997135175",
+    "2026-11-25:12:15": "1833054169:58216127291"
   },
-  "cursor": 0
+  "cursor": 1
 }

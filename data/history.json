@@ -13381,6 +13381,30 @@
         "affiliateLink": "https://s.shopee.com.br/1W0zt1RZaT"
       },
       "messageId": 767
+    },
+    "372103398:23997135175": {
+      "status": "pending",
+      "slot": "2026-11-25:12:00",
+      "at": "2026-11-25T15:01:46.047Z",
+      "fingerprint": [
+        "escova",
+        "barba",
+        "chapinha",
+        "modelador",
+        "pente",
+        "portatil",
+        "cabelo",
+        "masculino",
+        "eletrico",
+        "alisadora"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lnsm3i25f2jt04",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "f3ad02163a81362fe7e78bbe4a6c122078971dc7868251d87f9c71083b788230",
+        "affiliateLink": "https://s.shopee.com.br/2La9CJIaMM"
+      }
     }
   },
   "slots": {
@@ -13976,7 +14000,8 @@
     "2026-11-25:11:15": "389800143:23698909800",
     "2026-11-25:11:30": "370144413:23799421883",
     "2026-11-25:11:40": "1512090652:58209560674",
-    "2026-11-25:11:50": "1486046321:21099702664"
+    "2026-11-25:11:50": "1486046321:21099702664",
+    "2026-11-25:12:00": "372103398:23997135175"
   },
-  "cursor": 15
+  "cursor": 0
 }

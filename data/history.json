@@ -13931,6 +13931,34 @@
         "affiliateLink": "https://s.shopee.com.br/Lp5G7blvM"
       },
       "messageId": 789
+    },
+    "430146238:23297745234": {
+      "status": "pending",
+      "slot": "2026-11-25:17:30",
+      "at": "2026-11-25T20:31:35.126Z",
+      "fingerprint": [
+        "lanterna",
+        "tatica",
+        "led",
+        "potente",
+        "1500m",
+        "recarregavel",
+        "usb",
+        "portatil",
+        "ultra",
+        "brilhante",
+        "uso",
+        "externo",
+        "longo",
+        "alcance"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lzj8n1xm358h31",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "957f8459176d82fde6cd7df74931c4223e27ef1e7f8e728b661070912ff6d2f4",
+        "affiliateLink": "https://s.shopee.com.br/4qHQy6cr6o"
+      }
     }
   },
   "slots": {
@@ -14548,7 +14576,8 @@
     "2026-11-25:16:15": "1525402104:58269946715",
     "2026-11-25:16:30": "1485077747:58200879255",
     "2026-11-25:16:45": "1064041485:23398195585",
-    "2026-11-25:17:10": "389185931:11864857354"
+    "2026-11-25:17:10": "389185931:11864857354",
+    "2026-11-25:17:30": "430146238:23297745234"
   },
-  "cursor": 1
+  "cursor": 3
 }

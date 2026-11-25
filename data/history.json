@@ -14202,6 +14202,28 @@
         "affiliateLink": "https://s.shopee.com.br/80EWf1nIZI"
       },
       "messageId": 800
+    },
+    "1588652179:21399839116": {
+      "status": "pending",
+      "slot": "2026-11-25:20:15",
+      "at": "2026-11-25T23:16:17.048Z",
+      "fingerprint": [
+        "lampiao",
+        "luminaria",
+        "carregador",
+        "solar",
+        "camping",
+        "usb",
+        "led",
+        "lanterna"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfbf6mtx2jglde",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "e8c30958f6bc7e3b4935dc162e7883384131a4f947d76fb80dfa7fd3a255f15e",
+        "affiliateLink": "https://s.shopee.com.br/8VAn5fIjBi"
+      }
     }
   },
   "slots": {
@@ -14830,7 +14852,8 @@
     "2026-11-25:19:15": "1398532513:58202180351",
     "2026-11-25:19:30": "1824003005:58221067210",
     "2026-11-25:19:45": "717396632:21766450556",
-    "2026-11-25:20:00": "290073877:18898150507"
+    "2026-11-25:20:00": "290073877:18898150507",
+    "2026-11-25:20:15": "1588652179:21399839116"
   },
-  "cursor": 1
+  "cursor": 3
 }

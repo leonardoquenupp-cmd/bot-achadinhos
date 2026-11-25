@@ -13510,6 +13510,25 @@
       },
       "messageId": 772,
       "reconciliation": "verified_public_telegram_post"
+    },
+    "807226951:22193196979": {
+      "status": "pending",
+      "slot": "2026-11-25:13:30",
+      "at": "2026-11-25T16:31:39.831Z",
+      "fingerprint": [
+        "palmilha",
+        "gel",
+        "ortopedica",
+        "aumento",
+        "estatura"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lybfdx49srtx57",
+      "family": "palmilha-gel",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "1c5f21011d6a9bebe136bf2afdb93216d2abf86f407d2249d3d875ab98059388",
+        "affiliateLink": "https://s.shopee.com.br/6L6DanyQXZ"
+      }
     }
   },
   "slots": {
@@ -14110,7 +14129,8 @@
     "2026-11-25:12:15": "1833054169:58216127291",
     "2026-11-25:12:30": "832040275:23995790130",
     "2026-11-25:12:40": "352108512:22397737339",
-    "2026-11-25:13:00": "1541410012:58267811082"
+    "2026-11-25:13:00": "1541410012:58267811082",
+    "2026-11-25:13:30": "807226951:22193196979"
   },
-  "cursor": 8
+  "cursor": 9
 }

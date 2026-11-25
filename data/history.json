@@ -14110,6 +14110,32 @@
         "affiliateLink": "https://s.shopee.com.br/2gD03n2bca"
       },
       "messageId": 796
+    },
+    "1398532513:58202180351": {
+      "status": "pending",
+      "slot": "2026-11-25:19:15",
+      "at": "2026-11-25T22:16:27.065Z",
+      "fingerprint": [
+        "smart",
+        "air",
+        "tag",
+        "rastreador",
+        "bluetooth",
+        "iphone",
+        "localizador",
+        "app",
+        "ios",
+        "objetos",
+        "perdidos",
+        "pet"
+      ],
+      "imageIdentity": "/file/sg-11134201-81zwk-mietxjfuct1c53",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "45cf998b6c76aa6d98b229090606c22b9574b764782dd25ba71806bc9a03ba3e",
+        "affiliateLink": "https://s.shopee.com.br/5LDlR48gaK"
+      }
     }
   },
   "slots": {
@@ -14734,7 +14760,8 @@
     "2026-11-25:18:15": "1355920851:22094069643",
     "2026-11-25:18:30": "989926234:20197726295",
     "2026-11-25:18:45": "983290979:22393669273",
-    "2026-11-25:19:00": "378486098:20546850828"
+    "2026-11-25:19:00": "378486098:20546850828",
+    "2026-11-25:19:15": "1398532513:58202180351"
   },
-  "cursor": 11
+  "cursor": 13
 }

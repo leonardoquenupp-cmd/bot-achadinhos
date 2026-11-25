@@ -13530,6 +13530,35 @@
         "affiliateLink": "https://s.shopee.com.br/6L6DanyQXZ"
       },
       "messageId": 773
+    },
+    "1856353080:58267043375": {
+      "status": "pending",
+      "slot": "2026-11-25:13:45",
+      "at": "2026-11-25T16:46:32.248Z",
+      "fingerprint": [
+        "60w",
+        "cabo",
+        "usb",
+        "tipo",
+        "reforcado",
+        "metro",
+        "carregamento",
+        "rapido",
+        "turbo",
+        "android",
+        "compativel",
+        "galaxy",
+        "xiomi",
+        "moto",
+        "iphone"
+      ],
+      "imageIdentity": "/file/br-11134207-820ly-mss49tsz8fly26",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "130aa7d35a31394e20f1bafa8f12548e98b056696da74176c71c8d5961c59f01",
+        "affiliateLink": "https://s.shopee.com.br/4LLDc5Bjh9"
+      }
     }
   },
   "slots": {
@@ -14131,7 +14160,8 @@
     "2026-11-25:12:30": "832040275:23995790130",
     "2026-11-25:12:40": "352108512:22397737339",
     "2026-11-25:13:00": "1541410012:58267811082",
-    "2026-11-25:13:30": "807226951:22193196979"
+    "2026-11-25:13:30": "807226951:22193196979",
+    "2026-11-25:13:45": "1856353080:58267043375"
   },
-  "cursor": 9
+  "cursor": 10
 }

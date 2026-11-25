@@ -12898,6 +12898,28 @@
         "affiliateLink": "https://s.shopee.com.br/3g5UT0JKBa"
       },
       "messageId": 747
+    },
+    "829646892:57102955994": {
+      "status": "pending",
+      "slot": "2026-11-24:22:00",
+      "at": "2026-11-25T01:01:21.357Z",
+      "fingerprint": [
+        "tapete",
+        "higienico",
+        "petcharm",
+        "slim",
+        "tamanho",
+        "50cm",
+        "60cm",
+        "cachorros"
+      ],
+      "imageIdentity": "/file/br-11134207-820lt-mmdutjsrnegw17",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "43b89c0947fd194e56ff700c7f9ee32bb250598f9a196e136cf8c5ef84cb3059",
+        "affiliateLink": "https://s.shopee.com.br/1W0z57sblS"
+      }
     }
   },
   "slots": {
@@ -13473,7 +13495,8 @@
     "2026-11-24:21:00": "951501035:46053271039",
     "2026-11-24:21:15": "1738289506:58255620498",
     "2026-11-24:21:30": "1620547545:23194874710",
-    "2026-11-24:21:40": "1022739284:20299032787"
+    "2026-11-24:21:40": "1022739284:20299032787",
+    "2026-11-24:22:00": "829646892:57102955994"
   },
-  "cursor": 12
+  "cursor": 13
 }

@@ -13562,9 +13562,9 @@
       "messageId": 774
     },
     "516799172:58268871523": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:13:55",
-      "at": "2026-11-25T16:56:25.614Z",
+      "at": "2026-11-25T16:56:29.080Z",
       "fingerprint": [
         "ecopads",
         "croche",
@@ -13578,7 +13578,8 @@
       "receipt": {
         "captionHash": "618761c5380f8327d14c4ffb55636426128ed67ff74943474c364bb69688cf12",
         "affiliateLink": "https://s.shopee.com.br/5q9y7DbFZ7"
-      }
+      },
+      "messageId": 775
     }
   },
   "slots": {

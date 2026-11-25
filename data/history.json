@@ -13812,9 +13812,9 @@
       "messageId": 784
     },
     "293152127:55407567868": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:16:00",
-      "at": "2026-11-25T19:01:32.867Z",
+      "at": "2026-11-25T19:01:36.001Z",
       "fingerprint": [
         "snack",
         "cremoso",
@@ -13830,7 +13830,8 @@
       "receipt": {
         "captionHash": "47d858804f0a7343bbaefc18b73d3ab0b85db01d0af7363126b1c903dc972a28",
         "affiliateLink": "https://s.shopee.com.br/4LLASKhp0j"
-      }
+      },
+      "messageId": 785
     }
   },
   "slots": {

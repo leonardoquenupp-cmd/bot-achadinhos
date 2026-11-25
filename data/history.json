@@ -13233,9 +13233,9 @@
       "messageId": 761
     },
     "1441157744:57568964332": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:10:45",
-      "at": "2026-11-25T13:46:05.812Z",
+      "at": "2026-11-25T13:46:08.518Z",
       "fingerprint": [
         "mascara",
         "teia",
@@ -13257,7 +13257,8 @@
       "receipt": {
         "captionHash": "23704e84783f0e65ba45f4d5cdd56da515e94f4d2fef68fcca8202c1c6bea3b6",
         "affiliateLink": "https://s.shopee.com.br/8AXw91wNWf"
-      }
+      },
+      "messageId": 762
     }
   },
   "slots": {

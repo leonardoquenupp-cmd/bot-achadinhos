@@ -13162,9 +13162,9 @@
       "messageId": 758
     },
     "1654794100:23099161094": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:10:00",
-      "at": "2026-11-25T13:01:42.383Z",
+      "at": "2026-11-25T13:01:44.925Z",
       "fingerprint": [
         "sutia",
         "rolo",
@@ -13181,7 +13181,8 @@
       "receipt": {
         "captionHash": "217076604e86d299a8abb3a95da8341b2a52fc216a215e8a9823d945a354ca1a",
         "affiliateLink": "https://s.shopee.com.br/6L6FGn2rmH"
-      }
+      },
+      "messageId": 759
     }
   },
   "slots": {

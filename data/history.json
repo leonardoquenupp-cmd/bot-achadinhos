@@ -12985,9 +12985,9 @@
       "messageId": 751
     },
     "502619181:21699850579": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:08:00",
-      "at": "2026-11-25T11:01:30.207Z",
+      "at": "2026-11-25T11:01:33.369Z",
       "fingerprint": [
         "nivea",
         "locao",
@@ -13005,7 +13005,8 @@
       "receipt": {
         "captionHash": "d4037995fd7587d41f96d64dedb822594832d96e61274fc3074ea86e3c5bce61",
         "affiliateLink": "https://s.shopee.com.br/AKcNturkKR"
-      }
+      },
+      "messageId": 752
     }
   },
   "slots": {

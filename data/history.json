@@ -13657,6 +13657,29 @@
         "affiliateLink": "https://s.shopee.com.br/4VeZSruA1W"
       },
       "messageId": 778
+    },
+    "1055868793:22794534397": {
+      "status": "pending",
+      "slot": "2026-11-25:14:35",
+      "at": "2026-11-25T17:37:13.462Z",
+      "fingerprint": [
+        "clips",
+        "femininos",
+        "sutia",
+        "acessorio",
+        "pratico",
+        "esconder",
+        "alcas",
+        "garantir",
+        "sustentacao"
+      ],
+      "imageIdentity": "/file/sg-11134201-825b6-mfu2avs3avbe9f",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "63a5a7b76322e3a787585182877d6998f1161c3492dd1fcd990495716ca4c0d1",
+        "affiliateLink": "https://s.shopee.com.br/2BGjLyNkgx"
+      }
     }
   },
   "slots": {
@@ -14263,7 +14286,8 @@
     "2026-11-25:13:55": "516799172:58268871523",
     "2026-11-25:14:00": "359168917:8020679826",
     "2026-11-25:14:15": "872424585:58260388123",
-    "2026-11-25:14:20": "1820556389:58220436747"
+    "2026-11-25:14:20": "1820556389:58220436747",
+    "2026-11-25:14:35": "1055868793:22794534397"
   },
-  "cursor": 0
+  "cursor": 1
 }

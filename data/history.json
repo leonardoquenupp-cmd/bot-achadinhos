@@ -13707,6 +13707,31 @@
         "affiliateLink": "https://s.shopee.com.br/1qdpOaoHCW"
       },
       "messageId": 780
+    },
+    "1598184222:58268749880": {
+      "status": "pending",
+      "slot": "2026-11-25:15:00",
+      "at": "2026-11-25T18:01:55.613Z",
+      "fingerprint": [
+        "tenis",
+        "esportivo",
+        "unissex",
+        "branco",
+        "leve",
+        "confortavel",
+        "academia",
+        "corrida",
+        "caminhada",
+        "uso",
+        "diario"
+      ],
+      "imageIdentity": "/file/sg-11134201-8259f-mtfloa2t89ol43",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "685e63707a029bb0cf5ab580156a8bd650a9e2c7b904166f8c884242a09337fe",
+        "affiliateLink": "https://s.shopee.com.br/3LSglt1LJs"
+      }
     }
   },
   "slots": {
@@ -14315,7 +14340,8 @@
     "2026-11-25:14:15": "872424585:58260388123",
     "2026-11-25:14:20": "1820556389:58220436747",
     "2026-11-25:14:35": "1055868793:22794534397",
-    "2026-11-25:14:45": "1655509891:58268396667"
+    "2026-11-25:14:45": "1655509891:58268396667",
+    "2026-11-25:15:00": "1598184222:58268749880"
   },
-  "cursor": 3
+  "cursor": 5
 }

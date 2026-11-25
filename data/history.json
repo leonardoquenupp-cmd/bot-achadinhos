@@ -13834,9 +13834,9 @@
       "messageId": 785
     },
     "1525402104:58269946715": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:16:15",
-      "at": "2026-11-25T19:16:35.894Z",
+      "at": "2026-11-25T19:16:38.071Z",
       "fingerprint": [
         "havaianas",
         "bandeirinha",
@@ -13852,7 +13852,8 @@
       "receipt": {
         "captionHash": "ea3f711c53dbe6037ea4bb58fe1e69de17fc4ff4f5d85c698be8ba9e693e783e",
         "affiliateLink": "https://s.shopee.com.br/1BOCH0rX5w"
-      }
+      },
+      "messageId": 786
     }
   },
   "slots": {

@@ -13306,6 +13306,32 @@
         "affiliateLink": "https://s.shopee.com.br/3qOuC3YmF4"
       },
       "messageId": 764
+    },
+    "370144413:23799421883": {
+      "status": "pending",
+      "slot": "2026-11-25:11:30",
+      "at": "2026-11-25T14:31:30.476Z",
+      "fingerprint": [
+        "short",
+        "plus",
+        "size",
+        "feminino",
+        "alfaiataria",
+        "elegante",
+        "botao",
+        "coberto",
+        "elastico",
+        "moda",
+        "casual",
+        "verao"
+      ],
+      "imageIdentity": "/file/br-11134207-820lp-mmjslovesxs610",
+      "family": "short-plus",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "7e6f258e7a1b55e715b18a5e2dbfcf74212ef86f4c3e3ed82bab7fae4c9d09c0",
+        "affiliateLink": "https://s.shopee.com.br/7fbfhPcs6s"
+      }
     }
   },
   "slots": {
@@ -13898,7 +13924,8 @@
     "2026-11-25:10:30": "1510608042:57706744671",
     "2026-11-25:10:45": "1441157744:57568964332",
     "2026-11-25:11:00": "1265262682:58219197388",
-    "2026-11-25:11:15": "389800143:23698909800"
+    "2026-11-25:11:15": "389800143:23698909800",
+    "2026-11-25:11:30": "370144413:23799421883"
   },
-  "cursor": 5
+  "cursor": 7
 }

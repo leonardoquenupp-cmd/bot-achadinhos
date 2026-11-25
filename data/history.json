@@ -13681,6 +13681,31 @@
         "affiliateLink": "https://s.shopee.com.br/2BGjLyNkgx"
       },
       "messageId": 779
+    },
+    "1655509891:58268396667": {
+      "status": "pending",
+      "slot": "2026-11-25:14:45",
+      "at": "2026-11-25T17:46:34.663Z",
+      "fingerprint": [
+        "shorts",
+        "masculino",
+        "dry",
+        "fit",
+        "academia",
+        "corrida",
+        "fitness",
+        "compressao",
+        "bolso",
+        "celular",
+        "musculacao"
+      ],
+      "imageIdentity": "/file/br-11134207-820m2-mttoii8omps13a",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "d6dfb8b2de3af85e3f505bb10460ea30c124031d785afadbb9a66338c8811c5a",
+        "affiliateLink": "https://s.shopee.com.br/1qdpOaoHCW"
+      }
     }
   },
   "slots": {
@@ -14288,7 +14313,8 @@
     "2026-11-25:14:00": "359168917:8020679826",
     "2026-11-25:14:15": "872424585:58260388123",
     "2026-11-25:14:20": "1820556389:58220436747",
-    "2026-11-25:14:35": "1055868793:22794534397"
+    "2026-11-25:14:35": "1055868793:22794534397",
+    "2026-11-25:14:45": "1655509891:58268396667"
   },
-  "cursor": 1
+  "cursor": 3
 }

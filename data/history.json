@@ -12964,6 +12964,24 @@
         "affiliateLink": "https://s.shopee.com.br/3B9BvAwINe"
       },
       "messageId": 750
+    },
+    "1630938913:58212490237": {
+      "status": "pending",
+      "slot": "2026-11-24:22:45",
+      "at": "2026-11-25T01:46:34.553Z",
+      "fingerprint": [
+        "suporte",
+        "articulado",
+        "parede",
+        "monitor"
+      ],
+      "imageIdentity": "/file/sg-11134201-8257s-mu5mfvj2npq98f",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "5c0fcefe048af547156a683d268fe2ec620cdc748b9006e3167a4bc626f6647e",
+        "affiliateLink": "https://s.shopee.com.br/3B9DOpbJas"
+      }
     }
   },
   "slots": {
@@ -13542,7 +13560,8 @@
     "2026-11-24:21:40": "1022739284:20299032787",
     "2026-11-24:22:00": "829646892:57102955994",
     "2026-11-24:22:15": "488948242:22293678055",
-    "2026-11-24:22:30": "1209650911:20999580796"
+    "2026-11-24:22:30": "1209650911:20999580796",
+    "2026-11-24:22:45": "1630938913:58212490237"
   },
-  "cursor": 15
+  "cursor": 0
 }

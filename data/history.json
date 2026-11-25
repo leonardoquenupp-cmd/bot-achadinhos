@@ -13832,6 +13832,27 @@
         "affiliateLink": "https://s.shopee.com.br/4LLASKhp0j"
       },
       "messageId": 785
+    },
+    "1525402104:58269946715": {
+      "status": "pending",
+      "slot": "2026-11-25:16:15",
+      "at": "2026-11-25T19:16:35.894Z",
+      "fingerprint": [
+        "havaianas",
+        "bandeirinha",
+        "brasil",
+        "conforto",
+        "estilo",
+        "todas",
+        "idades"
+      ],
+      "imageIdentity": "/file/br-11134207-820mh-mubnkp6aty4if3",
+      "family": "havaianas-bandeirinha",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "ea3f711c53dbe6037ea4bb58fe1e69de17fc4ff4f5d85c698be8ba9e693e783e",
+        "affiliateLink": "https://s.shopee.com.br/1BOCH0rX5w"
+      }
     }
   },
   "slots": {
@@ -14445,7 +14466,8 @@
     "2026-11-25:15:15": "1600125401:58256632141",
     "2026-11-25:15:30": "604019486:40033573494",
     "2026-11-25:15:45": "1382762078:58214888909",
-    "2026-11-25:16:00": "293152127:55407567868"
+    "2026-11-25:16:00": "293152127:55407567868",
+    "2026-11-25:16:15": "1525402104:58269946715"
   },
-  "cursor": 12
+  "cursor": 13
 }

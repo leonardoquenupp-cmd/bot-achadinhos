@@ -13084,6 +13084,31 @@
         "affiliateLink": "https://s.shopee.com.br/7VIFJmjtZY"
       },
       "messageId": 755
+    },
+    "1241281618:18797740426": {
+      "status": "pending",
+      "slot": "2026-11-25:09:15",
+      "at": "2026-11-25T12:16:19.779Z",
+      "fingerprint": [
+        "necessaire",
+        "viagem",
+        "grande",
+        "separacao",
+        "entre",
+        "seco",
+        "molhado",
+        "compartimentos",
+        "visor",
+        "translucido",
+        "t12"
+      ],
+      "imageIdentity": "/file/br-11134207-820me-mvfrzjjsbmrn2c",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "de5556d356ffbd538b726ae8d0f37a3e1872b564a9270b5934f3e6a8d2811e06",
+        "affiliateLink": "https://s.shopee.com.br/5VX892A98u"
+      }
     }
   },
   "slots": {
@@ -13667,7 +13692,8 @@
     "2026-11-25:08:00": "502619181:21699850579",
     "2026-11-25:08:15": "1883680202:58219554613",
     "2026-11-25:08:30": "1082831143:57806397165",
-    "2026-11-25:08:45": "1132754268:58219797761"
+    "2026-11-25:08:45": "1132754268:58219797761",
+    "2026-11-25:09:15": "1241281618:18797740426"
   },
-  "cursor": 7
+  "cursor": 8
 }

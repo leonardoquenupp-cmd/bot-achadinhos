@@ -13259,6 +13259,26 @@
         "affiliateLink": "https://s.shopee.com.br/8AXw91wNWf"
       },
       "messageId": 762
+    },
+    "1265262682:58219197388": {
+      "status": "pending",
+      "slot": "2026-11-25:11:00",
+      "at": "2026-11-25T14:01:46.370Z",
+      "fingerprint": [
+        "cartao",
+        "memoria",
+        "128",
+        "cameras",
+        "drones",
+        "micro"
+      ],
+      "imageIdentity": "/file/br-11134207-820lr-mtogc68x5a80b2",
+      "family": "cartao-memoria",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "118225899a5c8f8cb9ec9265eee394fe59d314364722471382f79b060c6e9f5e",
+        "affiliateLink": "https://s.shopee.com.br/8KrMSa42YZ"
+      }
     }
   },
   "slots": {
@@ -13849,7 +13869,8 @@
     "2026-11-25:10:00": "1654794100:23099161094",
     "2026-11-25:10:15": "883941882:22797599385",
     "2026-11-25:10:30": "1510608042:57706744671",
-    "2026-11-25:10:45": "1441157744:57568964332"
+    "2026-11-25:10:45": "1441157744:57568964332",
+    "2026-11-25:11:00": "1265262682:58219197388"
   },
-  "cursor": 2
+  "cursor": 3
 }

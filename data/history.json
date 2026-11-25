@@ -14061,6 +14061,29 @@
         "affiliateLink": "https://s.shopee.com.br/1gKR6mDFdG"
       },
       "messageId": 794
+    },
+    "983290979:22393669273": {
+      "status": "pending",
+      "slot": "2026-11-25:18:45",
+      "at": "2026-11-25T21:46:33.508Z",
+      "fingerprint": [
+        "corda",
+        "pular",
+        "profissional",
+        "ajustavel",
+        "crossfit",
+        "malhar",
+        "academia",
+        "exercicio",
+        "casa"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m5hs0m8ec8lh30",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "af9ae3e7ebaf0f45d752fcb65c2b5a407f62c893805025ec0d8655a99225e580",
+        "affiliateLink": "https://s.shopee.com.br/8KrMnBBd33"
+      }
     }
   },
   "slots": {
@@ -14683,7 +14706,8 @@
     "2026-11-25:17:45": "1367489513:22898322610",
     "2026-11-25:18:00": "935991633:40761616665",
     "2026-11-25:18:15": "1355920851:22094069643",
-    "2026-11-25:18:30": "989926234:20197726295"
+    "2026-11-25:18:30": "989926234:20197726295",
+    "2026-11-25:18:45": "983290979:22393669273"
   },
-  "cursor": 8
+  "cursor": 9
 }

@@ -14227,9 +14227,9 @@
       "messageId": 801
     },
     "1662955195:58203876363": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:20:45",
-      "at": "2026-11-25T23:46:12.918Z",
+      "at": "2026-11-25T23:46:15.478Z",
       "fingerprint": [
         "ventilador",
         "teto",
@@ -14251,7 +14251,8 @@
       "receipt": {
         "captionHash": "f0382d3b00a6f2020c9518f4c04b99ef4d3b83feae2d1302029d3bc4c80ef876",
         "affiliateLink": "https://s.shopee.com.br/4VeeSXv4U0"
-      }
+      },
+      "messageId": 802
     }
   },
   "slots": {

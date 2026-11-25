@@ -13358,6 +13358,28 @@
         "affiliateLink": "https://s.shopee.com.br/9070GOYNWX"
       },
       "messageId": 766
+    },
+    "1486046321:21099702664": {
+      "status": "pending",
+      "slot": "2026-11-25:11:50",
+      "at": "2026-11-25T14:52:07.522Z",
+      "fingerprint": [
+        "carregador",
+        "rapido",
+        "compativel",
+        "pro",
+        "max",
+        "completo",
+        "20w",
+        "lightning"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mkb3rlvsu6f744",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "d99ed17e5524923fd6b8da42c3154596e9a093439b2fd2a3b183d02d6bec92e5",
+        "affiliateLink": "https://s.shopee.com.br/1W0zt1RZaT"
+      }
     }
   },
   "slots": {
@@ -13952,7 +13974,8 @@
     "2026-11-25:11:00": "1265262682:58219197388",
     "2026-11-25:11:15": "389800143:23698909800",
     "2026-11-25:11:30": "370144413:23799421883",
-    "2026-11-25:11:40": "1512090652:58209560674"
+    "2026-11-25:11:40": "1512090652:58209560674",
+    "2026-11-25:11:50": "1486046321:21099702664"
   },
-  "cursor": 11
+  "cursor": 15
 }

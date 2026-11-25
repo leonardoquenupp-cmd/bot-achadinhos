@@ -14255,9 +14255,9 @@
       "messageId": 802
     },
     "318621368:14910433557": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:20:50",
-      "at": "2026-11-25T23:52:10.519Z",
+      "at": "2026-11-25T23:52:12.832Z",
       "fingerprint": [
         "potes",
         "hermeticos",
@@ -14276,7 +14276,8 @@
       "receipt": {
         "captionHash": "5bae7179ae0cc63ff55b4b4a1005e8228db58d704cbf755c596fd7c67ba88fbc",
         "affiliateLink": "https://s.shopee.com.br/80EWQLlnNV"
-      }
+      },
+      "messageId": 803
     }
   },
   "slots": {

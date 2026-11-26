@@ -15634,6 +15634,32 @@
         "affiliateLink": "https://s.shopee.com.br/9zzcHz2jBD"
       },
       "messageId": 857
+    },
+    "647546523:24805699164": {
+      "status": "pending",
+      "slot": "2026-11-26:18:50",
+      "at": "2026-11-26T21:51:35.685Z",
+      "fingerprint": [
+        "isca",
+        "artificial",
+        "10cm",
+        "pesca",
+        "wobbler",
+        "flutuante",
+        "popper",
+        "mar",
+        "crankbait",
+        "plastico",
+        "rigido",
+        "lapis"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rbk8-lpumpu5co2dj92",
+      "family": "papelaria",
+      "department": "papelaria",
+      "receipt": {
+        "captionHash": "57df076c9c44aec0296e6f775bb0e20ff09d818ef917cd8a27b4580e353dd3af",
+        "affiliateLink": "https://s.shopee.com.br/8AXxjHQaVE"
+      }
     }
   },
   "slots": {
@@ -16319,7 +16345,8 @@
     "2026-11-26:18:00": "313660590:22893738408",
     "2026-11-26:18:15": "742626506:23097561555",
     "2026-11-26:18:30": "1304513381:22598549816",
-    "2026-11-26:18:45": "1564125095:58218427574"
+    "2026-11-26:18:45": "1564125095:58218427574",
+    "2026-11-26:18:50": "647546523:24805699164"
   },
-  "cursor": 2
+  "cursor": 5
 }

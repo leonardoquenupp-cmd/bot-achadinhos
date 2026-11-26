@@ -14940,6 +14940,30 @@
         "affiliateLink": "https://s.shopee.com.br/3qOyUqeaHy"
       },
       "messageId": 830
+    },
+    "1007722569:22894519217": {
+      "status": "pending",
+      "slot": "2026-11-26:12:15",
+      "at": "2026-11-26T15:16:30.322Z",
+      "fingerprint": [
+        "calcinhas",
+        "fio",
+        "duplo",
+        "levanta",
+        "bumbum",
+        "dental",
+        "confortavel",
+        "forro",
+        "algodao",
+        "sensual"
+      ],
+      "imageIdentity": "/file/sg-11134201-824h7-mfo5xv07vitmdc",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "dbf24f317f34dafb70d77712d27195b6dddceeb76f57bbf0a9c6b4c2e5bd62eb",
+        "affiliateLink": "https://s.shopee.com.br/8AXxwIuylF"
+      }
     }
   },
   "slots": {
@@ -15598,7 +15622,8 @@
     "2026-11-26:11:15": "1501406204:58251018871",
     "2026-11-26:11:30": "378143264:3001116202",
     "2026-11-26:11:45": "634100145:58261515372",
-    "2026-11-26:12:00": "1555286005:23394403878"
+    "2026-11-26:12:00": "1555286005:23394403878",
+    "2026-11-26:12:15": "1007722569:22894519217"
   },
-  "cursor": 4
+  "cursor": 6
 }

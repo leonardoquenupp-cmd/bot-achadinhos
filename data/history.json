@@ -15385,6 +15385,26 @@
         "affiliateLink": "https://s.shopee.com.br/20xKRMhD0P"
       },
       "messageId": 848
+    },
+    "395166866:22494941454": {
+      "status": "pending",
+      "slot": "2026-11-26:17:00",
+      "at": "2026-11-26T20:01:37.483Z",
+      "fingerprint": [
+        "facial",
+        "kokeshi",
+        "completo",
+        "passos",
+        "hidratacao",
+        "colageno"
+      ],
+      "imageIdentity": "/file/br-11134207-820lx-mqbygibr40sg7a",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "7e44946175a4e3ddf566c826f14a501de9573c47fb7d3f2c669b0f7d4ef66ab8",
+        "affiliateLink": "https://s.shopee.com.br/2LaAqJ73hu"
+      }
     }
   },
   "slots": {
@@ -16061,7 +16081,8 @@
     "2026-11-26:16:00": "1396355892:22593614484",
     "2026-11-26:16:10": "1314243679:55860501871",
     "2026-11-26:16:30": "717396632:58254729932",
-    "2026-11-26:16:40": "516623582:20099300564"
+    "2026-11-26:16:40": "516623582:20099300564",
+    "2026-11-26:17:00": "395166866:22494941454"
   },
-  "cursor": 2
+  "cursor": 4
 }

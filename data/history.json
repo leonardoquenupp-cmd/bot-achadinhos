@@ -14429,6 +14429,27 @@
         "affiliateLink": "https://s.shopee.com.br/9pgAydCEao"
       },
       "messageId": 809
+    },
+    "347988064:54861999742": {
+      "status": "pending",
+      "slot": "2026-11-25:22:15",
+      "at": "2026-11-26T01:16:23.179Z",
+      "fingerprint": [
+        "whey",
+        "core",
+        "proteina",
+        "concentrada",
+        "900g",
+        "soldiers",
+        "nutrition"
+      ],
+      "imageIdentity": "/file/br-11134207-820ma-mqrtpomr4hdv7c",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "1473bef01f6479ad3888010f71f30ebd1259c725baed66b3a7baa13e1990bada",
+        "affiliateLink": "https://s.shopee.com.br/7KypZIRCyW"
+      }
     }
   },
   "slots": {
@@ -15066,7 +15087,8 @@
     "2026-11-25:21:30": "908280603:23793592187",
     "2026-11-25:21:45": "1078551010:23494626157",
     "2026-11-25:21:50": "1833179585:58266731363",
-    "2026-11-25:22:00": "1502179324:22299228079"
+    "2026-11-25:22:00": "1502179324:22299228079",
+    "2026-11-25:22:15": "347988064:54861999742"
   },
-  "cursor": 3
+  "cursor": 4
 }

@@ -15465,9 +15465,9 @@
       "messageId": 851
     },
     "447349628:19253842863": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:17:35",
-      "at": "2026-11-26T20:36:56.132Z",
+      "at": "2026-11-26T20:36:58.247Z",
       "fingerprint": [
         "1pcs",
         "24v",
@@ -15502,7 +15502,8 @@
       "receipt": {
         "captionHash": "a83fa3c49fb0d09176457c73f614b2e999a896e4bbd0875e3b1cf49406cfebb3",
         "affiliateLink": "https://s.shopee.com.br/3LSiGvTYPQ"
-      }
+      },
+      "messageId": 852
     }
   },
   "slots": {

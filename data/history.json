@@ -14356,9 +14356,9 @@
       "messageId": 806
     },
     "1078551010:23494626157": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:21:45",
-      "at": "2026-11-26T00:46:12.864Z",
+      "at": "2026-11-26T00:46:14.994Z",
       "fingerprint": [
         "gokoco",
         "modelador",
@@ -14380,7 +14380,8 @@
       "receipt": {
         "captionHash": "c3e57ae53f468de7e2bdf9421add11824a934076673ab48ac6ccae38dbc08850",
         "affiliateLink": "https://s.shopee.com.br/6q2Z1Rmk9y"
-      }
+      },
+      "messageId": 807
     }
   },
   "slots": {

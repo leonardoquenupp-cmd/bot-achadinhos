@@ -15534,9 +15534,9 @@
       "messageId": 853
     },
     "313660590:22893738408": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:18:00",
-      "at": "2026-11-26T21:01:25.268Z",
+      "at": "2026-11-26T21:01:27.624Z",
       "fingerprint": [
         "jogo",
         "lencol",
@@ -15560,7 +15560,8 @@
       "receipt": {
         "captionHash": "5a39fb858b266243ab36901c8059012ba43964e77968481c0ef303539b8a6a8a",
         "affiliateLink": "https://s.shopee.com.br/8KrOWKCAeO"
-      }
+      },
+      "messageId": 854
     }
   },
   "slots": {

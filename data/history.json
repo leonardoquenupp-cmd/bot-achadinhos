@@ -15168,9 +15168,9 @@
       "messageId": 839
     },
     "1577747933:58212106403": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:14:45",
-      "at": "2026-11-26T17:46:36.112Z",
+      "at": "2026-11-26T17:46:38.921Z",
       "fingerprint": [
         "toyadent",
         "creme",
@@ -15190,7 +15190,8 @@
       "receipt": {
         "captionHash": "1c357ed5d2ce319b74100e86b1261aa0ab5871c3b8da96907cadbb1198766f23",
         "affiliateLink": "https://s.shopee.com.br/50aw4JcYNP"
-      }
+      },
+      "messageId": 840
     }
   },
   "slots": {

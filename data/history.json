@@ -14523,9 +14523,9 @@
       "messageId": 813
     },
     "375201738:58216057085": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:08:00",
-      "at": "2026-11-26T11:01:24.839Z",
+      "at": "2026-11-26T11:01:27.892Z",
       "fingerprint": [
         "tapa",
         "seios",
@@ -14544,7 +14544,8 @@
       "receipt": {
         "captionHash": "91c8490ea700cd43ded460e1cc228fb9a14e7903ceb6f829c7e4cc54bc299f0e",
         "affiliateLink": "https://s.shopee.com.br/7fbh3rdvo6"
-      }
+      },
+      "messageId": 814
     }
   },
   "slots": {

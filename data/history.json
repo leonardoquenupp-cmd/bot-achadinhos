@@ -14451,6 +14451,33 @@
         "affiliateLink": "https://s.shopee.com.br/7KypZIRCyW"
       },
       "messageId": 810
+    },
+    "800864347:19897425032": {
+      "status": "pending",
+      "slot": "2026-11-25:22:30",
+      "at": "2026-11-26T01:31:26.717Z",
+      "fingerprint": [
+        "sutia",
+        "nayane",
+        "rodrigues",
+        "tomara",
+        "que",
+        "caia",
+        "bojo",
+        "aro",
+        "liso",
+        "alta",
+        "sustentacao",
+        "push",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/br-11134207-820lg-mpwag034oow174",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "605266548f9a71e3de57d277af138c818df10b7922283af98091adaa3493ec1b",
+        "affiliateLink": "https://s.shopee.com.br/6Amrueia9h"
+      }
     }
   },
   "slots": {
@@ -15089,7 +15116,8 @@
     "2026-11-25:21:45": "1078551010:23494626157",
     "2026-11-25:21:50": "1833179585:58266731363",
     "2026-11-25:22:00": "1502179324:22299228079",
-    "2026-11-25:22:15": "347988064:54861999742"
+    "2026-11-25:22:15": "347988064:54861999742",
+    "2026-11-25:22:30": "800864347:19897425032"
   },
-  "cursor": 4
+  "cursor": 6
 }

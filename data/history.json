@@ -15433,6 +15433,35 @@
         "affiliateLink": "https://s.shopee.com.br/7pv7sIuMCb"
       },
       "messageId": 850
+    },
+    "1242067486:58269412305": {
+      "status": "pending",
+      "slot": "2026-11-26:17:25",
+      "at": "2026-11-26T20:27:10.550Z",
+      "fingerprint": [
+        "microfone",
+        "lapela",
+        "sem",
+        "fio",
+        "duplo",
+        "kaidi",
+        "profissional",
+        "portatil",
+        "ima",
+        "redondo",
+        "anti",
+        "ruido",
+        "tipo",
+        "gravacao",
+        "celular"
+      ],
+      "imageIdentity": "/file/br-11134207-820me-mtqt2tw79jwh04",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "e233e203132bc1c2fa5114a0af7ac2e0984883a8b40d0099d2574e1d5d4eceb0",
+        "affiliateLink": "https://s.shopee.com.br/3g5YvKXKfa"
+      }
     }
   },
   "slots": {
@@ -16111,7 +16140,8 @@
     "2026-11-26:16:30": "717396632:58254729932",
     "2026-11-26:16:40": "516623582:20099300564",
     "2026-11-26:17:00": "395166866:22494941454",
-    "2026-11-26:17:15": "1451539898:23694289266"
+    "2026-11-26:17:15": "1451539898:23694289266",
+    "2026-11-26:17:25": "1242067486:58269412305"
   },
-  "cursor": 6
+  "cursor": 8
 }

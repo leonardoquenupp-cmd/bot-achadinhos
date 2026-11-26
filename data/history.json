@@ -15364,9 +15364,9 @@
       "messageId": 847
     },
     "516623582:20099300564": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:16:40",
-      "at": "2026-11-26T19:41:57.101Z",
+      "at": "2026-11-26T19:41:59.626Z",
       "fingerprint": [
         "barro",
         "dianteiro",
@@ -15383,7 +15383,8 @@
       "receipt": {
         "captionHash": "e01ec7ab6196f1282640dd7345b2936b7f5cd806e38046991523198d72996a80",
         "affiliateLink": "https://s.shopee.com.br/20xKRMhD0P"
-      }
+      },
+      "messageId": 848
     }
   },
   "slots": {

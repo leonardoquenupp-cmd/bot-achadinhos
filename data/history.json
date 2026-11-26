@@ -15435,9 +15435,9 @@
       "messageId": 850
     },
     "1242067486:58269412305": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:17:25",
-      "at": "2026-11-26T20:27:10.550Z",
+      "at": "2026-11-26T20:27:12.836Z",
       "fingerprint": [
         "microfone",
         "lapela",
@@ -15461,7 +15461,8 @@
       "receipt": {
         "captionHash": "e233e203132bc1c2fa5114a0af7ac2e0984883a8b40d0099d2574e1d5d4eceb0",
         "affiliateLink": "https://s.shopee.com.br/3g5YvKXKfa"
-      }
+      },
+      "messageId": 851
     }
   },
   "slots": {

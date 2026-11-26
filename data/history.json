@@ -15318,6 +15318,26 @@
         "affiliateLink": "https://s.shopee.com.br/4LLFWWoUNg"
       },
       "messageId": 845
+    },
+    "1314243679:55860501871": {
+      "status": "pending",
+      "slot": "2026-11-26:16:10",
+      "at": "2026-11-26T19:12:13.855Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "pleno",
+        "unissex",
+        "confortavel",
+        "olympikus"
+      ],
+      "imageIdentity": "/file/br-11134207-820m2-mo8puhupolj4f3",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "8f0d879a3c1ac0e1eea9513487046c79f3dd384a5b9ce94939e0be35392dabc5",
+        "affiliateLink": "https://s.shopee.com.br/3LSi72mOCP"
+      }
     }
   },
   "slots": {
@@ -15991,7 +16011,8 @@
     "2026-11-26:15:15": "1587885160:58212387087",
     "2026-11-26:15:30": "419086451:22493344923",
     "2026-11-26:15:45": "1334888968:21098088921",
-    "2026-11-26:16:00": "1396355892:22593614484"
+    "2026-11-26:16:00": "1396355892:22593614484",
+    "2026-11-26:16:10": "1314243679:55860501871"
   },
-  "cursor": 11
+  "cursor": 15
 }

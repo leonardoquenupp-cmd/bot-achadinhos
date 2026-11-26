@@ -14716,6 +14716,29 @@
         "affiliateLink": "https://s.shopee.com.br/9pgBfwrxmJ"
       },
       "messageId": 821
+    },
+    "1295467768:22094238842": {
+      "status": "pending",
+      "slot": "2026-11-26:10:00",
+      "at": "2026-11-26T13:01:36.674Z",
+      "fingerprint": [
+        "body",
+        "splash",
+        "feminino",
+        "arabe",
+        "ayra",
+        "100ml",
+        "primacial",
+        "perfume",
+        "floral"
+      ],
+      "imageIdentity": "/file/br-11134207-820m1-mukoqlfdn280c5",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "27266dd1279db3324aa359dbabbf339c9a4a5962949b314c4335423f377c65ba",
+        "affiliateLink": "https://s.shopee.com.br/qlMyQ5JaB"
+      }
     }
   },
   "slots": {
@@ -15365,7 +15388,8 @@
     "2026-11-26:08:55": "1703351425:58263500666",
     "2026-11-26:09:15": "811879342:18875453326",
     "2026-11-26:09:30": "1161659721:19997627500",
-    "2026-11-26:09:45": "1106058316:19699210101"
+    "2026-11-26:09:45": "1106058316:19699210101",
+    "2026-11-26:10:00": "1295467768:22094238842"
   },
-  "cursor": 7
+  "cursor": 8
 }

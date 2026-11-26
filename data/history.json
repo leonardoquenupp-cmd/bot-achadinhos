@@ -15192,6 +15192,28 @@
         "affiliateLink": "https://s.shopee.com.br/50aw4JcYNP"
       },
       "messageId": 840
+    },
+    "1157433897:22993562103": {
+      "status": "pending",
+      "slot": "2026-11-26:15:00",
+      "at": "2026-11-26T18:01:26.998Z",
+      "fingerprint": [
+        "shorts",
+        "alfaiataria",
+        "feminina",
+        "social",
+        "cintura",
+        "alta",
+        "disfarca",
+        "barriga"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m39dvlyqglyw60",
+      "family": "shorts-alfaiataria",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "d64c21ffca597d3e42ada0fa17ad9d5cb1afb46d3c91c73ead3d2837fb59f1bf",
+        "affiliateLink": "https://s.shopee.com.br/40iOnM7YQE"
+      }
     }
   },
   "slots": {
@@ -15860,7 +15882,8 @@
     "2026-11-26:14:00": "1101082974:58254632176",
     "2026-11-26:14:15": "1234206521:23197685907",
     "2026-11-26:14:30": "1580145165:23399440533",
-    "2026-11-26:14:45": "1577747933:58212106403"
+    "2026-11-26:14:45": "1577747933:58212106403",
+    "2026-11-26:15:00": "1157433897:22993562103"
   },
-  "cursor": 4
+  "cursor": 6
 }

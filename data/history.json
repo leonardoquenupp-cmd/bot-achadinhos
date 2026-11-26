@@ -14664,6 +14664,34 @@
         "affiliateLink": "https://s.shopee.com.br/1LhdbNeVZL"
       },
       "messageId": 819
+    },
+    "1161659721:19997627500": {
+      "status": "pending",
+      "slot": "2026-11-26:09:30",
+      "at": "2026-11-26T12:31:40.760Z",
+      "fingerprint": [
+        "caxinha",
+        "som",
+        "speaker",
+        "cor",
+        "branca",
+        "relogio",
+        "luminaria",
+        "bluetooth",
+        "inteligente",
+        "carregador",
+        "sem",
+        "fio",
+        "led",
+        "luz"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-ls8u1q1xvy8daa",
+      "family": "relogio",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "0420b2f5a081c35774c98f0fa3ed690b27e20d97352ccfb6ac0d523fc278eb4f",
+        "affiliateLink": "https://s.shopee.com.br/7pv7MMgZKl"
+      }
     }
   },
   "slots": {
@@ -15311,7 +15339,8 @@
     "2026-11-26:08:30": "1754107366:58207201783",
     "2026-11-26:08:45": "1732477109:23499664646",
     "2026-11-26:08:55": "1703351425:58263500666",
-    "2026-11-26:09:15": "811879342:18875453326"
+    "2026-11-26:09:15": "811879342:18875453326",
+    "2026-11-26:09:30": "1161659721:19997627500"
   },
-  "cursor": 5
+  "cursor": 6
 }

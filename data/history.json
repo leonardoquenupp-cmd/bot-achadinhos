@@ -15217,9 +15217,9 @@
       "messageId": 841
     },
     "1587885160:58212387087": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:15:15",
-      "at": "2026-11-26T18:16:42.796Z",
+      "at": "2026-11-26T18:16:45.722Z",
       "fingerprint": [
         "bebedouro",
         "automatico",
@@ -15238,7 +15238,8 @@
       "receipt": {
         "captionHash": "2091c20c0fb386db7cc7aa8e8508459c304cad4aabe15f9d35a69b1036163a2e",
         "affiliateLink": "https://s.shopee.com.br/3Vm88JG4dc"
-      }
+      },
+      "messageId": 842
     }
   },
   "slots": {

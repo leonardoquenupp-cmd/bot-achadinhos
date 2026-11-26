@@ -15072,9 +15072,9 @@
       "messageId": 835
     },
     "291174073:17665245238": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:13:45",
-      "at": "2026-11-26T16:46:21.491Z",
+      "at": "2026-11-26T16:46:24.605Z",
       "fingerprint": [
         "lampada",
         "bluetooth",
@@ -15091,7 +15091,8 @@
       "receipt": {
         "captionHash": "133d6fdee6f122066dc8841d156cc74917a3274de1de908a85eb9c7a570d6745",
         "affiliateLink": "https://s.shopee.com.br/7fbh4vM8Zj"
-      }
+      },
+      "messageId": 836
     }
   },
   "slots": {

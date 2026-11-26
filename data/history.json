@@ -15143,9 +15143,9 @@
       "messageId": 838
     },
     "1580145165:23399440533": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:14:30",
-      "at": "2026-11-26T17:31:37.223Z",
+      "at": "2026-11-26T17:31:39.646Z",
       "fingerprint": [
         "unidade",
         "cheirinho",
@@ -15164,7 +15164,8 @@
       "receipt": {
         "captionHash": "0c68a22da7714928e9c0628271dcda04e5f7b2c07afd3ef0ab74f7b768cd8f24",
         "affiliateLink": "https://s.shopee.com.br/8KrOBh5Fl3"
-      }
+      },
+      "messageId": 839
     }
   },
   "slots": {

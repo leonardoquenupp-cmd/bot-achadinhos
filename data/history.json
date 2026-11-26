@@ -14842,9 +14842,9 @@
       "messageId": 826
     },
     "1501406204:58251018871": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:11:15",
-      "at": "2026-11-26T14:16:15.837Z",
+      "at": "2026-11-26T14:16:18.535Z",
       "fingerprint": [
         "brinquedos",
         "gatos",
@@ -14861,7 +14861,8 @@
       "receipt": {
         "captionHash": "46abb8c0df74f74065a85fdd2f1ed33d3c68f2d9a0bd516e44d08a9c2f5f7e87",
         "affiliateLink": "https://s.shopee.com.br/5qA35uewPp"
-      }
+      },
+      "messageId": 827
     }
   },
   "slots": {

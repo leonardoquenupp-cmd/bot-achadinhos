@@ -14330,9 +14330,9 @@
       "messageId": 805
     },
     "908280603:23793592187": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:21:30",
-      "at": "2026-11-26T00:31:08.030Z",
+      "at": "2026-11-26T00:31:10.189Z",
       "fingerprint": [
         "sanitario",
         "higienico",
@@ -14352,7 +14352,8 @@
       "receipt": {
         "captionHash": "1fbad06b50865658ea9c5284e7d8a7e9872c4f280a382f6b3413527acd68d1c6",
         "affiliateLink": "https://s.shopee.com.br/7Kyprnppui"
-      }
+      },
+      "messageId": 806
     }
   },
   "slots": {

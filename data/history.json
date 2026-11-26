@@ -14791,9 +14791,9 @@
       "messageId": 824
     },
     "556197048:10763005356": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:10:45",
-      "at": "2026-11-26T13:46:34.052Z",
+      "at": "2026-11-26T13:46:36.555Z",
       "fingerprint": [
         "whey",
         "isoprotein",
@@ -14811,7 +14811,8 @@
       "receipt": {
         "captionHash": "eac21d4ab1ba971a69f2089fd8ff6b28eea9a2e0db22d76822f5cce56fa5333d",
         "affiliateLink": "https://s.shopee.com.br/5qA33qZNh1"
-      }
+      },
+      "messageId": 825
     }
   },
   "slots": {

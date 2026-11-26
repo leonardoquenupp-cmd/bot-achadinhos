@@ -14815,9 +14815,9 @@
       "messageId": 825
     },
     "302326977:55667464609": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:11:00",
-      "at": "2026-11-26T14:01:42.537Z",
+      "at": "2026-11-26T14:01:45.396Z",
       "fingerprint": [
         "mini",
         "jesus",
@@ -14838,7 +14838,8 @@
       "receipt": {
         "captionHash": "ca43e8ed7e5fb8e7225e88e5cd09dac5441879733510e1d12fb61d33b75ea090",
         "affiliateLink": "https://s.shopee.com.br/8KrO3RRDa8"
-      }
+      },
+      "messageId": 826
     }
   },
   "slots": {

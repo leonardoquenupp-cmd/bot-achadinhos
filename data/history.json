@@ -15792,6 +15792,34 @@
         "affiliateLink": "https://s.shopee.com.br/7AfQuk9vEs"
       },
       "messageId": 864
+    },
+    "1723929524:56354705212": {
+      "status": "pending",
+      "slot": "2026-11-26:20:30",
+      "at": "2026-11-26T23:31:34.507Z",
+      "fingerprint": [
+        "senbenbao",
+        "dormir",
+        "fones",
+        "ouvido",
+        "sem",
+        "fio",
+        "mini",
+        "trabalho",
+        "tws",
+        "bluetooth",
+        "estereo",
+        "escondido",
+        "microfone",
+        "chamada"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-miv4tzxns16t01",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "9e568ced6098501a017495bdbe467261b82bee47aab4d160844f3e29e129cafa",
+        "affiliateLink": "https://s.shopee.com.br/1BODy5Cpui"
+      }
     }
   },
   "slots": {
@@ -16484,7 +16512,8 @@
     "2026-11-26:19:30": "323761608:22997740309",
     "2026-11-26:19:45": "616222685:21299037006",
     "2026-11-26:20:00": "1363055219:47465815591",
-    "2026-11-26:20:15": "1921399168:58217627999"
+    "2026-11-26:20:15": "1921399168:58217627999",
+    "2026-11-26:20:30": "1723929524:56354705212"
   },
-  "cursor": 14
+  "cursor": 15
 }

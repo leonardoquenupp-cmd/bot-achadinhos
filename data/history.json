@@ -15610,9 +15610,9 @@
       "messageId": 856
     },
     "1564125095:58218427574": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:18:45",
-      "at": "2026-11-26T21:46:13.195Z",
+      "at": "2026-11-26T21:46:15.926Z",
       "fingerprint": [
         "raquete",
         "eletrica",
@@ -15632,7 +15632,8 @@
       "receipt": {
         "captionHash": "0a95b8a2bd9312d7659ae7a624fd3fe71583d4f9cdcc3ce5f65e28c7c3a49237",
         "affiliateLink": "https://s.shopee.com.br/9zzcHz2jBD"
-      }
+      },
+      "messageId": 857
     }
   },
   "slots": {

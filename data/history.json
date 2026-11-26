@@ -14813,6 +14813,32 @@
         "affiliateLink": "https://s.shopee.com.br/5qA33qZNh1"
       },
       "messageId": 825
+    },
+    "302326977:55667464609": {
+      "status": "pending",
+      "slot": "2026-11-26:11:00",
+      "at": "2026-11-26T14:01:42.537Z",
+      "fingerprint": [
+        "mini",
+        "jesus",
+        "sentado",
+        "5cm",
+        "boneco",
+        "decorativo",
+        "religioso",
+        "monitor",
+        "computador",
+        "notebook",
+        "mesa",
+        "nicho"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258f-msql22msj7d2e7",
+      "family": "computador",
+      "department": "informatica",
+      "receipt": {
+        "captionHash": "ca43e8ed7e5fb8e7225e88e5cd09dac5441879733510e1d12fb61d33b75ea090",
+        "affiliateLink": "https://s.shopee.com.br/8KrO3RRDa8"
+      }
     }
   },
   "slots": {
@@ -15466,7 +15492,8 @@
     "2026-11-26:10:00": "1295467768:22094238842",
     "2026-11-26:10:15": "1537241850:58202359038",
     "2026-11-26:10:30": "389315825:53606455119",
-    "2026-11-26:10:45": "556197048:10763005356"
+    "2026-11-26:10:45": "556197048:10763005356",
+    "2026-11-26:11:00": "302326977:55667464609"
   },
-  "cursor": 12
+  "cursor": 13
 }

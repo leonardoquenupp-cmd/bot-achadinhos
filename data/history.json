@@ -14789,6 +14789,29 @@
         "affiliateLink": "https://s.shopee.com.br/7pv7LLFDmL"
       },
       "messageId": 824
+    },
+    "556197048:10763005356": {
+      "status": "pending",
+      "slot": "2026-11-26:10:45",
+      "at": "2026-11-26T13:46:34.052Z",
+      "fingerprint": [
+        "whey",
+        "isoprotein",
+        "gold",
+        "protein",
+        "isolado",
+        "concentrado",
+        "900g",
+        "red",
+        "series"
+      ],
+      "imageIdentity": "/file/229d0ab8da6cd0a589a67f331aa78849",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "eac21d4ab1ba971a69f2089fd8ff6b28eea9a2e0db22d76822f5cce56fa5333d",
+        "affiliateLink": "https://s.shopee.com.br/5qA33qZNh1"
+      }
     }
   },
   "slots": {
@@ -15441,7 +15464,8 @@
     "2026-11-26:09:45": "1106058316:19699210101",
     "2026-11-26:10:00": "1295467768:22094238842",
     "2026-11-26:10:15": "1537241850:58202359038",
-    "2026-11-26:10:30": "389315825:53606455119"
+    "2026-11-26:10:30": "389315825:53606455119",
+    "2026-11-26:10:45": "556197048:10763005356"
   },
-  "cursor": 10
+  "cursor": 12
 }

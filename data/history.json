@@ -15046,9 +15046,9 @@
       "messageId": 834
     },
     "339198085:23693399514": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:13:25",
-      "at": "2026-11-26T16:26:57.863Z",
+      "at": "2026-11-26T16:27:00.009Z",
       "fingerprint": [
         "headset",
         "fio",
@@ -15068,7 +15068,8 @@
       "receipt": {
         "captionHash": "a372d9eea485c084be62a204c2c753adfb5c43ae2de2be4040041119c9835fb1",
         "affiliateLink": "https://s.shopee.com.br/20xKeiYjQx"
-      }
+      },
+      "messageId": 835
     }
   },
   "slots": {

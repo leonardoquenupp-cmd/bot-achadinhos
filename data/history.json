@@ -14278,6 +14278,30 @@
         "affiliateLink": "https://s.shopee.com.br/80EWQLlnNV"
       },
       "messageId": 803
+    },
+    "362921023:22497323916": {
+      "status": "pending",
+      "slot": "2026-11-25:21:00",
+      "at": "2026-11-26T00:01:47.728Z",
+      "fingerprint": [
+        "blusa",
+        "regata",
+        "feminina",
+        "alca",
+        "larga",
+        "grossa",
+        "duna",
+        "lisa",
+        "basica",
+        "elegante"
+      ],
+      "imageIdentity": "/file/br-11134207-820m9-mu19xwn7c4che5",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "b9827fbb5548bc867ed86b4f9717747a107443d20faba067714b956cc8850dbb",
+        "affiliateLink": "https://s.shopee.com.br/8pndM1iNB3"
+      }
     }
   },
   "slots": {
@@ -14909,7 +14933,8 @@
     "2026-11-25:20:00": "290073877:18898150507",
     "2026-11-25:20:15": "1588652179:21399839116",
     "2026-11-25:20:45": "1662955195:58203876363",
-    "2026-11-25:20:50": "318621368:14910433557"
+    "2026-11-25:20:50": "318621368:14910433557",
+    "2026-11-25:21:00": "362921023:22497323916"
   },
-  "cursor": 8
+  "cursor": 9
 }

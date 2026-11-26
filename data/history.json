@@ -15387,9 +15387,9 @@
       "messageId": 848
     },
     "395166866:22494941454": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:17:00",
-      "at": "2026-11-26T20:01:37.483Z",
+      "at": "2026-11-26T20:01:39.966Z",
       "fingerprint": [
         "facial",
         "kokeshi",
@@ -15404,7 +15404,8 @@
       "receipt": {
         "captionHash": "7e44946175a4e3ddf566c826f14a501de9573c47fb7d3f2c669b0f7d4ef66ab8",
         "affiliateLink": "https://s.shopee.com.br/2LaAqJ73hu"
-      }
+      },
+      "messageId": 849
     }
   },
   "slots": {

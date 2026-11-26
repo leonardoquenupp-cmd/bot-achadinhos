@@ -15093,6 +15093,32 @@
         "affiliateLink": "https://s.shopee.com.br/7fbh4vM8Zj"
       },
       "messageId": 836
+    },
+    "1101082974:58254632176": {
+      "status": "pending",
+      "slot": "2026-11-26:14:00",
+      "at": "2026-11-26T17:01:29.495Z",
+      "fingerprint": [
+        "conjunto",
+        "academia",
+        "feminino",
+        "short",
+        "bolso",
+        "zero",
+        "transparencia",
+        "cintura",
+        "alta",
+        "top",
+        "forro",
+        "duplo"
+      ],
+      "imageIdentity": "/file/sg-11134201-8261i-mkb5a24w7zlz6d",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "aa40a4992c187889d0ab123693554328e2114db963aafff62956285ba2a85fa7",
+        "affiliateLink": "https://s.shopee.com.br/5fqcoSpVOs"
+      }
     }
   },
   "slots": {
@@ -15757,7 +15783,8 @@
     "2026-11-26:12:45": "1006215031:42324757869",
     "2026-11-26:13:15": "998773037:58260622031",
     "2026-11-26:13:25": "339198085:23693399514",
-    "2026-11-26:13:45": "291174073:17665245238"
+    "2026-11-26:13:45": "291174073:17665245238",
+    "2026-11-26:14:00": "1101082974:58254632176"
   },
-  "cursor": 15
+  "cursor": 0
 }

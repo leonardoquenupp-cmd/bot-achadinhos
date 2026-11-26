@@ -14918,9 +14918,9 @@
       "messageId": 829
     },
     "1555286005:23394403878": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:12:00",
-      "at": "2026-11-26T15:01:34.711Z",
+      "at": "2026-11-26T15:01:37.065Z",
       "fingerprint": [
         "nebulizador",
         "portatil",
@@ -14938,7 +14938,8 @@
       "receipt": {
         "captionHash": "4ecb9f3e7c835ae996925948677a140703f9d15475ae0cb511a1d6309bfb194c",
         "affiliateLink": "https://s.shopee.com.br/3qOyUqeaHy"
-      }
+      },
+      "messageId": 830
     }
   },
   "slots": {

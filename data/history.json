@@ -15726,6 +15726,27 @@
         "affiliateLink": "https://s.shopee.com.br/80EXm3EhuO"
       },
       "messageId": 861
+    },
+    "616222685:21299037006": {
+      "status": "pending",
+      "slot": "2026-11-26:19:45",
+      "at": "2026-11-26T22:46:28.842Z",
+      "fingerprint": [
+        "gelatina",
+        "ativadora",
+        "cachos",
+        "sos",
+        "kids",
+        "hidratacao",
+        "400g"
+      ],
+      "imageIdentity": "/file/sg-11134201-823oi-moiel0mdvksh40",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "23a8bedfb5c8f98d03dccbbf5dd2680dbe189a5e8486b198c5c8d507a6c7390c",
+        "affiliateLink": "https://s.shopee.com.br/8VAoT9GPji"
+      }
     }
   },
   "slots": {
@@ -16415,7 +16436,8 @@
     "2026-11-26:18:50": "647546523:24805699164",
     "2026-11-26:19:00": "1876581966:54166806189",
     "2026-11-26:19:15": "1897511008:58265338620",
-    "2026-11-26:19:30": "323761608:22997740309"
+    "2026-11-26:19:30": "323761608:22997740309",
+    "2026-11-26:19:45": "616222685:21299037006"
   },
-  "cursor": 10
+  "cursor": 12
 }

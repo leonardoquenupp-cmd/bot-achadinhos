@@ -14382,6 +14382,29 @@
         "affiliateLink": "https://s.shopee.com.br/6q2Z1Rmk9y"
       },
       "messageId": 807
+    },
+    "1833179585:58266731363": {
+      "status": "pending",
+      "slot": "2026-11-25:21:50",
+      "at": "2026-11-26T00:52:29.070Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "radio",
+        "ptt",
+        "lapela",
+        "seguranca",
+        "eventos",
+        "obras",
+        "airsoft"
+      ],
+      "imageIdentity": "/file/sg-11134201-82598-ms6qkihy2akic6",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "79c9287e4876018a7414f81124d27394e489528fa5f6f303fa807ae1502b6513",
+        "affiliateLink": "https://s.shopee.com.br/3g5Xch6nTj"
+      }
     }
   },
   "slots": {
@@ -15017,7 +15040,8 @@
     "2026-11-25:21:00": "362921023:22497323916",
     "2026-11-25:21:15": "1531826276:22194652188",
     "2026-11-25:21:30": "908280603:23793592187",
-    "2026-11-25:21:45": "1078551010:23494626157"
+    "2026-11-25:21:45": "1078551010:23494626157",
+    "2026-11-25:21:50": "1833179585:58266731363"
   },
-  "cursor": 15
+  "cursor": 2
 }

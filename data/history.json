@@ -15532,6 +15532,35 @@
         "affiliateLink": "https://s.shopee.com.br/3B9HnpAj6v"
       },
       "messageId": 853
+    },
+    "313660590:22893738408": {
+      "status": "pending",
+      "slot": "2026-11-26:18:00",
+      "at": "2026-11-26T21:01:25.268Z",
+      "fingerprint": [
+        "jogo",
+        "lencol",
+        "400",
+        "fios",
+        "extra",
+        "macio",
+        "fronhas",
+        "ponto",
+        "palito",
+        "berco",
+        "solteiro",
+        "casal",
+        "queen",
+        "king",
+        "pecas"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m6peqntiscvk4c",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "5a39fb858b266243ab36901c8059012ba43964e77968481c0ef303539b8a6a8a",
+        "affiliateLink": "https://s.shopee.com.br/8KrOWKCAeO"
+      }
     }
   },
   "slots": {
@@ -16213,7 +16242,8 @@
     "2026-11-26:17:15": "1451539898:23694289266",
     "2026-11-26:17:25": "1242067486:58269412305",
     "2026-11-26:17:35": "447349628:19253842863",
-    "2026-11-26:17:45": "1167945223:52660324546"
+    "2026-11-26:17:45": "1167945223:52660324546",
+    "2026-11-26:18:00": "313660590:22893738408"
   },
-  "cursor": 11
+  "cursor": 13
 }

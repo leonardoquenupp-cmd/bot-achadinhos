@@ -14887,6 +14887,34 @@
         "affiliateLink": "https://s.shopee.com.br/3B9Hw1ldwM"
       },
       "messageId": 828
+    },
+    "634100145:58261515372": {
+      "status": "pending",
+      "slot": "2026-11-26:11:45",
+      "at": "2026-11-26T14:46:20.741Z",
+      "fingerprint": [
+        "piscas",
+        "seta",
+        "led",
+        "sequencial",
+        "moto",
+        "twister",
+        "titan",
+        "150",
+        "bros",
+        "300",
+        "fan",
+        "125",
+        "xre190",
+        "fazer"
+      ],
+      "imageIdentity": "/file/br-11134207-820mg-mpqq1ypsi9dt52",
+      "family": "luzes-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "5ba8252c3e76e4672da74bd7cf26344e7ec4ba7d0dc3a2a4be2868f571b7f27a",
+        "affiliateLink": "https://s.shopee.com.br/2LaAxWxg9l"
+      }
     }
   },
   "slots": {
@@ -15543,7 +15571,8 @@
     "2026-11-26:10:45": "556197048:10763005356",
     "2026-11-26:11:00": "302326977:55667464609",
     "2026-11-26:11:15": "1501406204:58251018871",
-    "2026-11-26:11:30": "378143264:3001116202"
+    "2026-11-26:11:30": "378143264:3001116202",
+    "2026-11-26:11:45": "634100145:58261515372"
   },
-  "cursor": 1
+  "cursor": 3
 }

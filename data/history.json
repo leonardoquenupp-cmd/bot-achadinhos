@@ -15166,6 +15166,31 @@
         "affiliateLink": "https://s.shopee.com.br/8KrOBh5Fl3"
       },
       "messageId": 839
+    },
+    "1577747933:58212106403": {
+      "status": "pending",
+      "slot": "2026-11-26:14:45",
+      "at": "2026-11-26T17:46:36.112Z",
+      "fingerprint": [
+        "toyadent",
+        "creme",
+        "dental",
+        "niacinamida",
+        "clareamento",
+        "suave",
+        "sem",
+        "irritacao",
+        "uso",
+        "diario",
+        "120g"
+      ],
+      "imageIdentity": "/file/br-11134207-820ls-mp7f3in7jo5i2a",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "1c357ed5d2ce319b74100e86b1261aa0ab5871c3b8da96907cadbb1198766f23",
+        "affiliateLink": "https://s.shopee.com.br/50aw4JcYNP"
+      }
     }
   },
   "slots": {
@@ -15833,7 +15858,8 @@
     "2026-11-26:13:45": "291174073:17665245238",
     "2026-11-26:14:00": "1101082974:58254632176",
     "2026-11-26:14:15": "1234206521:23197685907",
-    "2026-11-26:14:30": "1580145165:23399440533"
+    "2026-11-26:14:30": "1580145165:23399440533",
+    "2026-11-26:14:45": "1577747933:58212106403"
   },
-  "cursor": 3
+  "cursor": 4
 }

@@ -14865,9 +14865,9 @@
       "messageId": 827
     },
     "378143264:3001116202": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:11:30",
-      "at": "2026-11-26T14:31:20.864Z",
+      "at": "2026-11-26T14:31:23.378Z",
       "fingerprint": [
         "aquecedor",
         "panela",
@@ -14885,7 +14885,8 @@
       "receipt": {
         "captionHash": "a71084a14faf7998884cf357ee85febe77178fc1cc317f69e324c06b1163cca8",
         "affiliateLink": "https://s.shopee.com.br/3B9Hw1ldwM"
-      }
+      },
+      "messageId": 828
     }
   },
   "slots": {

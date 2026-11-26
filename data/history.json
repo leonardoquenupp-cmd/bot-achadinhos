@@ -15823,9 +15823,9 @@
       "messageId": 865
     },
     "507645665:22794924951": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:20:45",
-      "at": "2026-11-26T23:46:34.602Z",
+      "at": "2026-11-26T23:46:36.988Z",
       "fingerprint": [
         "vasos",
         "parede",
@@ -15844,7 +15844,8 @@
       "receipt": {
         "captionHash": "937d14fe5945be27f1e81441fe8b51496429b27ed2b08a41790be71c693c3acd",
         "affiliateLink": "https://s.shopee.com.br/1BODKwU1UA"
-      }
+      },
+      "messageId": 866
     }
   },
   "slots": {

@@ -15770,6 +15770,27 @@
         "affiliateLink": "https://s.shopee.com.br/Lp6lB3iVI"
       },
       "messageId": 863
+    },
+    "1921399168:58217627999": {
+      "status": "pending",
+      "slot": "2026-11-26:20:15",
+      "at": "2026-11-26T23:16:35.105Z",
+      "fingerprint": [
+        "escova",
+        "eletrica",
+        "recarregavel",
+        "portatil",
+        "prova",
+        "agua",
+        "usb"
+      ],
+      "imageIdentity": "/file/sg-11134201-825ar-msrhtpv5bjexfe",
+      "family": "escova-eletrica",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "07791c027e6443b5355e08058aab541a6f7e29e13a2a8d10ceb79298ceb1d4ea",
+        "affiliateLink": "https://s.shopee.com.br/7AfQuk9vEs"
+      }
     }
   },
   "slots": {
@@ -16461,7 +16482,8 @@
     "2026-11-26:19:15": "1897511008:58265338620",
     "2026-11-26:19:30": "323761608:22997740309",
     "2026-11-26:19:45": "616222685:21299037006",
-    "2026-11-26:20:00": "1363055219:47465815591"
+    "2026-11-26:20:00": "1363055219:47465815591",
+    "2026-11-26:20:15": "1921399168:58217627999"
   },
-  "cursor": 13
+  "cursor": 14
 }

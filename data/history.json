@@ -15463,6 +15463,46 @@
         "affiliateLink": "https://s.shopee.com.br/3g5YvKXKfa"
       },
       "messageId": 851
+    },
+    "447349628:19253842863": {
+      "status": "pending",
+      "slot": "2026-11-26:17:35",
+      "at": "2026-11-26T20:36:56.132Z",
+      "fingerprint": [
+        "1pcs",
+        "24v",
+        "car",
+        "t10",
+        "w5w",
+        "led",
+        "light",
+        "194",
+        "168",
+        "cob",
+        "smd",
+        "auto",
+        "wedge",
+        "license",
+        "plate",
+        "lamp",
+        "dome",
+        "makeup",
+        "mirror",
+        "bulb",
+        "6000k",
+        "orange",
+        "ice",
+        "blue",
+        "12v",
+        "diode"
+      ],
+      "imageIdentity": "/file/sg-11134201-22100-eqeoi7pwgjiv48",
+      "family": "1pcs-24v",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "a83fa3c49fb0d09176457c73f614b2e999a896e4bbd0875e3b1cf49406cfebb3",
+        "affiliateLink": "https://s.shopee.com.br/3LSiGvTYPQ"
+      }
     }
   },
   "slots": {
@@ -16142,7 +16182,8 @@
     "2026-11-26:16:40": "516623582:20099300564",
     "2026-11-26:17:00": "395166866:22494941454",
     "2026-11-26:17:15": "1451539898:23694289266",
-    "2026-11-26:17:25": "1242067486:58269412305"
+    "2026-11-26:17:25": "1242067486:58269412305",
+    "2026-11-26:17:35": "447349628:19253842863"
   },
-  "cursor": 8
+  "cursor": 9
 }

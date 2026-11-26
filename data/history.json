@@ -14354,6 +14354,33 @@
         "affiliateLink": "https://s.shopee.com.br/7Kyprnppui"
       },
       "messageId": 806
+    },
+    "1078551010:23494626157": {
+      "status": "pending",
+      "slot": "2026-11-25:21:45",
+      "at": "2026-11-26T00:46:12.864Z",
+      "fingerprint": [
+        "gokoco",
+        "modelador",
+        "cabelo",
+        "portati",
+        "ions",
+        "negativos",
+        "niveis",
+        "temperatura",
+        "aquecimento",
+        "rapido",
+        "30s",
+        "cabelos",
+        "cacheado"
+      ],
+      "imageIdentity": "/file/br-11134207-820lb-mrsl2subgc1w97",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "c3e57ae53f468de7e2bdf9421add11824a934076673ab48ac6ccae38dbc08850",
+        "affiliateLink": "https://s.shopee.com.br/6q2Z1Rmk9y"
+      }
     }
   },
   "slots": {
@@ -14988,7 +15015,8 @@
     "2026-11-25:20:50": "318621368:14910433557",
     "2026-11-25:21:00": "362921023:22497323916",
     "2026-11-25:21:15": "1531826276:22194652188",
-    "2026-11-25:21:30": "908280603:23793592187"
+    "2026-11-25:21:30": "908280603:23793592187",
+    "2026-11-25:21:45": "1078551010:23494626157"
   },
-  "cursor": 13
+  "cursor": 15
 }

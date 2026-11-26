@@ -15070,6 +15070,28 @@
         "affiliateLink": "https://s.shopee.com.br/20xKeiYjQx"
       },
       "messageId": 835
+    },
+    "291174073:17665245238": {
+      "status": "pending",
+      "slot": "2026-11-26:13:45",
+      "at": "2026-11-26T16:46:21.491Z",
+      "fingerprint": [
+        "lampada",
+        "bluetooth",
+        "led",
+        "caixa",
+        "som",
+        "controle",
+        "rgb",
+        "12w"
+      ],
+      "imageIdentity": "/file/3cd180176c379360f8b62b3f15f970eb",
+      "family": "lampada-bluetooth",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "133d6fdee6f122066dc8841d156cc74917a3274de1de908a85eb9c7a570d6745",
+        "affiliateLink": "https://s.shopee.com.br/7fbh4vM8Zj"
+      }
     }
   },
   "slots": {
@@ -15733,7 +15755,8 @@
     "2026-11-26:12:30": "597391186:19899866990",
     "2026-11-26:12:45": "1006215031:42324757869",
     "2026-11-26:13:15": "998773037:58260622031",
-    "2026-11-26:13:25": "339198085:23693399514"
+    "2026-11-26:13:25": "339198085:23693399514",
+    "2026-11-26:13:45": "291174073:17665245238"
   },
-  "cursor": 13
+  "cursor": 15
 }

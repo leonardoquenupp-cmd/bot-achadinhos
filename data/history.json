@@ -14991,6 +14991,32 @@
         "affiliateLink": "https://s.shopee.com.br/2BGkcyXtFv"
       },
       "messageId": 832
+    },
+    "1006215031:42324757869": {
+      "status": "pending",
+      "slot": "2026-11-26:12:45",
+      "at": "2026-11-26T15:46:07.588Z",
+      "fingerprint": [
+        "curvatura",
+        "extensoes",
+        "cilios",
+        "casa",
+        "200",
+        "clusters",
+        "individuais",
+        "40d",
+        "posticos",
+        "wispy",
+        "maquiagem",
+        "aplicacao"
+      ],
+      "imageIdentity": "/file/sg-11134201-823pb-mp4n72zzdm3270",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "0c08e63e8d2d2e6fbb55aac3e689ee6b026c6ebea0797083fce0c19e9fdb2366",
+        "affiliateLink": "https://s.shopee.com.br/2gD1L6nXxF"
+      }
     }
   },
   "slots": {
@@ -15651,7 +15677,8 @@
     "2026-11-26:11:45": "634100145:58261515372",
     "2026-11-26:12:00": "1555286005:23394403878",
     "2026-11-26:12:15": "1007722569:22894519217",
-    "2026-11-26:12:30": "597391186:19899866990"
+    "2026-11-26:12:30": "597391186:19899866990",
+    "2026-11-26:12:45": "1006215031:42324757869"
   },
-  "cursor": 7
+  "cursor": 8
 }

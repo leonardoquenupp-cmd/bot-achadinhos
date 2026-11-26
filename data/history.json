@@ -14497,6 +14497,29 @@
         "affiliateLink": "https://s.shopee.com.br/9AQU3AirCV"
       },
       "messageId": 812
+    },
+    "1788702793:22299455822": {
+      "status": "pending",
+      "slot": "2026-11-25:22:55",
+      "at": "2026-11-26T01:56:57.885Z",
+      "fingerprint": [
+        "botina",
+        "masculina",
+        "elastico",
+        "bota",
+        "trabalho",
+        "dia",
+        "couro",
+        "sintetico",
+        "lona"
+      ],
+      "imageIdentity": "/file/br-11134207-820lt-mn1ufhcy5szk63",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "287205f9f7483c06adaf25eef1e6733e8dbe3dd33e3f94adde5673a991155d5f",
+        "affiliateLink": "https://s.shopee.com.br/6q2ZSwbZLG"
+      }
     }
   },
   "slots": {
@@ -15137,7 +15160,8 @@
     "2026-11-25:22:00": "1502179324:22299228079",
     "2026-11-25:22:15": "347988064:54861999742",
     "2026-11-25:22:30": "800864347:19897425032",
-    "2026-11-25:22:45": "346868212:23798205133"
+    "2026-11-25:22:45": "346868212:23798205133",
+    "2026-11-25:22:55": "1788702793:22299455822"
   },
-  "cursor": 7
+  "cursor": 10
 }

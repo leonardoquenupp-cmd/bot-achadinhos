@@ -14967,9 +14967,9 @@
       "messageId": 831
     },
     "597391186:19899866990": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:12:30",
-      "at": "2026-11-26T15:31:37.128Z",
+      "at": "2026-11-26T15:31:40.098Z",
       "fingerprint": [
         "tigelas",
         "comedouro",
@@ -14989,7 +14989,8 @@
       "receipt": {
         "captionHash": "cf8762e9b5d51a6cae4be9c1c1f5adee66fe77a33516de56c9dce721d3bfc912",
         "affiliateLink": "https://s.shopee.com.br/2BGkcyXtFv"
-      }
+      },
+      "messageId": 832
     }
   },
   "slots": {

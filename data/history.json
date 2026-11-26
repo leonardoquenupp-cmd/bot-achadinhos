@@ -15044,6 +15044,31 @@
         "affiliateLink": "https://s.shopee.com.br/1BODUEuvsg"
       },
       "messageId": 834
+    },
+    "339198085:23693399514": {
+      "status": "pending",
+      "slot": "2026-11-26:13:25",
+      "at": "2026-11-26T16:26:57.863Z",
+      "fingerprint": [
+        "headset",
+        "fio",
+        "office",
+        "dhe",
+        "8009",
+        "conexao",
+        "driver",
+        "40mm",
+        "microfone",
+        "flexivel",
+        "preto"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdyn-m0rzw8slhcv966",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "a372d9eea485c084be62a204c2c753adfb5c43ae2de2be4040041119c9835fb1",
+        "affiliateLink": "https://s.shopee.com.br/20xKeiYjQx"
+      }
     }
   },
   "slots": {
@@ -15706,7 +15731,8 @@
     "2026-11-26:12:15": "1007722569:22894519217",
     "2026-11-26:12:30": "597391186:19899866990",
     "2026-11-26:12:45": "1006215031:42324757869",
-    "2026-11-26:13:15": "998773037:58260622031"
+    "2026-11-26:13:15": "998773037:58260622031",
+    "2026-11-26:13:25": "339198085:23693399514"
   },
-  "cursor": 10
+  "cursor": 13
 }

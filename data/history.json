@@ -15585,9 +15585,9 @@
       "messageId": 855
     },
     "1304513381:22598549816": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:18:30",
-      "at": "2026-11-26T21:31:51.193Z",
+      "at": "2026-11-26T21:31:54.170Z",
       "fingerprint": [
         "gel",
         "creme",
@@ -15606,7 +15606,8 @@
       "receipt": {
         "captionHash": "e93085b8d3b335bf9d15855bfbaef362982c62f3dd7ea69635e6d4bd246a3450",
         "affiliateLink": "https://s.shopee.com.br/AAJ25ZVmdk"
-      }
+      },
+      "messageId": 856
     }
   },
   "slots": {

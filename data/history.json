@@ -15120,6 +15120,26 @@
         "affiliateLink": "https://s.shopee.com.br/5fqcoSpVOs"
       },
       "messageId": 837
+    },
+    "1234206521:23197685907": {
+      "status": "pending",
+      "slot": "2026-11-26:14:15",
+      "at": "2026-11-26T17:16:12.781Z",
+      "fingerprint": [
+        "chinelo",
+        "adulto",
+        "masculino",
+        "confortavel",
+        "leve",
+        "antiderrapante"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-msv9x4r1nax20d",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "eccb37f2b60fdec643da71fd3dd343e5d33e124677d68d512bc2341beb77d0c6",
+        "affiliateLink": "https://s.shopee.com.br/1BODTCYSNc"
+      }
     }
   },
   "slots": {
@@ -15785,7 +15805,8 @@
     "2026-11-26:13:15": "998773037:58260622031",
     "2026-11-26:13:25": "339198085:23693399514",
     "2026-11-26:13:45": "291174073:17665245238",
-    "2026-11-26:14:00": "1101082974:58254632176"
+    "2026-11-26:14:00": "1101082974:58254632176",
+    "2026-11-26:14:15": "1234206521:23197685907"
   },
-  "cursor": 0
+  "cursor": 1
 }

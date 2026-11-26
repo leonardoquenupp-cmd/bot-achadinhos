@@ -15504,6 +15504,33 @@
         "affiliateLink": "https://s.shopee.com.br/3LSiGvTYPQ"
       },
       "messageId": 852
+    },
+    "1167945223:52660324546": {
+      "status": "pending",
+      "slot": "2026-11-26:17:45",
+      "at": "2026-11-26T20:46:20.276Z",
+      "fingerprint": [
+        "blusa",
+        "manga",
+        "feminina",
+        "elegante",
+        "casual",
+        "detalhe",
+        "moda",
+        "evangica",
+        "duna",
+        "social",
+        "basica",
+        "varias",
+        "cores"
+      ],
+      "imageIdentity": "/file/br-11134207-820lo-mo4r6ryw8bgif4",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "0d5932130c2f2736a8a937ca24fd6093000d431ec7f8700c68bbdf4c663fd902",
+        "affiliateLink": "https://s.shopee.com.br/3B9HnpAj6v"
+      }
     }
   },
   "slots": {
@@ -16184,7 +16211,8 @@
     "2026-11-26:17:00": "395166866:22494941454",
     "2026-11-26:17:15": "1451539898:23694289266",
     "2026-11-26:17:25": "1242067486:58269412305",
-    "2026-11-26:17:35": "447349628:19253842863"
+    "2026-11-26:17:35": "447349628:19253842863",
+    "2026-11-26:17:45": "1167945223:52660324546"
   },
-  "cursor": 9
+  "cursor": 11
 }

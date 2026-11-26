@@ -14328,6 +14328,31 @@
         "affiliateLink": "https://s.shopee.com.br/20xHDtELjQ"
       },
       "messageId": 805
+    },
+    "908280603:23793592187": {
+      "status": "pending",
+      "slot": "2026-11-25:21:30",
+      "at": "2026-11-26T00:31:08.030Z",
+      "fingerprint": [
+        "sanitario",
+        "higienico",
+        "canino",
+        "pet",
+        "educador",
+        "xixi",
+        "sim",
+        "tapete",
+        "cachorro",
+        "grande",
+        "banheiro"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mjqymtyu5p1ia4",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "1fbad06b50865658ea9c5284e7d8a7e9872c4f280a382f6b3413527acd68d1c6",
+        "affiliateLink": "https://s.shopee.com.br/7Kyprnppui"
+      }
     }
   },
   "slots": {
@@ -14961,7 +14986,8 @@
     "2026-11-25:20:45": "1662955195:58203876363",
     "2026-11-25:20:50": "318621368:14910433557",
     "2026-11-25:21:00": "362921023:22497323916",
-    "2026-11-25:21:15": "1531826276:22194652188"
+    "2026-11-25:21:15": "1531826276:22194652188",
+    "2026-11-25:21:30": "908280603:23793592187"
   },
-  "cursor": 11
+  "cursor": 13
 }

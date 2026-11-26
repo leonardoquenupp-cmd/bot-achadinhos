@@ -14622,6 +14622,27 @@
         "affiliateLink": "https://s.shopee.com.br/40iOkDBWrb"
       },
       "messageId": 817
+    },
+    "1703351425:58263500666": {
+      "status": "pending",
+      "slot": "2026-11-26:08:55",
+      "at": "2026-11-26T11:56:53.247Z",
+      "fingerprint": [
+        "chinelo",
+        "slide",
+        "time",
+        "confortavel",
+        "adulto",
+        "infantil",
+        "lancamento"
+      ],
+      "imageIdentity": "/file/br-11134207-820lr-mq1aynbbo1dtb6",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "facb4fef92f1e4f6a1521531be51a9edfbf861bbf728d4998408aaf799a0c5b3",
+        "affiliateLink": "https://s.shopee.com.br/4LLF8ZTvBm"
+      }
     }
   },
   "slots": {
@@ -15267,7 +15288,8 @@
     "2026-11-26:08:00": "375201738:58216057085",
     "2026-11-26:08:15": "1672422728:27345998596",
     "2026-11-26:08:30": "1754107366:58207201783",
-    "2026-11-26:08:45": "1732477109:23499664646"
+    "2026-11-26:08:45": "1732477109:23499664646",
+    "2026-11-26:08:55": "1703351425:58263500666"
   },
-  "cursor": 15
+  "cursor": 3
 }

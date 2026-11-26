@@ -15194,9 +15194,9 @@
       "messageId": 840
     },
     "1157433897:22993562103": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:15:00",
-      "at": "2026-11-26T18:01:26.998Z",
+      "at": "2026-11-26T18:01:29.278Z",
       "fingerprint": [
         "shorts",
         "alfaiataria",
@@ -15213,7 +15213,8 @@
       "receipt": {
         "captionHash": "d64c21ffca597d3e42ada0fa17ad9d5cb1afb46d3c91c73ead3d2837fb59f1bf",
         "affiliateLink": "https://s.shopee.com.br/40iOnM7YQE"
-      }
+      },
+      "messageId": 841
     }
   },
   "slots": {

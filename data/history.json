@@ -15020,9 +15020,9 @@
       "messageId": 833
     },
     "998773037:58260622031": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:13:15",
-      "at": "2026-11-26T16:16:50.043Z",
+      "at": "2026-11-26T16:16:53.676Z",
       "fingerprint": [
         "carregador",
         "portatil",
@@ -15042,7 +15042,8 @@
       "receipt": {
         "captionHash": "90577a3d012177845ce46130e4a76191eedac51e24f3b95a1291617297044ada",
         "affiliateLink": "https://s.shopee.com.br/1BODUEuvsg"
-      }
+      },
+      "messageId": 834
     }
   },
   "slots": {

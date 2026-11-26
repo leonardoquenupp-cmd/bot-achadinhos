@@ -15265,6 +15265,32 @@
         "affiliateLink": "https://s.shopee.com.br/1LhdvyhhHB"
       },
       "messageId": 843
+    },
+    "1334888968:21098088921": {
+      "status": "pending",
+      "slot": "2026-11-26:15:45",
+      "at": "2026-11-26T18:46:37.392Z",
+      "fingerprint": [
+        "antena",
+        "veiculo",
+        "automotivo",
+        "shark",
+        "tipo",
+        "barbatana",
+        "tubarao",
+        "universal",
+        "esportiva",
+        "teto",
+        "carro",
+        "radio"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-m72p8e1yqurr63",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "79338ef43e3ee7bc1b17f3b8e741b8a253e2fdc80f1e7c4b9def107f2828978b",
+        "affiliateLink": "https://s.shopee.com.br/AKcSUETDv2"
+      }
     }
   },
   "slots": {
@@ -15936,7 +15962,8 @@
     "2026-11-26:14:45": "1577747933:58212106403",
     "2026-11-26:15:00": "1157433897:22993562103",
     "2026-11-26:15:15": "1587885160:58212387087",
-    "2026-11-26:15:30": "419086451:22493344923"
+    "2026-11-26:15:30": "419086451:22493344923",
+    "2026-11-26:15:45": "1334888968:21098088921"
   },
-  "cursor": 8
+  "cursor": 9
 }

@@ -14499,9 +14499,9 @@
       "messageId": 812
     },
     "1788702793:22299455822": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:22:55",
-      "at": "2026-11-26T01:56:57.885Z",
+      "at": "2026-11-26T01:57:00.485Z",
       "fingerprint": [
         "botina",
         "masculina",
@@ -14519,7 +14519,8 @@
       "receipt": {
         "captionHash": "287205f9f7483c06adaf25eef1e6733e8dbe3dd33e3f94adde5673a991155d5f",
         "affiliateLink": "https://s.shopee.com.br/6q2ZSwbZLG"
-      }
+      },
+      "messageId": 813
     }
   },
   "slots": {

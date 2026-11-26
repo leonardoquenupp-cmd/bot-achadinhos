@@ -14840,6 +14840,28 @@
         "affiliateLink": "https://s.shopee.com.br/8KrO3RRDa8"
       },
       "messageId": 826
+    },
+    "1501406204:58251018871": {
+      "status": "pending",
+      "slot": "2026-11-26:11:15",
+      "at": "2026-11-26T14:16:15.837Z",
+      "fingerprint": [
+        "brinquedos",
+        "gatos",
+        "interativo",
+        "pet",
+        "sem",
+        "varinha",
+        "modelos",
+        "sortidos"
+      ],
+      "imageIdentity": "/file/br-11134207-820lo-mnrabuidx9mqe5",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "46abb8c0df74f74065a85fdd2f1ed33d3c68f2d9a0bd516e44d08a9c2f5f7e87",
+        "affiliateLink": "https://s.shopee.com.br/5qA35uewPp"
+      }
     }
   },
   "slots": {
@@ -15494,7 +15516,8 @@
     "2026-11-26:10:15": "1537241850:58202359038",
     "2026-11-26:10:30": "389315825:53606455119",
     "2026-11-26:10:45": "556197048:10763005356",
-    "2026-11-26:11:00": "302326977:55667464609"
+    "2026-11-26:11:00": "302326977:55667464609",
+    "2026-11-26:11:15": "1501406204:58251018871"
   },
-  "cursor": 13
+  "cursor": 15
 }

@@ -15772,9 +15772,9 @@
       "messageId": 863
     },
     "1921399168:58217627999": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:20:15",
-      "at": "2026-11-26T23:16:35.105Z",
+      "at": "2026-11-26T23:16:37.893Z",
       "fingerprint": [
         "escova",
         "eletrica",
@@ -15790,7 +15790,8 @@
       "receipt": {
         "captionHash": "07791c027e6443b5355e08058aab541a6f7e29e13a2a8d10ceb79298ceb1d4ea",
         "affiliateLink": "https://s.shopee.com.br/7AfQuk9vEs"
-      }
+      },
+      "messageId": 864
     }
   },
   "slots": {

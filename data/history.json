@@ -14431,9 +14431,9 @@
       "messageId": 809
     },
     "347988064:54861999742": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:22:15",
-      "at": "2026-11-26T01:16:23.179Z",
+      "at": "2026-11-26T01:16:25.981Z",
       "fingerprint": [
         "whey",
         "core",
@@ -14449,7 +14449,8 @@
       "receipt": {
         "captionHash": "1473bef01f6479ad3888010f71f30ebd1259c725baed66b3a7baa13e1990bada",
         "affiliateLink": "https://s.shopee.com.br/7KypZIRCyW"
-      }
+      },
+      "messageId": 810
     }
   },
   "slots": {

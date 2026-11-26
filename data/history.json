@@ -14965,6 +14965,31 @@
         "affiliateLink": "https://s.shopee.com.br/8AXxwIuylF"
       },
       "messageId": 831
+    },
+    "597391186:19899866990": {
+      "status": "pending",
+      "slot": "2026-11-26:12:30",
+      "at": "2026-11-26T15:31:37.128Z",
+      "fingerprint": [
+        "tigelas",
+        "comedouro",
+        "bebedouro",
+        "elevado",
+        "mdf",
+        "suspenso",
+        "pets",
+        "gato",
+        "cachorro",
+        "agua",
+        "racao"
+      ],
+      "imageIdentity": "/file/br-11134207-820ls-mqni5t3phaf47c",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "cf8762e9b5d51a6cae4be9c1c1f5adee66fe77a33516de56c9dce721d3bfc912",
+        "affiliateLink": "https://s.shopee.com.br/2BGkcyXtFv"
+      }
     }
   },
   "slots": {
@@ -15624,7 +15649,8 @@
     "2026-11-26:11:30": "378143264:3001116202",
     "2026-11-26:11:45": "634100145:58261515372",
     "2026-11-26:12:00": "1555286005:23394403878",
-    "2026-11-26:12:15": "1007722569:22894519217"
+    "2026-11-26:12:15": "1007722569:22894519217",
+    "2026-11-26:12:30": "597391186:19899866990"
   },
-  "cursor": 6
+  "cursor": 7
 }

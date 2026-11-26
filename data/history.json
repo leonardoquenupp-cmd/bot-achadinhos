@@ -15583,6 +15583,30 @@
         "affiliateLink": "https://s.shopee.com.br/50aw1ERIk6"
       },
       "messageId": 855
+    },
+    "1304513381:22598549816": {
+      "status": "pending",
+      "slot": "2026-11-26:18:30",
+      "at": "2026-11-26T21:31:51.193Z",
+      "fingerprint": [
+        "gel",
+        "creme",
+        "hidratante",
+        "calmante",
+        "facial",
+        "calming",
+        "cream",
+        "creamy",
+        "skincare",
+        "40g"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfbh51pwluyudd",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "e93085b8d3b335bf9d15855bfbaef362982c62f3dd7ea69635e6d4bd246a3450",
+        "affiliateLink": "https://s.shopee.com.br/AAJ25ZVmdk"
+      }
     }
   },
   "slots": {
@@ -16266,7 +16290,8 @@
     "2026-11-26:17:35": "447349628:19253842863",
     "2026-11-26:17:45": "1167945223:52660324546",
     "2026-11-26:18:00": "313660590:22893738408",
-    "2026-11-26:18:15": "742626506:23097561555"
+    "2026-11-26:18:15": "742626506:23097561555",
+    "2026-11-26:18:30": "1304513381:22598549816"
   },
-  "cursor": 14
+  "cursor": 1
 }

@@ -14481,9 +14481,9 @@
       "messageId": 811
     },
     "346868212:23798205133": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:22:45",
-      "at": "2026-11-26T01:46:11.293Z",
+      "at": "2026-11-26T01:46:13.290Z",
       "fingerprint": [
         "arranhador",
         "adesivo",
@@ -14495,7 +14495,8 @@
       "receipt": {
         "captionHash": "7050cd99761e2435509e78d9d3da3448bcd89496f3041b1749503c829383063e",
         "affiliateLink": "https://s.shopee.com.br/9AQU3AirCV"
-      }
+      },
+      "messageId": 812
     }
   },
   "slots": {

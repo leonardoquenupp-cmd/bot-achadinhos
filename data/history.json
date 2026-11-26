@@ -15018,6 +15018,31 @@
         "affiliateLink": "https://s.shopee.com.br/2gD1L6nXxF"
       },
       "messageId": 833
+    },
+    "998773037:58260622031": {
+      "status": "pending",
+      "slot": "2026-11-26:13:15",
+      "at": "2026-11-26T16:16:50.043Z",
+      "fingerprint": [
+        "carregador",
+        "portatil",
+        "power",
+        "bank",
+        "turbo",
+        "20000mah",
+        "premium",
+        "iphone",
+        "samsung",
+        "xiaomi",
+        "inducao"
+      ],
+      "imageIdentity": "/file/br-11134207-820ls-mvqgs1eh4lqbdd",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "90577a3d012177845ce46130e4a76191eedac51e24f3b95a1291617297044ada",
+        "affiliateLink": "https://s.shopee.com.br/1BODUEuvsg"
+      }
     }
   },
   "slots": {
@@ -15679,7 +15704,8 @@
     "2026-11-26:12:00": "1555286005:23394403878",
     "2026-11-26:12:15": "1007722569:22894519217",
     "2026-11-26:12:30": "597391186:19899866990",
-    "2026-11-26:12:45": "1006215031:42324757869"
+    "2026-11-26:12:45": "1006215031:42324757869",
+    "2026-11-26:13:15": "998773037:58260622031"
   },
-  "cursor": 8
+  "cursor": 10
 }

@@ -15240,6 +15240,30 @@
         "affiliateLink": "https://s.shopee.com.br/3Vm88JG4dc"
       },
       "messageId": 842
+    },
+    "419086451:22493344923": {
+      "status": "pending",
+      "slot": "2026-11-26:15:30",
+      "at": "2026-11-26T18:31:17.386Z",
+      "fingerprint": [
+        "necessaire",
+        "feminina",
+        "personalizada",
+        "inicial",
+        "box",
+        "alca",
+        "porta",
+        "maquiagem",
+        "bolsa",
+        "viagem"
+      ],
+      "imageIdentity": "/file/br-11134207-820m0-mm9n38usw7wn9a",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "1024a9d6b9e7d832cdaf385d761a26b2cbebfc14d62f8314bdf3325374dcb570",
+        "affiliateLink": "https://s.shopee.com.br/1LhdvyhhHB"
+      }
     }
   },
   "slots": {
@@ -15910,7 +15934,8 @@
     "2026-11-26:14:30": "1580145165:23399440533",
     "2026-11-26:14:45": "1577747933:58212106403",
     "2026-11-26:15:00": "1157433897:22993562103",
-    "2026-11-26:15:15": "1587885160:58212387087"
+    "2026-11-26:15:15": "1587885160:58212387087",
+    "2026-11-26:15:30": "419086451:22493344923"
   },
-  "cursor": 7
+  "cursor": 8
 }

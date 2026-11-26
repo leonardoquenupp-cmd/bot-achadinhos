@@ -15608,6 +15608,31 @@
         "affiliateLink": "https://s.shopee.com.br/AAJ25ZVmdk"
       },
       "messageId": 856
+    },
+    "1564125095:58218427574": {
+      "status": "pending",
+      "slot": "2026-11-26:18:45",
+      "at": "2026-11-26T21:46:13.195Z",
+      "fingerprint": [
+        "raquete",
+        "eletrica",
+        "mata",
+        "mosquitos",
+        "bivolt",
+        "110",
+        "220",
+        "recarregavel",
+        "alta",
+        "potencia",
+        "colorida"
+      ],
+      "imageIdentity": "/file/br-11134207-820l7-mvw0gwuyiubkda",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "0a95b8a2bd9312d7659ae7a624fd3fe71583d4f9cdcc3ce5f65e28c7c3a49237",
+        "affiliateLink": "https://s.shopee.com.br/9zzcHz2jBD"
+      }
     }
   },
   "slots": {
@@ -16292,7 +16317,8 @@
     "2026-11-26:17:45": "1167945223:52660324546",
     "2026-11-26:18:00": "313660590:22893738408",
     "2026-11-26:18:15": "742626506:23097561555",
-    "2026-11-26:18:30": "1304513381:22598549816"
+    "2026-11-26:18:30": "1304513381:22598549816",
+    "2026-11-26:18:45": "1564125095:58218427574"
   },
-  "cursor": 1
+  "cursor": 2
 }

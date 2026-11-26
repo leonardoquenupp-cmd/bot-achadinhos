@@ -14916,6 +14916,29 @@
         "affiliateLink": "https://s.shopee.com.br/2LaAxWxg9l"
       },
       "messageId": 829
+    },
+    "1555286005:23394403878": {
+      "status": "pending",
+      "slot": "2026-11-26:12:00",
+      "at": "2026-11-26T15:01:34.711Z",
+      "fingerprint": [
+        "nebulizador",
+        "portatil",
+        "silencioso",
+        "asma",
+        "adulto",
+        "infantil",
+        "inalador",
+        "mascaras",
+        "usb"
+      ],
+      "imageIdentity": "/file/sg-11134201-82587-ms0916gz2yv67f",
+      "family": "nebulizador-portatil",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "4ecb9f3e7c835ae996925948677a140703f9d15475ae0cb511a1d6309bfb194c",
+        "affiliateLink": "https://s.shopee.com.br/3qOyUqeaHy"
+      }
     }
   },
   "slots": {
@@ -15573,7 +15596,8 @@
     "2026-11-26:11:00": "302326977:55667464609",
     "2026-11-26:11:15": "1501406204:58251018871",
     "2026-11-26:11:30": "378143264:3001116202",
-    "2026-11-26:11:45": "634100145:58261515372"
+    "2026-11-26:11:45": "634100145:58261515372",
+    "2026-11-26:12:00": "1555286005:23394403878"
   },
-  "cursor": 3
+  "cursor": 4
 }

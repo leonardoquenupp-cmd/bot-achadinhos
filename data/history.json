@@ -14644,6 +14644,25 @@
         "affiliateLink": "https://s.shopee.com.br/4LLF8ZTvBm"
       },
       "messageId": 818
+    },
+    "811879342:18875453326": {
+      "status": "pending",
+      "slot": "2026-11-26:09:15",
+      "at": "2026-11-26T12:16:20.849Z",
+      "fingerprint": [
+        "liquidificador",
+        "britania",
+        "1200w",
+        "velocidades",
+        "blq1380p"
+      ],
+      "imageIdentity": "/file/sg-11134201-82582-mudiju4o3thd26",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "bc2384c38091c1174d078d957eca8e01e0d1d499c603ee106f4b10766842aa00",
+        "affiliateLink": "https://s.shopee.com.br/1LhdbNeVZL"
+      }
     }
   },
   "slots": {
@@ -15290,7 +15309,8 @@
     "2026-11-26:08:15": "1672422728:27345998596",
     "2026-11-26:08:30": "1754107366:58207201783",
     "2026-11-26:08:45": "1732477109:23499664646",
-    "2026-11-26:08:55": "1703351425:58263500666"
+    "2026-11-26:08:55": "1703351425:58263500666",
+    "2026-11-26:09:15": "811879342:18875453326"
   },
-  "cursor": 3
+  "cursor": 5
 }

@@ -14889,9 +14889,9 @@
       "messageId": 828
     },
     "634100145:58261515372": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:11:45",
-      "at": "2026-11-26T14:46:20.741Z",
+      "at": "2026-11-26T14:46:23.753Z",
       "fingerprint": [
         "piscas",
         "seta",
@@ -14914,7 +14914,8 @@
       "receipt": {
         "captionHash": "5ba8252c3e76e4672da74bd7cf26344e7ec4ba7d0dc3a2a4be2868f571b7f27a",
         "affiliateLink": "https://s.shopee.com.br/2LaAxWxg9l"
-      }
+      },
+      "messageId": 829
     }
   },
   "slots": {

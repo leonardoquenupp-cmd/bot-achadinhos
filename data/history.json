@@ -14769,6 +14769,25 @@
         "affiliateLink": "https://s.shopee.com.br/5fqcpRvjMN"
       },
       "messageId": 823
+    },
+    "389315825:53606455119": {
+      "status": "pending",
+      "slot": "2026-11-26:10:30",
+      "at": "2026-11-26T13:31:22.832Z",
+      "fingerprint": [
+        "pilha",
+        "zinco",
+        "unidades",
+        "multi",
+        "pz001"
+      ],
+      "imageIdentity": "/file/sg-11134201-8261j-ml5apnpr7gug30",
+      "family": "pilha-zinco",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "71a3b25bd7220398646d2a79ea7204d4bae2b0b9f1654959d47b1c02d9659496",
+        "affiliateLink": "https://s.shopee.com.br/7pv7LLFDmL"
+      }
     }
   },
   "slots": {
@@ -15420,7 +15439,8 @@
     "2026-11-26:09:30": "1161659721:19997627500",
     "2026-11-26:09:45": "1106058316:19699210101",
     "2026-11-26:10:00": "1295467768:22094238842",
-    "2026-11-26:10:15": "1537241850:58202359038"
+    "2026-11-26:10:15": "1537241850:58202359038",
+    "2026-11-26:10:30": "389315825:53606455119"
   },
-  "cursor": 9
+  "cursor": 10
 }

@@ -14546,6 +14546,30 @@
         "affiliateLink": "https://s.shopee.com.br/7fbh3rdvo6"
       },
       "messageId": 814
+    },
+    "1672422728:27345998596": {
+      "status": "pending",
+      "slot": "2026-11-26:08:15",
+      "at": "2026-11-26T11:16:43.530Z",
+      "fingerprint": [
+        "enfeites",
+        "arvore",
+        "natal",
+        "acrilico",
+        "espelhado",
+        "estrelas",
+        "natalinas",
+        "gravadas",
+        "cordao",
+        "decorativo"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mtzv9qtncr9f7d",
+      "family": "arvore-natal",
+      "department": "decoracao",
+      "receipt": {
+        "captionHash": "3f26bafeb2930a907978e8c186689ef34f556d04705c554718210ac709ae89f1",
+        "affiliateLink": "https://s.shopee.com.br/6q2a5M8Ryv"
+      }
     }
   },
   "slots": {
@@ -15188,7 +15212,8 @@
     "2026-11-25:22:30": "800864347:19897425032",
     "2026-11-25:22:45": "346868212:23798205133",
     "2026-11-25:22:55": "1788702793:22299455822",
-    "2026-11-26:08:00": "375201738:58216057085"
+    "2026-11-26:08:00": "375201738:58216057085",
+    "2026-11-26:08:15": "1672422728:27345998596"
   },
-  "cursor": 11
+  "cursor": 12
 }

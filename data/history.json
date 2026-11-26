@@ -15821,6 +15821,30 @@
         "affiliateLink": "https://s.shopee.com.br/1BODy5Cpui"
       },
       "messageId": 865
+    },
+    "507645665:22794924951": {
+      "status": "pending",
+      "slot": "2026-11-26:20:45",
+      "at": "2026-11-26T23:46:34.602Z",
+      "fingerprint": [
+        "vasos",
+        "parede",
+        "jardim",
+        "flor",
+        "flores",
+        "vertical",
+        "marrom",
+        "150ml",
+        "grande",
+        "pequeno"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztv-ml5000bm1lad62",
+      "family": "jardim",
+      "department": "jardim",
+      "receipt": {
+        "captionHash": "937d14fe5945be27f1e81441fe8b51496429b27ed2b08a41790be71c693c3acd",
+        "affiliateLink": "https://s.shopee.com.br/1BODKwU1UA"
+      }
     }
   },
   "slots": {
@@ -16514,7 +16538,8 @@
     "2026-11-26:19:45": "616222685:21299037006",
     "2026-11-26:20:00": "1363055219:47465815591",
     "2026-11-26:20:15": "1921399168:58217627999",
-    "2026-11-26:20:30": "1723929524:56354705212"
+    "2026-11-26:20:30": "1723929524:56354705212",
+    "2026-11-26:20:45": "507645665:22794924951"
   },
-  "cursor": 15
+  "cursor": 1
 }

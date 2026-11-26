@@ -14521,6 +14521,30 @@
         "affiliateLink": "https://s.shopee.com.br/6q2ZSwbZLG"
       },
       "messageId": 813
+    },
+    "375201738:58216057085": {
+      "status": "pending",
+      "slot": "2026-11-26:08:00",
+      "at": "2026-11-26T11:01:24.839Z",
+      "fingerprint": [
+        "tapa",
+        "seios",
+        "invisivel",
+        "adesivo",
+        "protetor",
+        "5cm",
+        "diametro",
+        "tampar",
+        "mamilos",
+        "aureola"
+      ],
+      "imageIdentity": "/file/sg-11134201-825ay-mrsyufwhekg569",
+      "family": "tapa-seios",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "91c8490ea700cd43ded460e1cc228fb9a14e7903ceb6f829c7e4cc54bc299f0e",
+        "affiliateLink": "https://s.shopee.com.br/7fbh3rdvo6"
+      }
     }
   },
   "slots": {
@@ -15162,7 +15186,8 @@
     "2026-11-25:22:15": "347988064:54861999742",
     "2026-11-25:22:30": "800864347:19897425032",
     "2026-11-25:22:45": "346868212:23798205133",
-    "2026-11-25:22:55": "1788702793:22299455822"
+    "2026-11-25:22:55": "1788702793:22299455822",
+    "2026-11-26:08:00": "375201738:58216057085"
   },
-  "cursor": 10
+  "cursor": 11
 }

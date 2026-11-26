@@ -15663,9 +15663,9 @@
       "messageId": 858
     },
     "1876581966:54166806189": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:19:00",
-      "at": "2026-11-26T22:01:35.348Z",
+      "at": "2026-11-26T22:01:37.507Z",
       "fingerprint": [
         "creatina",
         "monohidratada",
@@ -15680,7 +15680,8 @@
       "receipt": {
         "captionHash": "395c40c76734e16acc2b519405126a37f4a06d4a84634795f101df738c837d95",
         "affiliateLink": "https://s.shopee.com.br/5VXCh1e8nc"
-      }
+      },
+      "messageId": 859
     }
   },
   "slots": {

@@ -14406,6 +14406,28 @@
         "affiliateLink": "https://s.shopee.com.br/3g5Xch6nTj"
       },
       "messageId": 808
+    },
+    "1502179324:22299228079": {
+      "status": "pending",
+      "slot": "2026-11-25:22:00",
+      "at": "2026-11-26T01:01:28.451Z",
+      "fingerprint": [
+        "capa",
+        "bolsa",
+        "prova",
+        "agua",
+        "universal",
+        "ktransparente",
+        "impermeavel",
+        "celular"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mi9siimn6schda",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "66c8ec6779a18d09e714bf1bf49ecc7f00f658821a88f6d8d7055e63cd65edb9",
+        "affiliateLink": "https://s.shopee.com.br/9pgAydCEao"
+      }
     }
   },
   "slots": {
@@ -15042,7 +15064,8 @@
     "2026-11-25:21:15": "1531826276:22194652188",
     "2026-11-25:21:30": "908280603:23793592187",
     "2026-11-25:21:45": "1078551010:23494626157",
-    "2026-11-25:21:50": "1833179585:58266731363"
+    "2026-11-25:21:50": "1833179585:58266731363",
+    "2026-11-25:22:00": "1502179324:22299228079"
   },
-  "cursor": 2
+  "cursor": 3
 }

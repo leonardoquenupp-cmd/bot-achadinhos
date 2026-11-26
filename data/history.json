@@ -14479,6 +14479,23 @@
         "affiliateLink": "https://s.shopee.com.br/6Amrueia9h"
       },
       "messageId": 811
+    },
+    "346868212:23798205133": {
+      "status": "pending",
+      "slot": "2026-11-25:22:45",
+      "at": "2026-11-26T01:46:11.293Z",
+      "fingerprint": [
+        "arranhador",
+        "adesivo",
+        "grande"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mckqv1tbuhpuf0",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "7050cd99761e2435509e78d9d3da3448bcd89496f3041b1749503c829383063e",
+        "affiliateLink": "https://s.shopee.com.br/9AQU3AirCV"
+      }
     }
   },
   "slots": {
@@ -15118,7 +15135,8 @@
     "2026-11-25:21:50": "1833179585:58266731363",
     "2026-11-25:22:00": "1502179324:22299228079",
     "2026-11-25:22:15": "347988064:54861999742",
-    "2026-11-25:22:30": "800864347:19897425032"
+    "2026-11-25:22:30": "800864347:19897425032",
+    "2026-11-25:22:45": "346868212:23798205133"
   },
-  "cursor": 6
+  "cursor": 7
 }

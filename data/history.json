@@ -14771,9 +14771,9 @@
       "messageId": 823
     },
     "389315825:53606455119": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:10:30",
-      "at": "2026-11-26T13:31:22.832Z",
+      "at": "2026-11-26T13:31:25.420Z",
       "fingerprint": [
         "pilha",
         "zinco",
@@ -14787,7 +14787,8 @@
       "receipt": {
         "captionHash": "71a3b25bd7220398646d2a79ea7204d4bae2b0b9f1654959d47b1c02d9659496",
         "affiliateLink": "https://s.shopee.com.br/7pv7LLFDmL"
-      }
+      },
+      "messageId": 824
     }
   },
   "slots": {

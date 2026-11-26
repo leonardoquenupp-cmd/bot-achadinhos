@@ -15215,6 +15215,30 @@
         "affiliateLink": "https://s.shopee.com.br/40iOnM7YQE"
       },
       "messageId": 841
+    },
+    "1587885160:58212387087": {
+      "status": "pending",
+      "slot": "2026-11-26:15:15",
+      "at": "2026-11-26T18:16:42.796Z",
+      "fingerprint": [
+        "bebedouro",
+        "automatico",
+        "gatos",
+        "filtro",
+        "fonte",
+        "agua",
+        "circulante",
+        "usb",
+        "silencioso",
+        "1500ml"
+      ],
+      "imageIdentity": "/file/br-11134207-820m9-mpddr4df5z413b",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "2091c20c0fb386db7cc7aa8e8508459c304cad4aabe15f9d35a69b1036163a2e",
+        "affiliateLink": "https://s.shopee.com.br/3Vm88JG4dc"
+      }
     }
   },
   "slots": {
@@ -15884,7 +15908,8 @@
     "2026-11-26:14:15": "1234206521:23197685907",
     "2026-11-26:14:30": "1580145165:23399440533",
     "2026-11-26:14:45": "1577747933:58212106403",
-    "2026-11-26:15:00": "1157433897:22993562103"
+    "2026-11-26:15:00": "1157433897:22993562103",
+    "2026-11-26:15:15": "1587885160:58212387087"
   },
-  "cursor": 6
+  "cursor": 7
 }

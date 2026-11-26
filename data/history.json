@@ -14280,9 +14280,9 @@
       "messageId": 803
     },
     "362921023:22497323916": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:21:00",
-      "at": "2026-11-26T00:01:47.728Z",
+      "at": "2026-11-26T00:01:49.938Z",
       "fingerprint": [
         "blusa",
         "regata",
@@ -14301,7 +14301,8 @@
       "receipt": {
         "captionHash": "b9827fbb5548bc867ed86b4f9717747a107443d20faba067714b956cc8850dbb",
         "affiliateLink": "https://s.shopee.com.br/8pndM1iNB3"
-      }
+      },
+      "messageId": 804
     }
   },
   "slots": {

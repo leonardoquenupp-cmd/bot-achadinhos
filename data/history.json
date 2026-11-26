@@ -14408,9 +14408,9 @@
       "messageId": 808
     },
     "1502179324:22299228079": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-25:22:00",
-      "at": "2026-11-26T01:01:28.451Z",
+      "at": "2026-11-26T01:01:30.853Z",
       "fingerprint": [
         "capa",
         "bolsa",
@@ -14427,7 +14427,8 @@
       "receipt": {
         "captionHash": "66c8ec6779a18d09e714bf1bf49ecc7f00f658821a88f6d8d7055e63cd65edb9",
         "affiliateLink": "https://s.shopee.com.br/9pgAydCEao"
-      }
+      },
+      "messageId": 809
     }
   },
   "slots": {

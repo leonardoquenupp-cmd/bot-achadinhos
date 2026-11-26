@@ -14571,6 +14571,32 @@
         "affiliateLink": "https://s.shopee.com.br/6q2a5M8Ryv"
       },
       "messageId": 815
+    },
+    "1754107366:58207201783": {
+      "status": "pending",
+      "slot": "2026-11-26:08:30",
+      "at": "2026-11-26T11:31:48.319Z",
+      "fingerprint": [
+        "cachorro",
+        "pote",
+        "racao",
+        "agua",
+        "antiderrapante",
+        "resistente",
+        "aco",
+        "inox",
+        "animais",
+        "estimacao",
+        "gatos",
+        "caes"
+      ],
+      "imageIdentity": "/file/br-11134207-820m6-mm043a3rnif8e7",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "ee76213bb1b222bb3f532e83d02f3579ea9126866b52001fb03c7f0fdd837cc0",
+        "affiliateLink": "https://s.shopee.com.br/2LaAkAKW03"
+      }
     }
   },
   "slots": {
@@ -15214,7 +15240,8 @@
     "2026-11-25:22:45": "346868212:23798205133",
     "2026-11-25:22:55": "1788702793:22299455822",
     "2026-11-26:08:00": "375201738:58216057085",
-    "2026-11-26:08:15": "1672422728:27345998596"
+    "2026-11-26:08:15": "1672422728:27345998596",
+    "2026-11-26:08:30": "1754107366:58207201783"
   },
-  "cursor": 12
+  "cursor": 14
 }

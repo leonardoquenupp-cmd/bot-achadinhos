@@ -16447,6 +16447,27 @@
         "affiliateLink": "https://s.shopee.com.br/70M0HhOfvX"
       },
       "messageId": 889
+    },
+    "1730739646:58253661212": {
+      "status": "pending",
+      "slot": "2026-11-27:12:00",
+      "at": "2026-11-27T15:01:49.105Z",
+      "fingerprint": [
+        "tapete",
+        "higienico",
+        "caes",
+        "60x90",
+        "unidades",
+        "premium",
+        "higienepet"
+      ],
+      "imageIdentity": "/file/br-11134207-820ld-msylzoml0niea6",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "85a44feb992fac5f954c42e742404e9a65519d3db036498d322dd932ba76c6c6",
+        "affiliateLink": "https://s.shopee.com.br/4B1qkpZgJd"
+      }
     }
   },
   "slots": {
@@ -17164,7 +17185,8 @@
     "2026-11-27:10:45": "1461479318:49912454334",
     "2026-11-27:11:00": "341831646:53515857113",
     "2026-11-27:11:15": "400311012:17255136776",
-    "2026-11-27:11:45": "717396632:16434664635"
+    "2026-11-27:11:45": "717396632:16434664635",
+    "2026-11-27:12:00": "1730739646:58253661212"
   },
-  "cursor": 6
+  "cursor": 8
 }

@@ -16647,9 +16647,9 @@
       "messageId": 897
     },
     "989407275:51753870489": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:14:00",
-      "at": "2026-11-27T17:01:42.032Z",
+      "at": "2026-11-27T17:01:44.318Z",
       "fingerprint": [
         "nova",
         "capa",
@@ -16669,7 +16669,8 @@
       "receipt": {
         "captionHash": "8f4c490ec9540809eab28a7b35207b5379aa5f299e8eb9b95a9903d5e7ae6ce7",
         "affiliateLink": "https://s.shopee.com.br/W8Wh0xTEc"
-      }
+      },
+      "messageId": 898
     }
   },
   "slots": {

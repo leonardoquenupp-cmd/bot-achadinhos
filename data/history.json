@@ -17265,9 +17265,9 @@
       "messageId": 922
     },
     "1494995608:19899648802": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:20:45",
-      "at": "2026-11-27T23:46:41.445Z",
+      "at": "2026-11-27T23:46:44.186Z",
       "fingerprint": [
         "huawei",
         "band",
@@ -17284,7 +17284,8 @@
       "receipt": {
         "captionHash": "6004bf397671369d482cae497dab7d6d6cc73e4ebe417f88f55abfa20e0a8187",
         "affiliateLink": "https://s.shopee.com.br/3Vm8RrEW0G"
-      }
+      },
+      "messageId": 923
     }
   },
   "slots": {

@@ -17030,6 +17030,35 @@
         "affiliateLink": "https://s.shopee.com.br/1CGNa1bUZ"
       },
       "messageId": 913
+    },
+    "1339065761:19199870733": {
+      "status": "pending",
+      "slot": "2026-11-27:18:30",
+      "at": "2026-11-27T21:31:30.726Z",
+      "fingerprint": [
+        "inova",
+        "caixa",
+        "som",
+        "bluetooth",
+        "tws",
+        "estereo",
+        "alta",
+        "hifi",
+        "longa",
+        "duracao",
+        "ipx6",
+        "speaker",
+        "portatil",
+        "potente",
+        "casa"
+      ],
+      "imageIdentity": "/file/br-11134207-820ma-mntlub0nek1tc4",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "82ef131efd9321d580fd7833fec9da2f6b5fad225e0c548ed169c1ba58c724f8",
+        "affiliateLink": "https://s.shopee.com.br/8VAo4SIxtC"
+      }
     }
   },
   "slots": {
@@ -17771,7 +17800,8 @@
     "2026-11-27:17:15": "883941882:23594688900",
     "2026-11-27:17:30": "1658788104:23394640795",
     "2026-11-27:17:45": "1690388594:58217270461",
-    "2026-11-27:18:15": "336932912:8950292086"
+    "2026-11-27:18:15": "336932912:8950292086",
+    "2026-11-27:18:30": "1339065761:19199870733"
   },
-  "cursor": 14
+  "cursor": 15
 }

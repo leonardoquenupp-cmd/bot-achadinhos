@@ -16913,6 +16913,26 @@
         "affiliateLink": "https://s.shopee.com.br/7AfSYlfVWV"
       },
       "messageId": 908
+    },
+    "1242044379:23293253949": {
+      "status": "pending",
+      "slot": "2026-11-27:17:00",
+      "at": "2026-11-27T20:01:38.249Z",
+      "fingerprint": [
+        "whey",
+        "protein",
+        "concentrado",
+        "1kg",
+        "dark",
+        "lab"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lzkq1yrpylqtc1",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "d77baa06fd49f8c777a5803dab33b9996124c2e822caea597e63ebb1ad0185c7",
+        "affiliateLink": "https://s.shopee.com.br/9AQWfwlAc4"
+      }
     }
   },
   "slots": {
@@ -17649,7 +17669,8 @@
     "2026-11-27:15:45": "1789740063:58259312483",
     "2026-11-27:16:15": "425326129:22492675357",
     "2026-11-27:16:30": "1598184222:58263369269",
-    "2026-11-27:16:45": "811879342:18775453273"
+    "2026-11-27:16:45": "811879342:18775453273",
+    "2026-11-27:17:00": "1242044379:23293253949"
   },
-  "cursor": 6
+  "cursor": 8
 }

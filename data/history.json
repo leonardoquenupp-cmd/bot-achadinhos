@@ -16215,6 +16215,27 @@
         "affiliateLink": "https://s.shopee.com.br/Lp6pIJVCe"
       },
       "messageId": 880
+    },
+    "638380156:18297619389": {
+      "status": "pending",
+      "slot": "2026-11-27:09:30",
+      "at": "2026-11-27T12:31:45.262Z",
+      "fingerprint": [
+        "lixador",
+        "eletrico",
+        "esfoliador",
+        "tira",
+        "calos",
+        "pedicure",
+        "portatil"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lr68nerol2joe0",
+      "family": "lixador-eletrico",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "188ea941555371fafd313ddf15166b412c5a10098701154135a047fa1da48fd1",
+        "affiliateLink": "https://s.shopee.com.br/20xKRh8KNo"
+      }
     }
   },
   "slots": {
@@ -16923,7 +16944,8 @@
     "2026-11-27:08:15": "404217129:58263763849",
     "2026-11-27:08:30": "290224892:58257502470",
     "2026-11-27:08:45": "1531826276:58200034184",
-    "2026-11-27:09:15": "1658947107:58207032782"
+    "2026-11-27:09:15": "1658947107:58207032782",
+    "2026-11-27:09:30": "638380156:18297619389"
   },
-  "cursor": 9
+  "cursor": 11
 }

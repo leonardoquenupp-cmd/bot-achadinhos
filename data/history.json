@@ -16792,6 +16792,28 @@
         "affiliateLink": "https://s.shopee.com.br/3qOyf9FZuX"
       },
       "messageId": 903
+    },
+    "571244316:22098075433": {
+      "status": "pending",
+      "slot": "2026-11-27:15:30",
+      "at": "2026-11-27T18:31:39.489Z",
+      "fingerprint": [
+        "lencois",
+        "descartavel",
+        "tnt",
+        "branco",
+        "maca",
+        "00x0",
+        "elastico",
+        "premium"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rfh8-m352iiy50muh2e",
+      "family": "lencois-descartavel",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "e5d9efb5b4f77f4ed79aa6abead98308e126a675e017af3bc56518b9733510b3",
+        "affiliateLink": "https://s.shopee.com.br/W8YM1IACC"
+      }
     }
   },
   "slots": {
@@ -17523,7 +17545,8 @@
     "2026-11-27:14:25": "344390826:46968683833",
     "2026-11-27:14:45": "1664415227:58209278314",
     "2026-11-27:15:00": "1876515327:22795170973",
-    "2026-11-27:15:15": "1600125401:22499049824"
+    "2026-11-27:15:15": "1600125401:22499049824",
+    "2026-11-27:15:30": "571244316:22098075433"
   },
-  "cursor": 14
+  "cursor": 15
 }

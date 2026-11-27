@@ -16593,6 +16593,32 @@
         "affiliateLink": "https://s.shopee.com.br/8KrO4VVQLY"
       },
       "messageId": 895
+    },
+    "1006215031:43533277347": {
+      "status": "pending",
+      "slot": "2026-11-27:13:30",
+      "at": "2026-11-27T16:31:28.733Z",
+      "fingerprint": [
+        "bastao",
+        "sombra",
+        "olhos",
+        "vibrante",
+        "longa",
+        "duracao",
+        "prova",
+        "agua",
+        "resistente",
+        "borroes",
+        "unico",
+        "traco"
+      ],
+      "imageIdentity": "/file/sg-11134253-8259b-mrgqqti52vbg56",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "12e5d58f98f063d3c6cc5fd20909f637090957c52f49a8da2a752a9922c6ce4d",
+        "affiliateLink": "https://s.shopee.com.br/2LaAlAzbXY"
+      }
     }
   },
   "slots": {
@@ -17316,7 +17342,8 @@
     "2026-11-27:12:30": "1208992205:22692916661",
     "2026-11-27:12:45": "359066629:19975160032",
     "2026-11-27:13:00": "1109263850:49610876725",
-    "2026-11-27:13:15": "1197125737:21499213119"
+    "2026-11-27:13:15": "1197125737:21499213119",
+    "2026-11-27:13:30": "1006215031:43533277347"
   },
-  "cursor": 15
+  "cursor": 0
 }

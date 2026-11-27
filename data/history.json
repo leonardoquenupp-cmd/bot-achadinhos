@@ -16771,9 +16771,9 @@
       "messageId": 902
     },
     "1600125401:22499049824": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:15:15",
-      "at": "2026-11-27T18:16:30.275Z",
+      "at": "2026-11-27T18:16:33.472Z",
       "fingerprint": [
         "relogio",
         "inteligente",
@@ -16790,7 +16790,8 @@
       "receipt": {
         "captionHash": "81b541253d0308b44ff8190c7c349e08c87afb719555e77bac44a4570cd23057",
         "affiliateLink": "https://s.shopee.com.br/3qOyf9FZuX"
-      }
+      },
+      "messageId": 903
     }
   },
   "slots": {

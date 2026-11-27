@@ -16268,6 +16268,28 @@
         "affiliateLink": "https://s.shopee.com.br/8png4yj4Q8"
       },
       "messageId": 882
+    },
+    "813859357:18622911027": {
+      "status": "pending",
+      "slot": "2026-11-27:10:00",
+      "at": "2026-11-27T13:01:20.333Z",
+      "fingerprint": [
+        "creatina",
+        "pura",
+        "monohidratada",
+        "hardcore",
+        "300g",
+        "150g",
+        "original",
+        "integralmedica"
+      ],
+      "imageIdentity": "/file/ceafa6ecdfacf75d74fa6c9021201c8c",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "95bd6f979fbd8158cc94002945ab2d44548d648e4bda4e4df2c58a02b9644f78",
+        "affiliateLink": "https://s.shopee.com.br/3qOzEA5URj"
+      }
     }
   },
   "slots": {
@@ -16978,7 +17000,8 @@
     "2026-11-27:08:45": "1531826276:58200034184",
     "2026-11-27:09:15": "1658947107:58207032782",
     "2026-11-27:09:30": "638380156:18297619389",
-    "2026-11-27:09:45": "1602856616:58272423595"
+    "2026-11-27:09:45": "1602856616:58272423595",
+    "2026-11-27:10:00": "813859357:18622911027"
   },
-  "cursor": 12
+  "cursor": 13
 }

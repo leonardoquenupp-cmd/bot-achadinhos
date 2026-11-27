@@ -16270,9 +16270,9 @@
       "messageId": 882
     },
     "813859357:18622911027": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:10:00",
-      "at": "2026-11-27T13:01:20.333Z",
+      "at": "2026-11-27T13:01:23.470Z",
       "fingerprint": [
         "creatina",
         "pura",
@@ -16289,7 +16289,8 @@
       "receipt": {
         "captionHash": "95bd6f979fbd8158cc94002945ab2d44548d648e4bda4e4df2c58a02b9644f78",
         "affiliateLink": "https://s.shopee.com.br/3qOzEA5URj"
-      }
+      },
+      "messageId": 883
     }
   },
   "slots": {

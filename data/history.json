@@ -16985,6 +16985,26 @@
         "affiliateLink": "https://s.shopee.com.br/1LhdYKOK1t"
       },
       "messageId": 911
+    },
+    "1690388594:58217270461": {
+      "status": "pending",
+      "slot": "2026-11-27:17:45",
+      "at": "2026-11-27T20:46:20.641Z",
+      "fingerprint": [
+        "pares",
+        "chinelo",
+        "masculino",
+        "feminino",
+        "bandeirinha",
+        "verao"
+      ],
+      "imageIdentity": "/file/sg-11134201-82581-msjuj7bweznl53",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "25d09c4fb99ae294fe402885f7503da56dc1813823074cdba74de316b901ab6b",
+        "affiliateLink": "https://s.shopee.com.br/5VXCdAHxb3"
+      }
     }
   },
   "slots": {
@@ -17724,7 +17744,8 @@
     "2026-11-27:16:45": "811879342:18775453273",
     "2026-11-27:17:00": "1242044379:23293253949",
     "2026-11-27:17:15": "883941882:23594688900",
-    "2026-11-27:17:30": "1658788104:23394640795"
+    "2026-11-27:17:30": "1658788104:23394640795",
+    "2026-11-27:17:45": "1690388594:58217270461"
   },
-  "cursor": 12
+  "cursor": 13
 }

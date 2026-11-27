@@ -16769,6 +16769,28 @@
         "affiliateLink": "https://s.shopee.com.br/8fUEIobUgL"
       },
       "messageId": 902
+    },
+    "1600125401:22499049824": {
+      "status": "pending",
+      "slot": "2026-11-27:15:15",
+      "at": "2026-11-27T18:16:30.275Z",
+      "fingerprint": [
+        "relogio",
+        "inteligente",
+        "2026",
+        "bluetooth",
+        "chamadas",
+        "esportivo",
+        "frequencia",
+        "cardiaca"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mh33kjyuqxvrc5",
+      "family": "relogio",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "81b541253d0308b44ff8190c7c349e08c87afb719555e77bac44a4570cd23057",
+        "affiliateLink": "https://s.shopee.com.br/3qOyf9FZuX"
+      }
     }
   },
   "slots": {
@@ -17499,7 +17521,8 @@
     "2026-11-27:14:15": "422764082:22194331598",
     "2026-11-27:14:25": "344390826:46968683833",
     "2026-11-27:14:45": "1664415227:58209278314",
-    "2026-11-27:15:00": "1876515327:22795170973"
+    "2026-11-27:15:00": "1876515327:22795170973",
+    "2026-11-27:15:15": "1600125401:22499049824"
   },
-  "cursor": 13
+  "cursor": 14
 }

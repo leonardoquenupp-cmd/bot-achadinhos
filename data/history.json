@@ -16541,6 +16541,30 @@
         "affiliateLink": "https://s.shopee.com.br/7KysICXvj9"
       },
       "messageId": 893
+    },
+    "1109263850:49610876725": {
+      "status": "pending",
+      "slot": "2026-11-27:13:00",
+      "at": "2026-11-27T16:01:34.839Z",
+      "fingerprint": [
+        "radio",
+        "caixa",
+        "som",
+        "bluetooth",
+        "recarregavel",
+        "lanterna",
+        "retro",
+        "portatil",
+        "usb",
+        "pilha"
+      ],
+      "imageIdentity": "/file/br-11134207-820me-mogu34styw3n6e",
+      "family": "radio-caixa",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "7a36c3a03e99cc91b3700de72e00028d18902a2be04d630cf813a895d62a3773",
+        "affiliateLink": "https://s.shopee.com.br/9zzbwLYJwO"
+      }
     }
   },
   "slots": {
@@ -17262,7 +17286,8 @@
     "2026-11-27:12:00": "1730739646:58253661212",
     "2026-11-27:12:15": "1531454468:49210559495",
     "2026-11-27:12:30": "1208992205:22692916661",
-    "2026-11-27:12:45": "359066629:19975160032"
+    "2026-11-27:12:45": "359066629:19975160032",
+    "2026-11-27:13:00": "1109263850:49610876725"
   },
-  "cursor": 13
+  "cursor": 14
 }

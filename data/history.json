@@ -17060,6 +17060,27 @@
         "affiliateLink": "https://s.shopee.com.br/8VAo4SIxtC"
       },
       "messageId": 914
+    },
+    "1581953432:58208302003": {
+      "status": "pending",
+      "slot": "2026-11-27:18:45",
+      "at": "2026-11-27T21:46:10.593Z",
+      "fingerprint": [
+        "toalha",
+        "lenco",
+        "umedecido",
+        "caes",
+        "gatos",
+        "pet",
+        "pacotes"
+      ],
+      "imageIdentity": "/file/sg-11134201-81zvh-mmqekf0tyww0de",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "0b66fa1ade9820d1f11c63c76afec55bdbe776fa464bfade4dfd43d25cb299a6",
+        "affiliateLink": "https://s.shopee.com.br/3LSjZyjegL"
+      }
     }
   },
   "slots": {
@@ -17802,7 +17823,8 @@
     "2026-11-27:17:30": "1658788104:23394640795",
     "2026-11-27:17:45": "1690388594:58217270461",
     "2026-11-27:18:15": "336932912:8950292086",
-    "2026-11-27:18:30": "1339065761:19199870733"
+    "2026-11-27:18:30": "1339065761:19199870733",
+    "2026-11-27:18:45": "1581953432:58208302003"
   },
-  "cursor": 15
+  "cursor": 0
 }

@@ -16217,9 +16217,9 @@
       "messageId": 880
     },
     "638380156:18297619389": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:09:30",
-      "at": "2026-11-27T12:31:45.262Z",
+      "at": "2026-11-27T12:31:47.638Z",
       "fingerprint": [
         "lixador",
         "eletrico",
@@ -16235,7 +16235,8 @@
       "receipt": {
         "captionHash": "188ea941555371fafd313ddf15166b412c5a10098701154135a047fa1da48fd1",
         "affiliateLink": "https://s.shopee.com.br/20xKRh8KNo"
-      }
+      },
+      "messageId": 881
     }
   },
   "slots": {

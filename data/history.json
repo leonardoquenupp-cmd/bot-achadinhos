@@ -15872,9 +15872,9 @@
       "messageId": 867
     },
     "1177319319:23598083863": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:21:15",
-      "at": "2026-11-27T00:16:39.493Z",
+      "at": "2026-11-27T00:16:42.983Z",
       "fingerprint": [
         "metros",
         "fita",
@@ -15894,7 +15894,8 @@
       "receipt": {
         "captionHash": "28b2c23ea34b60725ed83c6af24f2a96d3209157397e5f5635a1ac3153df46d8",
         "affiliateLink": "https://s.shopee.com.br/4fy5dbzXNx"
-      }
+      },
+      "messageId": 868
     }
   },
   "slots": {

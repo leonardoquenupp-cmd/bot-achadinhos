@@ -16645,6 +16645,31 @@
         "affiliateLink": "https://s.shopee.com.br/8KrO0MbxoJ"
       },
       "messageId": 897
+    },
+    "989407275:51753870489": {
+      "status": "pending",
+      "slot": "2026-11-27:14:00",
+      "at": "2026-11-27T17:01:42.032Z",
+      "fingerprint": [
+        "nova",
+        "capa",
+        "telefone",
+        "vidro",
+        "fosco",
+        "iphone",
+        "pro",
+        "max",
+        "dura",
+        "prova",
+        "choque"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258o-mv65a65s8v7u30",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "8f4c490ec9540809eab28a7b35207b5379aa5f299e8eb9b95a9903d5e7ae6ce7",
+        "affiliateLink": "https://s.shopee.com.br/W8Wh0xTEc"
+      }
     }
   },
   "slots": {
@@ -17370,7 +17395,8 @@
     "2026-11-27:13:00": "1109263850:49610876725",
     "2026-11-27:13:15": "1197125737:21499213119",
     "2026-11-27:13:30": "1006215031:43533277347",
-    "2026-11-27:13:45": "1246429697:58270728615"
+    "2026-11-27:13:45": "1246429697:58270728615",
+    "2026-11-27:14:00": "989407275:51753870489"
   },
-  "cursor": 2
+  "cursor": 4
 }

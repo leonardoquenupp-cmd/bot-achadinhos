@@ -16135,6 +16135,30 @@
         "affiliateLink": "https://s.shopee.com.br/6q2agSyAEN"
       },
       "messageId": 877
+    },
+    "290224892:58257502470": {
+      "status": "pending",
+      "slot": "2026-11-27:08:30",
+      "at": "2026-11-27T11:31:13.704Z",
+      "fingerprint": [
+        "adaptador",
+        "tomada",
+        "20a",
+        "10a",
+        "carregador",
+        "carro",
+        "eletrico",
+        "bivolt",
+        "127",
+        "220v"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-mv6718t2iv4199",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "c2fb1830d6ef174d90746c48652aa1099f59847fa6c142becfcd5f59964a2c85",
+        "affiliateLink": "https://s.shopee.com.br/6Amuu3cN5m"
+      }
     }
   },
   "slots": {
@@ -16840,7 +16864,8 @@
     "2026-11-26:22:45": "367966382:58265565940",
     "2026-11-26:22:50": "647546523:25305694401",
     "2026-11-27:08:00": "1169146045:22893230977",
-    "2026-11-27:08:15": "404217129:58263763849"
+    "2026-11-27:08:15": "404217129:58263763849",
+    "2026-11-27:08:30": "290224892:58257502470"
   },
-  "cursor": 4
+  "cursor": 5
 }

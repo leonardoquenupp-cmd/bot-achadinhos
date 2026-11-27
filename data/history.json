@@ -16815,6 +16815,34 @@
         "affiliateLink": "https://s.shopee.com.br/W8YM1IACC"
       },
       "messageId": 904
+    },
+    "1789740063:58259312483": {
+      "status": "pending",
+      "slot": "2026-11-27:15:45",
+      "at": "2026-11-27T18:46:22.855Z",
+      "fingerprint": [
+        "calca",
+        "legging",
+        "esportiva",
+        "cintura",
+        "alta",
+        "bolso",
+        "empina",
+        "bumbum",
+        "zero",
+        "transparencia",
+        "respiravel",
+        "fitness",
+        "academia",
+        "yoga"
+      ],
+      "imageIdentity": "/file/br-11134207-820lp-mndsyg0vb9j55a",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "5fde74362c8cd9ad973fd9eaf56aa9547f23e31a9489c7940f5e83a068afb2ab",
+        "affiliateLink": "https://s.shopee.com.br/20xKPeSpbj"
+      }
     }
   },
   "slots": {
@@ -17547,7 +17575,8 @@
     "2026-11-27:14:45": "1664415227:58209278314",
     "2026-11-27:15:00": "1876515327:22795170973",
     "2026-11-27:15:15": "1600125401:22499049824",
-    "2026-11-27:15:30": "571244316:22098075433"
+    "2026-11-27:15:30": "571244316:22098075433",
+    "2026-11-27:15:45": "1789740063:58259312483"
   },
-  "cursor": 15
+  "cursor": 1
 }

@@ -15948,6 +15948,33 @@
         "affiliateLink": "https://s.shopee.com.br/AUvtGaoBl5"
       },
       "messageId": 870
+    },
+    "883941882:19498265311": {
+      "status": "pending",
+      "slot": "2026-11-26:22:00",
+      "at": "2026-11-27T01:02:06.092Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "led",
+        "bluetooth",
+        "magnetico",
+        "portatil",
+        "atmosfera",
+        "colorida",
+        "rbg",
+        "mini",
+        "speaker",
+        "prova",
+        "agua"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mcqq6k5nj47595",
+      "family": "caixa-som",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "0a784f201eedc6ddbb9b0d00f6fcc6d6c9460d170a17d657b4e7f041ed24037c",
+        "affiliateLink": "https://s.shopee.com.br/8KrOVFlYNQ"
+      }
     }
   },
   "slots": {
@@ -16646,7 +16673,8 @@
     "2026-11-26:21:00": "1620616375:58203503645",
     "2026-11-26:21:15": "1177319319:23598083863",
     "2026-11-26:21:30": "472053026:22998383507",
-    "2026-11-26:21:45": "1722422006:58253791436"
+    "2026-11-26:21:45": "1722422006:58253791436",
+    "2026-11-26:22:00": "883941882:19498265311"
   },
-  "cursor": 6
+  "cursor": 8
 }

@@ -17082,6 +17082,32 @@
         "affiliateLink": "https://s.shopee.com.br/3LSjZyjegL"
       },
       "messageId": 915
+    },
+    "1772999326:58218243251": {
+      "status": "pending",
+      "slot": "2026-11-27:19:00",
+      "at": "2026-11-27T22:01:42.267Z",
+      "fingerprint": [
+        "short",
+        "saida",
+        "praia",
+        "feminino",
+        "croche",
+        "moda",
+        "verao",
+        "tricot",
+        "leve",
+        "estiloso",
+        "look",
+        "tendencia"
+      ],
+      "imageIdentity": "/file/br-11134207-820lg-mt71fb42hwcl44",
+      "family": "short-saida",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "26489693b3a8f9ba893c9004afce4b4aae450e1cb3b1bf4fd7162d5f24d11b41",
+        "affiliateLink": "https://s.shopee.com.br/5AuMOqPUeQ"
+      }
     }
   },
   "slots": {
@@ -17825,7 +17851,8 @@
     "2026-11-27:17:45": "1690388594:58217270461",
     "2026-11-27:18:15": "336932912:8950292086",
     "2026-11-27:18:30": "1339065761:19199870733",
-    "2026-11-27:18:45": "1581953432:58208302003"
+    "2026-11-27:18:45": "1581953432:58208302003",
+    "2026-11-27:19:00": "1772999326:58218243251"
   },
-  "cursor": 0
+  "cursor": 2
 }

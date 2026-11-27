@@ -16089,6 +16089,28 @@
         "affiliateLink": "https://s.shopee.com.br/1W13n1py1v"
       },
       "messageId": 875
+    },
+    "1169146045:22893230977": {
+      "status": "pending",
+      "slot": "2026-11-27:08:00",
+      "at": "2026-11-27T11:01:30.654Z",
+      "fingerprint": [
+        "short",
+        "masculino",
+        "dry",
+        "fit",
+        "bermuda",
+        "compressao",
+        "corrida",
+        "treino"
+      ],
+      "imageIdentity": "/file/br-11134207-820ld-mtyg02h2vx8j19",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "d70c3ddabea73dcc6f6a69db7cf15956d44aca66ccc66989668e47ce562e3638",
+        "affiliateLink": "https://s.shopee.com.br/3LSjUpkr1J"
+      }
     }
   },
   "slots": {
@@ -16792,7 +16814,8 @@
     "2026-11-26:22:15": "532546866:43817706826",
     "2026-11-26:22:25": "516623582:21540327939",
     "2026-11-26:22:45": "367966382:58265565940",
-    "2026-11-26:22:50": "647546523:25305694401"
+    "2026-11-26:22:50": "647546523:25305694401",
+    "2026-11-27:08:00": "1169146045:22893230977"
   },
-  "cursor": 1
+  "cursor": 3
 }

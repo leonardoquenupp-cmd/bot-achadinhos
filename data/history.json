@@ -16342,6 +16342,33 @@
         "affiliateLink": "https://s.shopee.com.br/W8WdtwJ1v"
       },
       "messageId": 885
+    },
+    "1461479318:49912454334": {
+      "status": "pending",
+      "slot": "2026-11-27:10:45",
+      "at": "2026-11-27T13:46:41.681Z",
+      "fingerprint": [
+        "maria",
+        "curl",
+        "cilios",
+        "facil",
+        "ventilador",
+        "extensoes",
+        "atacado",
+        "volume",
+        "pre",
+        "fabricado",
+        "estilo",
+        "natural",
+        "macio"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mpj7tsq5r0gb60",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "49b64f1d456b84307f7b2070b4e10064c55c0aa74c10762716f076cb1d58274d",
+        "affiliateLink": "https://s.shopee.com.br/8KrNzKkDWs"
+      }
     }
   },
   "slots": {
@@ -17055,7 +17082,8 @@
     "2026-11-27:09:45": "1602856616:58272423595",
     "2026-11-27:10:00": "813859357:18622911027",
     "2026-11-27:10:15": "1351679961:22598223010",
-    "2026-11-27:10:30": "1208992205:22799026218"
+    "2026-11-27:10:30": "1208992205:22799026218",
+    "2026-11-27:10:45": "1461479318:49912454334"
   },
-  "cursor": 15
+  "cursor": 0
 }

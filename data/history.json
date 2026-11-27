@@ -17210,6 +17210,30 @@
         "affiliateLink": "https://s.shopee.com.br/4B1ozcuWlp"
       },
       "messageId": 920
+    },
+    "1584860755:23498724368": {
+      "status": "pending",
+      "slot": "2026-11-27:20:15",
+      "at": "2026-11-27T23:16:25.427Z",
+      "fingerprint": [
+        "extensor",
+        "tensao",
+        "forte",
+        "faixa",
+        "elastica",
+        "elasticos",
+        "exercicios",
+        "treino",
+        "academia",
+        "ginastica"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-ma8wb28hljg683",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "d981b4d9cbcc3188e1387c0145d4f94166cd40d79c64e2e0b6c6e2c05eeec141",
+        "affiliateLink": "https://s.shopee.com.br/1W15OZZqNX"
+      }
     }
   },
   "slots": {
@@ -17958,7 +17982,8 @@
     "2026-11-27:19:10": "1106688191:23693000500",
     "2026-11-27:19:30": "432069203:58206129432",
     "2026-11-27:19:45": "1157950131:22697383155",
-    "2026-11-27:20:00": "1780938074:58271294263"
+    "2026-11-27:20:00": "1780938074:58271294263",
+    "2026-11-27:20:15": "1584860755:23498724368"
   },
-  "cursor": 8
+  "cursor": 9
 }

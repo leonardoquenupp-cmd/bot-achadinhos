@@ -16319,9 +16319,9 @@
       "messageId": 884
     },
     "1208992205:22799026218": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:10:30",
-      "at": "2026-11-27T13:31:52.881Z",
+      "at": "2026-11-27T13:31:55.536Z",
       "fingerprint": [
         "removedor",
         "pelos",
@@ -16340,7 +16340,8 @@
       "receipt": {
         "captionHash": "73847426cb5070f31f732e5b7ac466e05147c2d2c3d3b179259e37ee0f58e442",
         "affiliateLink": "https://s.shopee.com.br/W8WdtwJ1v"
-      }
+      },
+      "messageId": 885
     }
   },
   "slots": {

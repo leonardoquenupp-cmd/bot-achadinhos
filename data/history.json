@@ -16934,6 +16934,30 @@
         "affiliateLink": "https://s.shopee.com.br/9AQWfwlAc4"
       },
       "messageId": 909
+    },
+    "883941882:23594688900": {
+      "status": "pending",
+      "slot": "2026-11-27:17:15",
+      "at": "2026-11-27T20:16:30.707Z",
+      "fingerprint": [
+        "headsets",
+        "fones",
+        "ouvido",
+        "bluetooth",
+        "sem",
+        "fio",
+        "colorido",
+        "dobravel",
+        "jogos",
+        "microfone"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mh890q97h62v78",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "5a4be8794470f072a95e48bab7e17f8726e4c640d1de72d8ec92dd0410cefc3f",
+        "affiliateLink": "https://s.shopee.com.br/9fMlj23Cqh"
+      }
     }
   },
   "slots": {
@@ -17671,7 +17695,8 @@
     "2026-11-27:16:15": "425326129:22492675357",
     "2026-11-27:16:30": "1598184222:58263369269",
     "2026-11-27:16:45": "811879342:18775453273",
-    "2026-11-27:17:00": "1242044379:23293253949"
+    "2026-11-27:17:00": "1242044379:23293253949",
+    "2026-11-27:17:15": "883941882:23594688900"
   },
-  "cursor": 8
+  "cursor": 10
 }

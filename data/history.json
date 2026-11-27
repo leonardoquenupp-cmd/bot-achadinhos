@@ -17163,6 +17163,28 @@
         "affiliateLink": "https://s.shopee.com.br/qlNN8bcn4"
       },
       "messageId": 918
+    },
+    "1157950131:22697383155": {
+      "status": "pending",
+      "slot": "2026-11-27:19:45",
+      "at": "2026-11-27T22:46:16.574Z",
+      "fingerprint": [
+        "calca",
+        "pantalona",
+        "feminina",
+        "cintura",
+        "alta",
+        "bolso",
+        "tecido",
+        "duna"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mg76rg2cd98ndb",
+      "family": "roupas",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "0d7e5eb338da3b314755ed6d5f4b3e459cba2a754a8d99efcdbc019601d61297",
+        "affiliateLink": "https://s.shopee.com.br/30prmoEeEl"
+      }
     }
   },
   "slots": {
@@ -17909,7 +17931,8 @@
     "2026-11-27:18:45": "1581953432:58208302003",
     "2026-11-27:19:00": "1772999326:58218243251",
     "2026-11-27:19:10": "1106688191:23693000500",
-    "2026-11-27:19:30": "432069203:58206129432"
+    "2026-11-27:19:30": "432069203:58206129432",
+    "2026-11-27:19:45": "1157950131:22697383155"
   },
-  "cursor": 5
+  "cursor": 6
 }

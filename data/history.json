@@ -15976,6 +15976,30 @@
         "affiliateLink": "https://s.shopee.com.br/8KrOVFlYNQ"
       },
       "messageId": 871
+    },
+    "532546866:43817706826": {
+      "status": "pending",
+      "slot": "2026-11-26:22:15",
+      "at": "2026-11-27T01:16:35.212Z",
+      "fingerprint": [
+        "remedio",
+        "carrapato",
+        "pulgas",
+        "cachorro",
+        "que",
+        "dura",
+        "meses",
+        "comprimidos",
+        "envio",
+        "imediato"
+      ],
+      "imageIdentity": "/file/br-11134207-820mb-mn5p48h5ojyc11",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "ce192cd5a5435751f29419f340f7be26559f3f1eef729d6bfec82bcd4fb9d7e6",
+        "affiliateLink": "https://s.shopee.com.br/W8WdueEdN"
+      }
     }
   },
   "slots": {
@@ -16675,7 +16699,8 @@
     "2026-11-26:21:15": "1177319319:23598083863",
     "2026-11-26:21:30": "472053026:22998383507",
     "2026-11-26:21:45": "1722422006:58253791436",
-    "2026-11-26:22:00": "883941882:19498265311"
+    "2026-11-26:22:00": "883941882:19498265311",
+    "2026-11-26:22:15": "532546866:43817706826"
   },
-  "cursor": 8
+  "cursor": 10
 }

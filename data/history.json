@@ -17111,9 +17111,9 @@
       "messageId": 916
     },
     "1106688191:23693000500": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:19:10",
-      "at": "2026-11-27T22:12:28.629Z",
+      "at": "2026-11-27T22:12:30.752Z",
       "fingerprint": [
         "bandeja",
         "coletora",
@@ -17132,7 +17132,8 @@
       "receipt": {
         "captionHash": "2c82c2190a71e7eb7791fc80ebf94c25626fc18988c7de5118ec5fee39555139",
         "affiliateLink": "https://s.shopee.com.br/8pneUlEwon"
-      }
+      },
+      "messageId": 917
     }
   },
   "slots": {

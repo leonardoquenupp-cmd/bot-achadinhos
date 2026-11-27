@@ -16471,9 +16471,9 @@
       "messageId": 890
     },
     "1531454468:49210559495": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:12:15",
-      "at": "2026-11-27T15:16:35.858Z",
+      "at": "2026-11-27T15:16:38.748Z",
       "fingerprint": [
         "toucas",
         "cetim",
@@ -16497,7 +16497,8 @@
       "receipt": {
         "captionHash": "2d87f780ad1ac37d8a6988d51e7889eb12de3a3de9ae329b03fda7222d11dc1f",
         "affiliateLink": "https://s.shopee.com.br/7KyqnWIQ0m"
-      }
+      },
+      "messageId": 891
     }
   },
   "slots": {

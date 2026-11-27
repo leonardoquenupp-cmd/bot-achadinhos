@@ -16520,6 +16520,26 @@
         "affiliateLink": "https://s.shopee.com.br/AAJ2CmrT3P"
       },
       "messageId": 892
+    },
+    "359066629:19975160032": {
+      "status": "pending",
+      "slot": "2026-11-27:12:45",
+      "at": "2026-11-27T15:46:08.009Z",
+      "fingerprint": [
+        "panela",
+        "pressao",
+        "fechamento",
+        "externo",
+        "antiaderente",
+        "nacional"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-mo9nab0ho2klbf",
+      "family": "panelas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "d40408bd072e865ca9419bae36afadc8b2cdaaf2a7af48fcff2ef5898b81ce6b",
+        "affiliateLink": "https://s.shopee.com.br/7KysICXvj9"
+      }
     }
   },
   "slots": {
@@ -17240,7 +17260,8 @@
     "2026-11-27:11:45": "717396632:16434664635",
     "2026-11-27:12:00": "1730739646:58253661212",
     "2026-11-27:12:15": "1531454468:49210559495",
-    "2026-11-27:12:30": "1208992205:22692916661"
+    "2026-11-27:12:30": "1208992205:22692916661",
+    "2026-11-27:12:45": "359066629:19975160032"
   },
-  "cursor": 11
+  "cursor": 13
 }

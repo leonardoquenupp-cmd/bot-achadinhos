@@ -15978,9 +15978,9 @@
       "messageId": 871
     },
     "532546866:43817706826": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:22:15",
-      "at": "2026-11-27T01:16:35.212Z",
+      "at": "2026-11-27T01:16:38.075Z",
       "fingerprint": [
         "remedio",
         "carrapato",
@@ -15999,7 +15999,8 @@
       "receipt": {
         "captionHash": "ce192cd5a5435751f29419f340f7be26559f3f1eef729d6bfec82bcd4fb9d7e6",
         "affiliateLink": "https://s.shopee.com.br/W8WdueEdN"
-      }
+      },
+      "messageId": 872
     }
   },
   "slots": {

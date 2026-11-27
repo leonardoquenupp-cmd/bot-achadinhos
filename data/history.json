@@ -17062,9 +17062,9 @@
       "messageId": 914
     },
     "1581953432:58208302003": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:18:45",
-      "at": "2026-11-27T21:46:10.593Z",
+      "at": "2026-11-27T21:46:13.701Z",
       "fingerprint": [
         "toalha",
         "lenco",
@@ -17080,7 +17080,8 @@
       "receipt": {
         "captionHash": "0b66fa1ade9820d1f11c63c76afec55bdbe776fa464bfade4dfd43d25cb299a6",
         "affiliateLink": "https://s.shopee.com.br/3LSjZyjegL"
-      }
+      },
+      "messageId": 915
     }
   },
   "slots": {

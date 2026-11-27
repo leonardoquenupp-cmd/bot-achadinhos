@@ -16817,9 +16817,9 @@
       "messageId": 904
     },
     "1789740063:58259312483": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:15:45",
-      "at": "2026-11-27T18:46:22.855Z",
+      "at": "2026-11-27T18:46:25.438Z",
       "fingerprint": [
         "calca",
         "legging",
@@ -16842,7 +16842,8 @@
       "receipt": {
         "captionHash": "5fde74362c8cd9ad973fd9eaf56aa9547f23e31a9489c7940f5e83a068afb2ab",
         "affiliateLink": "https://s.shopee.com.br/20xKPeSpbj"
-      }
+      },
+      "messageId": 905
     }
   },
   "slots": {

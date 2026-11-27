@@ -16030,9 +16030,9 @@
       "messageId": 873
     },
     "367966382:58265565940": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:22:45",
-      "at": "2026-11-27T01:46:11.376Z",
+      "at": "2026-11-27T01:46:14.065Z",
       "fingerprint": [
         "tapete",
         "borracha",
@@ -16053,7 +16053,8 @@
       "receipt": {
         "captionHash": "5f7948a82126f535630e8699e4dfa162beb596f7d9e89c899983cc1395fd0bae",
         "affiliateLink": "https://s.shopee.com.br/2gD1M9Rgp7"
-      }
+      },
+      "messageId": 874
     }
   },
   "slots": {

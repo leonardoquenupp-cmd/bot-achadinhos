@@ -15870,6 +15870,31 @@
         "affiliateLink": "https://s.shopee.com.br/Lp6MRy8gH"
       },
       "messageId": 867
+    },
+    "1177319319:23598083863": {
+      "status": "pending",
+      "slot": "2026-11-26:21:15",
+      "at": "2026-11-27T00:16:39.493Z",
+      "fingerprint": [
+        "metros",
+        "fita",
+        "vedacao",
+        "esponja",
+        "prova",
+        "choque",
+        "carro",
+        "anti",
+        "ruido",
+        "reduzir",
+        "som"
+      ],
+      "imageIdentity": "/file/br-11134207-820l4-moe79ldiw16r9c",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "28b2c23ea34b60725ed83c6af24f2a96d3209157397e5f5635a1ac3153df46d8",
+        "affiliateLink": "https://s.shopee.com.br/4fy5dbzXNx"
+      }
     }
   },
   "slots": {
@@ -16565,7 +16590,8 @@
     "2026-11-26:20:15": "1921399168:58217627999",
     "2026-11-26:20:30": "1723929524:56354705212",
     "2026-11-26:20:45": "507645665:22794924951",
-    "2026-11-26:21:00": "1620616375:58203503645"
+    "2026-11-26:21:00": "1620616375:58203503645",
+    "2026-11-26:21:15": "1177319319:23598083863"
   },
-  "cursor": 3
+  "cursor": 4
 }

@@ -17237,9 +17237,9 @@
       "messageId": 921
     },
     "945809331:23899302057": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:20:30",
-      "at": "2026-11-27T23:31:41.433Z",
+      "at": "2026-11-27T23:31:43.906Z",
       "fingerprint": [
         "mascara",
         "oleo",
@@ -17261,7 +17261,8 @@
       "receipt": {
         "captionHash": "8e1902430dbf4e88b475e2356e810b714d886e2b21d9bdb5b696cea35f5f8608",
         "affiliateLink": "https://s.shopee.com.br/3B9Hpq3t1P"
-      }
+      },
+      "messageId": 922
     }
   },
   "slots": {

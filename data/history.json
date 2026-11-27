@@ -17006,6 +17006,29 @@
         "affiliateLink": "https://s.shopee.com.br/5VXCdAHxb3"
       },
       "messageId": 912
+    },
+    "336932912:8950292086": {
+      "status": "pending",
+      "slot": "2026-11-27:18:15",
+      "at": "2026-11-27T21:16:28.177Z",
+      "fingerprint": [
+        "lentes",
+        "contato",
+        "coloridas",
+        "hidrocor",
+        "aparencia",
+        "natural",
+        "uso",
+        "maquiagem",
+        "par"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mrgzv3l029ds59",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "a579ef0c182949811e368259dcd63d1909c5924332d331f0fea79a59a60df254",
+        "affiliateLink": "https://s.shopee.com.br/1CGNa1bUZ"
+      }
     }
   },
   "slots": {
@@ -17746,7 +17769,8 @@
     "2026-11-27:17:00": "1242044379:23293253949",
     "2026-11-27:17:15": "883941882:23594688900",
     "2026-11-27:17:30": "1658788104:23394640795",
-    "2026-11-27:17:45": "1690388594:58217270461"
+    "2026-11-27:17:45": "1690388594:58217270461",
+    "2026-11-27:18:15": "336932912:8950292086"
   },
-  "cursor": 13
+  "cursor": 14
 }

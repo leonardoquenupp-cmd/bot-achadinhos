@@ -16959,6 +16959,31 @@
         "affiliateLink": "https://s.shopee.com.br/9fMlj23Cqh"
       },
       "messageId": 910
+    },
+    "1658788104:23394640795": {
+      "status": "pending",
+      "slot": "2026-11-27:17:30",
+      "at": "2026-11-27T20:31:18.890Z",
+      "fingerprint": [
+        "escova",
+        "vapor",
+        "gatos",
+        "caes",
+        "escovas",
+        "eletricas",
+        "pelos",
+        "pentes",
+        "massagem",
+        "verde",
+        "amarelo"
+      ],
+      "imageIdentity": "/file/br-11134207-820md-mw1ivhxs3f9e0c",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "2726adbb392ab224b232bb472e1c353a1e16e7e9adc9324e597446f36d9c9e51",
+        "affiliateLink": "https://s.shopee.com.br/1LhdYKOK1t"
+      }
     }
   },
   "slots": {
@@ -17697,7 +17722,8 @@
     "2026-11-27:16:30": "1598184222:58263369269",
     "2026-11-27:16:45": "811879342:18775453273",
     "2026-11-27:17:00": "1242044379:23293253949",
-    "2026-11-27:17:15": "883941882:23594688900"
+    "2026-11-27:17:15": "883941882:23594688900",
+    "2026-11-27:17:30": "1658788104:23394640795"
   },
-  "cursor": 10
+  "cursor": 12
 }

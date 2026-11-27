@@ -16003,9 +16003,9 @@
       "messageId": 872
     },
     "516623582:21540327939": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:22:25",
-      "at": "2026-11-27T01:27:09.303Z",
+      "at": "2026-11-27T01:27:12.104Z",
       "fingerprint": [
         "par",
         "parabarro",
@@ -16026,7 +16026,8 @@
       "receipt": {
         "captionHash": "78c4f1c0903f5ae4f199e4469a8825c55aeb22b2f2948aacb9f667108c7f5ed8",
         "affiliateLink": "https://s.shopee.com.br/qlN3DleNI"
-      }
+      },
+      "messageId": 873
     }
   },
   "slots": {

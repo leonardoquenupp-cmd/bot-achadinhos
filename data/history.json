@@ -15924,9 +15924,9 @@
       "messageId": 869
     },
     "1722422006:58253791436": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-26:21:45",
-      "at": "2026-11-27T00:46:12.183Z",
+      "at": "2026-11-27T00:46:14.181Z",
       "fingerprint": [
         "short",
         "tactel",
@@ -15946,7 +15946,8 @@
       "receipt": {
         "captionHash": "c0b1bcf9645438f22f9c817a270d29e2befa2f211309c7e2872218f5e54d4269",
         "affiliateLink": "https://s.shopee.com.br/AUvtGaoBl5"
-      }
+      },
+      "messageId": 870
     }
   },
   "slots": {

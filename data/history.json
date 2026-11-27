@@ -15922,6 +15922,31 @@
         "affiliateLink": "https://s.shopee.com.br/4qHW8UMOfi"
       },
       "messageId": 869
+    },
+    "1722422006:58253791436": {
+      "status": "pending",
+      "slot": "2026-11-26:21:45",
+      "at": "2026-11-27T00:46:12.183Z",
+      "fingerprint": [
+        "short",
+        "tactel",
+        "feminino",
+        "casual",
+        "corrida",
+        "shorts",
+        "academia",
+        "shortinho",
+        "caminhada",
+        "exg",
+        "mulher"
+      ],
+      "imageIdentity": "/file/sg-11134201-821ek-mgur79poho21e2",
+      "family": "esporte",
+      "department": "esporte",
+      "receipt": {
+        "captionHash": "c0b1bcf9645438f22f9c817a270d29e2befa2f211309c7e2872218f5e54d4269",
+        "affiliateLink": "https://s.shopee.com.br/AUvtGaoBl5"
+      }
     }
   },
   "slots": {
@@ -16619,7 +16644,8 @@
     "2026-11-26:20:45": "507645665:22794924951",
     "2026-11-26:21:00": "1620616375:58203503645",
     "2026-11-26:21:15": "1177319319:23598083863",
-    "2026-11-26:21:30": "472053026:22998383507"
+    "2026-11-26:21:30": "472053026:22998383507",
+    "2026-11-26:21:45": "1722422006:58253791436"
   },
-  "cursor": 5
+  "cursor": 6
 }

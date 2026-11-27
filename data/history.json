@@ -16844,6 +16844,30 @@
         "affiliateLink": "https://s.shopee.com.br/20xKPeSpbj"
       },
       "messageId": 905
+    },
+    "425326129:22492675357": {
+      "status": "pending",
+      "slot": "2026-11-27:16:15",
+      "at": "2026-11-27T19:16:30.874Z",
+      "fingerprint": [
+        "novo",
+        "guarda",
+        "chuva",
+        "automatico",
+        "alta",
+        "resistencia",
+        "chuvas",
+        "vento",
+        "forte",
+        "protecao"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-md27szddhb8ye6",
+      "family": "novo-guarda",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "cae5470ef171b9b428f3729343fc8686bbe69dcca7352f876a3a99ceabb28572",
+        "affiliateLink": "https://s.shopee.com.br/2BGke22pUb"
+      }
     }
   },
   "slots": {
@@ -17577,7 +17601,8 @@
     "2026-11-27:15:00": "1876515327:22795170973",
     "2026-11-27:15:15": "1600125401:22499049824",
     "2026-11-27:15:30": "571244316:22098075433",
-    "2026-11-27:15:45": "1789740063:58259312483"
+    "2026-11-27:15:45": "1789740063:58259312483",
+    "2026-11-27:16:15": "425326129:22492675357"
   },
-  "cursor": 1
+  "cursor": 3
 }

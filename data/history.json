@@ -16112,6 +16112,28 @@
         "affiliateLink": "https://s.shopee.com.br/3LSjUpkr1J"
       },
       "messageId": 876
+    },
+    "404217129:58263763849": {
+      "status": "pending",
+      "slot": "2026-11-27:08:15",
+      "at": "2026-11-27T11:16:40.710Z",
+      "fingerprint": [
+        "aromatizante",
+        "carro",
+        "novo",
+        "spray",
+        "perfume",
+        "cheirinho",
+        "concessionaria",
+        "original"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258f-mqc5rhmj1ngt8c",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "111c3a176e747f78428921adf3ddc69b16a3fbc8739069e5fb42c6b52390f9a7",
+        "affiliateLink": "https://s.shopee.com.br/6q2agSyAEN"
+      }
     }
   },
   "slots": {
@@ -16816,7 +16838,8 @@
     "2026-11-26:22:25": "516623582:21540327939",
     "2026-11-26:22:45": "367966382:58265565940",
     "2026-11-26:22:50": "647546523:25305694401",
-    "2026-11-27:08:00": "1169146045:22893230977"
+    "2026-11-27:08:00": "1169146045:22893230977",
+    "2026-11-27:08:15": "404217129:58263763849"
   },
-  "cursor": 3
+  "cursor": 4
 }

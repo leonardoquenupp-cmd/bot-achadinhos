@@ -16162,9 +16162,9 @@
       "messageId": 878
     },
     "1531826276:58200034184": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:08:45",
-      "at": "2026-11-27T11:46:25.884Z",
+      "at": "2026-11-27T11:46:27.891Z",
       "fingerprint": [
         "marmita",
         "eletrica",
@@ -16186,7 +16186,8 @@
       "receipt": {
         "captionHash": "cea939c68e54275981eb5f6e702cc4db255d33f3ed1477a85f631d3a3cf541bc",
         "affiliateLink": "https://s.shopee.com.br/6AmtMGqQOV"
-      }
+      },
+      "messageId": 879
     }
   },
   "slots": {

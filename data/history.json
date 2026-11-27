@@ -16746,6 +16746,28 @@
         "affiliateLink": "https://s.shopee.com.br/gRwl3ws0J"
       },
       "messageId": 901
+    },
+    "1876515327:22795170973": {
+      "status": "pending",
+      "slot": "2026-11-27:15:00",
+      "at": "2026-11-27T18:01:23.080Z",
+      "fingerprint": [
+        "cerave",
+        "creme",
+        "hidratante",
+        "corporal",
+        "pele",
+        "seca",
+        "extra",
+        "454g"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-mti5ca6mf1mo23",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "123b9f3951723f8ee5cb420a3e67b8718d5c1253aea08975ce49dc8b354a6365",
+        "affiliateLink": "https://s.shopee.com.br/8fUEIobUgL"
+      }
     }
   },
   "slots": {
@@ -17475,7 +17497,8 @@
     "2026-11-27:14:00": "989407275:51753870489",
     "2026-11-27:14:15": "422764082:22194331598",
     "2026-11-27:14:25": "344390826:46968683833",
-    "2026-11-27:14:45": "1664415227:58209278314"
+    "2026-11-27:14:45": "1664415227:58209278314",
+    "2026-11-27:15:00": "1876515327:22795170973"
   },
-  "cursor": 11
+  "cursor": 13
 }

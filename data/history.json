@@ -16188,6 +16188,32 @@
         "affiliateLink": "https://s.shopee.com.br/6AmtMGqQOV"
       },
       "messageId": 879
+    },
+    "1658947107:58207032782": {
+      "status": "pending",
+      "slot": "2026-11-27:09:15",
+      "at": "2026-11-27T12:16:35.596Z",
+      "fingerprint": [
+        "mochila",
+        "termica",
+        "30l",
+        "camping",
+        "piquenique",
+        "bolsa",
+        "grande",
+        "bolsos",
+        "laterais",
+        "ideal",
+        "praia",
+        "viagem"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258x-mtf5wt5s658o7e",
+      "family": "acessorios",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "009dee8ba0d32c4a6a7f218f7e1d40e9d27b4355030e861ca1e8416576e118b5",
+        "affiliateLink": "https://s.shopee.com.br/Lp6pIJVCe"
+      }
     }
   },
   "slots": {
@@ -16895,7 +16921,8 @@
     "2026-11-27:08:00": "1169146045:22893230977",
     "2026-11-27:08:15": "404217129:58263763849",
     "2026-11-27:08:30": "290224892:58257502470",
-    "2026-11-27:08:45": "1531826276:58200034184"
+    "2026-11-27:08:45": "1531826276:58200034184",
+    "2026-11-27:09:15": "1658947107:58207032782"
   },
-  "cursor": 8
+  "cursor": 9
 }

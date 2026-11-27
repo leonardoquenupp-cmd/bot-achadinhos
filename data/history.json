@@ -16894,9 +16894,9 @@
       "messageId": 907
     },
     "811879342:18775453273": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:16:45",
-      "at": "2026-11-27T19:46:24.399Z",
+      "at": "2026-11-27T19:46:27.160Z",
       "fingerprint": [
         "liquidificador",
         "britania",
@@ -16911,7 +16911,8 @@
       "receipt": {
         "captionHash": "637674abcfeb1e4bd70ca01abc9eb1ed8c43a1dcbdf767a565dfcbcd12d0d4b6",
         "affiliateLink": "https://s.shopee.com.br/7AfSYlfVWV"
-      }
+      },
+      "messageId": 908
     }
   },
   "slots": {

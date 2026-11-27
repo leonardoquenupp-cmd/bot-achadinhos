@@ -16469,6 +16469,35 @@
         "affiliateLink": "https://s.shopee.com.br/4B1qkpZgJd"
       },
       "messageId": 890
+    },
+    "1531454468:49210559495": {
+      "status": "pending",
+      "slot": "2026-11-27:12:15",
+      "at": "2026-11-27T15:16:35.858Z",
+      "fingerprint": [
+        "toucas",
+        "cetim",
+        "faixa",
+        "larga",
+        "nao",
+        "aperta",
+        "anti",
+        "frizz",
+        "dormir",
+        "protege",
+        "cabelo",
+        "cacheado",
+        "crespo",
+        "longo",
+        "dia"
+      ],
+      "imageIdentity": "/file/sg-11134201-822zf-mo9gdxbx8b9qa2",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "2d87f780ad1ac37d8a6988d51e7889eb12de3a3de9ae329b03fda7222d11dc1f",
+        "affiliateLink": "https://s.shopee.com.br/7KyqnWIQ0m"
+      }
     }
   },
   "slots": {
@@ -17187,7 +17216,8 @@
     "2026-11-27:11:00": "341831646:53515857113",
     "2026-11-27:11:15": "400311012:17255136776",
     "2026-11-27:11:45": "717396632:16434664635",
-    "2026-11-27:12:00": "1730739646:58253661212"
+    "2026-11-27:12:00": "1730739646:58253661212",
+    "2026-11-27:12:15": "1531454468:49210559495"
   },
-  "cursor": 8
+  "cursor": 10
 }

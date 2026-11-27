@@ -16237,6 +16237,36 @@
         "affiliateLink": "https://s.shopee.com.br/20xKRh8KNo"
       },
       "messageId": 881
+    },
+    "1602856616:58272423595": {
+      "status": "pending",
+      "slot": "2026-11-27:09:45",
+      "at": "2026-11-27T12:47:23.216Z",
+      "fingerprint": [
+        "smartphone",
+        "motorola",
+        "moto",
+        "g17",
+        "128gb",
+        "4gb",
+        "ram",
+        "cameras",
+        "traseiras",
+        "50mp",
+        "5mp",
+        "selfie",
+        "32mp",
+        "5200",
+        "mah",
+        "roxo"
+      ],
+      "imageIdentity": "/file/sg-11134201-82581-mv7gyyjh3klidc",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "75569af9ac3b50e941ea68e201ad90c808bbebf79a8810fd2bcf563c56f316cb",
+        "affiliateLink": "https://s.shopee.com.br/8png4yj4Q8"
+      }
     }
   },
   "slots": {
@@ -16946,7 +16976,8 @@
     "2026-11-27:08:30": "290224892:58257502470",
     "2026-11-27:08:45": "1531826276:58200034184",
     "2026-11-27:09:15": "1658947107:58207032782",
-    "2026-11-27:09:30": "638380156:18297619389"
+    "2026-11-27:09:30": "638380156:18297619389",
+    "2026-11-27:09:45": "1602856616:58272423595"
   },
-  "cursor": 11
+  "cursor": 12
 }

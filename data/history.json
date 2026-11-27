@@ -15896,6 +15896,31 @@
         "affiliateLink": "https://s.shopee.com.br/4fy5dbzXNx"
       },
       "messageId": 868
+    },
+    "472053026:22998383507": {
+      "status": "pending",
+      "slot": "2026-11-26:21:30",
+      "at": "2026-11-27T00:31:22.686Z",
+      "fingerprint": [
+        "panela",
+        "pressao",
+        "5litros",
+        "panelux",
+        "linha",
+        "classic",
+        "alto",
+        "brilho",
+        "mais",
+        "vendida",
+        "brasil"
+      ],
+      "imageIdentity": "/file/sg-11134201-7req7-m8d92yugiftd53",
+      "family": "panelas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "8185f552a68992dc2ac00b4ecb16e60e46b72ae2bd1873fa935ecea6ba14b865",
+        "affiliateLink": "https://s.shopee.com.br/4qHW8UMOfi"
+      }
     }
   },
   "slots": {
@@ -16592,7 +16617,8 @@
     "2026-11-26:20:30": "1723929524:56354705212",
     "2026-11-26:20:45": "507645665:22794924951",
     "2026-11-26:21:00": "1620616375:58203503645",
-    "2026-11-26:21:15": "1177319319:23598083863"
+    "2026-11-26:21:15": "1177319319:23598083863",
+    "2026-11-26:21:30": "472053026:22998383507"
   },
-  "cursor": 4
+  "cursor": 5
 }

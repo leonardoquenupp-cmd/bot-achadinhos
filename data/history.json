@@ -16794,9 +16794,9 @@
       "messageId": 903
     },
     "571244316:22098075433": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:15:30",
-      "at": "2026-11-27T18:31:39.489Z",
+      "at": "2026-11-27T18:31:42.349Z",
       "fingerprint": [
         "lencois",
         "descartavel",
@@ -16813,7 +16813,8 @@
       "receipt": {
         "captionHash": "e5d9efb5b4f77f4ed79aa6abead98308e126a675e017af3bc56518b9733510b3",
         "affiliateLink": "https://s.shopee.com.br/W8YM1IACC"
-      }
+      },
+      "messageId": 904
     }
   },
   "slots": {

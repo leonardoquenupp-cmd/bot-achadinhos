@@ -17109,6 +17109,30 @@
         "affiliateLink": "https://s.shopee.com.br/5AuMOqPUeQ"
       },
       "messageId": 916
+    },
+    "1106688191:23693000500": {
+      "status": "pending",
+      "slot": "2026-11-27:19:10",
+      "at": "2026-11-27T22:12:28.629Z",
+      "fingerprint": [
+        "bandeja",
+        "coletora",
+        "agua",
+        "degelo",
+        "geladeira",
+        "brastemp",
+        "consul",
+        "recipiente",
+        "evaporacao",
+        "326021045"
+      ],
+      "imageIdentity": "/file/br-11134207-820l9-mvz1stnknq4hf8",
+      "family": "pets",
+      "department": "pets",
+      "receipt": {
+        "captionHash": "2c82c2190a71e7eb7791fc80ebf94c25626fc18988c7de5118ec5fee39555139",
+        "affiliateLink": "https://s.shopee.com.br/8pneUlEwon"
+      }
     }
   },
   "slots": {
@@ -17853,7 +17877,8 @@
     "2026-11-27:18:15": "336932912:8950292086",
     "2026-11-27:18:30": "1339065761:19199870733",
     "2026-11-27:18:45": "1581953432:58208302003",
-    "2026-11-27:19:00": "1772999326:58218243251"
+    "2026-11-27:19:00": "1772999326:58218243251",
+    "2026-11-27:19:10": "1106688191:23693000500"
   },
-  "cursor": 2
+  "cursor": 4
 }

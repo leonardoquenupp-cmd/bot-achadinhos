@@ -16291,6 +16291,31 @@
         "affiliateLink": "https://s.shopee.com.br/3qOzEA5URj"
       },
       "messageId": 883
+    },
+    "1351679961:22598223010": {
+      "status": "pending",
+      "slot": "2026-11-27:10:15",
+      "at": "2026-11-27T13:16:23.120Z",
+      "fingerprint": [
+        "fone",
+        "ouvido",
+        "bluetooth",
+        "tws",
+        "sem",
+        "fio",
+        "visor",
+        "led",
+        "estereo",
+        "android",
+        "ios"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-moftcej2ypl242",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "38ee73dea95f4c4024f212f196b5926f088429e34ceadd5eb831b55ac00111b2",
+        "affiliateLink": "https://s.shopee.com.br/7AfQU15cvS"
+      }
     }
   },
   "slots": {
@@ -17002,7 +17027,8 @@
     "2026-11-27:09:15": "1658947107:58207032782",
     "2026-11-27:09:30": "638380156:18297619389",
     "2026-11-27:09:45": "1602856616:58272423595",
-    "2026-11-27:10:00": "813859357:18622911027"
+    "2026-11-27:10:00": "813859357:18622911027",
+    "2026-11-27:10:15": "1351679961:22598223010"
   },
-  "cursor": 13
+  "cursor": 14
 }

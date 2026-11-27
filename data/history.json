@@ -16722,6 +16722,29 @@
         "affiliateLink": "https://s.shopee.com.br/qlN7NRN2u"
       },
       "messageId": 900
+    },
+    "1664415227:58209278314": {
+      "status": "pending",
+      "slot": "2026-11-27:14:45",
+      "at": "2026-11-27T17:46:31.370Z",
+      "fingerprint": [
+        "top",
+        "academia",
+        "sustentacao",
+        "fitness",
+        "feminino",
+        "suplex",
+        "firme",
+        "esportivo",
+        "treino"
+      ],
+      "imageIdentity": "/file/br-11134207-820m6-mp16w9n4ebyd5a",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "fa50b896ee5bb278b0d8e0302fff3f1627d74c1a003dad03c978f23a012a0a10",
+        "affiliateLink": "https://s.shopee.com.br/gRwl3ws0J"
+      }
     }
   },
   "slots": {
@@ -17450,7 +17473,8 @@
     "2026-11-27:13:45": "1246429697:58270728615",
     "2026-11-27:14:00": "989407275:51753870489",
     "2026-11-27:14:15": "422764082:22194331598",
-    "2026-11-27:14:25": "344390826:46968683833"
+    "2026-11-27:14:25": "344390826:46968683833",
+    "2026-11-27:14:45": "1664415227:58209278314"
   },
-  "cursor": 10
+  "cursor": 11
 }

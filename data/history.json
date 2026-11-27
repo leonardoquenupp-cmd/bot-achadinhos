@@ -16239,9 +16239,9 @@
       "messageId": 881
     },
     "1602856616:58272423595": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:09:45",
-      "at": "2026-11-27T12:47:23.216Z",
+      "at": "2026-11-27T12:47:26.403Z",
       "fingerprint": [
         "smartphone",
         "motorola",
@@ -16266,7 +16266,8 @@
       "receipt": {
         "captionHash": "75569af9ac3b50e941ea68e201ad90c808bbebf79a8810fd2bcf563c56f316cb",
         "affiliateLink": "https://s.shopee.com.br/8png4yj4Q8"
-      }
+      },
+      "messageId": 882
     }
   },
   "slots": {

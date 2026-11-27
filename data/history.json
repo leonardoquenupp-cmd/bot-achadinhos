@@ -16421,6 +16421,31 @@
         "affiliateLink": "https://s.shopee.com.br/3B9HrvI7GL"
       },
       "messageId": 888
+    },
+    "717396632:16434664635": {
+      "status": "pending",
+      "slot": "2026-11-27:11:45",
+      "at": "2026-11-27T14:46:50.192Z",
+      "fingerprint": [
+        "radio",
+        "retro",
+        "vintage",
+        "entrada",
+        "aux",
+        "pen",
+        "drive",
+        "mp3",
+        "usb",
+        "xdg",
+        "xtrad"
+      ],
+      "imageIdentity": "/file/c0c43b0267c3b924fa3f6ffdcdb85afc",
+      "family": "radio-retro",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "59ccfab6cadedb0a628311a494272ec16691bca5063c538af354c4567f65f264",
+        "affiliateLink": "https://s.shopee.com.br/70M0HhOfvX"
+      }
     }
   },
   "slots": {
@@ -17137,7 +17162,8 @@
     "2026-11-27:10:30": "1208992205:22799026218",
     "2026-11-27:10:45": "1461479318:49912454334",
     "2026-11-27:11:00": "341831646:53515857113",
-    "2026-11-27:11:15": "400311012:17255136776"
+    "2026-11-27:11:15": "400311012:17255136776",
+    "2026-11-27:11:45": "717396632:16434664635"
   },
-  "cursor": 4
+  "cursor": 6
 }

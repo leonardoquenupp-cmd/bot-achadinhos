@@ -16028,6 +16028,32 @@
         "affiliateLink": "https://s.shopee.com.br/qlN3DleNI"
       },
       "messageId": 873
+    },
+    "367966382:58265565940": {
+      "status": "pending",
+      "slot": "2026-11-26:22:45",
+      "at": "2026-11-27T01:46:11.376Z",
+      "fingerprint": [
+        "tapete",
+        "borracha",
+        "volkswagen",
+        "pecas",
+        "carro",
+        "automotivo",
+        "gol",
+        "golf",
+        "tcross",
+        "taos",
+        "tera",
+        "tiguan"
+      ],
+      "imageIdentity": "/file/br-11134207-820lg-mrhm5vdo0kjo99",
+      "family": "cama-banho",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "5f7948a82126f535630e8699e4dfa162beb596f7d9e89c899983cc1395fd0bae",
+        "affiliateLink": "https://s.shopee.com.br/2gD1M9Rgp7"
+      }
     }
   },
   "slots": {
@@ -16729,7 +16755,8 @@
     "2026-11-26:21:45": "1722422006:58253791436",
     "2026-11-26:22:00": "883941882:19498265311",
     "2026-11-26:22:15": "532546866:43817706826",
-    "2026-11-26:22:25": "516623582:21540327939"
+    "2026-11-26:22:25": "516623582:21540327939",
+    "2026-11-26:22:45": "367966382:58265565940"
   },
-  "cursor": 13
+  "cursor": 15
 }

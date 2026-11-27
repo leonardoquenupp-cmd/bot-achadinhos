@@ -16499,6 +16499,26 @@
         "affiliateLink": "https://s.shopee.com.br/7KyqnWIQ0m"
       },
       "messageId": 891
+    },
+    "1208992205:22692916661": {
+      "status": "pending",
+      "slot": "2026-11-27:12:30",
+      "at": "2026-11-27T15:31:28.176Z",
+      "fingerprint": [
+        "carregador",
+        "portatil",
+        "powerbank",
+        "5000",
+        "10000",
+        "mah"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rcf1-lt11bxdz2lz340",
+      "family": "carregador",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "b4a0306c19f89d135c28d6458bc278338902a5b4adb029014f9bbd30eccc7485",
+        "affiliateLink": "https://s.shopee.com.br/AAJ2CmrT3P"
+      }
     }
   },
   "slots": {
@@ -17218,7 +17238,8 @@
     "2026-11-27:11:15": "400311012:17255136776",
     "2026-11-27:11:45": "717396632:16434664635",
     "2026-11-27:12:00": "1730739646:58253661212",
-    "2026-11-27:12:15": "1531454468:49210559495"
+    "2026-11-27:12:15": "1531454468:49210559495",
+    "2026-11-27:12:30": "1208992205:22692916661"
   },
-  "cursor": 10
+  "cursor": 11
 }

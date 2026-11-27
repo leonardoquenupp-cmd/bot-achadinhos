@@ -16392,6 +16392,34 @@
         "affiliateLink": "https://s.shopee.com.br/BVgBAQ7di"
       },
       "messageId": 887
+    },
+    "400311012:17255136776": {
+      "status": "pending",
+      "slot": "2026-11-27:11:15",
+      "at": "2026-11-27T14:16:07.829Z",
+      "fingerprint": [
+        "relogio",
+        "smartwatch",
+        "d20",
+        "pro",
+        "bluetooth",
+        "coloca",
+        "foto",
+        "tela",
+        "monitor",
+        "cardiaco",
+        "pressao",
+        "esportivo",
+        "android",
+        "iphone"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rfgg-m9akut11lpyac0",
+      "family": "relogio",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "cc2833b765dedb048097410691e29f36e0f79eb678d25e59b1496149f4a3f3ce",
+        "affiliateLink": "https://s.shopee.com.br/3B9HrvI7GL"
+      }
     }
   },
   "slots": {
@@ -17107,7 +17135,8 @@
     "2026-11-27:10:15": "1351679961:22598223010",
     "2026-11-27:10:30": "1208992205:22799026218",
     "2026-11-27:10:45": "1461479318:49912454334",
-    "2026-11-27:11:00": "341831646:53515857113"
+    "2026-11-27:11:00": "341831646:53515857113",
+    "2026-11-27:11:15": "400311012:17255136776"
   },
-  "cursor": 2
+  "cursor": 4
 }

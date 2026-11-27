@@ -16114,9 +16114,9 @@
       "messageId": 876
     },
     "404217129:58263763849": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:08:15",
-      "at": "2026-11-27T11:16:40.710Z",
+      "at": "2026-11-27T11:16:44.217Z",
       "fingerprint": [
         "aromatizante",
         "carro",
@@ -16133,7 +16133,8 @@
       "receipt": {
         "captionHash": "111c3a176e747f78428921adf3ddc69b16a3fbc8739069e5fb42c6b52390f9a7",
         "affiliateLink": "https://s.shopee.com.br/6q2agSyAEN"
-      }
+      },
+      "messageId": 877
     }
   },
   "slots": {

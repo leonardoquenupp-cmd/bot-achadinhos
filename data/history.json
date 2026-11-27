@@ -16190,9 +16190,9 @@
       "messageId": 879
     },
     "1658947107:58207032782": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:09:15",
-      "at": "2026-11-27T12:16:35.596Z",
+      "at": "2026-11-27T12:16:38.810Z",
       "fingerprint": [
         "mochila",
         "termica",
@@ -16213,7 +16213,8 @@
       "receipt": {
         "captionHash": "009dee8ba0d32c4a6a7f218f7e1d40e9d27b4355030e861ca1e8416576e118b5",
         "affiliateLink": "https://s.shopee.com.br/Lp6pIJVCe"
-      }
+      },
+      "messageId": 880
     }
   },
   "slots": {

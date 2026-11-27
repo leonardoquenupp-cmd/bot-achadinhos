@@ -16622,9 +16622,9 @@
       "messageId": 896
     },
     "1246429697:58270728615": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:13:45",
-      "at": "2026-11-27T16:46:28.641Z",
+      "at": "2026-11-27T16:46:31.390Z",
       "fingerprint": [
         "sandalia",
         "babuche",
@@ -16643,7 +16643,8 @@
       "receipt": {
         "captionHash": "640ed1ed523b89cdd2d272c2834ab26b75c2a11e2baa0a1d1da9babf241cde2c",
         "affiliateLink": "https://s.shopee.com.br/8KrO0MbxoJ"
-      }
+      },
+      "messageId": 897
     }
   },
   "slots": {

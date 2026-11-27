@@ -16160,6 +16160,33 @@
         "affiliateLink": "https://s.shopee.com.br/6Amuu3cN5m"
       },
       "messageId": 878
+    },
+    "1531826276:58200034184": {
+      "status": "pending",
+      "slot": "2026-11-27:08:45",
+      "at": "2026-11-27T11:46:25.884Z",
+      "fingerprint": [
+        "marmita",
+        "eletrica",
+        "veicular",
+        "bivolt",
+        "carro",
+        "casa",
+        "taxi",
+        "uber",
+        "caminhao",
+        "12v",
+        "24v",
+        "110v",
+        "220v"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mg90u8sbzcas0d",
+      "family": "potes",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "cea939c68e54275981eb5f6e702cc4db255d33f3ed1477a85f631d3a3cf541bc",
+        "affiliateLink": "https://s.shopee.com.br/6AmtMGqQOV"
+      }
     }
   },
   "slots": {
@@ -16866,7 +16893,8 @@
     "2026-11-26:22:50": "647546523:25305694401",
     "2026-11-27:08:00": "1169146045:22893230977",
     "2026-11-27:08:15": "404217129:58263763849",
-    "2026-11-27:08:30": "290224892:58257502470"
+    "2026-11-27:08:30": "290224892:58257502470",
+    "2026-11-27:08:45": "1531826276:58200034184"
   },
-  "cursor": 5
+  "cursor": 8
 }

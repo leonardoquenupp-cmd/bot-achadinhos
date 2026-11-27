@@ -17235,6 +17235,33 @@
         "affiliateLink": "https://s.shopee.com.br/1W15OZZqNX"
       },
       "messageId": 921
+    },
+    "945809331:23899302057": {
+      "status": "pending",
+      "slot": "2026-11-27:20:30",
+      "at": "2026-11-27T23:31:41.433Z",
+      "fingerprint": [
+        "mascara",
+        "oleo",
+        "argan",
+        "pos",
+        "progressiva",
+        "500g",
+        "maycrene",
+        "ouro",
+        "marroquino",
+        "hidratacao",
+        "profunda",
+        "cabelos",
+        "brilho"
+      ],
+      "imageIdentity": "/file/br-11134207-820m9-muzaoypvhdz726",
+      "family": "garrafas",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "8e1902430dbf4e88b475e2356e810b714d886e2b21d9bdb5b696cea35f5f8608",
+        "affiliateLink": "https://s.shopee.com.br/3B9Hpq3t1P"
+      }
     }
   },
   "slots": {
@@ -17984,7 +18011,8 @@
     "2026-11-27:19:30": "432069203:58206129432",
     "2026-11-27:19:45": "1157950131:22697383155",
     "2026-11-27:20:00": "1780938074:58271294263",
-    "2026-11-27:20:15": "1584860755:23498724368"
+    "2026-11-27:20:15": "1584860755:23498724368",
+    "2026-11-27:20:30": "945809331:23899302057"
   },
-  "cursor": 9
+  "cursor": 11
 }

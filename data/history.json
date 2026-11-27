@@ -17084,9 +17084,9 @@
       "messageId": 915
     },
     "1772999326:58218243251": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:19:00",
-      "at": "2026-11-27T22:01:42.267Z",
+      "at": "2026-11-27T22:01:44.979Z",
       "fingerprint": [
         "short",
         "saida",
@@ -17107,7 +17107,8 @@
       "receipt": {
         "captionHash": "26489693b3a8f9ba893c9004afce4b4aae450e1cb3b1bf4fd7162d5f24d11b41",
         "affiliateLink": "https://s.shopee.com.br/5AuMOqPUeQ"
-      }
+      },
+      "messageId": 916
     }
   },
   "slots": {

@@ -17032,9 +17032,9 @@
       "messageId": 913
     },
     "1339065761:19199870733": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:18:30",
-      "at": "2026-11-27T21:31:30.726Z",
+      "at": "2026-11-27T21:31:33.642Z",
       "fingerprint": [
         "inova",
         "caixa",
@@ -17058,7 +17058,8 @@
       "receipt": {
         "captionHash": "82ef131efd9321d580fd7833fec9da2f6b5fad225e0c548ed169c1ba58c724f8",
         "affiliateLink": "https://s.shopee.com.br/8VAo4SIxtC"
-      }
+      },
+      "messageId": 914
     }
   },
   "slots": {

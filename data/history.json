@@ -16936,9 +16936,9 @@
       "messageId": 909
     },
     "883941882:23594688900": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:17:15",
-      "at": "2026-11-27T20:16:30.707Z",
+      "at": "2026-11-27T20:16:33.678Z",
       "fingerprint": [
         "headsets",
         "fones",
@@ -16957,7 +16957,8 @@
       "receipt": {
         "captionHash": "5a4be8794470f072a95e48bab7e17f8726e4c640d1de72d8ec92dd0410cefc3f",
         "affiliateLink": "https://s.shopee.com.br/9fMlj23Cqh"
-      }
+      },
+      "messageId": 910
     }
   },
   "slots": {

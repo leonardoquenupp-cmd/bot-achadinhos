@@ -17186,6 +17186,29 @@
         "affiliateLink": "https://s.shopee.com.br/30prmoEeEl"
       },
       "messageId": 919
+    },
+    "1780938074:58271294263": {
+      "status": "pending",
+      "slot": "2026-11-27:20:00",
+      "at": "2026-11-27T23:01:50.429Z",
+      "fingerprint": [
+        "radio",
+        "portatil",
+        "bolso",
+        "bateria",
+        "recarregavel",
+        "pilha",
+        "alca",
+        "presente",
+        "familia"
+      ],
+      "imageIdentity": "/file/sg-11134201-825b1-muo7mrqkvpqh21",
+      "family": "radio-portatil",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "28694f03cc8a0bcdddd27f420e07e37a5f35cf8fc42097743604504c5178f154",
+        "affiliateLink": "https://s.shopee.com.br/4B1ozcuWlp"
+      }
     }
   },
   "slots": {
@@ -17933,7 +17956,8 @@
     "2026-11-27:19:00": "1772999326:58218243251",
     "2026-11-27:19:10": "1106688191:23693000500",
     "2026-11-27:19:30": "432069203:58206129432",
-    "2026-11-27:19:45": "1157950131:22697383155"
+    "2026-11-27:19:45": "1157950131:22697383155",
+    "2026-11-27:20:00": "1780938074:58271294263"
   },
-  "cursor": 6
+  "cursor": 8
 }

@@ -16748,9 +16748,9 @@
       "messageId": 901
     },
     "1876515327:22795170973": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:15:00",
-      "at": "2026-11-27T18:01:23.080Z",
+      "at": "2026-11-27T18:01:25.819Z",
       "fingerprint": [
         "cerave",
         "creme",
@@ -16767,7 +16767,8 @@
       "receipt": {
         "captionHash": "123b9f3951723f8ee5cb420a3e67b8718d5c1253aea08975ce49dc8b354a6365",
         "affiliateLink": "https://s.shopee.com.br/8fUEIobUgL"
-      }
+      },
+      "messageId": 902
     }
   },
   "slots": {

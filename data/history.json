@@ -17444,6 +17444,30 @@
         "affiliateLink": "https://s.shopee.com.br/40iP8xPZMd"
       },
       "messageId": 929
+    },
+    "1073417513:58200724334": {
+      "status": "pending",
+      "slot": "2026-11-27:22:30",
+      "at": "2026-11-28T01:31:26.274Z",
+      "fingerprint": [
+        "cinta",
+        "shorts",
+        "modeladora",
+        "espartilho",
+        "3fechos",
+        "compressao",
+        "reducao",
+        "maxima",
+        "medidas",
+        "767"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztc-mjvt1ljs2cjme4",
+      "family": "cinta-shorts",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "4a7225ee524a2e312ec7d9870325b3c560e54549cd2caf9ae11fb4c8a292f6c0",
+        "affiliateLink": "https://s.shopee.com.br/5fqcmQ1D28"
+      }
     }
   },
   "slots": {
@@ -18201,7 +18225,8 @@
     "2026-11-27:21:30": "293152127:45054396139",
     "2026-11-27:21:45": "1563592977:22998720168",
     "2026-11-27:22:00": "1526006060:58202097018",
-    "2026-11-27:22:15": "1545872929:22394896507"
+    "2026-11-27:22:15": "1545872929:22394896507",
+    "2026-11-27:22:30": "1073417513:58200724334"
   },
-  "cursor": 3
+  "cursor": 4
 }

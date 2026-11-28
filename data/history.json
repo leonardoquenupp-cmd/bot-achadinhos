@@ -18304,9 +18304,9 @@
       "messageId": 962
     },
     "569114904:22895594531": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:13:50",
-      "at": "2026-11-28T16:51:19.572Z",
+      "at": "2026-11-28T16:51:22.061Z",
       "fingerprint": [
         "amplificador",
         "imagem",
@@ -18326,7 +18326,8 @@
       "receipt": {
         "captionHash": "77f333f7f3a80322c52518761faa07458d9dd679a663220dd2e8d92ba2bdd692",
         "affiliateLink": "https://s.shopee.com.br/1qduXvy0ST"
-      }
+      },
+      "messageId": 963
     }
   },
   "slots": {

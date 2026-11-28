@@ -18091,6 +18091,32 @@
         "affiliateLink": "https://s.shopee.com.br/40iPMMSfSE"
       },
       "messageId": 954
+    },
+    "1575539765:56907337811": {
+      "status": "pending",
+      "slot": "2026-11-28:12:30",
+      "at": "2026-11-28T15:31:16.754Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "portatil",
+        "20w",
+        "impermeavel",
+        "bluetooth",
+        "usb",
+        "tipo",
+        "microsd",
+        "limpo",
+        "potente"
+      ],
+      "imageIdentity": "/file/br-11134207-820la-mlxlvmcg0744b0",
+      "family": "potes",
+      "department": "cozinha",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "f29cad241ab59ec88294a0925d21de205c9a522eb7f6c2d61ff62d2f0856efcc",
+        "affiliateLink": "https://s.shopee.com.br/3LSjYw56I2"
+      }
     }
   },
   "slots": {
@@ -18873,7 +18899,8 @@
     "2026-11-28:11:40": "1331886707:19198316357",
     "2026-11-28:11:50": "1234991453:58262387784",
     "2026-11-28:12:00": "1501374495:18499695542",
-    "2026-11-28:12:10": "465623800:18498287249"
+    "2026-11-28:12:10": "465623800:18498287249",
+    "2026-11-28:12:30": "1575539765:56907337811"
   },
-  "cursor": 10
+  "cursor": 12
 }

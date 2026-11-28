@@ -17914,9 +17914,9 @@
       "messageId": 947
     },
     "964744288:58206023533": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:11:10",
-      "at": "2026-11-28T14:11:33.901Z",
+      "at": "2026-11-28T14:11:36.710Z",
       "fingerprint": [
         "jaqueta",
         "plus",
@@ -17940,7 +17940,8 @@
       "receipt": {
         "captionHash": "9f33f69c19391631e80ade755ec1f09c77ee779dea4a8f85d08df859d0350504",
         "affiliateLink": "https://s.shopee.com.br/4LLFE1pqXZ"
-      }
+      },
+      "messageId": 948
     }
   },
   "slots": {

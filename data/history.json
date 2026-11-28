@@ -17837,9 +17837,9 @@
       "messageId": 944
     },
     "455758103:23298142175": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:10:40",
-      "at": "2026-11-28T13:41:56.768Z",
+      "at": "2026-11-28T13:41:58.761Z",
       "fingerprint": [
         "calca",
         "jeans",
@@ -17859,7 +17859,8 @@
       "receipt": {
         "captionHash": "d5fa878a8560d42bc1e41949ae8d26427575494d40cb171da832320e65d669d2",
         "affiliateLink": "https://s.shopee.com.br/5AuM5GnRrr"
-      }
+      },
+      "messageId": 945
     }
   },
   "slots": {

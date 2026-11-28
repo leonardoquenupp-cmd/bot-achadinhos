@@ -18204,9 +18204,9 @@
       "messageId": 958
     },
     "1132754268:23195153059": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:13:10",
-      "at": "2026-11-28T16:11:32.772Z",
+      "at": "2026-11-28T16:11:34.960Z",
       "fingerprint": [
         "calca",
         "feminina",
@@ -18227,7 +18227,8 @@
       "receipt": {
         "captionHash": "8a4d9a46d457c9cdef15814cdd78951b87eca26c9d80768fae7d49193415fcd4",
         "affiliateLink": "https://s.shopee.com.br/1BOE9RNih6"
-      }
+      },
+      "messageId": 959
     }
   },
   "slots": {

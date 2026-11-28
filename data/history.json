@@ -17494,6 +17494,33 @@
         "affiliateLink": "https://s.shopee.com.br/AAJ2hh5Bvz"
       },
       "messageId": 931
+    },
+    "1156890312:26637893463": {
+      "status": "pending",
+      "slot": "2026-11-28:08:00",
+      "at": "2026-11-28T11:01:48.067Z",
+      "fingerprint": [
+        "kit1",
+        "controle",
+        "remoto",
+        "433",
+        "mhz",
+        "automacao",
+        "portoes",
+        "eletricos",
+        "ppa",
+        "jaren",
+        "genno",
+        "omegasat",
+        "ergo"
+      ],
+      "imageIdentity": "/file/sg-11134201-7ra2f-mbckrou5pudff1",
+      "family": "automotivo",
+      "department": "automotivo",
+      "receipt": {
+        "captionHash": "203e070408a679fb342a50699b0fe2019daf6fd47ebf4e869b73984046399488",
+        "affiliateLink": "https://s.shopee.com.br/1CGNbenTz"
+      }
     }
   },
   "slots": {
@@ -18253,7 +18280,8 @@
     "2026-11-27:22:00": "1526006060:58202097018",
     "2026-11-27:22:15": "1545872929:22394896507",
     "2026-11-27:22:30": "1073417513:58200724334",
-    "2026-11-27:22:45": "629805123:22099046331"
+    "2026-11-27:22:45": "629805123:22099046331",
+    "2026-11-28:08:00": "1156890312:26637893463"
   },
-  "cursor": 5
+  "cursor": 7
 }

@@ -17970,6 +17970,30 @@
         "affiliateLink": "https://s.shopee.com.br/1CGlISA3z"
       },
       "messageId": 949
+    },
+    "392802719:21409347046": {
+      "status": "pending",
+      "slot": "2026-11-28:11:30",
+      "at": "2026-11-28T14:32:35.702Z",
+      "fingerprint": [
+        "toucas",
+        "nero",
+        "alisamento",
+        "natural",
+        "anti",
+        "frizz",
+        "touca",
+        "meia",
+        "calca"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdyp-mddeyohg1hdsa6",
+      "family": "roupas",
+      "department": "moda",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "10f323f6b5c563248b3f03034ff8a62febc76d2cf2af4e50236a389ee3c20e59",
+        "affiliateLink": "https://s.shopee.com.br/5AuMDVwGxj"
+      }
     }
   },
   "slots": {
@@ -18747,7 +18771,8 @@
     "2026-11-28:10:50": "1385382926:22898921797",
     "2026-11-28:11:00": "987393610:23098440348",
     "2026-11-28:11:10": "964744288:58206023533",
-    "2026-11-28:11:20": "332752392:23693851064"
+    "2026-11-28:11:20": "332752392:23693851064",
+    "2026-11-28:11:30": "392802719:21409347046"
   },
-  "cursor": 2
+  "cursor": 3
 }

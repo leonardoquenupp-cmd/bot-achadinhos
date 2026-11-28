@@ -17942,6 +17942,33 @@
         "affiliateLink": "https://s.shopee.com.br/4LLFE1pqXZ"
       },
       "messageId": 948
+    },
+    "332752392:23693851064": {
+      "status": "pending",
+      "slot": "2026-11-28:11:20",
+      "at": "2026-11-28T14:22:21.362Z",
+      "fingerprint": [
+        "cropped",
+        "feminino",
+        "regata",
+        "alcinha",
+        "suplex",
+        "premium",
+        "forro",
+        "duplo",
+        "sem",
+        "transparencia",
+        "casual",
+        "verao"
+      ],
+      "imageIdentity": "/file/br-11134207-820m0-mtsftag1imm9d6",
+      "family": "cropped-feminino",
+      "department": "outros",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "8b38d3266c7801e2aeca93c8a44ff2a5dab0ec478e9e03da2ffa922e44d53859",
+        "affiliateLink": "https://s.shopee.com.br/1CGlISA3z"
+      }
     }
   },
   "slots": {
@@ -18718,7 +18745,8 @@
     "2026-11-28:10:40": "455758103:23298142175",
     "2026-11-28:10:50": "1385382926:22898921797",
     "2026-11-28:11:00": "987393610:23098440348",
-    "2026-11-28:11:10": "964744288:58206023533"
+    "2026-11-28:11:10": "964744288:58206023533",
+    "2026-11-28:11:20": "332752392:23693851064"
   },
-  "cursor": 1
+  "cursor": 2
 }

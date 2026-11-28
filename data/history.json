@@ -17912,6 +17912,35 @@
         "affiliateLink": "https://s.shopee.com.br/gRwpC7qrw"
       },
       "messageId": 947
+    },
+    "964744288:58206023533": {
+      "status": "pending",
+      "slot": "2026-11-28:11:10",
+      "at": "2026-11-28T14:11:33.901Z",
+      "fingerprint": [
+        "jaqueta",
+        "plus",
+        "size",
+        "fitness",
+        "feminino",
+        "dry",
+        "fit",
+        "slim",
+        "protecao",
+        "solar",
+        "tecido",
+        "termico",
+        "secagem",
+        "rapida"
+      ],
+      "imageIdentity": "/file/br-11134207-81zuc-ml5ht1u8696ta7",
+      "family": "esporte",
+      "department": "esporte",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "9f33f69c19391631e80ade755ec1f09c77ee779dea4a8f85d08df859d0350504",
+        "affiliateLink": "https://s.shopee.com.br/4LLFE1pqXZ"
+      }
     }
   },
   "slots": {
@@ -18687,7 +18716,8 @@
     "2026-11-28:10:30": "1399363201:58202799294",
     "2026-11-28:10:40": "455758103:23298142175",
     "2026-11-28:10:50": "1385382926:22898921797",
-    "2026-11-28:11:00": "987393610:23098440348"
+    "2026-11-28:11:00": "987393610:23098440348",
+    "2026-11-28:11:10": "964744288:58206023533"
   },
-  "cursor": 16
+  "cursor": 1
 }

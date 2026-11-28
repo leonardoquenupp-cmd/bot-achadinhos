@@ -17572,6 +17572,30 @@
         "affiliateLink": "https://s.shopee.com.br/3g5bW0PfUv"
       },
       "messageId": 934
+    },
+    "962458284:58207817776": {
+      "status": "pending",
+      "slot": "2026-11-28:08:40",
+      "at": "2026-11-28T11:41:40.630Z",
+      "fingerprint": [
+        "auxiliar",
+        "partida",
+        "carregador",
+        "bateria",
+        "compressor",
+        "emergencia",
+        "portatil",
+        "veicular",
+        "automotivo"
+      ],
+      "imageIdentity": "/file/br-11134207-820lh-mpawhtk4syyu91",
+      "family": "carregador",
+      "department": "eletronicos",
+      "topic": "carro",
+      "receipt": {
+        "captionHash": "beafc0b319580a8e851b19332b39d7f2e7b2741f74f93755da41191794df54ae",
+        "affiliateLink": "https://s.shopee.com.br/5LDmQqRrld"
+      }
     }
   },
   "slots": {
@@ -18334,7 +18358,8 @@
     "2026-11-27:22:45": "629805123:22099046331",
     "2026-11-28:08:00": "1156890312:26637893463",
     "2026-11-28:08:15": "287296555:6643192352",
-    "2026-11-28:08:25": "1100513151:19797691177"
+    "2026-11-28:08:25": "1100513151:19797691177",
+    "2026-11-28:08:40": "962458284:58207817776"
   },
-  "cursor": 9
+  "cursor": 11
 }

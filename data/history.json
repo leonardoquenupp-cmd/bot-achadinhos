@@ -18071,9 +18071,9 @@
       "messageId": 953
     },
     "465623800:18498287249": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:12:10",
-      "at": "2026-11-28T15:12:14.125Z",
+      "at": "2026-11-28T15:12:16.955Z",
       "fingerprint": [
         "tampas",
         "panela",
@@ -18089,7 +18089,8 @@
       "receipt": {
         "captionHash": "5aaed8669ae8bfb447e6bf9d1688e35b11377f3af172a4d14e2bdcbb6a3a2574",
         "affiliateLink": "https://s.shopee.com.br/40iPMMSfSE"
-      }
+      },
+      "messageId": 954
     }
   },
   "slots": {

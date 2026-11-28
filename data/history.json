@@ -17313,6 +17313,33 @@
         "affiliateLink": "https://s.shopee.com.br/5AuNiDgB7R"
       },
       "messageId": 924
+    },
+    "1553736756:22799869594": {
+      "status": "pending",
+      "slot": "2026-11-27:21:15",
+      "at": "2026-11-28T00:16:15.596Z",
+      "fingerprint": [
+        "fones",
+        "ouvido",
+        "bluetooth",
+        "x55",
+        "visor",
+        "led",
+        "estereo",
+        "cancelamento",
+        "ruido",
+        "design",
+        "prova",
+        "agua",
+        "graves"
+      ],
+      "imageIdentity": "/file/sg-11134201-825a9-mu36trol6akg59",
+      "family": "fone",
+      "department": "eletronicos",
+      "receipt": {
+        "captionHash": "7b6866afe22c27fc9458ae2ab5e9944f386449ddfb0cfda1573e64c0bf257f37",
+        "affiliateLink": "https://s.shopee.com.br/6L6JZbmHNa"
+      }
     }
   },
   "slots": {
@@ -18065,7 +18092,8 @@
     "2026-11-27:20:15": "1584860755:23498724368",
     "2026-11-27:20:30": "945809331:23899302057",
     "2026-11-27:20:45": "1494995608:19899648802",
-    "2026-11-27:21:00": "378093609:16973658540"
+    "2026-11-27:21:00": "378093609:16973658540",
+    "2026-11-27:21:15": "1553736756:22799869594"
   },
-  "cursor": 14
+  "cursor": 15
 }

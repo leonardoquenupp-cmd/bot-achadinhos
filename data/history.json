@@ -17995,6 +17995,31 @@
         "affiliateLink": "https://s.shopee.com.br/5AuMDVwGxj"
       },
       "messageId": 950
+    },
+    "1331886707:19198316357": {
+      "status": "pending",
+      "slot": "2026-11-28:11:40",
+      "at": "2026-11-28T14:41:55.383Z",
+      "fingerprint": [
+        "carregador",
+        "portatil",
+        "10000mah",
+        "cabos",
+        "carga",
+        "rapida",
+        "power",
+        "bank",
+        "led",
+        "digital"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258v-mew1xsz2hb0mbc",
+      "family": "carregador",
+      "department": "eletronicos",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "dcc9755886ff2ff1d228e21332b7079fab30e2665d80c935b8628473a29ca9d2",
+        "affiliateLink": "https://s.shopee.com.br/6L6JdjbGOA"
+      }
     }
   },
   "slots": {
@@ -18773,7 +18798,8 @@
     "2026-11-28:11:00": "987393610:23098440348",
     "2026-11-28:11:10": "964744288:58206023533",
     "2026-11-28:11:20": "332752392:23693851064",
-    "2026-11-28:11:30": "392802719:21409347046"
+    "2026-11-28:11:30": "392802719:21409347046",
+    "2026-11-28:11:40": "1331886707:19198316357"
   },
-  "cursor": 3
+  "cursor": 6
 }

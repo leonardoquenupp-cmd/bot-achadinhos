@@ -17763,6 +17763,28 @@
         "affiliateLink": "https://s.shopee.com.br/7VIIUWo97U"
       },
       "messageId": 941
+    },
+    "1226387431:58257985989": {
+      "status": "pending",
+      "slot": "2026-11-28:10:10",
+      "at": "2026-11-28T13:11:16.786Z",
+      "fingerprint": [
+        "suporte",
+        "ventosa",
+        "silicone",
+        "telefone",
+        "almofada",
+        "succao",
+        "borracha"
+      ],
+      "imageIdentity": "/file/br-11134207-820le-mmsy4pylg3r8ee",
+      "family": "fone",
+      "department": "eletronicos",
+      "topic": "casa",
+      "receipt": {
+        "captionHash": "463bd6d3305d4e063bfe40ec03112aca12fdb6042bb7df341350abf43e8c2e59",
+        "affiliateLink": "https://s.shopee.com.br/4Vefipnr2j"
+      }
     }
   },
   "slots": {
@@ -18532,7 +18554,8 @@
     "2026-11-28:09:20": "400262096:19698719773",
     "2026-11-28:09:30": "1709468100:58254977142",
     "2026-11-28:09:40": "612187100:22191819447",
-    "2026-11-28:09:50": "1566977006:23399193375"
+    "2026-11-28:09:50": "1566977006:23399193375",
+    "2026-11-28:10:10": "1226387431:58257985989"
   },
-  "cursor": 6
+  "cursor": 8
 }

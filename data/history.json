@@ -18118,6 +18118,32 @@
         "affiliateLink": "https://s.shopee.com.br/3LSjYw56I2"
       },
       "messageId": 955
+    },
+    "1366045948:22993693932": {
+      "status": "pending",
+      "slot": "2026-11-28:12:40",
+      "at": "2026-11-28T15:41:51.258Z",
+      "fingerprint": [
+        "maston",
+        "suporte",
+        "celular",
+        "gps",
+        "veicular",
+        "carro",
+        "universal",
+        "360",
+        "trava",
+        "automatica",
+        "ajustavel"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rblf-m5z7dbop1eji56",
+      "family": "automotivo",
+      "department": "automotivo",
+      "topic": "carro",
+      "receipt": {
+        "captionHash": "9bca337cf0190e7f17784822fa3cb783bf97466aa992a2098510115b7fbe6f16",
+        "affiliateLink": "https://s.shopee.com.br/7AfRLWcr7L"
+      }
     }
   },
   "slots": {
@@ -18901,7 +18927,8 @@
     "2026-11-28:11:50": "1234991453:58262387784",
     "2026-11-28:12:00": "1501374495:18499695542",
     "2026-11-28:12:10": "465623800:18498287249",
-    "2026-11-28:12:30": "1575539765:56907337811"
+    "2026-11-28:12:30": "1575539765:56907337811",
+    "2026-11-28:12:40": "1366045948:22993693932"
   },
-  "cursor": 12
+  "cursor": 13
 }

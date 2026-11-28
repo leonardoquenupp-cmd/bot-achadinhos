@@ -18021,6 +18021,30 @@
         "affiliateLink": "https://s.shopee.com.br/6L6JdjbGOA"
       },
       "messageId": 951
+    },
+    "1234991453:58262387784": {
+      "status": "pending",
+      "slot": "2026-11-28:11:50",
+      "at": "2026-11-28T14:51:50.732Z",
+      "fingerprint": [
+        "tenis",
+        "o2x",
+        "feminino",
+        "esportivo",
+        "confortavel",
+        "leve",
+        "treino",
+        "caminhada",
+        "fitness"
+      ],
+      "imageIdentity": "/file/br-11134207-820mc-mo0j5ap2qi2p7f",
+      "family": "calcados",
+      "department": "moda",
+      "topic": "tenis",
+      "receipt": {
+        "captionHash": "fd060f4ca6f3b14d08ebd096594b428a977567c2ce6b55f48ab96970b1f8d3df",
+        "affiliateLink": "https://s.shopee.com.br/60TT6rcZBo"
+      }
     }
   },
   "slots": {
@@ -18800,7 +18824,8 @@
     "2026-11-28:11:10": "964744288:58206023533",
     "2026-11-28:11:20": "332752392:23693851064",
     "2026-11-28:11:30": "392802719:21409347046",
-    "2026-11-28:11:40": "1331886707:19198316357"
+    "2026-11-28:11:40": "1331886707:19198316357",
+    "2026-11-28:11:50": "1234991453:58262387784"
   },
-  "cursor": 6
+  "cursor": 7
 }

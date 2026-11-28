@@ -17786,6 +17786,31 @@
         "affiliateLink": "https://s.shopee.com.br/4Vefipnr2j"
       },
       "messageId": 942
+    },
+    "1442187656:58251395638": {
+      "status": "pending",
+      "slot": "2026-11-28:10:20",
+      "at": "2026-11-28T13:21:43.417Z",
+      "fingerprint": [
+        "bomba",
+        "oxigenio",
+        "compressor",
+        "filtro",
+        "usb",
+        "portatil",
+        "aquario",
+        "peixes",
+        "12v",
+        "silencioso"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mdm0evm0kclt18",
+      "family": "bomba-oxigenio",
+      "department": "outros",
+      "topic": "carro",
+      "receipt": {
+        "captionHash": "cc0007111c3b0a784df35b62c5ee0db2f0254fb7fa2033735cef38d2635ad1bc",
+        "affiliateLink": "https://s.shopee.com.br/6q2aHkb8Nv"
+      }
     }
   },
   "slots": {
@@ -18556,7 +18581,8 @@
     "2026-11-28:09:30": "1709468100:58254977142",
     "2026-11-28:09:40": "612187100:22191819447",
     "2026-11-28:09:50": "1566977006:23399193375",
-    "2026-11-28:10:10": "1226387431:58257985989"
+    "2026-11-28:10:10": "1226387431:58257985989",
+    "2026-11-28:10:20": "1442187656:58251395638"
   },
-  "cursor": 8
+  "cursor": 9
 }

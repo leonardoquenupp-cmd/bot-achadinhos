@@ -17417,9 +17417,9 @@
       "messageId": 928
     },
     "1545872929:22394896507": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:22:15",
-      "at": "2026-11-28T01:16:05.466Z",
+      "at": "2026-11-28T01:16:07.541Z",
       "fingerprint": [
         "fabricante",
         "iogurte",
@@ -17442,7 +17442,8 @@
       "receipt": {
         "captionHash": "e1a78199253048a72b4d7ee8c0aac79ce4296fcc2ea752fc1de7820e63306d22",
         "affiliateLink": "https://s.shopee.com.br/40iP8xPZMd"
-      }
+      },
+      "messageId": 929
     }
   },
   "slots": {

@@ -18069,6 +18069,27 @@
         "affiliateLink": "https://s.shopee.com.br/1BODfYfOrg"
       },
       "messageId": 953
+    },
+    "465623800:18498287249": {
+      "status": "pending",
+      "slot": "2026-11-28:12:10",
+      "at": "2026-11-28T15:12:14.125Z",
+      "fingerprint": [
+        "tampas",
+        "panela",
+        "silicone",
+        "universal",
+        "reutilizavel",
+        "elastica"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-mazkrlpqx573af",
+      "family": "panelas",
+      "department": "cozinha",
+      "topic": "casa",
+      "receipt": {
+        "captionHash": "5aaed8669ae8bfb447e6bf9d1688e35b11377f3af172a4d14e2bdcbb6a3a2574",
+        "affiliateLink": "https://s.shopee.com.br/40iPMMSfSE"
+      }
     }
   },
   "slots": {
@@ -18850,7 +18871,8 @@
     "2026-11-28:11:30": "392802719:21409347046",
     "2026-11-28:11:40": "1331886707:19198316357",
     "2026-11-28:11:50": "1234991453:58262387784",
-    "2026-11-28:12:00": "1501374495:18499695542"
+    "2026-11-28:12:00": "1501374495:18499695542",
+    "2026-11-28:12:10": "465623800:18498287249"
   },
-  "cursor": 8
+  "cursor": 10
 }

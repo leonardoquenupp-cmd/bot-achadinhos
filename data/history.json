@@ -17651,6 +17651,33 @@
         "affiliateLink": "https://s.shopee.com.br/1gKTuq0lyM"
       },
       "messageId": 937
+    },
+    "400262096:19698719773": {
+      "status": "pending",
+      "slot": "2026-11-28:09:20",
+      "at": "2026-11-28T12:21:50.676Z",
+      "fingerprint": [
+        "necessaire",
+        "bolsa",
+        "maquiagem",
+        "couro",
+        "armazenamento",
+        "cosmeticos",
+        "saco",
+        "viagem",
+        "organizador",
+        "bagagem",
+        "beleza",
+        "yobel"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rdx7-lzqwk9yllpreef",
+      "family": "acessorios",
+      "department": "moda",
+      "topic": "casa",
+      "receipt": {
+        "captionHash": "3c4b08edc518ebe554e323eecc2854bd7fe2a3c28c9e7f26726ac9a5f21dc995",
+        "affiliateLink": "https://s.shopee.com.br/6fj9v8j6jt"
+      }
     }
   },
   "slots": {
@@ -18416,7 +18443,8 @@
     "2026-11-28:08:25": "1100513151:19797691177",
     "2026-11-28:08:40": "962458284:58207817776",
     "2026-11-28:08:50": "1658183207:58262231858",
-    "2026-11-28:09:10": "437927074:22792672308"
+    "2026-11-28:09:10": "437927074:22792672308",
+    "2026-11-28:09:20": "400262096:19698719773"
   },
-  "cursor": 15
+  "cursor": 17
 }

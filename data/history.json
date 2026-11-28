@@ -17835,6 +17835,31 @@
         "affiliateLink": "https://s.shopee.com.br/6VPkHoMzKP"
       },
       "messageId": 944
+    },
+    "455758103:23298142175": {
+      "status": "pending",
+      "slot": "2026-11-28:10:40",
+      "at": "2026-11-28T13:41:56.768Z",
+      "fingerprint": [
+        "calca",
+        "jeans",
+        "feminina",
+        "wide",
+        "leg",
+        "pantalona",
+        "grafite",
+        "marmorizada",
+        "cintura",
+        "alta"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-mrmcbc9uji1068",
+      "family": "roupas",
+      "department": "moda",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "d5fa878a8560d42bc1e41949ae8d26427575494d40cb171da832320e65d669d2",
+        "affiliateLink": "https://s.shopee.com.br/5AuM5GnRrr"
+      }
     }
   },
   "slots": {
@@ -18607,7 +18632,8 @@
     "2026-11-28:09:50": "1566977006:23399193375",
     "2026-11-28:10:10": "1226387431:58257985989",
     "2026-11-28:10:20": "1442187656:58251395638",
-    "2026-11-28:10:30": "1399363201:58202799294"
+    "2026-11-28:10:30": "1399363201:58202799294",
+    "2026-11-28:10:40": "455758103:23298142175"
   },
-  "cursor": 10
+  "cursor": 13
 }

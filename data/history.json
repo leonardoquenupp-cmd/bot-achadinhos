@@ -18302,6 +18302,31 @@
         "affiliateLink": "https://s.shopee.com.br/4B1sEoScfK"
       },
       "messageId": 962
+    },
+    "569114904:22895594531": {
+      "status": "pending",
+      "slot": "2026-11-28:13:50",
+      "at": "2026-11-28T16:51:19.572Z",
+      "fingerprint": [
+        "amplificador",
+        "imagem",
+        "tela",
+        "telefone",
+        "celular",
+        "ultra",
+        "clara",
+        "luz",
+        "anti",
+        "azul"
+      ],
+      "imageIdentity": "/file/sg-11134201-8258t-mvr1n2zq7imi84",
+      "family": "fone",
+      "department": "eletronicos",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "77f333f7f3a80322c52518761faa07458d9dd679a663220dd2e8d92ba2bdd692",
+        "affiliateLink": "https://s.shopee.com.br/1qduXvy0ST"
+      }
     }
   },
   "slots": {
@@ -19092,7 +19117,8 @@
     "2026-11-28:13:10": "1132754268:23195153059",
     "2026-11-28:13:20": "1085770008:47016145290",
     "2026-11-28:13:30": "811879342:22197514607",
-    "2026-11-28:13:40": "612187100:13985796476"
+    "2026-11-28:13:40": "612187100:13985796476",
+    "2026-11-28:13:50": "569114904:22895594531"
   },
-  "cursor": 6
+  "cursor": 8
 }

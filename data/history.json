@@ -17861,6 +17861,27 @@
         "affiliateLink": "https://s.shopee.com.br/5AuM5GnRrr"
       },
       "messageId": 945
+    },
+    "1385382926:22898921797": {
+      "status": "pending",
+      "slot": "2026-11-28:10:50",
+      "at": "2026-11-28T13:51:09.145Z",
+      "fingerprint": [
+        "tenis",
+        "urbano",
+        "masculino",
+        "branco",
+        "skate",
+        "macio"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-meuwgzuhrz7n9d",
+      "family": "calcados",
+      "department": "moda",
+      "topic": "tenis",
+      "receipt": {
+        "captionHash": "745891163fc6e0600f4a343f867d00bd03bec232344a8ce1d8d1081e98ad1f17",
+        "affiliateLink": "https://s.shopee.com.br/8KrOGov6qU"
+      }
     }
   },
   "slots": {
@@ -18634,7 +18655,8 @@
     "2026-11-28:10:10": "1226387431:58257985989",
     "2026-11-28:10:20": "1442187656:58251395638",
     "2026-11-28:10:30": "1399363201:58202799294",
-    "2026-11-28:10:40": "455758103:23298142175"
+    "2026-11-28:10:40": "455758103:23298142175",
+    "2026-11-28:10:50": "1385382926:22898921797"
   },
-  "cursor": 13
+  "cursor": 15
 }

@@ -18229,6 +18229,29 @@
         "affiliateLink": "https://s.shopee.com.br/1BOE9RNih6"
       },
       "messageId": 959
+    },
+    "1085770008:47016145290": {
+      "status": "pending",
+      "slot": "2026-11-28:13:20",
+      "at": "2026-11-28T16:21:45.432Z",
+      "fingerprint": [
+        "conjunto",
+        "fitness",
+        "academia",
+        "bicolor",
+        "zero",
+        "transparencia",
+        "top",
+        "short"
+      ],
+      "imageIdentity": "/file/br-11134207-820m2-mtylluom9ds081",
+      "family": "esporte",
+      "department": "esporte",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "ad794e25a56a297e156c49b1af85a4ed8d924f310e1c8dc363998772a29f425e",
+        "affiliateLink": "https://s.shopee.com.br/1BODopGKVl"
+      }
     }
   },
   "slots": {
@@ -19016,7 +19039,8 @@
     "2026-11-28:12:40": "1366045948:22993693932",
     "2026-11-28:12:50": "1200916876:52563141000",
     "2026-11-28:13:00": "1535859203:53064516146",
-    "2026-11-28:13:10": "1132754268:23195153059"
+    "2026-11-28:13:10": "1132754268:23195153059",
+    "2026-11-28:13:20": "1085770008:47016145290"
   },
-  "cursor": 0
+  "cursor": 2
 }

@@ -17765,9 +17765,9 @@
       "messageId": 941
     },
     "1226387431:58257985989": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:10:10",
-      "at": "2026-11-28T13:11:16.786Z",
+      "at": "2026-11-28T13:11:19.371Z",
       "fingerprint": [
         "suporte",
         "ventosa",
@@ -17784,7 +17784,8 @@
       "receipt": {
         "captionHash": "463bd6d3305d4e063bfe40ec03112aca12fdb6042bb7df341350abf43e8c2e59",
         "affiliateLink": "https://s.shopee.com.br/4Vefipnr2j"
-      }
+      },
+      "messageId": 942
     }
   },
   "slots": {

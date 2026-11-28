@@ -18174,6 +18174,33 @@
         "affiliateLink": "https://s.shopee.com.br/60TT5rSTxV"
       },
       "messageId": 957
+    },
+    "1535859203:53064516146": {
+      "status": "pending",
+      "slot": "2026-11-28:13:00",
+      "at": "2026-11-28T16:02:35.467Z",
+      "fingerprint": [
+        "tenis",
+        "corrida",
+        "masculino",
+        "qiaodan",
+        "almofada",
+        "rocker",
+        "grossa",
+        "leve",
+        "treinamento",
+        "longa",
+        "distancia",
+        "leili"
+      ],
+      "imageIdentity": "/file/cn-11134207-820l4-mvlg06wm60w3ec",
+      "family": "calcados",
+      "department": "moda",
+      "topic": "tenis",
+      "receipt": {
+        "captionHash": "441cb01945aa7984a274968d02197a2cdd9a3c1307cfcc0bc42353fc7b260fe7",
+        "affiliateLink": "https://s.shopee.com.br/W8X1bIrrh"
+      }
     }
   },
   "slots": {
@@ -18959,7 +18986,8 @@
     "2026-11-28:12:10": "465623800:18498287249",
     "2026-11-28:12:30": "1575539765:56907337811",
     "2026-11-28:12:40": "1366045948:22993693932",
-    "2026-11-28:12:50": "1200916876:52563141000"
+    "2026-11-28:12:50": "1200916876:52563141000",
+    "2026-11-28:13:00": "1535859203:53064516146"
   },
-  "cursor": 14
+  "cursor": 17
 }

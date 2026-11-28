@@ -18280,9 +18280,9 @@
       "messageId": 961
     },
     "612187100:13985796476": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:13:40",
-      "at": "2026-11-28T16:41:47.044Z",
+      "at": "2026-11-28T16:41:49.278Z",
       "fingerprint": [
         "colete",
         "respiravel",
@@ -18300,7 +18300,8 @@
       "receipt": {
         "captionHash": "3985c1f30f92f60e390d1309c648d615f3d6b4f0f40bf465c8d25077ef94508a",
         "affiliateLink": "https://s.shopee.com.br/4B1sEoScfK"
-      }
+      },
+      "messageId": 962
     }
   },
   "slots": {

@@ -17627,6 +17627,29 @@
         "affiliateLink": "https://s.shopee.com.br/5AuM6LDEys"
       },
       "messageId": 936
+    },
+    "437927074:22792672308": {
+      "status": "pending",
+      "slot": "2026-11-28:09:10",
+      "at": "2026-11-28T12:11:16.264Z",
+      "fingerprint": [
+        "short",
+        "alfaiataria",
+        "feminino",
+        "zara",
+        "cintura",
+        "alta",
+        "ziper",
+        "lateral"
+      ],
+      "imageIdentity": "/file/br-11134207-7r98o-lotewsv278he3f",
+      "family": "short-alfaiataria",
+      "department": "outros",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "2688c1adea51e8e57f2731772d666b66bb4b884d7093bf4da1b40bd73d492ee6",
+        "affiliateLink": "https://s.shopee.com.br/1gKTuq0lyM"
+      }
     }
   },
   "slots": {
@@ -18391,7 +18414,8 @@
     "2026-11-28:08:15": "287296555:6643192352",
     "2026-11-28:08:25": "1100513151:19797691177",
     "2026-11-28:08:40": "962458284:58207817776",
-    "2026-11-28:08:50": "1658183207:58262231858"
+    "2026-11-28:08:50": "1658183207:58262231858",
+    "2026-11-28:09:10": "437927074:22792672308"
   },
-  "cursor": 13
+  "cursor": 15
 }

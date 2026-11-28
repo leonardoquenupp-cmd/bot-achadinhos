@@ -17415,6 +17415,34 @@
         "affiliateLink": "https://s.shopee.com.br/5qA4r4dBEb"
       },
       "messageId": 928
+    },
+    "1545872929:22394896507": {
+      "status": "pending",
+      "slot": "2026-11-27:22:15",
+      "at": "2026-11-28T01:16:05.466Z",
+      "fingerprint": [
+        "fabricante",
+        "iogurte",
+        "compacto",
+        "maquina",
+        "fazer",
+        "grego",
+        "faca",
+        "voce",
+        "mesmo",
+        "caseiro",
+        "casa",
+        "organico",
+        "queijo",
+        "plug"
+      ],
+      "imageIdentity": "/file/sg-11134201-825zn-mlkoyv8t4hsfc5",
+      "family": "utensilios",
+      "department": "cozinha",
+      "receipt": {
+        "captionHash": "e1a78199253048a72b4d7ee8c0aac79ce4296fcc2ea752fc1de7820e63306d22",
+        "affiliateLink": "https://s.shopee.com.br/40iP8xPZMd"
+      }
     }
   },
   "slots": {
@@ -18171,7 +18199,8 @@
     "2026-11-27:21:15": "1553736756:22799869594",
     "2026-11-27:21:30": "293152127:45054396139",
     "2026-11-27:21:45": "1563592977:22998720168",
-    "2026-11-27:22:00": "1526006060:58202097018"
+    "2026-11-27:22:00": "1526006060:58202097018",
+    "2026-11-27:22:15": "1545872929:22394896507"
   },
-  "cursor": 2
+  "cursor": 3
 }

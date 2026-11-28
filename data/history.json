@@ -17362,6 +17362,28 @@
         "affiliateLink": "https://s.shopee.com.br/7AfQaAEr6H"
       },
       "messageId": 926
+    },
+    "1563592977:22998720168": {
+      "status": "pending",
+      "slot": "2026-11-27:21:45",
+      "at": "2026-11-28T00:46:27.869Z",
+      "fingerprint": [
+        "body",
+        "splash",
+        "lilli",
+        "gliter",
+        "200ml",
+        "hidratante",
+        "corporal",
+        "inspiracao"
+      ],
+      "imageIdentity": "/file/br-11134207-820l4-mtqqf32ugr9d0e",
+      "family": "beleza",
+      "department": "beleza",
+      "receipt": {
+        "captionHash": "142634993fb54ef93a7a381fa0c86d897d6197e9c050fd30ba7eaf24edf46da8",
+        "affiliateLink": "https://s.shopee.com.br/9AQVGNDsNm"
+      }
     }
   },
   "slots": {
@@ -18116,7 +18138,8 @@
     "2026-11-27:20:45": "1494995608:19899648802",
     "2026-11-27:21:00": "378093609:16973658540",
     "2026-11-27:21:15": "1553736756:22799869594",
-    "2026-11-27:21:30": "293152127:45054396139"
+    "2026-11-27:21:30": "293152127:45054396139",
+    "2026-11-27:21:45": "1563592977:22998720168"
   },
-  "cursor": 0
+  "cursor": 1
 }

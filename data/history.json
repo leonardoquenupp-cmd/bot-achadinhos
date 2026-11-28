@@ -18255,9 +18255,9 @@
       "messageId": 960
     },
     "811879342:22197514607": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:13:30",
-      "at": "2026-11-28T16:32:04.887Z",
+      "at": "2026-11-28T16:32:08.028Z",
       "fingerprint": [
         "ventilador",
         "mesa",
@@ -18276,7 +18276,8 @@
       "receipt": {
         "captionHash": "4d5f046090c7675b656d6e26567b85a91f02631a7efe1a24edb980751e00dbd2",
         "affiliateLink": "https://s.shopee.com.br/2gD1SJZgop"
-      }
+      },
+      "messageId": 961
     }
   },
   "slots": {

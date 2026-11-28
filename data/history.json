@@ -17597,6 +17597,35 @@
         "affiliateLink": "https://s.shopee.com.br/5LDmQqRrld"
       },
       "messageId": 935
+    },
+    "1658183207:58262231858": {
+      "status": "pending",
+      "slot": "2026-11-28:08:50",
+      "at": "2026-11-28T11:51:37.051Z",
+      "fingerprint": [
+        "caixa",
+        "som",
+        "bluetooth",
+        "basike",
+        "boombox",
+        "200w",
+        "18000mah",
+        "ipx6",
+        "prova",
+        "agua",
+        "rgb",
+        "tws",
+        "graves",
+        "potentes"
+      ],
+      "imageIdentity": "/file/br-11134207-820lc-mpak19fy8q2pb1",
+      "family": "potes",
+      "department": "cozinha",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "1cc522f147b6ab15493e2ca1b49192b7395f17c4d5a7239a15683062d3f721f0",
+        "affiliateLink": "https://s.shopee.com.br/5AuM6LDEys"
+      }
     }
   },
   "slots": {
@@ -18360,7 +18389,8 @@
     "2026-11-28:08:00": "1156890312:26637893463",
     "2026-11-28:08:15": "287296555:6643192352",
     "2026-11-28:08:25": "1100513151:19797691177",
-    "2026-11-28:08:40": "962458284:58207817776"
+    "2026-11-28:08:40": "962458284:58207817776",
+    "2026-11-28:08:50": "1658183207:58262231858"
   },
-  "cursor": 11
+  "cursor": 13
 }

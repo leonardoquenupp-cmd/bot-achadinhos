@@ -18145,6 +18145,34 @@
         "affiliateLink": "https://s.shopee.com.br/7AfRLWcr7L"
       },
       "messageId": 956
+    },
+    "1200916876:52563141000": {
+      "status": "pending",
+      "slot": "2026-11-28:12:50",
+      "at": "2026-11-28T15:51:20.751Z",
+      "fingerprint": [
+        "carplay",
+        "adaptador",
+        "sem",
+        "fio",
+        "car",
+        "play",
+        "android",
+        "auto",
+        "usb",
+        "wireless",
+        "automatico",
+        "2026",
+        "densen"
+      ],
+      "imageIdentity": "/file/sg-11134201-825a9-mq79f4thukg252",
+      "family": "carplay-adaptador",
+      "department": "outros",
+      "topic": "carro",
+      "receipt": {
+        "captionHash": "83dde27b8ebcbb3dec48525d076ddb5df4c13f6e2ec33e7c4b2026327f37fe80",
+        "affiliateLink": "https://s.shopee.com.br/60TT5rSTxV"
+      }
     }
   },
   "slots": {
@@ -18929,7 +18957,8 @@
     "2026-11-28:12:00": "1501374495:18499695542",
     "2026-11-28:12:10": "465623800:18498287249",
     "2026-11-28:12:30": "1575539765:56907337811",
-    "2026-11-28:12:40": "1366045948:22993693932"
+    "2026-11-28:12:40": "1366045948:22993693932",
+    "2026-11-28:12:50": "1200916876:52563141000"
   },
-  "cursor": 13
+  "cursor": 14
 }

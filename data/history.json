@@ -18046,6 +18046,28 @@
         "affiliateLink": "https://s.shopee.com.br/60TT6rcZBo"
       },
       "messageId": 952
+    },
+    "1501374495:18499695542": {
+      "status": "pending",
+      "slot": "2026-11-28:12:00",
+      "at": "2026-11-28T15:01:48.513Z",
+      "fingerprint": [
+        "mini",
+        "aspirador",
+        "vacuo",
+        "usb",
+        "portatil",
+        "recarregavel",
+        "se8010"
+      ],
+      "imageIdentity": "/file/sg-11134201-7renx-m8c8ne7qdez9a8",
+      "family": "mini-aspirador",
+      "department": "outros",
+      "topic": "casa",
+      "receipt": {
+        "captionHash": "e25efcbd6a3fd7041ea2ca1b3b155fe1e6426cf52743cae625b91ef574fcd6a8",
+        "affiliateLink": "https://s.shopee.com.br/1BODfYfOrg"
+      }
     }
   },
   "slots": {
@@ -18826,7 +18848,8 @@
     "2026-11-28:11:20": "332752392:23693851064",
     "2026-11-28:11:30": "392802719:21409347046",
     "2026-11-28:11:40": "1331886707:19198316357",
-    "2026-11-28:11:50": "1234991453:58262387784"
+    "2026-11-28:11:50": "1234991453:58262387784",
+    "2026-11-28:12:00": "1501374495:18499695542"
   },
-  "cursor": 7
+  "cursor": 8
 }

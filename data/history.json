@@ -17548,6 +17548,29 @@
         "affiliateLink": "https://s.shopee.com.br/3g5bVJlqmY"
       },
       "messageId": 933
+    },
+    "1100513151:19797691177": {
+      "status": "pending",
+      "slot": "2026-11-28:08:25",
+      "at": "2026-11-28T11:27:11.350Z",
+      "fingerprint": [
+        "bota",
+        "adventure",
+        "coturno",
+        "militar",
+        "motoqueiro",
+        "casual",
+        "sola",
+        "blaqueada",
+        "confortavel"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-meikljbuklj5bd",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "6098d930e24fe4c1fb323f77b24659dbe9ab858e26ee95af3636176ecc125648",
+        "affiliateLink": "https://s.shopee.com.br/3g5bW0PfUv"
+      }
     }
   },
   "slots": {
@@ -18309,7 +18332,8 @@
     "2026-11-27:22:30": "1073417513:58200724334",
     "2026-11-27:22:45": "629805123:22099046331",
     "2026-11-28:08:00": "1156890312:26637893463",
-    "2026-11-28:08:15": "287296555:6643192352"
+    "2026-11-28:08:15": "287296555:6643192352",
+    "2026-11-28:08:25": "1100513151:19797691177"
   },
-  "cursor": 8
+  "cursor": 9
 }

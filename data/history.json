@@ -17709,9 +17709,9 @@
       "messageId": 939
     },
     "612187100:22191819447": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:09:40",
-      "at": "2026-11-28T12:42:29.134Z",
+      "at": "2026-11-28T12:42:31.739Z",
       "fingerprint": [
         "roupas",
         "animais",
@@ -17731,7 +17731,8 @@
       "receipt": {
         "captionHash": "9b7891e980d0cd96f4873cf8e2d13ce0bbba323d56d2ea0ee1523487cdbae771",
         "affiliateLink": "https://s.shopee.com.br/2qWRQBnQIb"
-      }
+      },
+      "messageId": 940
     }
   },
   "slots": {

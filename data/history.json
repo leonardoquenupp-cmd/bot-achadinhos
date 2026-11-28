@@ -17972,9 +17972,9 @@
       "messageId": 949
     },
     "392802719:21409347046": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:11:30",
-      "at": "2026-11-28T14:32:35.702Z",
+      "at": "2026-11-28T14:32:37.960Z",
       "fingerprint": [
         "toucas",
         "nero",
@@ -17993,7 +17993,8 @@
       "receipt": {
         "captionHash": "10f323f6b5c563248b3f03034ff8a62febc76d2cf2af4e50236a389ee3c20e59",
         "affiliateLink": "https://s.shopee.com.br/5AuMDVwGxj"
-      }
+      },
+      "messageId": 950
     }
   },
   "slots": {

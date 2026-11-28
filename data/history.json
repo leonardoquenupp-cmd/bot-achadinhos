@@ -17707,6 +17707,31 @@
         "affiliateLink": "https://s.shopee.com.br/6VPjlvBhTv"
       },
       "messageId": 939
+    },
+    "612187100:22191819447": {
+      "status": "pending",
+      "slot": "2026-11-28:09:40",
+      "at": "2026-11-28T12:42:29.134Z",
+      "fingerprint": [
+        "roupas",
+        "animais",
+        "estimacao",
+        "cat",
+        "dog",
+        "verao",
+        "algodao",
+        "primavera",
+        "colete",
+        "respiravel"
+      ],
+      "imageIdentity": "/file/cn-11134207-7qukw-lj2yaa0f0mt6a1",
+      "family": "roupas-animais",
+      "department": "outros",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "9b7891e980d0cd96f4873cf8e2d13ce0bbba323d56d2ea0ee1523487cdbae771",
+        "affiliateLink": "https://s.shopee.com.br/2qWRQBnQIb"
+      }
     }
   },
   "slots": {
@@ -18474,7 +18499,8 @@
     "2026-11-28:08:50": "1658183207:58262231858",
     "2026-11-28:09:10": "437927074:22792672308",
     "2026-11-28:09:20": "400262096:19698719773",
-    "2026-11-28:09:30": "1709468100:58254977142"
+    "2026-11-28:09:30": "1709468100:58254977142",
+    "2026-11-28:09:40": "612187100:22191819447"
   },
-  "cursor": 0
+  "cursor": 3
 }

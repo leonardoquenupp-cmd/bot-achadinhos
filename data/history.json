@@ -18023,9 +18023,9 @@
       "messageId": 951
     },
     "1234991453:58262387784": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:11:50",
-      "at": "2026-11-28T14:51:50.732Z",
+      "at": "2026-11-28T14:51:53.420Z",
       "fingerprint": [
         "tenis",
         "o2x",
@@ -18044,7 +18044,8 @@
       "receipt": {
         "captionHash": "fd060f4ca6f3b14d08ebd096594b428a977567c2ce6b55f48ab96970b1f8d3df",
         "affiliateLink": "https://s.shopee.com.br/60TT6rcZBo"
-      }
+      },
+      "messageId": 952
     }
   },
   "slots": {

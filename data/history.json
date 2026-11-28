@@ -17812,6 +17812,28 @@
         "affiliateLink": "https://s.shopee.com.br/6q2aHkb8Nv"
       },
       "messageId": 943
+    },
+    "1399363201:58202799294": {
+      "status": "pending",
+      "slot": "2026-11-28:10:30",
+      "at": "2026-11-28T13:32:20.372Z",
+      "fingerprint": [
+        "cartoes",
+        "memoria",
+        "128gb",
+        "ultra",
+        "muito",
+        "mais",
+        "smartphone"
+      ],
+      "imageIdentity": "/file/sg-11134201-82613-mj6bwd2o85xe2e",
+      "family": "cartoes-memoria",
+      "department": "outros",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "1b2736655844a2f884af3d6ae20d54eccb8ff2cc97b2f132fcd8224f5b570fea",
+        "affiliateLink": "https://s.shopee.com.br/6VPkHoMzKP"
+      }
     }
   },
   "slots": {
@@ -18583,7 +18605,8 @@
     "2026-11-28:09:40": "612187100:22191819447",
     "2026-11-28:09:50": "1566977006:23399193375",
     "2026-11-28:10:10": "1226387431:58257985989",
-    "2026-11-28:10:20": "1442187656:58251395638"
+    "2026-11-28:10:20": "1442187656:58251395638",
+    "2026-11-28:10:30": "1399363201:58202799294"
   },
-  "cursor": 9
+  "cursor": 10
 }

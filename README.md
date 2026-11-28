@@ -85,3 +85,15 @@ Se não houver prova, a reserva continua bloqueando novos envios; os ciclos regi
 A falha inicial continua sendo notificada. Novos erros de autenticação, estado ou código
 continuam falhando normalmente. Canais privados e reservas antigas sem os dados de conferência
 precisam de revisão manual; nunca são considerados entregues por suposição.
+
+
+## Seleção de produtos (28/11/2026)
+
+`curatedSelection: true` restringe as publicações a roupas, tênis, tecnologia, casa e carro.
+Roupas e tênis recebem preferência por descrições de estilo casual, urbano, minimalista,
+alfaiataria, linho, polo, retrô e similares; isso é uma heurística textual, não avaliação
+visual de beleza nem confirmação de marca/autenticidade. Tecnologia também recebe mais
+espaço que casa e carro na rotação. O modo deixa de ordenar pelo menor preço.
+Produtos fora dos temas e exemplos de miudezas, beleza, pesca, brinquedos, bebês e pets
+são excluídos na busca e novamente antes da publicação. As regras estão em `src/curation.js`.
+Quantidade diária, horários, preços, botões, histórico e credenciais permanecem iguais.

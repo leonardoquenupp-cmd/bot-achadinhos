@@ -28,7 +28,7 @@ test('category rotation covers every configured category without publishing or c
   sources.forEach(s=>{if(s.productCatId)ids.add(s.productCatId);sorts.add(s.sortType);});
  }
  assert.equal(ids.size,c.discoveryCategoryIds.length);
- assert.deepEqual([...sorts].sort(),[2,4,5]);
+ assert.deepEqual([...sorts].sort(),c.curatedSelection?[2,5]:[2,4,5]);
 });
 test('seller title padding does not hide the same product',()=>{
  const old=record('Kit potes vidro hermeticos tampa silicone alimentos');

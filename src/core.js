@@ -11,6 +11,7 @@ export function validateConfig(c) {
   if (!Number.isInteger(c.dailyLimit) || !Number.isInteger(c.pagesPerSearch)) throw Error('invalid_config');
   if(c.discoveryPagePool!==undefined&&(!Number.isInteger(c.discoveryPagePool)||c.discoveryPagePool<c.pagesPerSearch||c.discoveryPagePool>100))throw Error('invalid_config');
   if(c.discoveryCategoryIds!==undefined&&(!Array.isArray(c.discoveryCategoryIds)||!c.discoveryCategoryIds.length||c.discoveryCategoryIds.some(id=>!Number.isSafeInteger(id)||id<1)))throw Error('invalid_config');
+  if(c.curatedSelection!==undefined&&typeof c.curatedSelection!=='boolean')throw Error('invalid_config');
   const timePattern=/^([01]\d|2[0-3]):[0-5]\d$/;
   if(c.times!==undefined && (!Array.isArray(c.times)||!c.times.length||c.times.some(t=>!timePattern.test(t))||new Set(c.times).size!==c.times.length))throw Error('invalid_times');
   if(c.postingWindow) {

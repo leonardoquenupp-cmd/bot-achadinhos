@@ -4,6 +4,7 @@ import {Shopee,Telegram} from './api.js';
 import {State,localLock} from './state.js';
 import {inlineKeyboard,similarityFingerprint} from './messages.js';
 import {captionHash} from './receipts.js';
+import {curate,editorialPenalty} from './curation.js';
 import {discoveryPages,discoverySources,duplicateOffer,repeatFamily,varietyPenalty,imageIdentity,productGroup} from './discovery.js';
 export const log=(event,details={})=>console.log(JSON.stringify({time:new Date().toISOString(),event,...details}));
 export async function execute({c,state,shopee,telegram,preview=false,now=new Date(),clock=()=>now,onLog=log}) {
@@ -40,7 +41,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     const keyword=c.keywords[(data.cursor+j)%c.keywords.length];
     for(const page of pages) {
       onLog('search_started',{category:j,page});
-      const counts={invalid:0,alreadyPublished:0,duplicate:0,recentFamily:0};
+      const counts={invalid:0,alreadyPublished:0,duplicate:0,recentFamily:0,offTopic:0};
       let nodes;
       try { nodes=await shopee.search(keyword,page);successfulSearches++; }
       catch(error) {
@@ -52,6 +53,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
       for(const n of nodes) {
         const p=normalize(n,c);
         if(!p){counts.invalid++;continue;}
+        if(!curate(p,c).allowed){counts.offTopic++;continue;}
         if(data.products[p.key]||candidates.has(p.key)){counts.alreadyPublished++;continue;}
         if(duplicateOffer(p,history)){counts.duplicate++;continue;}
         if(repeatFamily(p,recent)){counts.recentFamily++;continue;}
@@ -64,7 +66,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     if(sources&&j>=1&&candidates.size>=30)break;
   }
   if(!successfulSearches)throw Error('shopee_all_searches_failed');
-  const sorted=[...candidates.values()].sort((a,b)=>varietyPenalty(a,recent)-varietyPenalty(b,recent)||a.category-b.category||b.score-a.score);
+  const sorted=[...candidates.values()].sort((a,b)=>editorialPenalty(a,recent,c)-editorialPenalty(b,recent,c)||varietyPenalty(a,recent)-varietyPenalty(b,recent)||a.category-b.category||b.score-a.score);
   const failedSources=new Set();
   let refreshAttempts=0;
   for(const candidate of sorted) {
@@ -81,7 +83,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
       continue;
     }
     const p=fresh&&normalize(fresh,c);
-    if(!p||p.key!==candidate.key||duplicateOffer(p,history)||repeatFamily(p,recent))continue;
+    if(!p||!curate(p,c).allowed||p.key!==candidate.key||duplicateOffer(p,history)||repeatFamily(p,recent))continue;
     const text=caption(p);
     if(text.length>1024)continue;
     if(preview){onLog('preview_valid',{caption:text,image:p.image,parse_mode:'HTML',reply_markup:inlineKeyboard(p)});return;}
@@ -89,7 +91,7 @@ export async function execute({c,state,shopee,telegram,preview=false,now=new Dat
     slot=dueSlot(c,data,deliveryTime);
     if(!slot){onLog('delivery_window_or_interval_closed');return;}
     await telegram.check();
-    data.products[p.key]={status:'pending',slot,at:deliveryTime.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p),receipt:{captionHash:captionHash(text),affiliateLink:p.link}};
+    data.products[p.key]={status:'pending',slot,at:deliveryTime.toISOString(),fingerprint:similarityFingerprint(p),imageIdentity:imageIdentity(p.image),...productGroup(p),topic:curate(p,c).topic,receipt:{captionHash:captionHash(text),affiliateLink:p.link}};
     data.slots[slot]=p.key;data.cursor=(data.cursor+candidate.category+1)%c.keywords.length;
     await state.save();
     let messageId;

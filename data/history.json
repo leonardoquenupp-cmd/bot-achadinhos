@@ -17385,6 +17385,35 @@
         "affiliateLink": "https://s.shopee.com.br/9AQVGNDsNm"
       },
       "messageId": 927
+    },
+    "1526006060:58202097018": {
+      "status": "pending",
+      "slot": "2026-11-27:22:00",
+      "at": "2026-11-28T01:01:36.767Z",
+      "fingerprint": [
+        "caneta",
+        "paint",
+        "original",
+        "reparadora",
+        "pintura",
+        "automotiva",
+        "permanente",
+        "tira",
+        "riscos",
+        "carro",
+        "moto",
+        "retoque",
+        "placa",
+        "tenis",
+        "pneus"
+      ],
+      "imageIdentity": "/file/br-11134207-820lm-mqrz1wjqwnb50a",
+      "family": "calcados",
+      "department": "moda",
+      "receipt": {
+        "captionHash": "7592c5bd216933bfd8322a12cfd4643dfcbe37233db412b71f11f6960a4d78f4",
+        "affiliateLink": "https://s.shopee.com.br/5qA4r4dBEb"
+      }
     }
   },
   "slots": {
@@ -18140,7 +18169,8 @@
     "2026-11-27:21:00": "378093609:16973658540",
     "2026-11-27:21:15": "1553736756:22799869594",
     "2026-11-27:21:30": "293152127:45054396139",
-    "2026-11-27:21:45": "1563592977:22998720168"
+    "2026-11-27:21:45": "1563592977:22998720168",
+    "2026-11-27:22:00": "1526006060:58202097018"
   },
-  "cursor": 1
+  "cursor": 2
 }

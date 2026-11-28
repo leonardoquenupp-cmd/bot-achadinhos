@@ -18147,9 +18147,9 @@
       "messageId": 956
     },
     "1200916876:52563141000": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:12:50",
-      "at": "2026-11-28T15:51:20.751Z",
+      "at": "2026-11-28T15:51:23.051Z",
       "fingerprint": [
         "carplay",
         "adaptador",
@@ -18172,7 +18172,8 @@
       "receipt": {
         "captionHash": "83dde27b8ebcbb3dec48525d076ddb5df4c13f6e2ec33e7c4b2026327f37fe80",
         "affiliateLink": "https://s.shopee.com.br/60TT5rSTxV"
-      }
+      },
+      "messageId": 957
     }
   },
   "slots": {

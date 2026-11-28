@@ -17679,6 +17679,33 @@
         "affiliateLink": "https://s.shopee.com.br/6fj9v8j6jt"
       },
       "messageId": 938
+    },
+    "1709468100:58254977142": {
+      "status": "pending",
+      "slot": "2026-11-28:09:30",
+      "at": "2026-11-28T12:31:46.881Z",
+      "fingerprint": [
+        "camiseta",
+        "feminina",
+        "algodao",
+        "premium",
+        "moda",
+        "gringa",
+        "blusinha",
+        "street",
+        "fashion",
+        "slim",
+        "fit",
+        "casual"
+      ],
+      "imageIdentity": "/file/br-11134207-81ztj-mkjrao3naps256",
+      "family": "roupas",
+      "department": "moda",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "98731bca99c8fb8eaec6aac8aefe9cb938d3a4914cafd9a063861b6411ea1f49",
+        "affiliateLink": "https://s.shopee.com.br/6VPjlvBhTv"
+      }
     }
   },
   "slots": {
@@ -18445,7 +18472,8 @@
     "2026-11-28:08:40": "962458284:58207817776",
     "2026-11-28:08:50": "1658183207:58262231858",
     "2026-11-28:09:10": "437927074:22792672308",
-    "2026-11-28:09:20": "400262096:19698719773"
+    "2026-11-28:09:20": "400262096:19698719773",
+    "2026-11-28:09:30": "1709468100:58254977142"
   },
-  "cursor": 17
+  "cursor": 0
 }

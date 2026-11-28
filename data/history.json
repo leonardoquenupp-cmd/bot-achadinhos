@@ -17469,6 +17469,30 @@
         "affiliateLink": "https://s.shopee.com.br/5fqcmQ1D28"
       },
       "messageId": 930
+    },
+    "629805123:22099046331": {
+      "status": "pending",
+      "slot": "2026-11-27:22:45",
+      "at": "2026-11-28T01:46:11.999Z",
+      "fingerprint": [
+        "pecas",
+        "suporte",
+        "canto",
+        "reta",
+        "porta",
+        "shampoo",
+        "prateleira",
+        "banheiro",
+        "organizador",
+        "adesivo"
+      ],
+      "imageIdentity": "/file/br-11134207-81z1k-mfvb2gx4p34791",
+      "family": "organizacao",
+      "department": "casa",
+      "receipt": {
+        "captionHash": "7fc883426efdd7f7d00ab6a3864f29fc9cf75a06da1dc7587624dce304d86362",
+        "affiliateLink": "https://s.shopee.com.br/AAJ2hh5Bvz"
+      }
     }
   },
   "slots": {
@@ -18227,7 +18251,8 @@
     "2026-11-27:21:45": "1563592977:22998720168",
     "2026-11-27:22:00": "1526006060:58202097018",
     "2026-11-27:22:15": "1545872929:22394896507",
-    "2026-11-27:22:30": "1073417513:58200724334"
+    "2026-11-27:22:30": "1073417513:58200724334",
+    "2026-11-27:22:45": "629805123:22099046331"
   },
-  "cursor": 4
+  "cursor": 5
 }

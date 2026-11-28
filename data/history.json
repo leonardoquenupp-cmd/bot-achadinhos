@@ -18278,6 +18278,29 @@
         "affiliateLink": "https://s.shopee.com.br/2gD1SJZgop"
       },
       "messageId": 961
+    },
+    "612187100:13985796476": {
+      "status": "pending",
+      "slot": "2026-11-28:13:40",
+      "at": "2026-11-28T16:41:47.044Z",
+      "fingerprint": [
+        "colete",
+        "respiravel",
+        "desenho",
+        "coelho",
+        "cachorros",
+        "gatos",
+        "animais",
+        "estimacao"
+      ],
+      "imageIdentity": "/file/1d52b17c3d880c9c257d8d2f04f9035e",
+      "family": "pets",
+      "department": "pets",
+      "topic": "roupas",
+      "receipt": {
+        "captionHash": "3985c1f30f92f60e390d1309c648d615f3d6b4f0f40bf465c8d25077ef94508a",
+        "affiliateLink": "https://s.shopee.com.br/4B1sEoScfK"
+      }
     }
   },
   "slots": {
@@ -19067,7 +19090,8 @@
     "2026-11-28:13:00": "1535859203:53064516146",
     "2026-11-28:13:10": "1132754268:23195153059",
     "2026-11-28:13:20": "1085770008:47016145290",
-    "2026-11-28:13:30": "811879342:22197514607"
+    "2026-11-28:13:30": "811879342:22197514607",
+    "2026-11-28:13:40": "612187100:13985796476"
   },
-  "cursor": 4
+  "cursor": 6
 }

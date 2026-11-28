@@ -17524,9 +17524,9 @@
       "messageId": 932
     },
     "287296555:6643192352": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:08:15",
-      "at": "2026-11-28T11:16:10.161Z",
+      "at": "2026-11-28T11:16:12.187Z",
       "fingerprint": [
         "caixinha",
         "som",
@@ -17546,7 +17546,8 @@
       "receipt": {
         "captionHash": "fcb44f9761a1ecbd4bd420cc6087b86e56ff8693da8af4e28a2235c6b15e7581",
         "affiliateLink": "https://s.shopee.com.br/3g5bVJlqmY"
-      }
+      },
+      "messageId": 933
     }
   },
   "slots": {

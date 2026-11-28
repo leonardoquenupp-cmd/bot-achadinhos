@@ -18048,9 +18048,9 @@
       "messageId": 952
     },
     "1501374495:18499695542": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:12:00",
-      "at": "2026-11-28T15:01:48.513Z",
+      "at": "2026-11-28T15:01:50.693Z",
       "fingerprint": [
         "mini",
         "aspirador",
@@ -18067,7 +18067,8 @@
       "receipt": {
         "captionHash": "e25efcbd6a3fd7041ea2ca1b3b155fe1e6426cf52743cae625b91ef574fcd6a8",
         "affiliateLink": "https://s.shopee.com.br/1BODfYfOrg"
-      }
+      },
+      "messageId": 953
     }
   },
   "slots": {

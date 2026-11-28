@@ -17550,9 +17550,9 @@
       "messageId": 933
     },
     "1100513151:19797691177": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:08:25",
-      "at": "2026-11-28T11:27:11.350Z",
+      "at": "2026-11-28T11:27:14.053Z",
       "fingerprint": [
         "bota",
         "adventure",
@@ -17570,7 +17570,8 @@
       "receipt": {
         "captionHash": "6098d930e24fe4c1fb323f77b24659dbe9ab858e26ee95af3636176ecc125648",
         "affiliateLink": "https://s.shopee.com.br/3g5bW0PfUv"
-      }
+      },
+      "messageId": 934
     }
   },
   "slots": {

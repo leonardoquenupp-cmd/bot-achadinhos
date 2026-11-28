@@ -17286,6 +17286,32 @@
         "affiliateLink": "https://s.shopee.com.br/3Vm8RrEW0G"
       },
       "messageId": 923
+    },
+    "378093609:16973658540": {
+      "status": "pending",
+      "slot": "2026-11-27:21:00",
+      "at": "2026-11-28T00:01:52.435Z",
+      "fingerprint": [
+        "irrigador",
+        "dental",
+        "eletrico",
+        "oral",
+        "portatil",
+        "recarregavel",
+        "usb",
+        "220ml",
+        "limpeza",
+        "familia",
+        "viagem",
+        "misuli"
+      ],
+      "imageIdentity": "/file/br-11134207-820m5-mls509e1tamce8",
+      "family": "irrigador-dental",
+      "department": "outros",
+      "receipt": {
+        "captionHash": "fd7f33d7d8e5fb68e8c8f47b5103723f2b61311c120769eb939e8a28f2b31653",
+        "affiliateLink": "https://s.shopee.com.br/5AuNiDgB7R"
+      }
     }
   },
   "slots": {
@@ -18037,7 +18063,8 @@
     "2026-11-27:20:00": "1780938074:58271294263",
     "2026-11-27:20:15": "1584860755:23498724368",
     "2026-11-27:20:30": "945809331:23899302057",
-    "2026-11-27:20:45": "1494995608:19899648802"
+    "2026-11-27:20:45": "1494995608:19899648802",
+    "2026-11-27:21:00": "378093609:16973658540"
   },
-  "cursor": 12
+  "cursor": 14
 }

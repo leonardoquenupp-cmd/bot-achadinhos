@@ -18253,6 +18253,30 @@
         "affiliateLink": "https://s.shopee.com.br/1BODopGKVl"
       },
       "messageId": 960
+    },
+    "811879342:22197514607": {
+      "status": "pending",
+      "slot": "2026-11-28:13:30",
+      "at": "2026-11-28T16:32:04.887Z",
+      "fingerprint": [
+        "ventilador",
+        "mesa",
+        "prime",
+        "air",
+        "maxx",
+        "force",
+        "pas",
+        "60w",
+        "avte01"
+      ],
+      "imageIdentity": "/file/sg-11134201-825a4-mudirk0nhngna6",
+      "family": "ventilador-mesa",
+      "department": "outros",
+      "topic": "casa",
+      "receipt": {
+        "captionHash": "4d5f046090c7675b656d6e26567b85a91f02631a7efe1a24edb980751e00dbd2",
+        "affiliateLink": "https://s.shopee.com.br/2gD1SJZgop"
+      }
     }
   },
   "slots": {
@@ -19041,7 +19065,8 @@
     "2026-11-28:12:50": "1200916876:52563141000",
     "2026-11-28:13:00": "1535859203:53064516146",
     "2026-11-28:13:10": "1132754268:23195153059",
-    "2026-11-28:13:20": "1085770008:47016145290"
+    "2026-11-28:13:20": "1085770008:47016145290",
+    "2026-11-28:13:30": "811879342:22197514607"
   },
-  "cursor": 2
+  "cursor": 4
 }

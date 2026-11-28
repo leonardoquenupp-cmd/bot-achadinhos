@@ -17288,9 +17288,9 @@
       "messageId": 923
     },
     "378093609:16973658540": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-27:21:00",
-      "at": "2026-11-28T00:01:52.435Z",
+      "at": "2026-11-28T00:01:55.300Z",
       "fingerprint": [
         "irrigador",
         "dental",
@@ -17311,7 +17311,8 @@
       "receipt": {
         "captionHash": "fd7f33d7d8e5fb68e8c8f47b5103723f2b61311c120769eb939e8a28f2b31653",
         "affiliateLink": "https://s.shopee.com.br/5AuNiDgB7R"
-      }
+      },
+      "messageId": 924
     }
   },
   "slots": {

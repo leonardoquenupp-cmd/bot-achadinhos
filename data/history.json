@@ -17788,9 +17788,9 @@
       "messageId": 942
     },
     "1442187656:58251395638": {
-      "status": "pending",
+      "status": "sent",
       "slot": "2026-11-28:10:20",
-      "at": "2026-11-28T13:21:43.417Z",
+      "at": "2026-11-28T13:21:46.189Z",
       "fingerprint": [
         "bomba",
         "oxigenio",
@@ -17810,7 +17810,8 @@
       "receipt": {
         "captionHash": "cc0007111c3b0a784df35b62c5ee0db2f0254fb7fa2033735cef38d2635ad1bc",
         "affiliateLink": "https://s.shopee.com.br/6q2aHkb8Nv"
-      }
+      },
+      "messageId": 943
     }
   },
   "slots": {

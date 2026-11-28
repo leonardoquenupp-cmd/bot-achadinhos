@@ -17883,6 +17883,34 @@
         "affiliateLink": "https://s.shopee.com.br/8KrOGov6qU"
       },
       "messageId": 946
+    },
+    "987393610:23098440348": {
+      "status": "pending",
+      "slot": "2026-11-28:11:00",
+      "at": "2026-11-28T14:01:49.606Z",
+      "fingerprint": [
+        "k12",
+        "caixa",
+        "som",
+        "sem",
+        "fio",
+        "microfone",
+        "karaoke",
+        "mini",
+        "alto",
+        "falante",
+        "bluetooth",
+        "portatil",
+        "mic"
+      ],
+      "imageIdentity": "/file/sg-11134201-7rff1-m96a3707agyh54",
+      "family": "fone",
+      "department": "eletronicos",
+      "topic": "tecnologia",
+      "receipt": {
+        "captionHash": "ae63c800cd83fe3956c05efd70c53245596f6f2a15a9228b25303448e0479996",
+        "affiliateLink": "https://s.shopee.com.br/gRwpC7qrw"
+      }
     }
   },
   "slots": {
@@ -18657,7 +18685,8 @@
     "2026-11-28:10:20": "1442187656:58251395638",
     "2026-11-28:10:30": "1399363201:58202799294",
     "2026-11-28:10:40": "455758103:23298142175",
-    "2026-11-28:10:50": "1385382926:22898921797"
+    "2026-11-28:10:50": "1385382926:22898921797",
+    "2026-11-28:11:00": "987393610:23098440348"
   },
-  "cursor": 15
+  "cursor": 16
 }
